@@ -1,0 +1,25 @@
+{
+    "1st Person": [
+        "Not a word is spoken as {ACTIVE} strokes my {PUSSY}.",
+        "I spread my legs as {ACTIVE} {GENTLE}ly caresses my {FAROUSAL} {PUSSY}.",
+        "I stare open mouthed at {ACTIVE}'s {FAROUSAL} {PUSSY}.",
+        "Her {PUSSY} is hot. I'm afraid, but I know that I want it right now.",
+        "I feel so sexy as my {BOOBS} swing in the open air and {LEWD} fingers stroke my {FAROUSAL} {PUSSY}.",
+        "I {MOAN} as {ACTIVE}'s fingers enter me. I've wanted this for so long... {FUCK} me... {FUCK} me so hard...",
+        "I thought I'd let {ACTIVE} {FUCK} me for a little bit... Uhhh... Mmmm... Just a little..."
+    ],
+    "2nd Person": [
+        "Not a word is spoken as {ACTIVE} strokes your {PUSSY}.",
+        "You spread your legs as {ACTIVE} {GENTLE}ly caresses your {FAROUSAL} {PUSSY}.",
+        "You stare open mouthed at {ACTIVE}'s {FAROUSAL} {PUSSY}.",
+        "Her {PUSSY} is hot. You're afraid, but you know that you want it right now.",
+        "You feel so sexy as your {BOOBS} swing in the open air and {LEWD} fingers stroke your {FAROUSAL} {PUSSY}.",
+        "You {MOAN} as {ACTIVE}'s fingers enter you. You've wanted this for so long... {FUCK} me... {FUCK} me so hard...",
+        "You thought you'd let {ACTIVE} {FUCK} you for a little bit... Uhhh... Mmmm... Just a little..."
+    ],
+    "3rd Person": [
+        "{ACTIVE} begins stroking her fingers in and out of {PRIMARY}'s soaking {FAROUSAL} {PUSSY}.",
+        "I heard soft {MOAN}s coming from nearby. I perk my ears up. It sounds like {PRIMARY}...",
+        "{PRIMARY} grabs {ACTIVE}'s head and pulls her between her legs."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} wants to {RAP}e my {WTANAL} {ASSHOLE} more!",
+	"The {ACTIVE} is enraged; I can do little more than {SUBMIT} and let it {RAP}e me."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} wants to {RAP}e your {WTANAL} {ASSHOLE} more!",
+	"The {ACTIVE} is enraged; you can do little more than {SUBMIT} and let it {RAP}e you."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} wants to {RAP}e {PRIMARY}'s {WTANAL} {ASSHOLE} more!",
+	"The {ACTIVE} is enraged; {PRIMARY} can do little more than {SUBMIT} and let it {RAP}e her."
+    ]
+}

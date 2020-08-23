@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} pushes me over, my face in the dirt and my {ASSHOLE} in the air as he continues to {FUCK} me hard.",
+        "My knees are pushed together as {ACTIVE} forces me into the ground. He feels so much bigger inside me now...",
+        "I try in vain to hold myself up, both hands flat on the ground, but {ACTIVE} is {FUCK}ing me too hard.",
+        "{SWEARING}, this is too much! {ACTIVE} is {FUCK}ing straight down into me, everyone will be able to see it!",
+        "{ACTIVE} is right on top of me, every stroke pressing deep down into my {PUSSY}, hitting my cervix.",
+        "The feeling of {ACTIVE}'s heavy {BALLS} slapping into my clit every time is {LEWD}... I'm going to cum from this!",
+        "Ahh... ahh... ah! Okay... ah! I think we've gone far enough! You need to pull out now, before you...",
+        "My {FLESH} is {QUIVER}ing {ROUGH}ly, my {BOOBS} slapping into the dirt and my feet waving behind me.",
+        "I {MOAN} heavily, fighting off fatigue as I fuck. Sweat drips from my {BOOBS}, my back, and my {ASSHOLE}."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} pushes you over, your face in the dirt and your {BUTTOCKS} in the air as he continues to {FUCK} you hard.",
+        "Your knees are pushed together as {ACTIVE} forces you into the ground. He feels so much bigger inside you now...",
+        "You try in vain to hold yourself up, both hands flat on the ground, but {ACTIVE} is {FUCK}ing you too hard.",
+        "{SWEARING}, this is too much! {ACTIVE} is {FUCK}ing straight down into you, everyone will be able to see it!",
+        "{ACTIVE} is right on top of you, every stroke pressing deep down into your {PUSSY}, hitting your cervix.",
+        "The feeling of {ACTIVE}'s heavy {BALLS} slapping into your clit every time is {LEWD}... You'll cum from this!",
+        "({PRIMARY}) Ahh... ahh... ah! Okay... ah! I think we've gone far enough! You need to pull out now, before you...",
+        "Your {FLESH} is {QUIVER}ing {ROUGH}ly, your {BOOBS} slapping into the dirt and your feet waving behind you.",
+        "You {MOAN} heavily, fighting off fatigue as you fuck. Sweat drips from your {BOOBS}, your back, and your {ASSHOLE}."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} pushes {PRIMARY} face first into the dirt, pounding hard into her {NUDE} {PUSSY}.",
+        "{SWEARING}, such a {LEWD} position! Everyone can see {PRIMARY}'s {PUSSY} being {FUCK}ed hard!",
+        "{ACTIVE}'s {BALLS} slap heavily into {PRIMARY}'s {PUSSY} with every thrust. They look so full!",
+        "{ACTIVE} is done trying to coerce {PRIMARY}, and forces her to the ground."
+    ]
+}

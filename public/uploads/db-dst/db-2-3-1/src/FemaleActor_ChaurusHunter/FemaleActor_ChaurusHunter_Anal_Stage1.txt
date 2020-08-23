@@ -1,0 +1,56 @@
+{
+    "1st Person" :
+    [
+        "Here... almost... It's in, a {ACTIVE} has stuck its {BUGCOCK} into me and it's {FUCK}ing me!",
+        "I can't believe I even want to {FUCK} {BUG}s!",
+        "The {ACTIVE} crawls atop me, pinning me to the ground. I {MOAN} as it enters my body",
+        "I arch my back as it forces what feels like a {HUGE}, lubricated, {BEASTLY} {COCK} into my {ASSHOLE}.",
+        "I feel a surge of strange shame as I {DISPLAY} myself to the {BUG}. Is there nothing I won't fuck?.",
+        "I'm about to have sex with a chaurus... The thought sends {QUIVER}s down my spine.",
+        "Offering myself to such a {VILE} monster... being in a situation like this really turns me on.",
+        "I must be the horniest {BITCH} in the world that I'm even thinking this, let alone going through with it!",
+        "I'm so {HORNY}, I need to have sex. This {ACTIVE} will have to do.",
+        "The {BUG} climbs atop my {HEAVING} {FLESH}, and {SLOW}ly, {GENTLE}ly, {INSERT}s its {BUGCOCK} into my {ASSHOLE}.",
+        "My {FLESH} begins to feel strange; {SLOW}, {LEWD} and {SUBMISSIVE}. I bend over on the ground, {BUTTOCKS}-up and open.",
+        "A cold, paralyzing calm sweeps over my body, and I spread my legs.",
+        "The chaurus positions itself over my throbbing {ASSHOLE}, and I {MOAN} as I feel pressure at the {HOLE}...",
+        "My {WTANAL} {ASSHOLE} starts to become soft as the enchanting scent fills my lungs.",
+        "I feel something {EXPLOR}e past my ring. Long, moist and sticky. I {MOAN} as it {EJACULATE}s into my {ASSHOLE}.",
+        "I feel something touch my labia {GENTLE}ly. It's covered in thick, coarse hair, rubbing me {LEWD}ly.",
+        "Something coarse and stiff brushes my clit {ROUGH}ly, sending waves of {PAIN} up my spine.",
+        "It {SLOW}ly pushes its {COCK} past my ring and into my {WTANAL} {ASSHOLE}."
+    ],
+    "2nd Person" :
+    [
+        "There... almost... It's in, the {ACTIVE} has stuck its {BUGCOCK} into you and it's {FUCK}ing you!'",
+        "You can't believe you even want to fuck {BUG}s!",
+        "The {ACTIVE} crawls atop you, pinning you to the ground. You {MOAN} as it enters your body",
+        "You arch your back as it forces what feels like a {HUGE}, lubricated, {BEASTLY} {COCK} into your {ASSHOLE}.",
+        "You feel a surge of strange shame as you {DISPLAY} yourself to the {BUG}. Is there nothing you won't fuck?.",
+        "You're about to have sex with a chaurus... The thought sends {QUIVER}s down your spine.",
+        "Offering yourself to such a {VILE} monster... being in a situation like this really turns you on.",
+        "You must be the horniest {BITCH} in the world that you're thinking this, let alone going through with it!",
+        "You're so {HORNY}, you need to have sex. This {ACTIVE} will have to do.",
+        "The {BUG} climbs atop your {HEAVING} {FLESH}, and {SLOW}ly, {GENTLE}ly, {INSERT}s its {BUGCOCK} into your {ASSHOLE}.",
+        "Your {FLESH} begins to feel strange; languid and {SUBMISSIVE}. You bend over on the ground, {BUTTOCKS}-up and open.",
+        "A cold, paralyzing calm sweeps over your body, and you spread your legs.",
+        "The chaurus positions itself over your throbbing {ASSHOLE}, and you {MOAN} as you feel pressure at the {HOLE}...",
+        "Your {WTANAL} {ASSHOLE} starts to become soft as the enchanting scent fills your lungs.",
+        "You feel something {EXPLOR}e past your ring. Long, moist and sticky. You {MOAN} as it {EJACULATE}s into your {ASSHOLE}.",
+        "You feel something touch your labia {GENTLE}ly. It's covered in thick, coarse hair, rubbing you {LEWD}ly.",
+        "Something coarse and stiff brushes your clit {ROUGH}ly, sending waves of {PAIN} up your spine.",
+        "It {SLOW}ly pushes its {COCK} past your ring and into your {WTANAL} {ASSHOLE}."
+    ],
+    "3rd Person" :
+    [
+        "Here... almost... It's in, a {ACTIVE} has stuck its {BUGCOCK} into {PRIMARY}  and it's {FUCK}ing her!",
+        "The {ACTIVE} crawls atop {PRIMARY} , pinning her to the ground. She {MOAN}s as it enters her body",
+        "{PRIMARY} arches her back as it forces what looks like a {HUGE}, lubricated, {BEASTLY} {COCK} into her {ASSHOLE}.",
+        "{PRIMARY} 's about to have sex with a chaurus... The thought is terrifying, but hot.",
+        "Offering herself to such a {VILE} monster... being in a situation like this is a real turn on.",
+        "{PRIMARY} must be the horniest {BITCH} in the world that she's even thinking this...",
+        "She's so {HORNY}, {PRIMARY} needs to have sex. This {ACTIVE} will have to do.",
+        "The {BUG} climbs atop {PRIMARY}'s {HEAVING} {FLESH}, and {SLOW}ly {INSERT}s its {BUGCOCK} into her {ASSHOLE}.",
+        "A cold, paralyzing calm sweeps over her body, and {PRIMARY} spreads her legs."
+    ]
+}

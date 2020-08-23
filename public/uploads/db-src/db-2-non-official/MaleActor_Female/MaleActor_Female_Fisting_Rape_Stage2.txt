@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "{PRIMARY} pumps against my hand, {SCREAM}ing as she does so.",
+        "({ACTIVE}) Your turn now {BITCH}, get my hand nice and deep.",
+        "{PRIMARY}'s {SCREAM}ing and {SCREAM}ing a lot more now, as my hand gets deeper inside her."
+    ],
+    "2nd Person": [
+        "{PRIMARY} pumps against your hand, {SCREAM}ing as she does so.",
+        "({ACTIVE}) Your turn now {BITCH}, get my hand nice and deep.",
+        "{PRIMARY}'s {SCREAM}ing and {SCREAM}ing a lot more now, as your hand gets deeper inside her."
+    ],
+    "3rd Person": [
+        "{PRIMARY} pumps her {FLESH} against the {ACTIVE}'s fist, straining her {WTVAGINAL} {PUSSY} to {ACCEPT} it all.",
+        "The {ACTIVE} has stopped moving, making {PRIMARY} work her body {SLOW}ly onto his hand.",
+        "{PRIMARY}'s strength is already leaving her, and her head hangs limply back as tears fall from her eyes.",
+        "{PRIMARY} bites her lip to muffle the sounds of her {SCREAM}s as {ACTIVE} {INSERT}s his hand to his wrist.",
+        "A moment of {PAIN} and his fist pops inside, lubricated by the {CUM} that seeps out.",
+        "{PRIMARY} lets out a gasp as the pressure between her legs increases."
+    ]
+}

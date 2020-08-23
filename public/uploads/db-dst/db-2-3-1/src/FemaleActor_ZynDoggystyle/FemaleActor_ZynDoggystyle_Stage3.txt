@@ -1,0 +1,30 @@
+{
+    "1st Person": [
+        "{ACTIVE} starts {FUCK}ing me fast, and my legs give out. I drop to all fours, and he keeps on {FUCK}ing me!",
+        "My legs are {QUIVER}ing, and I have to drop to my knees as {ACTIVE} starts to {FUCK} me faster.",
+        "Down on my hands, my shoulders hunch and my head drops as I {SUBMIT} to a really hard fuck.",
+        "{ACTIVE}'s hands hold my {ASSHOLE} still as he {FUCK}s me with complete abandon. I {MOAN} and {ACCEPT} it.",
+        "({ACTIVE}) Down on the ground, {PRIMARY}, I'm gonna really give it to you!",
+        "({ACTIVE}) Hah, I've known all along that I'd end up {FUCK}ing you!",
+        "{SWEARING}, your {COCK} is so {HUGE}!",
+        "Between thrusts, he asks if I {FUCK} strangers like this a lot. I manage a strained voice. Every day...",
+        "Uhh... uhh... uhhh... your thing is nearly in the back of my throat..."
+    ],
+    "2nd Person": [
+        "{ACTIVE} starts {FUCK}ing you fast, and your legs give out. You drop to all fours, and he keeps on fucking!",
+        "Your legs are {QUIVER}ing, and you have to drop to your knees as {ACTIVE} starts to {FUCK} you faster.",
+        "Down on your hands, your shoulders hunch and your head drops as you {SUBMIT} to a really hard fuck.",
+        "{ACTIVE}'s hands hold your ass still as he {FUCK}s you with complete abandon. You {MOAN} and {ACCEPT} it.",
+        "({ACTIVE}) Down on the ground, {PRIMARY}, I'm gonna really give it to you!",
+        "({ACTIVE}) Hah, I've known all along that I'd end up {FUCK}ing you!",
+        "({PRIMARY}) {SWEARING}, your {COCK} is so {HUGE}!",
+        "Between thrusts, he asks if you {FUCK} strangers like this a lot. You manage a strained voice. Every day...",
+        "({PRIMARY}) Uhh... uhh... uhhh... your thing is nearly in the back of my throat..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} {SCREAM}s and drops to her hands and knees, and {ACTIVE} starts to really pound her.",
+        "The tension in {PRIMARY}'s shoulders is obvious, as {ACTIVE} {FUCK}s into her {PUSSY}.",
+        "Dropping to her knees, {PRIMARY} spreads her knees wider, letting {ACTIVE} {FUCK} her even deeper.",
+        "There's a rumour that {PRIMARY} is just a {BITCH}. It looks like it's true..."
+    ]
+}

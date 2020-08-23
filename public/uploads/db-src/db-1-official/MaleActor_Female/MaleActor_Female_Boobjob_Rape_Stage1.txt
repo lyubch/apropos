@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "{PRIMARY} sobs softly as I stick my {COCK} in her face, right between her {BOOBS].",
+        "C'mon, {BITCH}, lets see what you can do with those {BOOBS}! Don't disappoint me!",
+        "You better get me nice and hard, {BITCH}, so I can fuck you right!"
+    ],
+    "2nd Person" :
+    [
+        "{PRIMARY} sobs softly as you stick your {COCK} in her face, right between her {BOOBS].",
+        "({ACTIVE}) C'mon, {BITCH}, lets see what you can do with those {BOOBS}! Don't disappoint me!",
+        "({ACTIVE}) You better get me nice and hard, {BITCH}, so I can fuck you right!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} shudders as {ACTIVE} reveals his {COCK}. Hopefully a titfuck is all he has in mind...",
+        "{ACTIVE} orders {PRIMARY} to strip, and she does as she's told.",
+        "{PRIMARY} stands naked before him, completely on display to anyone who can see.",
+        "{ACTIVE} pulls {PRIMARY}'s clothes over her head, giving him free access to her {HEAVING} {BOOBS}.",
+        "With some reluctance, {PRIMARY} strips down before {ACTIVE}, discarding her clothes.",
+        "{ACTIVE} tears off {PRIMARY}'s top, completely exposing her {BOOBS} to his gaze.",
+        "The straps slide off her shoulder as {PRIMARY} collapses, which shows off her {HEAVING} {BOOBS}.",
+        "{ACTIVE}'s face goes slack-jawed with awe as he now has a perfect look at {PRIMARY}'s {HEAVING} {BOOBS}."
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "I stare wide eyed as {SLIME} and {SCUM} drip onto my {HEAVING} {FLESH} from the {VILE} bodies.",
+        "The {VILE} ordeal brings me closer and closer to orgasm in spite of the {FEAR} gnawing at my gut.",
+        "I feel {SCUM} wriggle inside my {ASSHOLE} and {PUSSY}, crawling deeper.",
+        "Many hands grope me {ROUGH}ly as the {VILE} rodents gangbang me.",
+        "{SWEARING}! I feel {SCUM} drip from my {WTVAGINAL} {PUSSY} and the corners of my {MOUTH}...",
+        "Every {HOLE} in my {FLESH} is filled with {SCUM} and {SLIME}. It's beautiful and {VILE}.",
+        "The violation of my {HEAVING} {FLESH} in such a {VILE} manner is arousing."
+    ],
+    "2nd Person": [
+        "You stare wide eyed as {SLIME} and {SCUM} drip onto your {HEAVING} {FLESH} from the {VILE} bodies.",
+        "The {VILE} ordeal brings you closer and closer to orgasm in spite of the horror gnawing at your gut.",
+        "You feel {SCUM} wriggle inside your {ASSHOLE} and {PUSSY}, crawling deeper.",
+        "Many hands grope you {ROUGH}ly as the {VILE} rodents gangbang you.",
+        "{SWEARING}! You feel {SCUM} drip from your {WTVAGINAL} {PUSSY} and the corners of your {MOUTH}...",
+        "Every {HOLE} in your {FLESH} is filled with {SCUM} and {SLIME}. It's beautiful and {VILE}.",
+        "The violation of your {HEAVING} {FLESH} in such a {VILE} manner is arousing."
+    ],
+    "3rd Person": [
+        "{PRIMARY} stares wide eyed as {SLIME} and {SCUM} drip onto her {HEAVING} {FLESH} from the {VILE} bodies.",
+        "The {VILE} ordeal brings {PRIMARY} closer and closer to orgasm in spite of the horror gnawing at her gut.",
+        "{PRIMARY} feels {SCUM} wriggle inside her {ASSHOLE} and {PUSSY}, crawling deeper.",
+        "Many hands grope {PRIMARY} {ROUGH}ly as the {VILE} rodents gangbang her.",
+        "{SWEARING}! {SCUM} drip from {PRIMARY}'s {WTVAGINAL} {PUSSY} and the corners of her {MOUTH}...",
+        "Every {HOLE} in {PRIMARY}'s {FLESH} is filled with {SCUM} and {SLIME}. It's beautiful and {VILE}.",
+        "The violation of {PRIMARY}'s {HEAVING} {FLESH} in such a {VILE} manner is arousing."
+    ]
+}

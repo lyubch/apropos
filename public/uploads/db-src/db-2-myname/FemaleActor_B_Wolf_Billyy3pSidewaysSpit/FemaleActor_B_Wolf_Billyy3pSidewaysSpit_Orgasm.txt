@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I scream around the throbbing knot in my {MOUTH}, clenching down on the other's as I cum around it.",
+        "I feel the pressure building as both wolves push their knots into me, and I explode into orgasm along with them as they both pop in.",
+        "I shudder against the wolf in my own orgasm as they both knot me, {THICK} {CUM} filling me up as they howl above me.",
+        "I squeal as {JUICY} {CUM} floods into my stomach and womb in tandem, their knots ensuring not a single drop is wasted.",
+        "I feel a flare of pain as both knots finally enter me, quickly overwhelmed by an explosive orgasm as {THICK} {CUM} fills me.",
+        "His forelegs hold me tight as both wolves press their knots into me, barely leaving me room to shudder as I cum with them."
+    ],
+    "2nd Person": [
+        "You scream around the throbbing knot in your {MOUTH}, clenching down on the other's as you cum around it.",
+        "You feel the pressure building as both wolves push their knots into you, and you explode into orgasm  with them as they both pop in.",
+        "You shudder against the wolf in your own orgasm as they both knot you, {THICK} {CUM} filling you up as they howl above you.",
+        "You squeal as {JUICY} {CUM} floods into your stomach and womb in tandem, their knots ensuring not a single drop is wasted.",
+        "You feel a flare of pain as both knots finally enter you, quickly overwhelmed by an explosive orgasm as {THICK} {CUM} fills you.",
+        "His forelegs hold you tight as both wolves press their knots into you, barely leaving you room to shudder as you cum with them."
+    ],
+    "3rd Person": [
+        "{PRIMARY} screams around the throbbing knot in her {MOUTH}, clenching down on the other's as she cums around it.",
+        "{PRIMARY} feels the pressure building as both wolves push their knots into her, and she explodes into orgasm  with them as they both pop in.",
+        "{PRIMARY} shudders against the wolf in her own orgasm as they both knot her, {THICK} {CUM} filling her up as they howl above her.",
+        "{PRIMARY} squeals as {JUICY} {CUM} floods into her stomach and womb in tandem, their knots ensuring not a single drop is wasted.",
+        "{PRIMARY} feels a flare of pain as both knots finally enter her, quickly overwhelmed by an explosive orgasm as {THICK} {CUM} fills her.",
+        "His forelegs hold {PRIMARY} tight as both wolves press their knots into her, barely leaving her room to shudder as her cum with them."
+    ]
+}

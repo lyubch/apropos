@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "As the {ACTIVE}'s patience wears thin, I realise I have to move on... I can only pray I won't need to actually {FUCK} it...",
+        "With an insistent whinny, I hurridly clamber onto him. I know now there's only one way out of this, I can only hope I can take it...",
+        "Swiftly realising a handjob isn't going to cut it, I swallow my pride and mount the {ANIMAL}, getting my {PUSSY} ready for the inevitable.",
+        "{SWEARING}, he still wants more, doesn't he? I'd hoped grinding against him would be enough, but I am really going to have to go all the way..."
+    ],
+    "2nd Person": [
+        "As the {ACTIVE}'s patience wears thin, you realise you have to move on... You can only pray you won't need to actually {FUCK} it...",
+        "With an insistent whinny, you hurridly clamber onto him. You know now there's only one way out of this, hopefully you can {ACCEPT} it...",
+        "Swiftly realising a handjob isn't going to cut it, you swallow your pride and mount the {ANIMAL}, bracing yourself for the inevitable.",
+        "{SWEARING}, he still wants more, doesn't he? You'd hoped grinding against him like this would be enough..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} is already getting impatient, but that monster-{COCK} is going nowhere unless {PRIMARY} can lube it up first.",
+        "{PRIMARY} really is going to {FUCK} herself on that horse... at least she's still in control..."
+    ]
+}

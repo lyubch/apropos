@@ -1,0 +1,45 @@
+{
+    "1st Person": [
+        "It's no use... even though it's a {ACTIVE}'s... if I get fucked with something this big and hard...",
+        "The {ACTIVE}'s rough fur against my bare skin has an immediate effect on my nipples.",
+        "I'm such a filthy {BITCH}, getting fucked by an animal like this.",
+        "Ah! This isn't real! I'm being penetrated by a rodent's {COCK}....",
+        "My eyes are locked to the {ACTIVE}'s {BEAST} red {COCK}, and I wonder how it tastes.",
+        "Despite my fear, I stare at the {ACTIVE}'s {COCK}. I watch it pound in and out of me.",
+        "The {ACTIVE}'s {COCK} is so lewd looking, so red and angry.",
+        "It's hot, hotter than I'd expect, and dripping with slimy, molten pre-cum that makes me tingle.",
+        "Incredible heat radiates from the {COCK} inside me, making my whole body break out in a cold sweat.",
+        "I'm rocked back and forth as the rodent begins fucking me in earnest.",
+        "The {ACTIVE}'s {BEAST} {COCK} lubricates my channel for what I fear (hope?) is to be a long fucking.",
+        "The {ACTIVE}'s {COCK} is {BEAST}, filling my womb to its maximum capacity.",
+        "I bray like an animal as the {ACTIVE} begins to fuck.",
+        "I'm secretly thrilled by this. Did I really come out here just to copulate with animals?",
+        "Actually, that's rather nice... ooohhh!"
+    ],
+    "2nd Person": [
+        "It's no use... even though it's a {ACTIVE}'s... if you get fucked with something this big and hard...",
+        "The {ACTIVE}'s rough fur against your bare skin has an immediate effect on your nipples.",
+        "You're such a filthy {BITCH}, getting fucked by an animal like this.",
+        "Ah! This isn't real! you're being penetrated by a rodent's {COCK}....",
+        "Your eyes are locked to the {ACTIVE}'s {BEAST} red {COCK}, and you wonder how it tastes.",
+        "Despite your fear, you stare at the {ACTIVE}'s {COCK}. You watch it pound in and out of you.",
+        "The {ACTIVE}'s {COCK} is so lewd looking, so red and angry.",
+        "It's hot, hotter than you'd expect, and dripping with slimy, molten pre-cum that makes you tingle.",
+        "Incredible heat radiates from the {COCK} inside you, making your whole body break out in a cold sweat.",
+        "You're rocked back and forth as the rodent begins fucking you in earnest.",
+        "The {ACTIVE}'s {BEAST} {COCK} lubricates your channel for what you fear (hope?) is to be a long fucking.",
+        "The {ACTIVE}'s {COCK} is {BEAST}, filling your womb to its maximum capacity.",
+        "You bray like an animal as the {ACTIVE} begins to fuck.",
+        "You're secretly thrilled by this. Did you really come out here just to copulate with animals?",
+        "Actually, that's rather nice... ooohhh!"
+    ],
+    "3rd Person": [
+        "It's no use... even though it's a {ACTIVE}'s... if {PRIMARY} gets fucked with something this big and hard...",
+        "The {ACTIVE}'s rough fur against {PRIMARY}'s bare skin has an immediate effect on her nipples.",
+        "{PRIMARY}'s such a filthy {BITCH}, getting fucked by an animal like this.",
+        "Ah! This isn't real! {PRIMARY}'s being penetrated by a rodent's {COCK}....",
+        "{PRIMARY}'s eyes are locked to the {ACTIVE}'s {BEAST} red {COCK}. How must it taste?",
+        "Despite her fear, {PRIMARY} stares at the {ACTIVE}'s {COCK}. She watches it pound in and out of her.",
+        "The {ACTIVE}'s {COCK} is so lewd looking, so red and angry."
+    ]
+}

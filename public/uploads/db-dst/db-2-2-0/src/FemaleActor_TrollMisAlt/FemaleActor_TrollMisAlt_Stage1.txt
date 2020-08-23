@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "The beast towers over me, terrifying and erect. I do the only thing I can; I spread my legs.",
+        "I stare up at the monstrous brute, its {BEAST} {PENIS} erect. I whimper a little as it pushes it inside me.",
+        "The {ACTIVE} kneels over me, holding my legs spread as it roughly penetrates me. Gods, it's big...",
+        "I lie back, spreading my legs in submission, sighing as the beast drops to its knees and spears me with its {BEAST} {COCK}.",
+        "Ngh! I can feel my stomach bulge at the very first stroke, and I break out in a cold sweat. Too late for second thoughts...",
+        "You like me? I'll spread my legs for you... My {PUSSY} is yours! Take me, give me your {BEAST} {COCK}!",
+        "I lie back on the ground and spread my legs wide, inviting the monstrous {ACTIVE} to fuck me.",
+        "My legs are now spread, hiding nothing from the {ACTIVE}'s view as it kneels down and penetrates me.",
+        "Horny and shivering, I expose myself to the monstrous lusts of this beast. I almost cum as it pushes inside me."        
+    ],
+    "2nd Person" :
+    [
+        "The beast towers over you, terrifying and erect. You do the only thing you can; you spread your legs.",
+        "You stare up at the monstrous brute, its {BEAST} {PENIS} erect. You whimper a little as it pushes it inside you.",
+        "The {ACTIVE} kneels over you, holding your legs spread as it roughly penetrates you. Gods, it's big...",
+        "You spread your legs in submission, sighing as the beast drops to its knees and spears you with its {BEAST} {COCK}.",
+        "You can feel your stomach bulge at the very first stroke, and you break out in a cold sweat. Too late for second thoughts...",
+        "({PRIMARY}) You like me? I'll spread my legs for you... my {PUSSY} is yours! Take me, give me your {BEAST} {COCK}!",
+        "You lie back on the ground and spread your legs wide, inviting the monstrous {ACTIVE} to fuck you.",
+        "Your legs are now spread, hiding nothing from the {ACTIVE}'s view as it kneels down and penetrates you.",
+        "Horny and shivering, you expose yourself to the monstrous lusts of this beast. You almost cum as it pushes inside you."
+    ],
+    "3rd Person" :
+    [
+        "The beast towers over {PRIMARY}, terrifying and erect. She does the only thing she can; she spreads her legs.",
+        "{PRIMARY}'s legs are now completely spread, hiding nothing from the {ACTIVE}'s view as it towers over her.",
+        "{PRIMARY} lies back on the ground and spreads her legs wide, inviting the {ACTIVE} to fuck her."
+    ]
+}

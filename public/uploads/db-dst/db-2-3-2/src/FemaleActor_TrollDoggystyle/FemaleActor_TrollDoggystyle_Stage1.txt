@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "I strain as the {ACTIVE} {SLOW}ly begins to take my {ASSHOLE}, my muscles feeling like the tension may rip them apart.",
+        "That's it, {SLOW}ly... Ah! {SWEARING}, you're so {HUGE}! Slowly... So I can {ACCEPT} the whole thing...",
+        "I {DISPLAY} myself to the wild {ANIMAL}, spreading my {BUTTOCKS} and {DISPLAY}ing my {WTANAL} {ASSHOLE}, {MOAN}ing as it {INSERT}s inside.",
+        "Do me from behind, {FUCK} me like a dog!",
+        "I just love this feeling, my {ASSHOLE} stretching {SLOW}ly, and then...",
+        "I can do this... It will fit... The {ACTIVE}'s {BEASTLY} {COCK} stretches my {ASSHOLE} going on.",
+        "My heart is racing, I want this, this {ACTIVE} can do whatever it wants to me. Even anal...",
+        "Oh my... {SWEARING}...! I {MOAN}, the {BEASTLY} {COCK} {INSERT}ing into my {HEAVING} {FLESH} as my {ASSHOLE} stretches around its {GIRTH}.",
+        "I'm not sure if I can get pregnant by a troll, but maybe I should {ACCEPT} it in my {ASSHOLE} just in case..."
+    ],
+    "2nd Person": [
+        "You strain as the {ACTIVE} {SLOW}ly begins to {ACCEPT} your {ASSHOLE}, your muscles feeling like the tension may rip them apart.",
+        "({PRIMARY}) That's it, {SLOW}ly... Ah! {SWEARING}, you're so {HUGE}! Slowly... So I can {ACCEPT} the whole thing...",
+        "You {DISPLAY} yourself to the wild {ANIMAL}, spreading your {BUTTOCKS} and {DISPLAY}ing your {WTANAL} {ASSHOLE}, {MOAN}ing as it {INSERT}s inside.",
+        "({PRIMARY}) Do me from behind, {FUCK} me like a dog!",
+        "You just love this feeling, your {ASSHOLE} stretching {SLOW}ly, and then...",
+        "You can do this... It will fit... The {ACTIVE}'s {BEASTLY} {COCK} stretches your {ASSHOLE} going on.",
+        "Your heart is racing, you want this, this {ACTIVE} can do whatever it wants to you. Even anal...",
+        "Oh my... {SWEARING}...! You {MOAN}, the {BEASTLY} {COCK} {INSERT}ing into your {HEAVING} {FLESH} as your {ASSHOLE} stretches around its {GIRTH}.",
+        "You're not sure if you can get pregnant by a troll, but maybe you should {ACCEPT} it in my {ASSHOLE} just in case..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} {SUBMIT}s, raising her hips and letting the {ACTIVE} have her {ASSHOLE}.",
+        "As the hulking {ANIMAL} mounts {PRIMARY} she stifles a {SCREAM}, its inhuman {COCK} pushing between her {BUTTOCKS}.",
+        "It's clear from {PRIMARY}'s hunched shoulders how much it hurts as the {ActIVE} begins to {FUCK} her {ASSHOLE}."
+    ]
+}

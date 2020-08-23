@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "I throw my leg over one of his, wrapping myself around him. He'll be able to feel how {FAROUSAL} I am.",
+        "I marvel at his {HUGE} {PENIS}, feeling so good in my hand. I'd love to get fucked by this.",
+        "I feel {ACTIVE}'s {PENIS} twitch at my fingertips, and even harder as I finger his ass.",
+        "I raise my hand to {ACTIVE}'s {PENIS}, enjoying the feeling of it at my fingertips.",
+        "I straddle {ACTIVE}'s leg, pressing my {FAROUSAL} {PUSSY} into his leg."
+    ],
+    "2nd Person" :
+    [
+        "You throw your leg over one of his, wrapping yourself around him. He'll feel how {FAROUSAL} you are.",
+        "You marvel at his {HUGE} {PENIS}, feeling so good in your hand. You'd love to get fucked by this.",
+        "You feel {ACTIVE}'s {PENIS} twitch at your fingertips, and even harder as you finger his ass.",
+        "You raise your hand to {ACTIVE}'s {PENIS}, enjoying the feeling of it at your fingertips.",
+        "You straddle {ACTIVE}'s leg, pressing your {FAROUSAL} {PUSSY} into his leg."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} throws her leg over {ACTIVE}'s, exposing her {FAROUSAL} {PUSSY}.",
+        "{PRIMARY} seems lost in thought as she strokes the full length of {ACTIVE}'s {HUGE} {COCK}.",
+        "The tension is maddening, when is {PRIMARY} going to fuck him?"
+    ]
+}

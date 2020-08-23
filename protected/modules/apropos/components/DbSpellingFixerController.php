@@ -25,7 +25,7 @@ class DbSpellingFixerController extends DbController
 	public function actionTest()
 	{
 		
-//		dump($this->loadErroredList());
+		dump($this->loadErroredList());
 		
 		$file = 'FemaleActor_WearTearReduced_Vaginal.txt';
 		$text = 'Боль в её пилотке уменьшается.';

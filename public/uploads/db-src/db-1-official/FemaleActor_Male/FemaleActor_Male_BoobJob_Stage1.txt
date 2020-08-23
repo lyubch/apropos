@@ -1,0 +1,19 @@
+{
+    "1st Person" :
+    [
+        "Just the thought of {ACTIVE} seeing me topless makes me embarrassed but also a little giddy.",
+        "What do you think of my {BOOBS}?",
+        "I feel so sexy, my {HEAVING} {BOOBS} wrapped around {ACTIVE}'s {HUGE} {PENIS}."        
+    ],
+    "2nd Person" :
+    [
+        "Just the thought of {ACTIVE} seeing you topless makes you embarrassed but also a little giddy.",
+        "({PRIMARY}) What do you think of my {BOOBS}?",
+        "You feel so sexy, your {HEAVING} {BOOBS} wrapped around {ACTIVE}'s {HUGE} {PENIS}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s {HEAVING} {BOOBS} are on display, and she seems to be enjoy the attention!",
+        "{PRIMARY} looks so sexy, her {HEAVING} {BOOBS} wrapped around {ACTIVE}'s {PENIS}."
+    ]
+}

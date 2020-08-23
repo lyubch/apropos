@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "I raise my knees together, and my tightened {PUSSY} feels every bump and pulse of the entire {BEAST} {PENIS}.",
+        "The beast's strokes are painful, feeding my {WTVAGINAL} {PUSSY} the entire length of its {COCK}.",
+        "I can't help but gasp and moan as the {ACTIVE} picks up the pace, fucking me hard and deep.",
+        "I stare up at the {ACTIVE}, not even looking at me as it fucks me right the way to my core.",
+        "With every colossal thrust I feel my cervix begin to give way, and the brute's heavy balls on my ass.",
+        "I look up into the face of the beast as it fucks me, seeing only bestial lust.",
+        "The head of its {COCK} smashes up against my cervix again, leaving inches of cock outside of my {PUSSY}.",
+        "The mixture of the physical sensations and the guilt of loving being fucked by a beast... I'm gonna cum...",
+        "The huge, muscled body of the troll furiously fucking my tiny, slender frame so hard..."
+    ],
+    "2nd Person" :
+    [
+        "You raise your knees together, and your tightened {PUSSY} feels every bump and pulse of the entire {BEAST} {PENIS}.",
+        "The beast's strokes are painful, feeding your {WTVAGINAL} {PUSSY} the entire length of its {COCK}.",
+        "You can't help but gasp and moan as the {ACTIVE} picks up the pace, fucking you hard and deep.",
+        "You stare up at the {ACTIVE}, not even looking at you as it fucks you right the way to your core.",
+        "With every colossal thrust you feel your cervix begin to give way, and the brute's heavy balls on your ass.",
+        "You look up into the face of the beast as it fucks you, seeing only bestial lust.",
+        "The head of its {COCK} smashes up against your cervix again, leaving inches of cock outside of your {PUSSY}.",
+        "The mixture of the physical sensations and the guilt of loving being fucked by a beast... You're gonna cum...",
+        "The huge, muscled body of the troll furiously fucking your tiny, slender frame so hard..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} raises her knees together in a vain attempt to stop the monster spearing her on his entire {BEAST} {PENIS}.",
+        "{PRIMARY} gasps and moans as the {ACTIVE} picks up the pace, fucking her hard and deep.",
+        "The sex is brutal, the beast slamming into {PRIMARY}'s {PUSSY} like a battering ram again and again."
+    ]
+}

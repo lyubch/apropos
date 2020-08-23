@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I wrap my legs up around the {MONSTER}'s hips, pulling it deeper into my {PUSSY}, {FEAR} and reason leaving me.",
+        "This is the kind of {LEWD}, dangerous sex I wanted, and my mind races. How can I push it further? I want more!",
+        "Between my spread legs I see {HUGE} {BALLS} slapping into me heavily. I can't wait to empty them!",
+        "The {THICK} {CUM} and {CREAM} from our sloppy {FUCK}ing splashes on my clit, making it tingle almost painfully.",
+        "Yes... in all the way... I can take it... I want it...",
+        "Yes, yes! Harder, deeper! {SWEARING}!"
+    ],
+    "2nd Person": [
+        "You wrap your legs up around the {MONSTER}'s hips, pulling it deeper into your {PUSSY}, {FEAR} and reason leaving you.",
+        "This is the kind of {LEWD}, dangerous sex you wanted, and your mind races. How can you push it further? You want more!",
+        "Between your spread legs you see {HUGE} {BALLS} slapping into heavily. You can't wait to empty them!",
+        "The {THICK} {CUM} and {CREAM} from our sloppy {FUCK}ing splash on your clit, making it tingle almost painfully.",
+        "({PRIMARY}) Yes... in all the way... I can take it... I want it...",
+        "({PRIMARY}) Yes, yes! Harder, deeper! {SWEARING}!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} wraps her legs up around the {MONSTER}'s hips, pulling it deeper into her {PUSSY}, {FEAR} and reason leaving her.",
+        "This is the kind of {LEWD}, dangerous sex {PRIMARY} wanted, and her mind races. How can she push it further? She wants more!",
+        "Between her spread legs {PRIMARY} sees {HUGE} {BALLS} slapping into heavily. She can't wait to empty them!",
+        "The {THICK} {CUM} from their sloppy {FUCK}ing splash on {PRIMARY}'s clit, making it tingle almost painfully.",
+        "({PRIMARY}) Yes... in all the way... I can take it... I want it...",
+        "({PRIMARY}) Yes, yes! Harder, deeper! {SWEARING}!"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "The {ACTIVE} stares hungrily up at me, eyeing my {HEAVING} {BOOBS}. I feel its {PENIS} twitch inside me.",
+        "Nghhh, it's huge! I grind my hips back and forth, straining to get used to the {HUGE} {PENIS}.",
+        "My hands go to my {HEAVING} {BOOBS}, the beast's eyes glued to them, my nipples already hard.",
+        "The {ACTIVE} holds me down, but seems content to let me do all the work, but I'm sure it'll want to fuck me hard soon...",
+        "Oh Gods... Its {COCK}... It's reaching all the way up inside me... It feels amazing! I'm going to cum for sure!",
+        "Ah... You like my {BOOBS}? I'd let you suck them, but your teeth are too sharp! Well, maybe I'll let you anyway...",
+        "I have no idea how long the beast will let me continue to use it like this... I better make the most of it!",
+        "Gods, is it wrong that I just want to sit on this {BEAST} {COCK} and ride it all night?"
+    ],
+    "2nd Person": [
+        "The {ACTIVE} stares hungrily up at you, eyeing your {HEAVING} {BOOBS}. You feel its {PENIS} twitch inside you.",
+        "Nghhh, it's huge! You grind your hips back and forth, straining to get used to the {HUGE} {PENIS}.",
+        "Your hands go to your {HEAVING} {BOOBS}, the beast's eyes glued to them, your nipples already hard.",
+        "The {ACTIVE} holds you down, but seems content to let you do all the work, but surely it'll want to fuck you hard soon...",
+        "Oh Gods... Its {COCK}... It's reaching all the way up inside you... It feels amazing! You're going to cum for sure!",
+        "({PRIMARY}) You like my {BOOBS}? I'd let you suck them, but your teeth are too sharp! Well, maybe I'll let you anyway...",
+        "You have no idea how long the beast will let you continue to use it like this... You better make the most of it!",
+        "Gods, is it wrong that you just want to sit on this {BEAST} {COCK} and ride it all night?"
+    ],
+    "3rd Person": [
+        "The {ACTIVE} stares hungrily up at {PRIMARY}, eyeing her {HEAVING} {BOOBS}. She feels its {PENIS} twitch inside her.",
+        "Nghhh, it's huge! {PRIMARY} grinds her hips back and forth, straining to get used to the {HUGE} {PENIS}.",
+        "{PRIMARY}'s hands go to her {HEAVING} {BOOBS}, the beast's eyes glued to them, her nipples already hard.",
+        "The {ACTIVE} holds {PRIMARY} down, but seems content to let her do all the work, but surely it'll want to fuck her hard soon...",
+        "Oh Gods... Its {COCK}... It's reaching all the way up inside {PRIMARY}... It feels amazing! She's going to cum for sure!",
+        "({PRIMARY}) You like my {BOOBS}? I'd let you suck them, but your teeth are too sharp! Well, maybe I'll let you anyway...",
+        "{PRIMARY} has no idea how long the beast will let her continue to use it like this... She better make the most of it!",
+        "Gods, is it wrong that {PRIMARY} just wants to sit on this {BEAST} {COCK} and ride it all night?"
+    ]
+}

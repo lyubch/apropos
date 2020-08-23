@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "I look over, aroused and terrified to watch the troll grunt and bellow as it climaxes in my {FAROUSAL} {PUSSY}.",
+        "Grabbing me roughly around my thigh and breast, the beast forces me all the way down its cock, both of us cumming hard.",
+        "I pull my legs wider, allowing the creature to get deeper and deeper into my {PUSSY}, and I cum hard.",
+        "My eyes roll back into my head and my teeth clench as a final orgasm crashes through my {CUM}-bloated body.",
+        "I'm impaled to the hilt, balls pressed against my bare ass, streams of {THICK} {CUM} running down my cheeks..."
+    ],
+    "2nd Person" :
+    [
+        "You look over, aroused and terrified to watch the troll grunt and bellow as it climaxes in your {FAROUSAL} {PUSSY}.",
+        "Grabbing you roughly around your thigh and breast, the beast forces you all the way down its cock, both of you cumming hard.",
+        "You pull your legs wider, allowing the creature to get deeper and deeper into your {PUSSY}, and you cum hard.",
+        "Your eyes roll back into your head and your teeth clench as a final orgasm crashes through your {CUM}-bloated body.",
+        "You're impaled to the hilt, balls pressed against your bare ass, streams of {THICK} {CUM} running down your cheeks..."    
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} spreads her legs wide, exposing her monstrously stretched {PUSSY}, dripping with troll-{CUM}.",
+        "{PRIMARY} is impaled to the hilt, balls pressed against her bare ass, streams of {THICK} {CUM} running down her cheeks.",
+        "It's staggering just how much {COCK} {PRIMARY} is taking. You can even see the outline on her stomach!",
+        "It's clear that {PRIMARY} is {CUMMING}, and it looks like the {ACTIVE} is, too."
+    ]
+}

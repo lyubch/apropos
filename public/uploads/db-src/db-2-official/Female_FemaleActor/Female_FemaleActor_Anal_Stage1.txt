@@ -1,0 +1,15 @@
+{
+    "1st Person" :
+    [
+        "I feel the pressure at my {ASS} increase, and suddenly, the {STRAPON} is inside me."
+    ],
+    "2nd Person" :
+    [
+
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

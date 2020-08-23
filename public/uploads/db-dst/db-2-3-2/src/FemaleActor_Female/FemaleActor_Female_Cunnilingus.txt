@@ -1,0 +1,44 @@
+{
+    "1st Person": [
+        "There's tremendous sexual tension between the two of us. Is {ACTIVE} as {HORNY} as I am?",
+        "I love the look of {ACTIVE} as she stares into my eyes.",
+        "I take {ACTIVE} in both hands, and pull her to me.",
+        "I must have a weakness for hot chicks...",
+        "I blush, {DISPLAY}ing my {BOOBS} to {ACTIVE}. My heart pounds in my ears from her knowing gaze.",
+        "I do nothing to cover up, and just leave my {HEAVING} {BOOBS} and nipples completely {NUDE}.",
+        "I step towards {ACTIVE}, my bare feet slapping on the floor, and I drop to my knees.",
+        "I lick my lips, and stare {ACTIVE} straight in the eye. I want to eat your {PUSSY}.",
+        "I guess I'm the entertainment for tonight, and now everyone is seeing my {HEAVING} {BOOBS} and nipples.",
+        "As {ACTIVE} holds me, I {QUIVER} uncontrollably. Why am I responding so intensely to her touch?",
+        "She hesitates; Is it her first time with a woman?",
+        "She told me she was straight. I'll fix that.",
+        "My brain is overcome with {LUST}; An urge to taste her {PUSSY} comes over me."
+    ],
+    "2nd Person": [
+        "There's tremendous sexual tension between the two of you. Is {ACTIVE} as {HORNY} as you are?",
+        "You love the look of {ACTIVE} as she stares into your eyes.",
+        "You take {ACTIVE} in both hands, and pull her to you.",
+        "You must have a weakness for hot chicks...",
+        "You blush, {DISPLAY}ing your {BOOBS} to {ACTIVE}. Your heart pounds in your ears from her knowing gaze.",
+        "You do nothing to cover up, and just leave your {HEAVING} {BOOBS} and nipples completely {NUDE}.",
+        "You step towards {ACTIVE}, your bare feet slapping on the floor, and you drop to your knees.",
+        "You lick your lips, and stare {ACTIVE} straight in the eye. You want to eat her {PUSSY}.",
+        "You guess you're the entertainment for tonight, and now everyone is seeing your {HEAVING} {BOOBS} and nipples.",
+        "As {ACTIVE} holds you, you {QUIVER} uncontrollably. Why are you responding so intensely to her touch?",
+        "She hesitates; Is it her first time with a woman?",
+        "She told you she was straight. You'll fix that.",
+        "My brain is overcome with {LUST}; An urge to taste her {PUSSY} comes over me."
+    ],
+    "3rd Person": [
+        "There's tremendous sexual tension between those two. What if {ACTIVE} looked at me like that?",
+        "{ACTIVE} takes {PRIMARY} in both hands, and pulls her close. I'm drawn to their {LOVE}.",
+        "{PRIMARY} does nothing to cover up, and just leaves her {HEAVING} {BOOBS} and nipples completely {NUDE}.",
+        "If I was {PRIMARY}, I'd be topless all the time. I'm so envious of her {BOOBS}.",
+        "{PRIMARY}'s puffy nipples are hard and stand out tantalizingly from her round, {HEAVING} {BOOBS}.",
+        "{PRIMARY} looks in my direction. She gives me a wink and licks her lips, before dropping to her knees.",
+        "I'm embarassed to say, but I stared at {ACTIVE}'s {HEAVING} {FLESH}.",
+        "{ACTIVE} holds {PRIMARY} so {GENTLE}ly. I feel embarrassed and an overwhelming {LUST} just watching them.",
+        "She hesitates; Is it her first time with a woman?",
+        "({PRIMARY}) This is OK, right? It's not cheating if I'm with a woman?"
+    ]
+}

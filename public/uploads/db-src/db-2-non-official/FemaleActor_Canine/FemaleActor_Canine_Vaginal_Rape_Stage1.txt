@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "I {QUIVER} in {FEAR} as {ACTIVE} mounts me, his {COCK} pushing {ROUGH}ly inside my {PUSSY}.",
+        "{SWEARING}, he wants to have sex with me?",
+        "Ah! Ugh...  ugh... he's in me... he's in my {PUSSY}... and he's {HUGE}...",
+        "Before I have time to think, the {HORNY} dog leaps on me, mounting me like a bitch.",
+        "I {SCREAM} in {FEAR} as {ACTIVE} {INSERT}s its {BEASTLY} {COCK} inside my {WTVAGINAL} {PUSSY}.",
+        "{ACTIVE} wastes no time getting on me and {INSERT}ing his {COCK} into me."        
+    ],
+    "2nd Person" :
+    [
+        "You {QUIVER} in {FEAR} as {ACTIVE} mounts you, his {COCK} pushing {ROUGH}ly inside your {PUSSY}.",
+        "{SWEARING}, he wants to have sex with you?",
+        "Ah! Ugh...  ugh... he's in you... he's in your {PUSSY}... and he's {HUGE}...",
+        "Before you have time to think, the {HORNY} dog leaps on you, mounting you like a bitch.",
+        "You {SCREAM} in {FEAR} as {ACTIVE} {INSERT}s its {BEASTLY} {COCK} inside your {WTVAGINAL} {PUSSY}.",
+        "{ACTIVE} wastes no time getting on you and {INSERT}ing his {COCK} into you."
+    ],
+    "3rd Person" :
+    [
+        "Oh my, {ACTIVE} has mounted {PRIMARY} and started to {FUCK} her!",
+        "W... what? A dog wants to {RAP}e a human woman? That can't be right..."
+    ]
+}

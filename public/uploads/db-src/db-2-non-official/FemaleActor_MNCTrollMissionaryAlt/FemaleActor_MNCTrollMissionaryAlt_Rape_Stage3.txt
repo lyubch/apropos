@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "My legs are spread as far as they'll go now, the {MONSTER} not caring for my comfort as it has its way with me.",
+        "I struggle to hold my {ASSHOLE} up as the {ACTIVE} yanks my legs higher, {INSERT}ing his {COCK} even harder into me.",
+        "Ugh! Ah! {SWEARING}, I can't take any more! Its {COCK} is too {HUGE}, battering against my cervix now.",
+        "My hips {SCREAM} in {PAIN}, pushed to their limits as my {WTVAGINAL} {PUSSY} is {FUCK}ed and stretched.",
+        "Ahh! {SWEARING}... This thing's {COCK}... It hurts... it's too {HUGE}... But it feels... good...",
+        "I felt the touch of the {MONSTER}'s {BALLS}, its {COCK} right up inside me.",
+        "My {PUSSY} is wet and my body is on fire, {HORNY} beyond reason by being {RAP}ed by such a huge {MONSTER}."
+    ],
+    "2nd Person": [
+        "Your legs are spread as far as they'll go now, the {MONSTER} not caring for your comfort as it has its way with you.",
+        "You struggle to hold your ass up as the {ACTIVE} yanks your legs higher, {INSERT}ing his {COCK} even harder into you.",
+        "Ugh! Ah! {SWEARING}, you can't take any more! Its {COCK} is too {HUGE}, battering against your cervix now.",
+        "Your hips {SCREAM} in {PAIN}, pushed to their limits as your {WTVAGINAL} {PUSSY} is {FUCK}ed and stretched.",
+        "Ahh! {SWEARING}... This thing's {COCK}... It hurts... it's too {HUGE}... But it feels... good...",
+        "You felt the touch of the {MONSTER}'s {BALLS}, its {COCK} right up inside you.",
+        "Your {PUSSY} is wet and your body is on fire, {HORNY} beyond reason by being {RAP}ed by such a huge {MONSTER}."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s legs are spread as far as they'll go now, the {MONSTER} not caring for her comfort as it has its way with her.",
+        "{PRIMARY} struggles to hold her ass up as the {ACTIVE} yanks her legs higher, {INSERT}ing his {COCK} even harder into her.",
+        "Ugh! Ah! {SWEARING}, {PRIMARY} can't take any more! Its {COCK} is too {HUGE}, battering against her cervix now.",
+        "{PRIMARY}'s hips {SCREAM} in {PAIN}, pushed to their limits as her {WTVAGINAL} {PUSSY} is {FUCK}ed and stretched.",
+        "Ahh! {SWEARING}... This thing's {COCK}... It hurts... it's too {HUGE}... But it feels... good...",
+        "{PRIMARY} felt the touch of the {MONSTER}'s {BALLS}, its {COCK} right up inside her.",
+        "{PRIMARY}'s {PUSSY} is wet and your body is on fire, {HORNY} beyond reason by being {RAP}ed by such a huge {MONSTER}."
+    ]
+}

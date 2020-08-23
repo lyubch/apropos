@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "The {ACTIVE}'s brisk pace threatens to knock me over, and I have to shamefully hold myself up on all fours.",
+        "My head hangs low, almost to the ground, as the beast starts to fuck its entire {PENIS} into my {PUSSY}.",
+        "Head low, I look between my legs at the {BEAST} {PENIS} pounding into me, feeling good... Really good...",
+        "The {ACTIVE} pounds into me and I can see his two melon-sized balls swell. Oh my...",
+        "I watch in fear as the bulge inches up from my groin toward my stomach."
+    ],
+    "2nd Person": [
+        "The {ACTIVE}'s brisk pace threatens to knock you over, and you have to shamefully hold yourself up on all fours.",
+        "Your head hangs low, almost to the ground, as the beast starts to fuck its entire {PENIS} into your {PUSSY}.",
+        "Head low, you look between your legs at the {BEAST} {PENIS} pounding into you, feeling good... Really good...",
+        "The {ACTIVE} pounds into you and you can see his two melon-sized balls swell. Oh my...",
+        "You watch in fear as the bulge inches up from your groin toward your stomach."
+    ],
+    "3rd Person": [
+        "The {ACTIVE}'s brisk pace threatens to knock {PRIMARY} over, and she has to shamefully hold herself up on all fours.",
+        "{PRIMARY}'s head hangs low, almost to the ground, as the beast starts to fuck its entire {PENIS} into her {PUSSY}.",
+        "Head low, {PRIMARY} looks between your legs at the {BEAST} {PENIS} pounding into her, feeling good... Really good...",
+        "The {ACTIVE} pounds into {PRIMARY} and she can see his two melon-sized balls swell. Oh my...",
+        "{PRIMARY} watches in fear as the bulge inches up from her groin toward her stomach."
+    ]
+}

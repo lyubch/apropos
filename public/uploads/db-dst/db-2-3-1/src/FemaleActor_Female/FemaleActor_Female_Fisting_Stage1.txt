@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "I can't believe what {ACTIVE} wants to do, and I {MOAN} as she tries to {INSERT} her whole hand inside me.",
+        "Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "I {MOAN} as {ACTIVE} {INSERT}s her fingers inside me, before trying to push her entire hand inside me.",
+        "{ACTIVE} presses harder and harder,  until I feel my {PUSSY} give way and she {INSERT}s inside.",
+        "The first few fingers enter me, and I already feel my {FAROUSAL} {PUSSY} straining.",
+        "I want to get really {LEWD}... I want you to hurt me... really hurt me..."
+    ],
+    "2nd Person" :
+    [
+        "You can't believe what {ACTIVE} wants to do, and you {MOAN} as she tries to {INSERT} her whole hand inside you.",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "You {MOAN} as {ACTIVE} {INSERT}s her fingers inside you, before trying to push her entire hand inside you.",
+        "{ACTIVE} presses harder and harder,  until you feel your {PUSSY} give way and she {INSERT}s inside.",
+        "The first few fingers enter you, and you already feel your {FAROUSAL} {PUSSY} straining.",
+        "({PRIMARY}) I want to get really {LEWD}... I want you to hurt me... really hurt me..."
+    ],
+    "3rd Person" :
+    [
+        "Oh my, {ACTIVE}'s not really going to try to put her whole hand up there, is she?",
+        "({PRIMARY}) I want to get really {LEWD}... I want you to hurt me... really hurt me..."      
+    ]
+}

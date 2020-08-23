@@ -1,0 +1,51 @@
+{
+    "1st Person": [
+        "I'm forced to the ground, legs spread open, and a {SALTY} {COCK} is forced between my lips.",
+        "{ACTIVE} holds my head firmly as he presses the tip of his {COCK} to my lips as I struggle.",
+        "{ACTIVE} forces his {COCK} between my lips. Tears stream down my face.",
+        "I gag as {ACTIVE} shoves his {SALTY} {COCK} in my {MOUTH}.",
+        "{ACTIVE} forces me to my knees to suck his {SALTY} {COCK}. I close my eyes and obey.",
+        "The feeling of helplessness turns me on, and I'm disgusted with myself.",
+        "{ACTIVE} grabs my hair and forces entry to my {MOUTH}.",
+        "{ACTIVE} forces me to my knees and I am made to suck a strange man's {COCK}.",
+        "{ACTIVE} presses his {COCK} against my lips. I try to keep them closed, but in vain.",
+        "My clothes are ripped off, exposing my {BOOBS}.",
+        "It's not long before I take his {COCK} in my {MOUTH}, and I truly hate myself for it.",
+        "Please... don't hurt me... I'll suck your {COCK}...",
+        "Don't kill me... I'll swallow your {CUM}... please let me have your {CUM}...",
+        "If you let me go, I'll swallow anything you put in my mouth. Cum, just please...",
+        "I don't recall ever being so turned on as I feel my lips part and slide along his {COCK}.",
+        "({ACTIVE}) If you know what's good for you, you'll get on your knees for me."
+    ],
+    "2nd Person": [
+        "You're forced to the ground, legs spread open, and a {SALTY} {COCK} is forced between your lips.",
+        "{ACTIVE} holds your head firmly as he presses the tip of his {COCK} to your lips as you struggle.",
+        "{ACTIVE} forces his {COCK} between your lips. Tears stream down your face.",
+        "You gag as {ACTIVE} shoves his {SALTY} {COCK} in your {MOUTH}.",
+        "{ACTIVE} forces you to your knees to suck his {SALTY} {COCK}. You close your eyes and obey.",
+        "The feeling of helplessness turns you on, and you're disgusted with yourself.",
+        "{ACTIVE} grabs your hair and forces entry to your {MOUTH}.",
+        "{ACTIVE} forces you to your knees and you are made to suck a strange man's {COCK}.",
+        "{ACTIVE} presses his {COCK} against your lips. You try to keep them closed, but in vain.",
+        "Your clothes are ripped off, exposing your {BOOBS}.",
+        "It's not long before you take his {COCK} in your {MOUTH}, and you truly hate yourself for it.",
+        "({PRIMARY}) Please... don't hurt me... I'll suck your {COCK}.",
+        "({PRIMARY}) Don't kill me... I'll swallow your {CUM}... please let me have your {CUM}.",
+        "({PRIMARY}) If you let me go, I'll swallow anything you put in my mouth. Cum ...",
+        "You don't recall ever being so turned on as you feel your lips part and slide along his {COCK}.",
+        "({ACTIVE}) If you know what's good for you, you'll get on your knees for me."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s forced to the ground, legs spread open, and a {SALTY} {COCK} is forced between her lips.",
+        "{ACTIVE} holds {PRIMARY}'s head firmly as he presses the tip of his {COCK} to her lips.",
+        "{ACTIVE} forces his {COCK} between {PRIMARY}'s lips. Tears stream down her face.",
+        "{PRIMARY} gags as {ACTIVE} shoves his {SALTY} {COCK} in her {MOUTH}.",
+        "{ACTIVE} forces {PRIMARY} to her knees to suck his {SALTY} {COCK}. She closes her eyes and obey.",
+        "{ACTIVE} grabs {PRIMARY}'s hair and forces entry to her {MOUTH}.",
+        "{ACTIVE} forces {PRIMARY} to her knees and she is made to suck a strange man's {COCK}.",
+        "{ACTIVE} presses his {COCK} against {PRIMARY}'s lips. She tries to keep them closed, but in vain.",
+        "{PRIMARY}'s clothes are ripped off, exposing her {BOOBS}.",
+        "It's not long before {PRIMARY} takes his {COCK} in her {MOUTH}.",
+        "({PRIMARY}) Please... don't hurt me... I'll suck your {COCK}..."
+    ]
+}

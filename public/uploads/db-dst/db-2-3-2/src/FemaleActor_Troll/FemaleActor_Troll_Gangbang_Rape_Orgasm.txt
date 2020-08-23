@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "Oh...{SWEARING}... So much {CUM}... And it's everywhere!",
+        "The {ACTIVE}s seem like they're finished with me, and just dump me unceremoniously onto the ground.",
+        "My poor {GENWT} {HOLE}s! They'll be stretched out for a week!"
+    ],
+    "2nd Person": [
+        "Oh...{SWEARING}... So much {CUM}... And it's everywhere!",
+        "The {ACTIVE}s seem like they're finished with you, and just dump you unceremoniously onto the ground.",
+        "Your poor {GENWT} {HOLE}s! They'll be stretched out for a week!"
+    ],
+    "3rd Person": [
+        "Oh...{SWEARING}... So much {CUM}... And it's everywhere!",
+        "The {ACTIVE}s seem like they're finished with her, and just dump her unceremoniously onto the ground.",
+        "Her poor {GENWT} {HOLE}s! They'll be stretched out for a week!"
+    ]
+}

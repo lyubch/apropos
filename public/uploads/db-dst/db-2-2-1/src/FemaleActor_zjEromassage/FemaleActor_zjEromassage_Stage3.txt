@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "We roll over, me on top, and I pump his {COCK} with both hands, before having a naughty idea...",
+        "I stare down at {ACTIVE}'s {HUGE} {COCK} between my fingers, and decide I want to fuck him.",
+        "His {COCK} feels so good... I lift myself up, spread my {PUSSY}, and lower myself on to it.",
+        "I look up and gasp as I slowly pump up and down on {ACTIVE}'s {PENIS}."
+    ],
+    "2nd Person" :
+    [
+        "You roll over, on top, and you pump his {COCK} with both hands, before having a naughty idea...",
+        "You stare down at {ACTIVE}'s {HUGE} {COCK} between your fingers, and decide you want to fuck him.",
+        "His {COCK} feels so good... you lift yourself up, spread your {PUSSY}, and lower yourself on to it.",
+        "You look up and gasp as you slowly pump up and down on {ACTIVE}'s {PENIS}."
+    ],
+    "3rd Person" :
+    [
+        "The look on {PRIMARY}'s face makes it obvious she's going to fuck {ACTIVE}... And she does!",
+        "{PRIMARY}'s hands struggle to fit around {ACTIVE}'s {PENIS}. Oh Gods, she's going to put it in?",
+        "{PRIMARY} wearily raises herself up, before reaching down to spread her {PUSSY} and lowering herself."
+    ]
+}

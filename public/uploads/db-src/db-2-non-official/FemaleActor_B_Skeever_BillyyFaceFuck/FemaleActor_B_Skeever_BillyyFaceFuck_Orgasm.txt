@@ -1,0 +1,44 @@
+{
+    "1st Person" :
+    [
+        "It's {EJACULATE}ing in my throat, {SWEARING}! The volume of its {CUM} is {LARGELOAD}, It almost needs chewing to swallow.",
+        "So much {CUM}, how long has it been holding this much, I keep swallowing but it won't end.",
+        "Hmmm yes, give me that {VILE} {CUM}, relieve yourself in my {MOUTH}, dont hold any drop back.",
+        "Ugh! This {VILE} {CUM} is going to leave a {SLIMY} stinking aftertaste in my throat. At least I did my good deed of the day",
+        "{PLEADING}, no, hold on, not all of it! *GULP *GULP.",
+        "{SWEARING}, its {BALLS} smell {VILE}, if he won't get off me I will vomit its {CUM} back from my stomach.",
+        "It's {EJACULATE}ing all the way down my stomach, I can feel it sliding down in my throat, it keeps pumping it in.",
+        "I can feel the pulsating, and the {SALTY} rat {CUM} {EJACULATE}ing inside my {MOUTH}. I guess I will skip dinner.",
+        "Finally, alright you managed to get off inside my {MOUTH}, now please get off of me, your bulge is stuffing me, I can't breathe!",
+        "Hold on, don't pull out yet, I want to make sure I suck every last drop out of you! Push it inside...",
+        "It keeps {EJACULATE}ing, if it had shot all these in my {PUSSY}, I would probably be carrying some baby {ACTIVE}s in my belly for some time."
+    ],
+    "2nd Person" :
+    [
+        "It's {EJACULATE}ing in your throat, the volume is unbelievable!",
+        "So much {CUM}, how long has it been holding this much, you keep swallowing but it won't end.",
+        "({PRIMARY}) Hmmm yes, give me that {VILE} {CUM}, relieve yourself in my {MOUTH}, dont hold any drop back.",
+        "Ugh! This {VILE} {CUM} is going to leave a {SLIMY} stinking aftertaste in your throat. At least you did your good deed of the day.",
+        "({PRIMARY}) {PLEADING}, no, hold on, not all of it! *GULP *GULP.",
+        "{SWEARING}, its {BALLS} smell {VILE}, if he won't get off you, you will vomit its {CUM} back from your stomach.",
+        "It's {EJACULATE}ing all the way down your stomach, you can feel it sliding down in your throat, it keeps pumping it in.",
+        "You can feel the pulsating, and the {SALTY} rat {CUM} {EJACULATE}ing inside your {MOUTH}. You will probably skip dinner...",
+        "({PRIMARY}) Finally, alright you managed to get off inside my {MOUTH}, now please get off of me, your bulge is stuffing me, I can't breathe!",
+        "({PRIMARY}) Hold on, don't pull out yet, I want to make sure I suck every last drop out of you! Push it inside...",
+        "It keeps {EJACULATE}ing, if it had shot all these in your {PUSSY}, you would probably be carrying some baby {ACTIVE}s in your belly for some time."
+    ],
+    "3rd Person" :
+    [
+        "It's {EJACULATE}ing in {PRIMARY}'s throat, the volume is unbelievable!",
+        "So much {CUM}, how long has it been holding this much, {PRIMARY}'s keep swallowing but it won't end.",
+        "({PRIMARY}) Hmmm yes, give me that {VILE} {CUM}, relieve yourself in my {MOUTH}, dont hold any drop back.",
+        "Ugh! This {VILE} {CUM} is going to leave a {SLIMY} stinking aftertaste in {PRIMARY}'s throat. At least she did your good deed of the day.",
+        "({PRIMARY}) {PLEADING}, no, hold on, not all of it! *GULP *GULP.",
+        "{SWEARING}, its {BALLS} smell {VILE}, if he won't get off {PRIMARY}, she will vomit its {CUM} back from her stomach.",
+        "It's {EJACULATE}ing all the way down {PRIMARY}'s stomach, she can feel it sliding down in her throat, it keeps pumping it in.",
+        "{PRIMARY} can feel the pulsating, and the {SALTY} rat {CUM} {EJACULATE}ing inside her {MOUTH}. {PRIMARY} will probably skip dinner...",
+        "({PRIMARY}) Finally, alright you managed to get off inside my {MOUTH}, now please get off of me, your bulge is stuffing me, I can't breathe!",
+        "({PRIMARY}) Hold on, don't pull out yet, I want to make sure I suck every last drop out of you! Push it inside...",
+        "It keeps {EJACULATE}ing, if it had shot all these in {PRIMARY}'s {PUSSY}, she would probably be carrying some baby {ACTIVE}s in her belly for some time."
+    ]
+}

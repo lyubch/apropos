@@ -1,0 +1,51 @@
+{
+    "1st Person" :
+    [
+        "Surprised to be knocked on my ass by such a tiny creature, I'm even more surprised to see his {COCK}.",
+        "I push hard against the {ACTIVE} as he tries to rape me, but I'm shocked at his strength.",
+        "No! I gasp and panic as I feel the creature's {BEAST} {COCK} at my {WTVAGINAL} {PUSSY}.",
+        "I realise in horror that I'm about to mate with this horrible thing...",
+        "What?!! You want me to fuck you?! No! No way! I can't!",
+        "(pant) Let's just get this over with...",
+        "The {ACTIVE} moves between my legs. I feel its {BEAST} {COCK} touch the lips of my {PUSSY}.",
+        "Electricity flashes through my body as its {BEAST} {COCK} grazes my {PUSSY} lips. Oh my...",
+        "Oh Gods, no... This thing wants to screw me too!",
+        "Oh my...! It has such a {HUGE} {COCK} for such a little thing...",
+        "I'm embarrassed to say, but I stop struggling and just stare at the {ACTIVE}'s {COCK}.",
+        "If I don't do something quick, I'm gonna get fucked...",
+        "I'm seconds away from being penetrated. This is my last chance to stop it...",
+        "Oh Gods, no... This thing wants to screw me too!",
+        "Whatever this thing is, it's about to fuck me!",
+        "I look in dread at the {BEAST} {COCK}, knowing there's nothing I can do to stop it ending up inside me..."
+    ],
+    "2nd Person" :
+    [
+        "Surprised to be knocked on your ass by such a tiny creature, you're even more surprised to see his {COCK}.",
+        "You push hard against the {ACTIVE} as he tries to rape you, but you're shocked at his strength.",
+        "No! you gasp and panic as you feel the creature's {BEAST} {COCK} at your {WTVAGINAL} {PUSSY}.",
+        "You realise in horror that you're about to mate with this horrible thing...",
+        "({PRIMARY}) What?!! You want me to fuck you?! No! No way! I can't!",
+        "({PRIMARY}) (pant) Let's just get this over with...",
+        "The {ACTIVE} moves between your legs. You feel its {BEAST} {COCK} touch the lips of your {PUSSY}.",
+        "Electricity flashes through your body as its {BEAST} {COCK} grazes your {PUSSY} lips. Oh my...",
+        "Oh Gods, no... This thing wants to screw you too!'",
+        "Oh my...! It has such a {HUGE} {COCK} for such a little thing...",
+        "You're embarrassed to say, but you stop struggling and just stare at the {ACTIVE}'s {COCK}.",
+        "If you don't do something quick, You're gonna get fucked...",
+        "You're seconds away from being penetrated. This is your last chance to stop it...",
+        "Oh Gods, no... This thing wants to screw you too!",
+        "Whatever this thing is, it's about to fuck you!",
+        "You look in dread at the {BEAST} {COCK}, knowing there's nothing you can do to stop it ending up inside you..."
+    ],
+    "3rd Person" :
+    [
+        "Surprised to be knocked on her ass by such a tiny creature, {PRIMARY}'s even more surprised to see his {COCK}.",
+        "{PRIMARY} pushes hard against the {ACTIVE} as he tries to rape her, but she's shocked at his strength.",
+        "{PRIMARY} gasps and panics as the creature's {BEAST} {COCK} aims at her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} realises in horror that she's about to mate with this horrible thing...",
+        "({PRIMARY}) What?!! You want me to fuck you?! No! No way! I can't!",
+        "({PRIMARY}) (pant) Let's just get this over with...",
+        "Oh Gods, no... This thing wants to screw {PRIMARY} too!",
+        "Oh my...! It has such a {HUGE} {COCK} for such a little thing..."
+    ]
+}

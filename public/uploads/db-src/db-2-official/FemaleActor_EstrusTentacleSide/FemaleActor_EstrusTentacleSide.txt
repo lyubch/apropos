@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "A slimy grab at my leg is all the warning I get before my limps are all spread and secured, and my {PUSSY} exposed.",
+        "I scream in surprise as tentacles burst out of the underbrush. Within seconds I'm trussed up and at their mercy.",
+        "I try to scramble back to my feet, intimately familiar with what kind of creature employs this ambush tactic, but it's already too late...",
+        "Panic rushes through me, as I feel a slimy grip pull me to the ground, but my struggles are for nought, it got me...",
+        "Suddenly tripped onto my back, I hit my head hard, and while dazed I'm handily stripped, secured and spread.",
+        "What the fu-! What the hell kind of- Hey! Give me back my armor! And let me go!",
+        "With a yelp, I fall onto my back. Something tripped me- {SWEARING}! Tentacles! They've got me!"
+    ],
+    "2nd Person": [
+        "A slimy grab at your leg is all the warning you get before your limps are all spread and secured, and your {PUSSY} exposed.",
+        "Panic rushes through you, as you feel a slimy grip pull you to the ground, but your struggles are for nought, it got you...",
+        "Suddenly tripped onto your back, you hit your head hard, and while dazed you're handily stripped, secured and spread.",
+        "({PRIMARY}) What the fu-! What the hell kind of- Hey! Give me back my armor! And let me go!",
+        "With a yelp, you fall onto your back. Something tripped you- {SWEARING}! Tentacles! They've got you!",
+        "You scream in surprise as tentacles burst out of the underbrush. Within seconds you're trussed up and at their mercy.",
+        "You try to scramble back to your feet, intimately familiar with what kind of creature employs this ambush tactic, but it's already too late..."
+    ],
+    "3rd Person": [
+        "A slimy grab at {PRIMARY}'s leg is all the warning she gets before her limps are all spread and secured, and her {PUSSY} exposed.",
+        "Panic rushes through {PRIMARY}, as she feels a slimy grip pull her to the ground, but her struggles are for nought, it got her...",
+        "Suddenly tripped onto her back, {PRIMARY} hits her head hard, and while dazed she's handily stripped, secured and spread.",
+        "({PRIMARY}) What the fu-! What the hell kind of- Hey! Give me back my armor! And let me go!",
+        "With a yelp, {PRIMARY} falls onto her back. Something tripped her - {SWEARING}! Tentacles! They've got her!",
+        "{PRIMARY} screams in surprise as tentacles burst out of the underbrush. Within seconds she's trussed up and at their mercy.",
+        "{PRIMARY} tries to scramble back to her feet, intimately familiar with what kind of creature employs this ambush tactic, but it's already too late..."
+    ]
+}

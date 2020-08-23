@@ -1,0 +1,37 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} holds me tightly by the waist, and shoves his {BEAST} {COCK} into my {ASS}.",
+        "I try to run, but the {ACTIVE} is too fast. It grabs hold of me, yanks down my underwear, and enters me.",
+        "Held painfully by the beast's wicked claws, I feel my cheeks spread roughly as it enters me from behind.",
+        "I tense, feeling immense pressure at my {ASS}, followed by a sharp pain as the bulge forces its way inside.",
+        "I gasp as the head nestles between my cheeks. Roughly he pushes the head inside.",
+        "The {ACTIVE} slowly shoves his {COCK} past my sphincter and inside. I grunt and then moan in pain.",
+        "As the {ACTIVE} presses harder and harder, I reluctantly relax my {ASS} and he slides inside.",
+        "My {ASS} juts upwards, round, youthful and flawless, and vulnerably presented to my monstrous attacker.",
+        "I forget that my attacker is just a man, with a man's perversions, and he takes me in the {ASS}.",
+        "Please... not my {PUSSY}... I'll do anything... I'll... I'll... take it in the {ASS}!"
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} holds you tightly by the waist, and shoves his {BEAST} {COCK} into your {ASS}.",
+        "You try to run, but the {ACTIVE} is too fast. It grabs you, yanks down your underwear, and enters you.",
+        "Held painfully by the beast's wicked claws, you feel your cheeks spread roughly as it enters you from behind.",
+        "You tense, feeling immense pressure at your {ASS}, followed by a sharp pain as he forces his way inside.",
+        "You gasp as the head nestles between your cheeks. Roughly he pushes the head inside.",
+        "The {ACTIVE} slowly shoves his {COCK} past your sphincter and inside. You grunt and then moan in pain.",
+        "As the {ACTIVE} presses harder and harder, you reluctantly relax your {ASS} and he slides inside.",
+        "Your {ASS} juts upwards, round, youthful and flawless, and vulnerably presented to your monstrous attacker.",
+        "You forget that your attacker is just a man, with a man's perversions, and he takes you in the {ASS}.",
+        "({PRIMARY}) Please... not my {PUSSY}... I'll do anything... I'll... I'll... take it in the {ASS}!"
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} holds {PRIMARY} tightly by the waist, and shoves his {BEAST} {COCK} into her {ASS}.",
+        "{PRIMARY} tries to run, but the {ACTIVE} is too fast. It grabs hold, and enters her.",
+        "Held painfully by the beast's claws, {PRIMARY} feels her cheeks spread roughly as it enters her from behind.",
+        "{PRIMARY} gasps as the head nestles between her cheeks. Roughly he pushes the head inside.",
+        "The {ACTIVE} slowly shoves his {COCK} past her sphincter and inside. {PRIMARY} grunts and then moans in pain.",
+        "As the {ACTIVE} presses harder and harder, {PRIMARY} reluctantly relaxes her {ASS} and he slides inside."
+    ]
+}

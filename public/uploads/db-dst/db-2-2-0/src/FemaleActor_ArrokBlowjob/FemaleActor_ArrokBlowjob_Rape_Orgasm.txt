@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "Relief washes over me as the {ACTIVE} finally cums, covering me in {SLOPPY} {CUM}.",
+        "I narrowly avoid taking the {ACTIVE}'s load in my {MOUTH}, and it shoots right across the my cheek.",
+        "({ACTIVE}) Ahhh... I didn't... say stop... You better clean up that {CUM}, {BITCH}.",
+        "Even after that, with his {CUM} in my hair, my {PUSSY} is {FAROUSAL}. I need to get away from here first...",
+        "I feel him spasm in my hand, and a fountain of {CUM} erupts right beside my face.",
+        "It's so hot... so {VILE}... I can't get enough of it..."
+    ],
+    "2nd Person": [
+        "Relief washes over you as the {ACTIVE} finally cums, covering you in {SLOPPY} {CUM}.",
+        "You narrowly avoid taking the {ACTIVE}'s load in your {MOUTH}, and it shoots right across the your cheek.",
+        "({ACTIVE}) Ahhh... I didn't... say stop... You better clean up that {CUM}, {BITCH}.",
+        "After that, with his {CUM} in your hair, your {PUSSY} is {FAROUSAL}. You need to get away from here first...",
+        "You feel him spasm in your hand, and a fountain of {CUM} erupts right beside your face.",
+        "It's so hot... so {VILE}... you can't get enough of it..."
+    ],
+    "3rd Person": [
+        "That was lucky, the {ACTIVE} only came across {PRIMARY}'s face and not in her {MOUTH}...",
+        "{PRIMARY} starts to slurp at the {ACTIVE}'s {PENIS} as he cums, licking up {SLOPPY} dribbles.",
+        "The {ACTIVE} grunts and cums, his {SLOPPY} load covering {PRIMARY}'s face and hair."
+    ]
+}

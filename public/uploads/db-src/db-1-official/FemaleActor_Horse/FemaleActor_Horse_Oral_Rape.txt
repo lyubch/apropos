@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "Perhaps my armour is frightening the animal? I strip and attempt to calm it...",
+        "The horse may have been wild a moment ago, but I manage to calm it by gently stroking it.",
+        "I reach out to calm the wild beast, my {PUSSY} {FAROUSAL} as I approach.",
+        "I strip my weapons and armour off to show the animal not to be scared...",
+        "This wild, powerful animal, calmed by my naked body... I start to get wet...",
+        "I should be fleeing from this berserk animal, but I'm getting so turned on at this huge, muscled beast.",
+        "Dropping my clothes, I shiver at the cold air, my nipples starting to stiffen.",
+        "Easy boy... easy... I'm not going to hurt you...",
+        "Naked and exposed, and trying to calm a wild animal... My fingers stray to my {PUSSY}... It's {FAROUSAL}...",
+        "This huge animal... so big, so powerful... No! I can't be thinking like that...",
+        "Not wanting to startle the agitated animal, I slowly reach out and stroke its hide."
+    ],
+    "2nd Person": [
+        "Perhaps your armour is frightening the animal? you strip and attempt to calm it...",
+        "The horse may have been wild a moment ago, but you manage to calm it by gently stroking it.",
+        "You reach out to calm the wild beast, your {PUSSY} {FAROUSAL} as you approach.",
+        "You strip your weapons and armour off to show the animal not to be scared...",
+        "This wild, powerful animal, calmed by your naked body... You start to get wet...",
+        "You should be fleeing from this berserk animal, but you're getting so turned on at this huge, muscled beast.",
+        "Dropping your clothes, you shiver at the cold air, your nipples starting to stiffen.",
+        "({PRIMARY}) Easy boy... easy... I'm not going to hurt you..'",
+        "Naked and exposed, trying to calm a wild animal... Your fingers stray to your {PUSSY}... It's {FAROUSAL}...",
+        "This huge animal... so big, so powerful... No! you can't be thinking like that...",
+        "Not wanting to startle the agitated animal, you slowly reach out and stroke its hide."
+    ],
+    "3rd Person": [
+        "Perhaps her armour is frightening the animal? {PRIMARY} strips and attempts to calm it...",
+        "The horse may have been wild a moment ago, but {PRIMARY} manages to calm it by gently stroking it.",
+        "{PRIMARY} reaches out to calm the wild beast, her legs spreading as she approaches.",
+        "{PRIMARY} strips her weapons and armour off to show the animal not to be scared...",
+        "This wild, powerful animal, calmed by {PRIMARY}'s naked body... That's such a turn on...",
+        "{PRIMARY} should be fleeing from this berserk animal, not getting naked and approaching the huge beast!",
+        "Dropping her clothes, {PRIMARY} shivers at the cold air, her nipples starting to stiffen.",
+        "({PRIMARY}) Easy boy... easy... I'm not going to hurt you...",
+        "Naked and exposed, and trying to calm a wild animal... {PRIMARY}'s fingers stray to her {PUSSY}...",
+        "This huge animal... so big, so powerful... No! {PRIMARY} can't be about to do that...",
+        "Not wanting to startle the agitated animal, {PRIMARY} slowly reaches out and strokes its hide."
+    ]
+}

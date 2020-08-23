@@ -1,0 +1,22 @@
+{
+    "1st Person": [
+        "I like you, you're cute. After this, you can do anything you want to me. And I do mean anything!",
+        "No fair... You're getting me way too {HORNY}...",
+        "({ACTIVE}) I know you want it. Because now I know what a {CREAM} hungry {BITCH} you are.",
+        "{ACTIVE}'s {COCK} is getting bigger, harder and throbbing with power.",
+        "I can't believe how wet I'm getting from this, I can hear my {CREAM} dripping in the ground...",
+        "I'm wet as fuck right now just imagining it {EJACULATE}ing on me... or... mmmmm... in me!",
+        "Don't like me talking dirty? Well I guess you better wash my {MOUTH} out with {CREAM} then.",
+        "Most guys around here seem to like {FUCK}ing me. You want to take a turn?"
+    ],
+    "2nd Person": [
+        "({PRIMARY}) I like you, you're cute. After this, you can do anything you want to me. And I do mean anything!",
+        "({PRIMARY}) No fair... You're getting me way too {HORNY}.",
+        "({ACTIVE}) I know you want it. Because now I know what a {CREAM} hungry {BITCH} you are.",
+        "You can't believe how wet you're getting from this, you can hear your {CREAM} dripping on the ground..."
+    ],
+    "3rd Person": [
+        "({PRIMARY}) I like you, you're cute. After this, you can do anything you want to me. And I do mean anything!",
+        "({ACTIVE}) I know you want it. Because now I know what a {CREAM} hungry {BITCH} you are."
+    ]
+}

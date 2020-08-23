@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "({ACTIVE}) I'm not here for a handjob, {BITCH}!",
+        "I feel the {ACTIVE}'s hand on the back of my head. I look up in {FEAR} briefly before he pushes me down.",
+        "{SWEARING}, the taste is {VILE}! I can't even imagine where this has been, and now it's in my {MOUTH}!",
+        "My eyes bulge as the first thrust hits the back of my throat, and each stroke after it pushes deeper.",
+        "I brace myself as the {ACTIVE} starts to pump my head down on his {SALTY} {COCK}.",
+        "{ACTIVE} forces his {COCK} between my lips. Tears stream down my face.",
+        "I {SCREAM}. I choke a couple of times, but it doesn't slow him down.",
+        "({ACTIVE}) C'mon {BITCH}, I'm sure you {SUCK} your {MFAMILY} every day!",
+        "I choke and gag, but I'm so aroused by this rough treatment.",
+        "With nearly 8 inches lodged into my throat, I noisily struggle to gorge myself on the last damn inch."
+    ],
+    "2nd Person": [
+        "({ACTIVE}) I'm not here for a handjob, {BITCH}!",
+        "You feel the {ACTIVE}'s hand on your head. You look up in {FEAR} briefly before he pushes you down.",
+        "{SWEARING}, the taste is {VILE}! You can't even imagine where this has been, and now it's in your {MOUTH}!",
+        "Your eyes bulge as the first thrust hits the back of your throat, and each stroke after it pushes deeper.",
+        "You brace yourself as the {ACTIVE} starts to pump your head down on his {SALTY} {COCK}.",
+        "{ACTIVE} forces his {COCK} between your lips. Tears stream down your face.",
+        "You {SCREAM}. you choke a couple of times, but it doesn't slow him down.",
+        "({ACTIVE}) C'mon {BITCH}, I'm sure you {SUCK} your {MFAMILY} every day!",
+        "You choke and gag, but you're so aroused by this rough treatment.",
+        "With nearly 8 inches lodged into your throat, you noisily struggle to gorge yourself on the last damn inch."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s shoulders tense every time the {ACTIVE} pushes her head down onto his {COCK}.",
+        "{PRIMARY} pushes back on the {ACTIVE}, trying to stop him going too deep.",
+        "The {ACTIVE}'s hand takes {PRIMARY}'s head, and steadily pushes her down on his {HUGE} {COCK}.",
+        "A panicked {SCREAM} is cut off by his {COCK} {PENETRAT}ing deeper and cutting off {PRIMARY}'s air passage."
+    ]
+}

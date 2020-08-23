@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "He's still growling and snarling at me, but now he's starting to pump into me...",
+        "Seeing that this is calming him down, I begin to ride {ACTIVE} more quickly.",
+        "My cheeks burn red with embarrassment, I don't want to be seen like this.",
+        "I imagine how much {CUM} {ACTIVE}'s about to put into my {WTVAGINAL} {PUSSY}.",
+        "AHHHH! (gasp) It went all the way in?!",
+        "This is so wrong... I'm a good girl, I shouldn't be fucking a dog...",
+        "I worry that I am doing this with a dog, but the feeling of him pumping into me is soooo good..."
+    ],
+    "2nd Person": [
+        "He's still growling and snarling at you, but now he's starting to pump into you...",
+        "Seeing that this is calming him down, you begin to ride {ACTIVE} more quickly.",
+        "Your cheeks burn red with embarrassment, you don't want to be seen like this.",
+        "You imagine how much {CUM} {ACTIVE}'s about to put into your {WTVAGINAL} {PUSSY}.",
+        "AHHHH! (gasp) It went all the way in?!",
+        "This is so wrong... You're a good girl, you shouldn't be fucking a dog...",
+        "You worry that you're doing this with a dog, but the feeling of him pumping into you is soooo good..."
+    ],
+    "3rd Person": [
+        "He's still growling and snarling at {PRIMARY}, but now he's starting to pump into her...",
+        "Seeing that this is calming him down, {PRIMARY} begins to ride {ACTIVE} more quickly.",
+        "{PRIMARY}'s cheeks burn red with embarrassment, she doesn't want to be seen like this.",
+        "{PRIMARY} imagines how much {CUM} {ACTIVE}'s about to put into her {WTVAGINAL} {PUSSY}.",
+        "AHHHH! (gasp) It went all the way in?!",
+        "This is so wrong... {PRIMARY} is a good girl, she shouldn't be fucking a dog...",
+        "{PRIMARY} worries that she's doing this with a dog, but the feeling of him pumping into her is soooo good..."
+    ]
+}

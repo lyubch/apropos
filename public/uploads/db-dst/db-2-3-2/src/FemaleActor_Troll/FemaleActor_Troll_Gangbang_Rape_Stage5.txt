@@ -1,0 +1,16 @@
+{
+    "1st Person": [
+        "My mind is overtaken by {FEAR} and {PAIN} and for a moment I forget where I am.",
+        "{SWEARING}, how deep are their {COCK}s? Will I ever recover from this?",
+        "I'm already {WET} in their pre-cum... What will it be like when they {EJACULATE}?"
+    ],
+    "2nd Person": [
+        "Your mind is overtaken by {FEAR} and {PAIN} and for a moment you forget where you are.",
+        "{SWEARING}, how deep are their {COCK}s? Will you ever recover from this?",
+        "You're already {WET} in their pre-cum... What will it be like when they {EJACULATE}?"
+    ],
+    "3rd Person": [
+        "{SWEARING}, how deep are their {COCK}s? Will she ever recover from this?",
+        "She's already {WET} in their pre-cum... What will it be like when they {EJACULATE}?"
+    ]
+}

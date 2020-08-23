@@ -1,0 +1,47 @@
+{
+    "1st Person" :
+    [
+        "I try to break away, but the huge claw around my neck holds me back and its {PENIS} pushes into my {ASS}.",
+        "The {ACTIVE} holds me from behind, gripping my hip as it fucks my {WTANAL} {ASS} quickly from behind.",
+        "I hear the {ACTIVE} snarling at my ear and feel its breath quicken as it rapes my {WTANAL} {ASS}.",
+        "I struggle with both hands to free myself, but the {ACTIVE} is far too strong for me...",
+        "My feet scrape at the hard ground, driven by fear and the pain of the beast's {PENIS} in my {ASS}.",
+        "The {ACTIVE}'s hard strokes push deep into me, forcing my body up into tip toes with each stroke.",
+        "I try to run, but the {ACTIVE} is too fast. It grabs hold of me, yanks down my underwear, and enters me.",
+        "Held painfully by the beast's wicked claws, I feel my cheeks spread roughly as it enters me from behind.",
+        "I tense, feeling immense pressure at my {ASS}, followed by a sharp pain as the bulge forces its way inside.",
+        "I gasp as the head nestles between my cheeks. Roughly he pushes the head inside.",
+        "The {ACTIVE} slowly shoves his {PENIS} past my sphincter and inside. I grunt and then moan in pain.",
+        "Please don't kill me... I'll take your knot all the way if you let me live...",
+        "No! Please! Not like this! (sob) No... Please no...",
+        "Please! At least change back to a human first! Ahhh! No! I can't fuck a monster...",
+        "I forget that my attacker is just a man, with a man's perversions, and he takes me in the {ASS}.",
+        "Please... not my {PUSSY}... I'll do anything... I'll... I'll... take it in the {ASS}!"                
+    ],
+    "2nd Person" :
+    [
+        "You try to break away, but the huge claw around your neck holds you back and its {PENIS} pushes into your {ASS}.",
+        "The {ACTIVE} holds you from behind, gripping your hip as it fucks your {WTANAL} {ASS} quickly from behind.",
+        "You hear the {ACTIVE} snarling at your ear and feel its breath quicken as it rapes your {WTANAL} {ASS}.",
+        "You struggle with both hands to free yourself, but the {ACTIVE} is far too strong for you...",
+        "Your feet scrape at the hard ground, driven by fear and the pain of the beast's {PENIS} in your {ASS}.",
+        "The {ACTIVE}'s hard strokes push deep into you, forcing your body up into tip toes with each stroke.",
+        "You try to run, but the {ACTIVE} is too fast. It grabs hold of you, yanks down your underwear, and enters you.",
+        "Held painfully by the beast's wicked claws, you feel your cheeks spread roughly as it enters you from behind.",
+        "You tense, feeling immense pressure at your {ASS}, followed by a sharp pain as the bulge forces its way inside.",
+        "You gasp as the head nestles between your cheeks. Roughly he pushes the head inside.",
+        "The {ACTIVE} slowly shoves his {PENIS} past your sphincter and inside. You grunt and then moan in pain.",
+        "({PRIMARY}) Please don't kill me... I'll take your knot all the way if you let me live...",
+        "({PRIMARY}) No! Please! Not like this! (sob) No... Please no...",
+        "({PRIMARY}) Please! At least change back to a human first! Ahhh! No! I can't fuck a monster...",
+        "You forget that your attacker is just a man, with a man's perversions, and he takes you in the {ASS}.",
+        "({PRIMARY}) Please... not my {PUSSY}... I'll do anything... I'll... I'll... take it in the {ASS}!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} struggles, but the {ACTIVE} has a firm grip on her.",
+        "{PRIMARY}'s eyes widen in shock as the {BEAST} {PENIS} is thrust into her {WTANAL} {ASS}.",
+        "{PRIMARY} pulls in vain at the {ACTIVE}'s huge claw, wrapped around her tiny neck.",
+        "Oh my... It's horrible to see a girl like {PRIMARY} dominated and fucked by a monster... But also..."
+    ]
+}

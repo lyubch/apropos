@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "Oh Gods, this isn't real... I don't think I'll be able to get away... I'll have to fuck it all the way...",
+        "Terror washes over me as the creature takes hold of me, one massive claw cupping my breast.",
+        "Oh no... It's getting impatient... I'm going to have to... Start fucking...",
+        "I stare blankly, all too aware of the filthy paws all over me and the {BEAST} {PENIS} inside me.",
+        "I grind my hips briskly, feeling the filthy fur against my thighs.",
+        "Aah ah... Oh my goodness... This thing's {COCK}... It feels... Good...",
+        "I grind steadily on the monster's {BEAST} {COCK}, dizzy and light headed from the mix of sensations.",
+        "The beast howls as my {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEAST} {COCK}."
+    ],
+    "2nd Person": [
+        "Oh Gods, this isn't real... You don't think you'll be able to get away... You'll have to fuck it all the way...",
+        "Terror washes over you as the creature takes hold, one massive claw cupping your breast.",
+        "Oh no... It's getting impatient... You're going to have to... Start fucking...",
+        "You stare blankly, all too aware of the filthy paws all over you and the {BEAST} {PENIS} inside you.",
+        "You grind your hips briskly, feeling the filthy fur against your thighs.",
+        "({PRIMARY}) Aah ah... Oh my goodness... This thing's {COCK}... It feels... Good...",
+        "You grind steadily on the monster's {BEAST} {COCK}, dizzy and light headed from the mix of sensations.",
+        "The beast howls as your {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEAST} {COCK}."
+    ],
+    "3rd Person": [
+        "Oh Gods, this isn't real... {PRIMARY} doesn't think she'll be able to get away... She'll have to fuck it all the way...",
+        "Terror washes over {PRIMARY} as the creature takes hold, one massive claw cupping her breast.",
+        "Oh no... It's getting impatient... {PRIMARY} is going to have to... Start fucking...",
+        "{PRIMARY} stares blankly, all too aware of the filthy paws all over her and the {BEAST} {PENIS} inside her.",
+        "{PRIMARY} grinds your hips briskly, feeling the filthy fur against her thighs.",
+        "({PRIMARY}) Aah ah... Oh my goodness... This thing's {COCK}... It feels... Good...",
+        "{PRIMARY} grinds steadily on the monster's {BEAST} {COCK}, dizzy and light headed from the mix of sensations.",
+        "The beast howls as {PRIMARY}'s {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEAST} {COCK}."
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "Lesbians are so much better at eating pussy than men are.",
+        "I want her {PUSSY} and {CREAM} everywhere on my body. I want to smell like her for the next week.",
+        "Her {PUSSY} is just as {TASTY} as I hoped it would be.",
+        "({ACTIVE}) Your {PUSSY} tastes so {TASTY}! I want my tongue inside you forever!",
+        "({PRIMARY}) When I'm done with you you'll crave {PUSSY}, and never want to see a {COCK} again!",
+        "I make out with her {PUSSY}, my face is {WET} with her {CREAM}.",
+        "I {LEWD}ly lap the {CREAM} out of her {PUSSY}.",
+        "I hope she's enjoying this as much as I am; I want to make sure it happens again."
+    ],
+    "2nd Person": [
+        "Lesbians are so much better at eating pussy than men are.",
+        "You want her {PUSSY} and {CREAM} everywhere on your body. You want to smell like her for the next week.",
+        "Her {PUSSY} is just as {TASTY} as you hoped it would be.",
+        "({ACTIVE}) Your {PUSSY} tastes so {TASTY}! I want my tongue inside you forever!",
+        "({PRIMARY}) When I'm done with you you'll crave {PUSSY}, and never want to see a {COCK} again!",
+        "You make out with her {PUSSY}, your face is {WET} with her {CREAM}.",
+        "You {LEWD}ly lap the {CREAM} out of her {PUSSY}.",
+        "You hope she's enjoying this as much as you are; You want to make sure it happens again."
+    ],
+    "3rd Person": [
+        "({ACTIVE}) My {MFAMILY} wants to {FUCK} you; He's going to be disappointed to find out you like pussy.",
+        "Lesbians are so much better at eating pussy than men are.",
+        "({ACTIVE}) I want your {PUSSY} and {CREAM} everywhere on my body. I want to smell like you for the next week.",
+        "({ACTIVE}) Her {PUSSY} is just as {TASTY} as I hoped it would be.",
+        "({ACTIVE}) Your {PUSSY} tastes so {TASTY}! I want my tongue inside you forever!",
+        "({ACTIVE}) I wish you weren't married!",
+        "({PRIMARY}) If I leave my husband, can I taste your {PUSSY} every day?",
+        "({PRIMARY}) When I'm done with you you'll crave {PUSSY}, and never want to see a {COCK} again!",
+        "({PRIMARY}) Your {MFAMILY} wanted me to let him {FUCK} me but you're more my style...",
+        "({ACTIVE}) I want you to move in with me and be my full-time pussy slave.",
+        "({PRIMARY}) I'll tell my husband I'm leaving him for you tonight!",
+        "({PRIMARY}) I am SO glad you married my {MFAMILY}; Now we can spend all of our time together!",
+        "She makes out with her {PUSSY}, her face is {WET} with her {CREAM}.",
+        "She {LEWD}ly lap the {CREAM} out of her {PUSSY}."
+    ]
+}

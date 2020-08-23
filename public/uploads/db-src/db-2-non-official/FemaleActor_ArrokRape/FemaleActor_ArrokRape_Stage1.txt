@@ -1,0 +1,34 @@
+{
+    "1st Person" :
+    [
+        "Even though I'm consenting, {ACTIVE} pushes me to the ground, and begins to {ROUGH}ly {FUCK} my {ASSHOLE}.",
+        "Sometimes I want to make love, and other times I just want to be {FUCK}ed and {RAP}ed like a {BITCH}.",
+        "I'm pushed {ROUGH}ly to the dirt, my face buried in {SCUM} while {ACTIVE} takes me in the {ASSHOLE}.",
+        "Face down in the dirt, and my {ASSHOLE} in the air getting punished. I love it!",
+        "{ACTIVE} takes me {ROUGH}ly, more {ROUGH}ly than I imagined. I {SCREAM} as he starts to {FUCK} my {ASSHOLE}.",
+        "{ACTIVE} {INSERT}s into my {ASSHOLE}, and then begins {FUCK}ing into me in long, powerful strokes.",
+        "{ACTIVE}'s {HUGE} {COCK} stretches me as it enters, and pulls me back as it leaves. I bite my lip.",
+        "I can feel myself stretch around the invader, and it hurts enough that I almost {SCREAM} out in {PAIN}.",
+        "You want to stick it up my {ASSHOLE}? O...okay...  Be gentle...   AHHH!",
+        "{ACTIVE} places the {COCKHEAD} of his {COCK} against my {ASSHOLE} and pushes. I {SCREAM} in {PAIN}."         
+    ],
+    "2nd Person" :
+    [
+        "Even though you're consenting, {ACTIVE} pushes you to the ground, and begins to {ROUGH}ly {FUCK} your {ASSHOLE}.",
+        "Sometimes you want to make love, and other times you just want to be {FUCK}ed and {RAP}ed like a {BITCH}.",
+        "You're pushed {ROUGH}ly to the dirt, your face buried in {SCUM} while {ACTIVE} takes you in the {ASSHOLE}.",
+        "Face down in the dirt, and your {ASSHOLE} in the air getting punished. You love it!",
+        "{ACTIVE} takes you {ROUGH}ly, more {ROUGH}ly than you imagined. You {SCREAM} as he starts to {FUCK} your {ASSHOLE}.",
+        "{ACTIVE} {INSERT}s into your {ASSHOLE}, and then begins {FUCK}ing into you in long, powerful strokes.",
+        "{ACTIVE}'s {HUGE} {COCK} stretches you as it enters, and pulls you back as it leaves. You bite your lip.",
+        "You can feel yourself stretch around the invader, and it hurts enough that you almost {SCREAM} out in {PAIN}.",
+        "({PRIMARY}) You want to stick it up my {ASSHOLE}? O...okay...  Be gentle...   AHHH!",
+        "{ACTIVE} places the {COCKHEAD} of his {COCK} against your {ASSHOLE} and pushes. You {SCREAM} in {PAIN}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} doesn't stop {ACTIVE} pushing her to the ground and {FUCK}ing her {ASSHOLE}. What a {BITCH}.",
+        "{ACTIVE} lifts up {PRIMARY}'s {ASSHOLE} and starts to {FUCK} her hard. Does she get off on rough treatment?",
+        "{ACTIVE} manhandles {PRIMARY}, pulling back on her arms as he {FUCK}s her {ASSHOLE}. Oh my..."
+    ]
+}

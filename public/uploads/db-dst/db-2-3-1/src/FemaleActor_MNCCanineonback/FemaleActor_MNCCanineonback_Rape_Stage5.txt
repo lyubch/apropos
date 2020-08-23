@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "Ahh! Ahh! This is too much! He's really letting me have it, I can feel his {COCK} at my uterus...",
+        "I didn't plan on this... Ughhh.. Nghh! He's trying to put his knot in me! {SWEARING}! Mmmm... Nghh!!",
+        "I don't know if I can take this...",
+        "My {WTVAGINAL} {PUSSY} gushes noisily as {ACTIVE} goes to town on me.",
+        "My {WTVAGINAL} {PUSSY} is being {FUCK}ed hard with a load of iron-hard, {BEASTLY} doggy-{COCK}.",
+        "{ACTIVE}'s {COCK} is swelling inside me! The feeling is intense, I can't think straight.",
+        "{SWEARING}... oh fuck... oh fuck...",
+        "He's going so fast... he's being too {ROUGH}..."
+    ],
+    "2nd Person": [
+        "Ahh! Ahh! This is too much! He's really letting you have it, you can feel his {COCK} at your uterus...",
+        "You didn't plan on this... Ughhh.. Nghh! He's trying to put his knot in you! {SWEARING}! Mmmm... Nghh!!",
+        "You don't know if you can take this...",
+        "Your {WTVAGINAL} {PUSSY} gushes noisily as {ACTIVE} goes to town on you.",
+        "Your {WTVAGINAL} {PUSSY} is being {FUCK}ed hard with a load of iron-hard, {BEASTLY} doggy-{COCK}.",
+        "{ACTIVE}'s {COCK} is swelling inside you! The feeling is intense, you can't think straight.",
+        "({PRIMARY}) {SWEARING}... oh fuck... oh fuck...",
+        "He's going so fast... he's being too {ROUGH}..."
+    ],
+    "3rd Person": [
+        "Ahh! Ahh! This is too much! He's really letting {PRIMARY} have it, she can feel his {COCK} at her uterus...",
+        "{PRIMARY} didn't plan on this... Ughhh.. Nghh! He's trying to put his knot in her! {SWEARING}! Mmmm... Nghh!!",
+        "{PRIMARY} doesn't know if she can take this...",
+        "{PRIMARY}'s {WTVAGINAL} {PUSSY} gushes noisily as {ACTIVE} goes to town on her.",
+        "{PRIMARY}'s {WTVAGINAL} {PUSSY} is being {FUCK}ed hard with a load of iron-hard, {BEASTLY} doggy-{COCK}.",
+        "{ACTIVE}'s {COCK} is swelling inside {PRIMARY}! The feeling is intense, she can't think straight.",
+        "({PRIMARY}) {SWEARING}... oh fuck... oh fuck...",
+        "He's going so fast... he's being too {ROUGH}..."
+    ]
+}

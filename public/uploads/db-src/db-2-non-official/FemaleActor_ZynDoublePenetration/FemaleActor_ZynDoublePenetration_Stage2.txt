@@ -1,0 +1,38 @@
+{
+    "1st Person" :
+    [
+        "I lean back and stare down at {ACTIVE}, as he lowers me towards their {COCK}s. Here goes...",
+        "I reach between my legs, guiding the first {COCK} into my {PUSSY}, then gasp as the next enters my {ASSHOLE}.",
+        "Plugged with {ACTIVE}'s {COCK}, I look back expectantly as {ACTIVE2} {INSERT}s into my {ASSHOLE}.",
+        "Ugh! It's a tight fit, but I manage to take both {HUGE} {COCK}s into me, and they begin to thrust.",
+        "{SWEARING}! I'm being held up by two big strong men, their hands all over me and their {COCK}s up inside me...",
+        "My heart pounds as I'm {PENETRAT}ed and then {FUCK}ed {ROUGH}ly by two {COCK}s. I'm a {BITCH}...",
+        "The feeling of these two {HUGE} {COCK}s is intense, and they're {FUCK}ing me so hard!",
+        "I'm {JIGGL}ed up and down {LEWD}ly, both men {FUCK}ing me with long, deep strokes.",
+        "{ACTIVE} is {FUCK}ing me hard and deep, but {ACTIVE2} is really going to town on my {WTANAL} {ASSHOLE}...",
+        "Fuck me {ACTIVE}. {FUCK} me {ACTIVE2}. Fill me up. I want your {CUM}.",
+        "{SWEARING}, I can't believe I'm doing this! A good girl shouldn't be ahh! Shouldn't be taking two {COCK}s...",
+        "{SWEARING}, this is so {LEWD}! Ahhh! It feels so intense, I feel so filled up! Uhhh! Ahhh!"
+    ],
+    "2nd Person" :
+    [
+        "You lean back and stare down at {ACTIVE}, as he lowers you towards their {COCK}s. Here goes...",
+        "You reach between your legs, guiding the first {COCK} into your {PUSSY}, {MOAN}ing as the next enters your {ASSHOLE}.",
+        "Plugged with {ACTIVE}'s {COCK}, you look back expectantly as {ACTIVE2} {INSERT}s into your {ASSHOLE}.",
+        "Ugh! It's a tight fit, but you manage to take both {HUGE} {COCK}s into you, and they begin to thrust.",
+        "{SWEARING}! You're being held up by two big strong men, their hands all over you and their {COCK}s up inside you...",
+        "Your heart pounds as you're {PENETRAT}ed and then {FUCK}ed {ROUGH}ly by two {COCK}s. You're a {BITCH}...",
+        "The feeling of these two {HUGE} {COCK}s is intense, and they're {FUCK}ing you so hard!",
+        "You're {JIGGL}ed up and down {LEWD}ly, both men {FUCK}ing you with long, deep strokes.",
+        "{ACTIVE} is {FUCK}ing you hard and deep, but {ACTIVE2} is really going to town on your {WTANAL} {ASSHOLE}...",
+        "({PRIMARY}) {FUCK} me {ACTIVE}. {FUCK} me {ACTIVE2}. Fill me up. I want your {CUM}.",
+        "{SWEARING}, you can't believe you're doing this! A good girl shouldn't be ahh! Shouldn't be taking two {COCK}s...",
+        "{SWEARING}, this is so {LEWD}! Ahhh! It feels so intense, you feel so filled up! Uhhh! Ahhh!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} reaches down, taking {ACTIVE}'s {COCK} inside her, and she {MOAN}s as {ACTIVE2} joins in.",
+        "It's so hot, to see a {BITCH} sandwiched between two {HUGE} {COCK}s and {FUCK}ed like a {BITCH}.",
+        "{PRIMARY} is being {JIGGL}ed up and down on their {COCK}s so hard. That must feel really good..."
+    ]
+}

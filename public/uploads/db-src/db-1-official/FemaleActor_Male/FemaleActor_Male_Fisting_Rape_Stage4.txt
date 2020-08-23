@@ -1,0 +1,47 @@
+{
+    "1st Person": [
+        "His hand is pumping into me vigorously, to the point where he's actually fistfucking me.",
+        "I gasp and cum almost every time I feel the {ACTIVE}'s knuckles slip past my {PUSSY} lips.",
+        "Ugh! Ahh! He's punching my cervix! I can't take this...",
+        "His hand is pumping in and out of me with such ease... My {PUSSY} must be ruined...",
+        "Your hand is so big it feels like you're going to tear me apart!",
+        "Ugh... (sob) My insides feel battered...",
+        "I crave the pain, knowing what intense pleasure will follow.",
+        "Ugh... That's it! It won't go in any further! Please... no more!",
+        "No! It's too hard!",
+        "I start to relish this brutal uncaring treatment, the humiliation, I want more!",
+        "I never imagined I was such a masochist... I want him to hurt me... To really hurt me...",
+        "My small body bucks and jerks out of control while {ACTIVE} pounds my {WTVAGINAL} {PUSSY}.",
+        "My knees are growing weak at this brutal fistfuck, any moment I'll collapse to the ground.",
+        "I can feel pressure at my cervix... Is he trying to open me up... Ugh... Gods... This is going to hurt...",
+        "Oh my... I can feel him... pushing one... no two... fingers... right through into my womb...",
+        "This is intense... What would it feel like... in my {ASS}? Or maybe even... both? Would that be possible?",
+        "I whimper and wail, but there's no mistaking the hardness of my nipples or the wetness of my {PUSSY}."
+    ],
+    "2nd Person": [
+        "His hand is pumping into you vigorously, to the point where he's actually fistfucking you.",
+        "You gasp and cum almost every time you feel {ACTIVE}'s knuckles slip past your {PUSSY} lips.",
+        "Ugh! Ahh! He's punching your cervix! You can't take this...",
+        "His hand is pumping in and out of you with such ease... Your {PUSSY} must be ruined...",
+        "His hand is so big it feels like he's going to tear you apart!",
+        "Ugh... Your insides feel battered...",
+        "You crave the pain, knowing what intense pleasure will follow.",
+        "({PRIMARY}) Ugh... That's it! It won't go in any further! Please... no more!",
+        "({PRIMARY}) No! It's too hard!",
+        "You start to relish this brutal uncaring treatment, the humiliation, you want more!",
+        "You never imagined you were such a masochist... You want him to hurt you... To really hurt you...",
+        "Your small body bucks and jerks out of control while {ACTIVE} pounds your {WTVAGINAL} {PUSSY}.",
+        "Your knees are growing weak at this brutal fistfuck, any moment you'll collapse to the ground.",
+        "You can feel pressure at your cervix... Is he trying to open you up... Ugh... This is going to hurt...",
+        "Oh my... You can feel him... pushing one... no two... fingers... right through into your womb...",
+        "This is intense... What would it feel like... in your {ASS}? Or maybe even... both? Would that be possible?",
+        "You whimper and wail, but there's no mistaking the hardness of your nipples or the wetness of your {PUSSY}."
+    ],
+    "3rd Person": [
+        "His hand is pumping into {PRIMARY} vigorously, to the point where he's actually fistfucking her.",
+        "{PRIMARY} gasps and cums almost every time {ACTIVE}'s knuckles slip past her {PUSSY} lips.",
+        "His hand is pumping in and out of {PRIMARY} with such ease... her {PUSSY} must be ruined...",
+        "Your hand is so big it must be going to tear {PRIMARY} apart!",
+        "({PRIMARY}) Ugh... That's it! It won't go in any further! Please... no more!"
+    ]
+}

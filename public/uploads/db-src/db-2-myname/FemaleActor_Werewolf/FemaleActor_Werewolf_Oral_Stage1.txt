@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "As the {ACTIVE}'s huge claw goes around my neck, I feel my {PUSSY} begin to get wet.",
+        "The {ACTIVE} stares at me lustfully. To think this huge beast wants my body is such a turn on...",
+        "I guide the {ACTIVE}'s hand around my neck. I want him to take me, to force me...",
+        "The brute's rank breath in my face makes my body tingle. I'm about to do such a dirty thing...",
+        "That's it... Take me... force me... Any {OPENING} you want, don't ask, just make me take your {COCK}..."
+    ],
+    "2nd Person" :
+    [
+        "As the {ACTIVE}'s huge claw goes around your neck, you feel your {PUSSY} begin to get wet.",
+        "The {ACTIVE} stares at you lustfully. To think this huge beast wants your body is such a turn on...",
+        "You guide the {ACTIVE}'s hand around your neck. You want him to take you, to force you...",
+        "The brute's rank breath in your face makes your body tingle. You're about to do such a dirty thing...",
+        "({PRIMARY}) That's it... Take me... force me... Any {OPENING} you want, don't ask, just make me take your {COCK}..."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} takes {PRIMARY} by the neck, its {PENIS} swollen and dripping.",
+        "Oh my goodness, look at how turned on the {ACTIVE} is getting at the sight of {PRIMARY}'s naked body!",
+        "{PRIMARY} places the beast's huge claw around her neck. Does she want to be forced?",
+        "{PRIMARY} and the {ACTIVE} stare at each other, panting, their bodies betraying their intentions."
+    ]
+}

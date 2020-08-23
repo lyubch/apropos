@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "Oh Gods, this is so obscene, so dirty... and so good... I can't believe I'm being fucked like this, and by a monster!",
+        "I spread my legs wide, overcome by the pain and joy of being repeatedly penetrated by such a {BEAST} {COCK}...",
+        "I struggle to keep my thoughts straight, every long stroke threatening to break my mind.",
+        "Soon yet another inhuman creature will blast a load inside me, trying to get me pregnant.",
+        "The hulking beast violently pounds my {WTVAGINAL} {PUSSY}."        
+    ],
+    "2nd Person" :
+    [
+        "Oh Gods, this is so obscene, so dirty... and so good... You can't believe you're being fucked like this, and by a monster!",
+        "You spread your legs wide, overcome by the pain and joy of being repeatedly penetrated by such a {BEAST} {COCK}...",
+        "You struggle to keep your thoughts straight, every long stroke threatening to break your mind.",
+        "Soon yet another inhuman creature will blast a load inside you, trying to get you pregnant.",
+        "The hulking beast violently pounds your {WTVAGINAL} {PUSSY}."  
+
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s legs are spread wide, and she howls with every deep penetration.",
+        "The hulking beast violently pounds {PRIMARY}'s {WTVAGINAL} {PUSSY}.",
+        "Oh my, that's so kinky... It really looks like {PRIMARY}'s about to cum from being raped!"
+    ]
+}

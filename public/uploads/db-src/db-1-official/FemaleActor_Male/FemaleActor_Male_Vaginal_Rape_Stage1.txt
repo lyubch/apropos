@@ -1,0 +1,38 @@
+{
+    "1st Person" :
+    [
+        "I make precious little sound as this brute forces my body to accept his.",
+        "I'm disgusted by my body's traitorous response, my {PUSSY} throbbing in anticipation.",
+        "My head rocks back as my {PUSSY} is brutally spread and a {HUGE} {COCK} impales me.",
+        "({ACTIVE}) Stop fighting, we both know how this ends; with you squealing on the end of my {COCK}.",
+        "This thug is fucking me, and there's not a god-damned thing I can do to stop him...",
+        "I gasp as I realise that it's happening now. He's in me, he's inside my {PUSSY}!",
+        "I whimper as I feel the engorged head of that {HUGE} {COCK} spread the {WTVAGINAL} entrance to my {PUSSY}.",
+        "This bastard laughs as his {HUGE} {COCK} effortlessly slides into my {WTVAGINAL} {PUSSY}.",
+        "I promise I'll do whatever you ask if you don't hurt me...",
+        "There's only one fate for a young woman here; I'm going to be raped...",
+        "You want me, then take me you fucking asshole!",
+        "If I want out of this alive, I'm going to have to let him fuck me..."        
+    ],
+    "2nd Person" :
+    [
+        "You make precious little sound as this brute forces your body to accept his.",
+        "You're disgusted by your body's traitorous response, your {PUSSY} throbbing in anticipation.",
+        "Your head rocks back as your {PUSSY} is brutally spread and a {HUGE} {COCK} impales you.",
+        "({ACTIVE}) Stop fighting, we both know how this ends; with you squealing on the end of my {COCK}.",
+        "This bastard is fucking you, and there's not a god-damned thing you can do to stop him...",
+        "You gasp as you realise that it's happening now. He's in you, he's inside your {PUSSY}!",
+        "You whimper as you feel the engorged head of that {HUGE} {COCK} spread the {WTVAGINAL} entrance to your {PUSSY}.",
+        "This bastard laughs as his {HUGE} {COCK} effortlessly slides into your {WTVAGINAL} {PUSSY}.",
+        "({PRIMARY}) I promise I'll do whatever you ask if you don't hurt me...",
+        "There's only one fate for a young woman here; you're going to be raped...",
+        "({PRIMARY}) You want me, then take me you fucking asshole!",
+        "If you want out of this alive, you're going to have to let him fuck you..." 
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} shrieks as that brute's {PENIS} is forced inside her.",
+        "If {PRIMARY} wants out of this alive, then she's going to have to let him fuck her...",
+        "There's only one fate for a young woman here; {PRIMARY} is going to get raped."
+    ]
+}

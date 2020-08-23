@@ -1,0 +1,22 @@
+{
+    "1st Person": [
+        "({ACTIVE}) Get to it, {BITCH}, and you better make it good!",
+        "I kneel down in the dirt, and {SUBMISSIVE}ly {ACCEPT} the {ACTIVE}'s {SALTY} {COCK} into my {MOUTH}.",
+        "I need to make this {JERK} {CUM}, so he won't want to {FUCK} my {PUSSY} or {ASSHOLE}...",
+        "I fight back my {FEAR} as I tongue the {ACTIVE}'s {BALLS} as I steadily {WANK} his {COCK}.",
+        "The {ACTIVE}'s {COCK} is {SALTY}, and I'm not able to keep it in my {MOUTH} for long before I feel sick."
+    ],
+    "2nd Person": [
+        "({ACTIVE}) Get to it, {BITCH}, and you better make it good!",
+        "You kneel down in the dirt, and {SUBMISSIVE}ly {ACCEPT} the {ACTIVE}'s {SALTY} {COCK} into your {MOUTH}.",
+        "You need to make this {JERK} {CUM}, so he won't want to {FUCK} your {PUSSY} or {ASSHOLE}...",
+        "You fight back your {FEAR} as you tongue the {ACTIVE}'s {BALLS} as you steadily {WANK} his {COCK}.",
+        "The {ACTIVE}'s {COCK} is {SALTY}, and you're not able to keep it in your {MOUTH} for long before you feel sick."
+    ],
+    "3rd Person": [
+        "{PRIMARY} kneels down and reluctantly starts to pleasure the {ACTIVE}.",
+        "Oh my... In that position, someone could just come up behind {PRIMARY} and {FUCK} her {PUSSY}!",
+        "({ACTIVE}) You better get those {BALLS} in your {MOUTH}, {BITCH}!",
+        "Clearly {SUBMISSIVE}, {PRIMARY} drops down and immediately starts to work the {ACTIVE}'s {COCK} and {BALLS}."
+    ]
+}

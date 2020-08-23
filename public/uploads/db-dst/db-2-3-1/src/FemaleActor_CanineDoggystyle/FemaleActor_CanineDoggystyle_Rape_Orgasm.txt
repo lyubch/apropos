@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "Nghh! Every thrust is slow and deep, hitting me in all the right spots. I can't hold back, and I cum.",
+        "I can't help but arch my back and raise my {ASSHOLE}, pushing back into every amazing thrust.",
+        "A loud squelching noise is heard as {ACTIVE}'s {FUCK}s his own {CUM} out of my packed {PUSSY}.",
+        "Hot {CUM} flows down my thighs as the animal inseminates me, the nastiest act I've ever done.",
+        "I shouldn't be clenching my {PUSSY} around a dog's knot, milking his {COCK}, but I can't help myself.",
+        "I let out a low breathy {SCREAM} each time I feel more {CUM} pulse into my {PUSSY}."        
+    ],
+    "2nd Person" :
+    [
+        "Nghh! Every thrust is slow and deep, hitting you in all the right spots. You can't hold back, and you cum.",
+        "You can't help but arch your back and raise your {ASSHOLE}, pushing back into every amazing thrust.",
+        "A loud squelching noise is heard as {ACTIVE}'s {FUCK}s his own {CUM} out of your packed {PUSSY}.",
+        "Hot {CUM} flows down your thighs as the animal inseminates you, the nastiest act you've ever done.",
+        "You shouldn't be clenching your {PUSSY} around a dog's knot, milking his {COCK}, but you can't help it.",
+        "You let out a low breathy {SCREAM} each time you feel more {CUM} pulse into your {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "The way she's moving... And the sounds she's making... Is she enjoying it? Being {RAP}ed by a dog?",
+        "{PRIMARY} arches her back as {ACTIVE} {INSERT}s into her, sweat pouring off her."
+    ]
+}

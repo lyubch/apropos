@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "I lean back, holding on to thick, filthy fur, trying my hardest not to cum from the {BEAST} {COCK} in my {WTVAGINAL} {PUSSY}.",
+        "Afraid of the brute taking a bite out of my {HEAVING} {BOOBS}, I lean back and let the {ACTIVE} fuck me as it likes.",
+        "The steaming fluids from our sloppy fucking splash on my clit, making it tingle almost painfully.",
+        "I grunt with passion each time the beast thrusts itself inside me."
+    ],
+    "2nd Person": [
+        "You lean back, holding on to thick, filthy fur, trying your hardest not to cum from the {BEAST} {COCK} in your {WTVAGINAL} {PUSSY}.",
+        "Afraid of the brute taking a bite out of your {HEAVING} {BOOBS}, you lean back and let the {ACTIVE} fuck you as it likes.",
+        "The steaming fluids from your sloppy fucking splash on your clit, making it tingle almost painfully.",
+        "You grunt with passion each time the beast thrusts itself inside you."
+    ],
+    "3rd Person": [
+        "{PRIMARY} leans back, holding on to thick, filthy fur, trying her hardest not to cum from the {BEAST} {COCK} in her {WTVAGINAL} {PUSSY}.",
+        "Afraid of the brute taking a bite out of her {HEAVING} {BOOBS}, {PRIMARY} leans back and lets the {ACTIVE} fuck her as it likes.",
+        "The steaming fluids from their sloppy fucking splash on {PRIMARY}'s clit, making it tingle almost painfully.",
+        "{PRIMARY} grunts with passion each time the beast thrusts itself inside her."
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "Я скачу на его {HUGELOAD}ом {BUGCOCK}е, как на жеребце!"
+    ],
+    "2nd Person": [
+        "Вы скачете на его {HUGELOAD}ом {BUGCOCK}е, как на жеребце!"
+    ],
+    "3rd Person": [
+        "Она скачет на его {HUGELOAD}ом {BUGCOCK}е, как на жеребце!"
+    ]
+}

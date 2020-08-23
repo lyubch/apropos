@@ -1,0 +1,51 @@
+{
+    "1st Person" :
+    [
+        "Don't worry about me... Treat me rough... Like a poor little {BITCH}... Any {OPENING} you want...",
+        "The {ACTIVE} spins me around, gripping my neck roughly, sending excited sparks throughout my body.",
+        "Ahhh! Nghh! Please... ow! Go slowly... Not so deep... Ughh... Nghh!",
+        "The beast starts hard and deep from the very first thrust, forcing me painfully up onto tip toes.",
+        "Even though I wanted this, I'm suddenly very afraid, I can feel the knot between my cheeks already...",
+        "The {ACTIVE} starts slowly, but it's a small mercy. His strokes are hard, rough, and very, very deep.",
+        "I want you on top of me. I want to be fucked like an animal.",
+        "I want you to throw me to the ground and fuck my {ASS}, hard. Show me no mercy...",
+        "(giggle) Even a beast is eyeing up my {ASS}! You like it? Okay, you can have it!",
+        "Go gently... You're a lot bigger than a normal guy... I'm not sure my {ASS} will be able to take you.",
+        "The {ACTIVE} slowly shoves his {PENIS} past my sphincter and inside. I grunt and then moan in pleasure.",
+        "I gasp as the head nestles between my cheeks. Roughly he pushes the head inside.",
+        "As soon as I feel the {ACTIVE}'s {BEAST} knot against my cheeks, I knew giving him my {ASS} was a mistake...",
+        "I bet loads of horny young girls jump on your {BEAST} {COCK}, but how many let you fuck them in the {ASS}?",
+        "Hmm... Let's try something different... How about I take you in the {ASS}?",
+        "As the {ACTIVE} presses harder and harder, I relax my {ASS} and he slides inside.",
+        "Wait, no! I didn't say you could... Nghh! AH! Not there! That's my! Ow!!!"        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Don't worry about me... Treat me rough... Like a poor little {BITCH}... Any {OPENING} you want...",
+        "The {ACTIVE} spins you around, gripping your neck roughly, sending excited sparks throughout your body.",
+        "({PRIMARY}) Ahhh! Nghh! Please... ow! Go slowly... Not so deep... Ughh... Nghh!",
+        "The beast starts hard and deep from the very first thrust, forcing you painfully up onto tip toes.",
+        "Even though you wanted this, you're suddenly very afraid, you can feel the knot between your cheeks already...",
+        "The {ACTIVE} starts slowly, but it's a small mercy. His strokes are hard, rough, and very, very deep.",
+        "({PRIMARY}) I want you on top of me. I want to be fucked like an animal.",
+        "({PRIMARY}) I want you to throw me to the ground and fuck me {ASS}, hard. Show me no mercy...",
+        "({PRIMARY}) (giggle) Even a beast is eyeing up my {ASS}! You like it? Okay, you can have it!",
+        "({PRIMARY}) Go gently... You're a lot bigger than a normal guy... I'm not sure my {ASS} will be able to take you.",
+        "The {ACTIVE} slowly shoves his {PENIS} past your sphincter and inside. You grunt and then moan in pleasure.",
+        "You gasp as the head nestles between your cheeks. Roughly he pushes the head inside.",
+        "As soon as you feel the {BEAST} knot against your cheeks, you knew giving him your {ASS} was a mistake...",
+        "({PRIMARY}) I bet loads of horny young girls jump on your {COCK}, but how many let you fuck them in the {ASS}?",
+        "({PRIMARY}) Hmm... Let's try something different... How about I take you in the {ASS}?",
+        "As the {ACTIVE} presses harder and harder, you relax your {ASS} and he slides inside.",
+        "({PRIMARY}) Wait, no! I didn't say you could... Nghh! AH! Not there! That's my! Ow!!!"
+    ],
+    "3rd Person" :
+    [
+        "Oh my, is that brute fucking {PRIMARY}'s {ASS}?",
+        "{PRIMARY} lets the {ACTIVE} take her from behind, her eyes bulging as it pushes into her {ASS}.",
+        "That looks so dirty, letting a dangerous monster stick his {PENIS} up her {ASS}...",
+        "The beast starts hard and deep from the very first thrust, forcing {PRIMARY} painfully up onto tip toes.",
+        "The {ACTIVE} slowly shoves his {PENIS} past {PRIMARY}'s sphincter and inside. She grunts and moans in pleasure.",
+        "{PRIMARY} looks shocked and pained... I'm not sure she expected the {ACTIVE}'s {PENIS} in that {OPENING}..."     
+    ]
+}

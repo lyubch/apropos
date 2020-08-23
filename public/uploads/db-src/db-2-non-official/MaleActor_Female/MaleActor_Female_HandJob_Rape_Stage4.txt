@@ -1,0 +1,19 @@
+{
+    "1st Person": [
+        "{PRIMARY}'s pumping me pretty hard now, clearly eager to finish this quickly.",
+        "{SWEARING}... I'm almost there... This {BITCH} is gonna make me cum...",
+        "{PRIMARY}'s pretty talented, I bet she gives everyone in her town handjobs..."
+    ],
+    "2nd Person": [
+        "{PRIMARY}'s pumping you pretty hard now, clearly eager to finish this quickly.",
+        "{SWEARING}... you're almost there... This {BITCH} is gonna make you cum...",
+        "{PRIMARY}'s pretty talented, I bet she gives everyone in her town handjobs..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} looks down into {PRIMARY}'s eyes again, he's almost there.",
+        "{PRIMARY}'s nimble fingers cause him to tip his head back and {MOAN}.",
+        "({PRIMARY}) Where do you want to {EJACULATE}? In my {MOUTH} or across my {BOOBS}? Please not... right up my {PUSSY}?",
+        "{SWEARING}, his {COCK} is still hard! {PRIMARY} really needs to make him {EJACULATE} before he wants more...",
+        "({ACTIVE}) I know you want it. Because now I know what a {CUM} hungry {BITCH} you are."
+    ]
+}

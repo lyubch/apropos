@@ -1,0 +1,35 @@
+{
+    "1st Person" :
+    [
+        "The feeling is intense, my whole body feels like it's on fire, and I curl up, screaming into the ground.",
+        "I squeal as the {ACTIVE} ties with my {ASS}, red hot {CUM} filling me up inside.",
+        "Once the knot plugs me shut, the beast stops his pumping, squatting over me as he fills me with {CUM}.",
+        "I moan loudly into the ground as the {BEAST} knotted {PENIS} fills my {ASS} with {THICK} {CUM}.",
+        "I shiver on the ground, too exhausted to move as the huge creature spurts his {THICK} stuff up my {ASS}.",
+        "My {ASS} is stretched painfully around the {BEAST} knot, {THICK} {CUM} squirting into my back passage.",
+        "His {BEAST} {PENIS} is completely embedded in my {ASS}, the head squirting {CUM} deep up inside me.",
+        "More than a foot of {COCK} is buried in my {ASS}, and I feel warmth as he pumps me full of {CUM}.",
+        "You feel so good all the way up my {ASS}... How do you like it? You're cumming so much!",
+        "Ugh! It's in! The knot's in! He's so deep... If I'd taken him in my {PUSSY}, he'd be past my cervix..."   
+    ],
+    "2nd Person" :
+    [
+        "The feeling is intense, your whole body feels like it's on fire, and you curl up, screaming into the ground.",
+        "You squeal as the {ACTIVE} ties with your {ASS}, red hot {CUM} filling you up inside.",
+        "Once the knot plugs you shut, the beast stops his pumping, squatting over you as he fills you with {CUM}.",
+        "You moan loudly into the ground as the {BEAST} knotted {PENIS} fills your {ASS} with {THICK} {CUM}.",
+        "You shiver on the ground, too exhausted to move as the huge creature spurts his {THICK} stuff up your {ASS}.",
+        "Your {ASS} is stretched painfully around the {BEAST} knot, {THICK} {CUM} squirting into your back passage.",
+        "His {BEAST} {PENIS} is completely embedded in your {ASS}, the head squirting {CUM} deep up inside you.",
+        "More than a foot of {COCK} is buried in your {ASS}, and you feel warmth as he pumps you full of {CUM}.",
+        "({PRIMARY}) You feel so good all the way up my {ASS}... How do you like it? You're cumming so much!",
+        "Ugh! It's in! The knot's in! He's so deep... If you'd taken him in your {PUSSY}, he'd be past your cervix..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} moans loudly into the ground as the {BEAST} knotted {PENIS} fills her {ASS} with {THICK} {CUM}.",
+        "{PRIMARY} shivers on the ground, too exhausted to move as the creature spurts his {THICK} stuff up her {ASS}.",
+        "Hearing {PRIMARY} whimpering and moaning like that, and seeing her dominated... It looks so good...",
+        "Oh Gods, it's in, it's all in! How is {PRIMARY} taking all of that?"
+    ]
+}

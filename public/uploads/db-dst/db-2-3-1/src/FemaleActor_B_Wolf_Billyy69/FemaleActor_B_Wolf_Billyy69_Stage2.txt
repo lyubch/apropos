@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "As if his tongue wasn't encouragment enough, the wolf locks his legs behind my head, driving his {COCK} into my throat.",
+        "I hardly even notice the paws pulling me down on his {COCK}, that tongue is right on my clit...",
+        "As the {ACTIVE}'s tongue starts thrashing around inside me even more {ROUGH}ly, I know I must be doing something right.",
+        "His paws are pushing me down now... do I let him {FUCK} my {MOUTH}? He is treating my {PUSSY} pretty nice...",
+        "Oooh... as long as he keeps licking me like that, I don't care how rough he is with my {MOUTH}!",
+        "With each swipe of the {ACTIVE}'s tongue parting my lips and teasing my clit, I hardly even notice as his thrusting deepens..."
+    ],
+    "2nd Person": [
+        "As if his tongue wasn't encouragment enough, the wolf locks his legs behind your head, driving his {COCK} into your throat.",
+        "You hardly even notice the paws pulling you down on his {COCK}, that tongue is right on your clit...",
+        "As the wolf's tongue starts thrashing around inside you even more {ROUGH}ly, you know you must be doing something right.",
+        "His paws are pushing you down now... do you let him {FUCK} your {MOUTH}? He is treating your {PUSSY} pretty nice...",
+        "Oooh... as long as he keeps licking you like that, you don't care how rough he is with your {MOUTH}!",
+        "With each swipe of the wolf's tongue parting your lips and teasing your clit, you hardly even notice as his thrusting deepens..."
+    ],
+    "3rd Person": [
+        "As if his tongue wasn't encouragment enough, the wolf locks his legs behind {PRIMARY}'s head, driving his {COCK} into her throat.",
+        "{PRIMARY} hardly even notices the paws pulling her down on his {COCK}, that tongue is right on her clit...",
+        "As the wolf's tongue starts thrashing around inside {PRIMARY} even more {ROUGH}ly, she knows she must be doing something right.",
+        "His paws are pushing {PRIMARY} down now... does she let him {FUCK} her {MOUTH}? He is treating her {PUSSY} pretty nice...",
+        "Oooh... as long as he keeps licking {PRIMARY} like that, she doesn't care how rough he is with her {MOUTH}!",
+        "With each swipe of the wolf's tongue parting {PRIMARY}'s lips and teasing her clit, she hardly even notices as his thrusting deepens..."
+    ]
+}

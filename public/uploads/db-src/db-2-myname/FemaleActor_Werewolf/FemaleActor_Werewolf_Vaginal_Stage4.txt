@@ -1,0 +1,50 @@
+{
+    "1st Person": [
+        "I cry out, and looking down I can see my stomach distending to accommodate his incredible size.",
+        "The {ACTIVE} growls in frustration as he smashes up against my cervix again. Will it... enter?",
+        "His {COCK} bottoms out against my cervix, leaving vital inches of knot outside of my {PUSSY}.",
+        "I can only grit my teeth harder as I'm stretched more and more beyond my natural limits.",
+        "{SWEARING}! {SWEARING}! It's so fucking big! Fuck me baby!",
+        "You like to fuck human girls? You mean bestiality? (giggle) Who's into that sick stuff?",
+        "This {ACTIVE} has an awesomely {BEAST} {COCK}, and knows how to use it.",
+        "I'm in heaven as the muscled beast begins to pound me.",
+        "Does it turn you on to fuck little human {BITCH}s? To stick your big {COCK} way up inside us?",
+        "{ACTIVE} is opening me up like never before, hurting me and making my {PUSSY} gush all at once.",
+        "Ugh, move that {BEAST} thing around inside of me! Yes, right there...",
+        "Never thought I'd hear myself say this with a dog cock in me, but I do like being your little {BITCH}.",
+        "I feel certain that I'll be ready for anything by the time this is over.",
+        "I feel almost tamed by the beast's {COCK}, and there are so many things I'd have him teach me.",
+        "I can see some women's fascination with werewolves... Just look at the size of his {COCK}!",
+        "This beauty's being fucked by a beast. It's a fairytale I can get right into...",
+        "A werewolf must be the best of both worlds; the skill of a human lover and the wild passion of a beast."
+    ],
+    "2nd Person": [
+        "You cry out, and looking down you can see your stomach distending to accommodate his incredible size.",
+        "The {ACTIVE} growls in frustration as he smashes up against your cervix again. Will it... enter?'",
+        "His {COCK} bottoms out against your cervix, leaving vital inches of knot outside of your {PUSSY}.",
+        "You can only grit your teeth harder as you're stretched more and more beyond your natural limits.",
+        "({PRIMARY}) {SWEARING}! {SWEARING}! It's so fucking big! Fuck me baby!",
+        "({PRIMARY}) You like to fuck human girls? You mean bestiality? (giggle) Who's into that sick stuff?",
+        "This {ACTIVE} has an awesomely {BEAST} {COCK}, and knows how to use it.",
+        "You're in heaven as the muscled beast begins to pound you.",
+        "({PRIMARY}) Does it turn you on to fuck little human girls? To stick your big {COCK} way up inside us?",
+        "{ACTIVE} is opening you up like never before, hurting you and making your {PUSSY} gush all at once.",
+        "({PRIMARY}) Ugh, move that {BEAST} thing around inside of me! Yes, right there!",
+        "Never thought you'd think this with a wolf cock in you, but you do like being his little {BITCH}.",
+        "You feel certain that you'll be ready for anything by the time this is over.",
+        "You feel almost tamed by the beast's {COCK}, and there are so many things you'd have him teach you.",
+        "You can see some women's fascination with werewolves... Just look at the size of his {COCK}!",
+        "This beauty's being fucked by a beast. It's a fairytale you can get right into...",
+        "A werewolf must be the best of both worlds; the skill of a human lover and the wild passion of a beast."
+    ],
+    "3rd Person": [
+        "{PRIMARY} cries out, her stomach distending to accommodate his incredible size.",
+        "The {ACTIVE} growls in frustration as he smashes up against {PRIMARY}'s cervix again. Will it... enter?",
+        "His {COCK} bottoms out against {PRIMARY}'s cervix, leaving vital inches of knot outside of her {PUSSY}.",
+        "{PRIMARY} can only grit her teeth harder as she's stretched more and more beyond her natural limits.",
+        "({PRIMARY}) {SWEARING}! Oh fuck! It's so fucking big! Fuck me baby!",
+        "({PRIMARY}) You like to fuck human girls? You mean bestiality? (giggle) Who's into that sick stuff?",
+        "This {ACTIVE} has an awesomely {BEAST} {COCK}, and knows how to use it.",
+        "{PRIMARY}'s in heaven as the muscled beast begins to pound her."
+    ]
+}

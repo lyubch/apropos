@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "I stare up at {ACTIVE}, amazed at how hard he's {FUCK}ing me. Is this why he attacked me, he wanted sex?",
+        "My entire body is {ROUGH}ly rocked backwards and forwards as {ACTIVE} {BEASTLY} {COCK} {FUCK}s into me.",
+        "I burn with shame and {LUST}, I can't believe I'm being {FUCK}ed this hard by a dog.",
+        "Lost to {LUST}, my hips push backwards against the {BEASTLY} {COCK}, relishing the feeling.",
+        "{ACTIVE}'s {BALLS} feel so heavy as they slap against my {ASSHOLE}. All that {CUM}...",
+        "{ACTIVE} starts to {FUCK} my {PUSSY} like no man has before, he's going to claim me as his bitch.",
+        "My {FLESH} drips sweat during an exhausting fuck. I'm not sure I've ever had it this hard."        
+    ],
+    "2nd Person" :
+    [
+        "You stare up at {ACTIVE}, amazed at how hard he's {FUCK}ing you. Is this why he attacked you, he wanted sex?",
+        "Your entire body is {ROUGH}ly rocked backwards and forwards as {ACTIVE} {BEASTLY} {COCK} {FUCK}s into you.",
+        "You burn with shame and {LUST}, you can't believe you're being {FUCK}ed this hard by a dog.",
+        "Lost to {LUST}, your hips push backwards against the {BEASTLY} {COCK}, relishing the feeling.",
+        "{ACTIVE}'s {BALLS} feel so heavy as they slap against your {ASSHOLE}. All that {CUM}...",
+        "{ACTIVE} starts to {FUCK} your {PUSSY} like no man has before, he's going to claim you as his bitch.",
+        "Your {FLESH} drips sweat during an exhausting fuck. You're not sure you've ever had it this hard."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is being {JIGGL}ed like a ragdoll with the {ROUGH} {FUCK}ing {ACTIVE}'s giving her.",
+        "There's something erotic about the way {PRIMARY}'s feet are in the air and {QUIVER}ing as she gets fucked."
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "Ahh! This is maddening! I need to touch myself, need to feel something up me!",
+        "I need more, I can't take this... I want so badly to get off...",
+        "My {FLESH} is burning with {LUST}, this infernal device is driving me insane!",
+        "Can't anyone help me... (sob) Anyone... Please... I'll do anything...",
+        "I need a {COCK}... A dozen {COCK}s... {SWEARING}, if I get this thing off, I'll {FUCK} the Imperial army!",
+        "My hands grasp desperately, trying to bring myself to orgasm, slight touches only leaving me frustrated.",
+        "Horny and frustrated, I buck and {JIGGL}e in my bonds, desperate to push myself over the edge.",
+        "It's no use. Maybe I can get some relief by {SUCK}ing a {COCK}...?"
+    ],
+    "2nd Person": [
+        "Ahh! This is maddening! You need to touch yourself, need to feel something up inside!",
+        "You need more, you can't take this... You want so badly to get off...",
+        "Your {FLESH} is burning with {LUST}, this infernal device is driving you insane!",
+        "({PRIMARY}) Can't anyone help me... (sob) Anyone... Please... I'll do anything...",
+        "You need a {COCK}... A dozen {COCK}s... {SWEARING}, if you get this thing off, you'll {FUCK} the Imperial army!",
+        "You grasp desperately, trying to bring yourself to orgasm, slight touches only leaving you frustrated.",
+        "Horny and frustrated, you buck and {JIGGL}e in your bonds, desperate to push yourself over the edge.",
+        "It's no use. Maybe I can get some relief by {SUCK}ing a {COCK}...?"
+    ],
+    "3rd Person": [
+        "{PRIMARY} seems frantic, pawing desperately at herself. She needs to be fucked, bad.",
+        "({PRIMARY}) Can't anyone get this thing off me? Nghh! I'll {FUCK} anyone who can!",
+        "{PRIMARY} tries desperately to finger herself past her bonds, but she doesn't seem to be doing very well.",
+        "It seems so cruel, for {PRIMARY} to be trussed up like that. She must be so {HORNY}.",
+        "Has that belt been put on {PRIMARY} as a punishment? Did she {FUCK} someone she shouldn't have?"
+    ]
+}

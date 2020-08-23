@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "Despite being forced to do this, {PRIMARY}'s nipples are pretty damn hard right now.",
+        "({ACTIVE}) You're gonna need to show more enthusiasm than that, {BITCH}!",
+        "I'm not sure whether I want to {EJACULATE} in her {MOUTH} or on her {BOOBS}..."
+    ],
+    "2nd Person": [
+        "Despite being forced to do this, {PRIMARY}'s nipples are pretty damn hard right now.",
+        "({ACTIVE}) You're gonna need to show more enthusiasm than that, {BITCH}!",
+        "You're not sure whether you want to {EJACULATE} in her {MOUTH} or on her {BOOBS}..."
+    ],
+    "3rd Person": [
+        "Maintaining eye contact, {PRIMARY} positions herself closer to his {COCK}, trying to please him.",
+        "({PRIMARY}) Do you... want to {EJACULATE} on my {BOOBS}? Or in... in my {MOUTH}?",
+        "The {ACTIVE} stares at {PRIMARY} while she give him a hand job.",
+        "The {ACTIVE} stares {LEWD}ly at {PRIMARY}'s {BOOBS} while she {WANK}s him.",
+        "Will the {ACTIVE} be satisfied with this? What if he wants {PRIMARY} on her knees {SUCK}ing him?",
+        "{PRIMARY}'s nipples are standing out already? Is this lewdness really affecting her so much?"
+    ]
+}

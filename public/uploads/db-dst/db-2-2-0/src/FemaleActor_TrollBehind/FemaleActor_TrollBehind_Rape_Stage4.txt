@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "I wrap my legs up around the beast's hips, pulling it deeper into my {PUSSY}, fear and reason leaving me.",
+        "Held up by the {ACTIVE}'s grip and its {BEAST} {COCK}, I start to lose myself to the lewd situation.",
+        "This is the kind of kinky sex I had always fantasised about, but never admitted to myself until now.",
+        "Between my spread legs I see oversized balls slapping into me heavily. It's going to empty them into me!"        
+    ],
+    "2nd Person" :
+    [
+        "You wrap your legs up around the beast's hips, pulling it deeper into your {PUSSY}, fear and reason leaving you.",
+        "Held up by the {ACTIVE}'s grip and its {BEAST} {COCK}, you start to lose yourself to the lewd situation.",
+        "This is the kind of kinky sex you had always fantasised about, but never admitted to yourself until now.",
+        "Between your spread legs you see oversized balls slapping into you heavily. It's going to empty them into you!"
+    ],
+    "3rd Person" :
+    [
+        "Oh wow, that's such a kinky position! {PRIMARY} must be able to feel every inch!",
+        "{PRIMARY} hooks her feet behind the {ACTIVE}, pulling the beast's {COCK} deeper inside her.",
+        "It's clear that despite being raped, {PRIMARY} is completely overcome with lust."
+    ]
+}

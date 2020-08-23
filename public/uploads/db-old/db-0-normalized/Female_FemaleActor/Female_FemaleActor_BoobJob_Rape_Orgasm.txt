@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "Она кончает, {LOUDLY} {MOANING}.",
+        "Ты грубо {FUCKED}, твои {BOOBS}и болят."
+    ],
+    "2nd Person": [
+        "Она кончает, {LOUDLY} {MOANING}.",
+        "Ты грубо {FUCKED}, твои {BOOBS}и болят."
+    ],
+    "3rd Person": []
+}

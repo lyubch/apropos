@@ -1,0 +1,20 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} roars and pushes my head to its {BEASTLY} {BEASTCOCK}. Full of {FEAR}, I {SUBMIT}.",
+	"Beaten, I prepare to face my fate, but he clearly has other ideas than killing and eating me.",
+	"({PRIMARY}) {PLEADING}...wait, I'll {SUCK} your {COCK}!"
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} roars and pushes your head to its {BEASTLY} {BEASTCOCK}. Full of {FEAR}, you {SUBMIT}.",
+	"Beaten, you prepare to face my fate, but he clearly has other ideas than killing and eating you.",
+	"({PRIMARY}) {PLEADING}...wait, I'll {SUCK} your {COCK}!"
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} roars and pushes her head to its {BEASTLY} {BEASTCOCK}. Full of {FEAR}, she {SUBMIT}s.",
+	"Beaten, she prepares to face her fate, but he clearly has other ideas than killing and eating her.",
+	"({PRIMARY}) {PLEADING}...wait, I'll {SUCK} your {COCK}!"
+    ]
+}

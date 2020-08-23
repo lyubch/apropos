@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} lifts me easily, pulling my legs apart, forcing the head of his {BEAST} {PENIS} into me.",
+        "Stop! Please! Don't do this! I can't... Nghhhh!! Oh Gods! Help me!",
+        "Oh Gods, his {PENIS} is huge! There's no way I can take that, and I try my hardest to fight back.",
+        "I struggle to push the {ACTIVE} away, even as his strong grip pushes me slowly down onto his {PENIS}.",
+        "The {ACTIVE}'s {PENIS} pushes hard at my {PUSSY}, and I shriek as the head slips inside.",
+        "I'm only taking the head of the {ACTIVE}'s {BEAST} {PENIS}, and it already feels like I'm full.",
+        "I can't take that big... thing... inside me, it's bigger than my arm...",
+        "My nose is immediately assaulted by a strong musk that I instantly recognize; the smell of {CUM}. Oh Gods...",
+        "Don't kill me! Wouldn't you like to see a little human girl soaked in your {CUM}?",
+        "Dear gods... is... is that his... {COCK}?! Oh my Gods, that IS his {COCK}! I'm not sure I can do this...",
+        "This unclean beast stinks of sweat and {SCUM}... and it wants to have sex with me...",
+        "Stop, please! I'll let you fill my {MOUTH} with your {CUM}, I'll drink it, just please!",
+        "Please, just the head... I'm sorry but this is too much for me..."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} lifts you easily, pulling your legs apart, forcing the head of his {BEAST} {PENIS} into you.",
+        "({PRIMARY}) Stop! Please! Don't do this! I can't... Nghhhh!! Oh Gods! Help me!",
+        "Oh Gods, his {PENIS} is huge! There's no way you can take that, and you try your hardest to fight back.",
+        "You struggle to push the {ACTIVE} away, even as his strong grip pushes you slowly down onto his {PENIS}.",
+        "The {ACTIVE}'s {PENIS} pushes hard at your {PUSSY}, and you shriek as the head slips inside.",
+        "You're only taking the head of the {ACTIVE}'s {BEAST} {PENIS}, and it already feels like you're full.",
+        "You can't take that big... thing... inside you, it's bigger than your arm...",
+        "Your nose is immediately assaulted by a strong musk that you instantly recognize; the smell of {CUM}. Oh Gods...",
+        "({PRIMARY}) Don't kill me! Wouldn't you like to see a little human girl soaked in your {CUM}?",
+        "Dear gods... is... is that his... {COCK}?! Oh my Gods, that IS his {COCK}! You're not sure you can do this...",
+        "This unclean beast stinks of sweat and {SCUM}... and it wants to have sex with you...",
+        "({PRIMARY}) Stop, please! I'll let you fill my {MOUTH} with your {CUM}, I'll drink it, just please!",
+        "({PRIMARY}) Please, just the head... I'm sorry but this is too much for me..."
+    ],
+    "3rd Person" :
+    [
+        "Oh Gods, look at the size of the {ACTIVE}'s {COCK}! There's no way that will fit inside her...",
+        "{PRIMARY} struggles as the {ACTIVE} pulls her legs apart and prepares to fuck her.",
+        "The terror on {PRIMARY}'s face is clear every time the {BEAST} {COCK} pushes against her {PUSSY}."
+    ]
+}

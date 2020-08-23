@@ -1,0 +1,42 @@
+{
+    "1st Person": [
+        "Oh my goodness, I can't believe this is happening. This is so wrong.",
+        "I've grown addicted to this dirty conduct of mine, eagerly opening my legs for any cock I can find.",
+        "Ahhhh.. I'm actually having sex... mmmmm... with a spider...",
+        "Having sex with a massive bug is so depraved, so different... so erotic...",
+        "The {ACTIVE}'s strange organs is in my {PUSSY}... It's moving... inside me...",
+        "The {ACTIVE}'s {BUGCOCK} slides in and out of me. It feels so good...",
+        "Taking a slow, sensual fuck from the {ACTIVE}, I stare blankly and smile, mouth hanging open.",
+        "The slime covering the tentacle acts like a lubricant, allowing the invader to probe deeper inside of me.",
+        "My body throbs with an odd arousal, and my head feels light and fuzzy. Has their poison done this to me?",
+        "I pant deeply as the {ACTIVE} languidly thrusts into my backside.",
+        "I moan into the ground, my painfully erect nipples brushing across the rough stones.",
+        "Eyes clenched shut and a pleasured whimper escaping from my lips, I've submitted completely.",
+        "My {PUSSY} moistens, easing the {BEAST} {BUGCOCK}'s passage.",
+        "It thrusts into my {PUSSY}, pumping me languidly."
+    ],
+    "2nd Person": [
+        "Oh my goodness, you can't believe this is happening. This is so wrong!'",
+        "You've grown addicted to this dirty conduct of yours, eagerly opening your legs for any cock you can find.",
+        "Ahhhh.. You're actually having sex... mmmmm... with a spider...",
+        "Having sex with a massive bug is so depraved, so different... so erotic...",
+        "The {ACTIVE}'s strange organs is in your {PUSSY}... It's moving... inside you...",
+        "The {ACTIVE}'s {BUGCOCK} slides in and out of you. It feels so good...",
+        "Taking a slow, sensual fuck from the {ACTIVE}, you stare blankly and smile, mouth hanging open.",
+        "The slime covering the tentacle acts like a lubricant, allowing the invader to probe deeper inside of you.",
+        "Your body throbs with an odd arousal, and your head feels light and fuzzy. Has their poison done this to you?",
+        "You pant deeply as the {ACTIVE} languidly thrusts into your backside.",
+        "You moan into the ground, your painfully erect nipples brushing across the rough stones.",
+        "Eyes clenched shut and a pleasured whimper escaping from your lips, you've submitted completely.",
+        "Your {PUSSY} moistens, easing the {BEAST} {BUGCOCK}'s passage.",
+        "It thrusts into your {PUSSY}, pumping you languidly."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s grown addicted to this dirty conduct, eagerly opening her legs for any cock she can find.",
+        "Ahhhh.. {PRIMARY}'s actually having sex... mmmmm... with a spider...",
+        "Having sex with a massive bug is so depraved, so different... so erotic...",
+        "The {ACTIVE}'s strange organs is in {PRIMARY}'s {PUSSY}... It's moving... inside her...",
+        "The {ACTIVE}'s {BUGCOCK} slides in and out of {PRIMARY}. It looks so good...",
+        "Taking a slow, sensual fuck from the {ACTIVE}, {PRIMARY} stares blankly and smiles, mouth hanging open."
+    ]
+}

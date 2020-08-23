@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "{ACTIVE} хочет {FUCK} мою {WTVAGINAL}ую {PUSSY}у в другой позе."
+    ],
+    "2nd Person": [
+        "{ACTIVE} хочет {FUCK} твою {WTVAGINAL}ую {PUSSY}у в другой позе."
+    ],
+    "3rd Person": [
+        "{ACTIVE} хочет {FUCK} ее {WTVAGINAL}ую {PUSSY}у в другой позе."
+    ]
+}

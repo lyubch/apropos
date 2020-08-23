@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I shiver from the feeling as he twists around inside me, not realising why until other takes mouth.",
+        "Without so much as a pause in his thrusting, the wolf shifts around to let the other force his {COCK} into my mouth.",
+        "Relief floods me as the other wolf comes for my mouth instead of my {ASS}, I'd be torn apart if both tried to knot me back there...",
+        "I try to catch my breath as they pause to shift around, but I only get a moment before they're fucking my {MOUTH} and {PUSSY}.",
+        "I hoped at least I'd only have to deal with one {COCK} at a time, but they shift around to both rape me together.",
+        "The sky appears for a moment as the wolf twists inside me, only to be blocked again as the second pushes down to use me as well."
+    ],
+    "2nd Person": [
+        "You shiver from the feeling as he twists around inside you, not realising why until other takes mouth.",
+        "Without so much as a pause in his thrusting, the wolf shifts around to let the other force his {COCK} into your mouth.",
+        "Relief floods you as the other wolf comes for your mouth instead of your {ASS}, you'd be torn apart if both tried to fit back there...",
+        "You try to catch your breath as they pause to shift around, but you only get a moment before they're fucking your mouth and {PUSSY}.",
+        "You hoped at least you'd only have to deal with one {COCK} at a time, but they shift around to both rape you together.",
+        "The sky appears for a moment as the wolf twists inside you, only to be blocked again as the second pushes down to use you as well."
+    ],
+    "3rd Person": [
+        "{PRIMARY} shivers from the feeling as he twists around inside her, not realising why until other takes her mouth.",
+        "Without so much as a pause in his thrusting, the wolf shifts around to let the other force his {COCK} into {PRIMARY}'s mouth.",
+        "Relief floods {PRIMARY} as the other wolf comes for her mouth instead of her {ASS}, she'd be torn apart if both tried to fit back there...",
+        "{PRIMARY} tries to catch her breath as they pause to shift around, but she only gets a moment before they're fucking her {MOUTH} and {PUSSY}.",
+        "{PRIMARY} hoped at least she'd only have to deal with one {COCK} at a time, but they shift around to both rape her together.",
+        "The sky appears for a moment as the wolf twists inside {PRIMARY}, only to be blocked again as the second pushes down to use her as well."
+    ]
+}

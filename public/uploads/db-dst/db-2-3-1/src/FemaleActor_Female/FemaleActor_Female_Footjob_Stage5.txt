@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "Please! It's not enough... I need it... Need to feel your {HUGE} {STRAPON} inside me... Please...",
+        "I'm beside myself with {LUST} now, desperate to climb onto {ACTIVE}'s {STRAPON}, and she knows it.",
+        "Mmmm... {SWEARING}... Could you... {FUCK} me? Please...? You can do it in any {HOLE}...",
+        "Surely she can see how much I need to be {FUCK}ed?",
+        "Ah... ahh... no... please... I'm so close... I want it... inside me!"        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Please! It's not enough... I need it... Need to feel your {HUGE} {STRAPON} inside me... Please...",
+        "You're beside yourself with {LUST} now, desperate to climb onto {ACTIVE}'s {STRAPON}, and she knows it.",
+        "({PRIMARY}) Mmmm... {SWEARING}... Could you... {FUCK} me? Please...? You can do it in any {HOLE}...",
+        "Surely she can see how much you need to be {FUCK}ed?",
+        "({PRIMARY}) Ah... ahh... no... please... I'm so close... I want it... inside me!"
+    ],
+    "3rd Person" :
+    [
+        "It's surprising that {ACTIVE} isn't {FUCK}ing her, but it looks like {PRIMARY} won't be satisfied with that...",
+        "({PRIMARY}) No, you {JERK}! Not there! Fuck me, I need you inside me!"
+    ]
+}

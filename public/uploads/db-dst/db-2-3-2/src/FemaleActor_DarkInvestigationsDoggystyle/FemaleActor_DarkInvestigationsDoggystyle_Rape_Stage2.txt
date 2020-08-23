@@ -1,0 +1,30 @@
+{
+    "1st Person": [
+        "I start to get {HORNY} by this, being {RAP}ed so powerfully...",
+        "I cross my ankles tightly, my {FLESH} tensing as the {ACTIVE} {RAP}es me.",
+        "Ah! The {ACTIVE}'s thrusts really hurt now, driving so hard and deep into my {WTVAGINAL} {PUSSY}.",
+        "Using both hands to hold me in place, {ACTIVE} {RAP}es me.",
+        "({ACTIVE}) You act like you hate this, but you're squeezing me so tight, you must really want it!",
+        "I am at {ACTIVE}'s mercy, and he shows me none. He takes me with deep, powerful thrusts.",
+        "Deep down I want {ACTIVE} to succeed. I want to be {RAP}ed.",
+        "({ACTIVE}) After we're done with you, we'll leave you for the trolls and wolves to {FUCK} you!",
+        "({ACTIVE}) If you act like a {BITCH}, I'm gonna {FUCK} you like a {BITCH}!"
+    ],
+    "2nd Person": [
+        "You start to get {HORNY} by this, being {RAP}ed so powerfully...",
+        "You cross your ankles tightly, your {FLESH} tensing as the {ACTIVE} {RAP}es you.",
+        "Ah! The {ACTIVE}'s thrusts really hurt now, driving so hard and deep into your {WTVAGINAL} {PUSSY}.",
+        "Using both hands to hold you in place, {ACTIVE} {FUCK}s you.",
+        "({ACTIVE}) You act like you hate this, but you're squeezing me so tight, you must really want it!",
+        "You're at {ACTIVE}'s mercy, and he shows you none. He takes you with deep, powerful thrusts.",
+        "Deep down you want {ACTIVE} to succeed. You want to be {RAP}ed.",
+        "({ACTIVE}) After we're done with you, we'll leave you for the trolls and wolves to {FUCK} you!",
+        "({ACTIVE}) If you act like a {BITCH}, I'm gonna {FUCK} you like a {BITCH}!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} stops thrashing, her ankles crossed, the strain obvious.",
+        "All fight seems to have left {PRIMARY}, and she just takes the hard fucking.",
+        "({ACTIVE}) I bet your {MFAMILY} never {FUCK}ed you this well! He's never gonna satisfy you again after this!",
+        "It's rough and dirty, as the {ACTIVE} {FUCK}s {PRIMARY} hard into the ground."
+    ]
+}

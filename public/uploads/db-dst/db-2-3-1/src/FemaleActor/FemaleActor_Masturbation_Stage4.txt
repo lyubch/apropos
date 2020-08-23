@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "Thrusting my pelvis forward, I try to get my fingers as deep as possible. I'm almost there...",
+        "My fingers {QUICK}ly circle my clit, and I feel like it's about to explode from the pressure.",
+        "Mmmm... {SWEARING}... Ahhh! I'm almost... almost there...",
+        "I'm so hot, so overcome by {LUST}... Alduin himself could present his {COCK} right now and I'd gladly {ACCEPT} it.",
+        "My {FLESH} is {QUIVER}ing, convulsing as my orgasm builds. My skin is {WET} in sweat.",
+        "I pump my {FAROUSAL} {PUSSY} in a blur, not caring for anything other than satisfying my burning need.",
+        "{SWEARING}! Yes! Ahhh! Ahhh! I'm going to cum!",
+        "My {FLESH} is burning, and I can feel the sweat dripping from my {FLESH}, but I don't stop. I can't stop.",
+        "My fingers are starting to cramp up, but I push through the {PAIN} and exhaustion. Almost there...",
+        "My mind races with thoughts of being {FUCK}ed and {SUCK}ing {COCK}s."
+    ],
+    "2nd Person": [
+        "Thrusting your pelvis forward, you try to get your fingers as deep as possible. You're almost there...",
+        "Your fingers {QUICK}ly circle your clit, and you feel like it's about to explode from the pressure.",
+        "Mmmm... {SWEARING}... Ahhh! You're almost... almost there...",
+        "You're so hot, so overcome by {LUST}... Alduin himself could present his {COCK} right now and you'd {ACCEPT} it.",
+        "Your {FLESH} is {QUIVER}ing, convulsing as your orgasm builds. Your skin is {WET} in sweat.",
+        "You pump your {FAROUSAL} {PUSSY} in a blur, not caring for anything other than satisfying your burning need.",
+        "({PRIMARY}) {SWEARING}! Yes! Ahhh! Ahhh! I'm going to cum!",
+        "You can feel the sweat dripping from your {FLESH}, but you don't stop. You can't stop.",
+        "Your fingers are starting to cramp up, but you push through the {PAIN} and exhaustion. Almost there...",
+        "Your mind races with thoughts of being {FUCK}ed and {SUCK}ing {COCK}s."
+    ],
+    "3rd Person": [
+        "Thrusting her pelvis forward, she tries to get her fingers as deep as possible. She's almost there...",
+        "Her fingers {QUICK}ly circle her clit. She must be about to explode from the pressure...",
+        "Mmmm... {SWEARING}... Ahhh! She's almost... almost there...",
+        "She's so hot, so overcome by {LUST}... If Alduin himself presented his {COCK} right now she'd {ACCEPT} it.",
+        "Her {FLESH} is {QUIVER}ing, convulsing as her orgasm builds. Her skin is {WET} in sweat.",
+        "She pumps her {FAROUSAL} {PUSSY} in a blur, not caring for anything other than satisfying her burning need.",
+        "({PRIMARY}) {SWEARING}! Yes! Ahhh! Ahhh! I'm going to cum!",
+        "Her body is burning, the sweat dripping from her {FLESH}, but she doesn't stop. She can't stop.",
+        "Her fingers must be starting to cramp up, but she pushes through the {PAIN} and exhaustion. Almost there...",
+        "Thoughts of being {FUCK}ed and {SUCK}ing {COCK}s race to mind. This is such a turn on."
+    ]
+}

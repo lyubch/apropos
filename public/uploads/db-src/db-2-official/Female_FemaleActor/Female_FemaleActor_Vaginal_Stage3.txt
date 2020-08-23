@@ -1,0 +1,16 @@
+{
+    "1st Person" :
+    [
+        "She starts to fuck me harder and deeper, filling every inch of my {PUSSY}.",
+        "She looks so beautiful and radiant as she pounds my {PUSSY}. I feel myself drawn to her.",
+        "{ACTIVE} is pounding me as hard and as deeply as any guy has..."
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

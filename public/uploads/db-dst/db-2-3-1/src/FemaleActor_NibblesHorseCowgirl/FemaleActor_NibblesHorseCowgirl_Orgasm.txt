@@ -1,0 +1,24 @@
+{
+    "1st Person": [
+        "A triumphant neigh joins my {MOAN}s as the {ACTIVE} joins me in climax, squirts of seed travelling up my {QUIVER}ing {PUSSY} into my womb.",
+        "I slam myself down one last time, his flare pressed against the {HOLE} to my womb as we both start to cum.",
+        "I {QUIVER} atop him in orgasm as he fills me with {THICK} {CUM}, his flare forcing all of it into my {FAROUSAL} {PUSSY}...",
+        "I press back into him desperately, forcing every drop of {CUM} into my womb as I lose myself to my orgasm.",
+        "I {MOAN} in {LUST} as the first {EJACULATE}s spray across my womb, his throbbing {COCK} so deep it has nowhere else to go.",
+        "I can feel my belly distending from the sheer volume of {CUM} filling me, but I can't bring myself to pull him out...",
+        "I {QUIVER} atop him, his {COCK} impossibly deep and filling my womb with his virile seed..."
+    ],
+    "2nd Person": [
+        "A triumphant neigh joins your {MOAN}s as the {ACTIVE} joins you in climax, squirts of seed travelling up your {PUSSY} into your womb.",
+        "You slam yourself down one last time, his flare pressed against the {HOLE} to your womb as you both start to cum.",
+        "You {QUIVER} atop him in orgasm as he fills you with {THICK} {CUM}, his flare forcing all of it into your {FAROUSAL} {PUSSY}...",
+        "You press back into him desperately, forcing every drop of {CUM} into your womb as you lose yourself to your orgasm.",
+        "You {MOAN} in {LUST} as the first {EJACULATE}s spray across your womb, his throbbing {COCK} so deep it has nowhere else to go.",
+        "You can feel your belly distending from the sheer volume of {CUM} filling you, but you can't bring yourself to pull him out...",
+        "You {QUIVER} atop him, his {COCK} impossibly deep and filling your womb with his virile seed..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} {QUIVER}s in her own climax as the {ACTIVE} {EJACULATE}s inside her, {THICK} {CUM} leaking out as she's filled completely.",
+        "Slamming herself down one last time, {PRIMARY} {MOAN}s her orgasm as the {ACTIVE}'s {COCK} throbs with each shot of {THICK} {CUM}."
+    ]
+}

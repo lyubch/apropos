@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "I struggle to pull myself up, but his {COCK} is tied inside me. I can't escape...",
+        "Ah! Ah! {SWEARING}! Nghh! He's {EJACULATE}ing, he's {EJACULATE}ing inside me!",
+        "Even though we're tied, {ACTIVE} doesn't stop {FUCK}ing me. The feeling is intense...",
+        "{ACTIVE} {PENETRAT}es his {COCK} into me, instantly bringing me to climax.",
+        "The {COCKHEAD} of his {COCK} {PENETRAT}es my cervix, constantly pouring {THICK} {CUM} into me.",
+        "The dog is {EJACULATE}ing his {THICK} {CUM} up my {PUSSY}, I {MOAN}. He's fucking filling me with {CUM}!"        
+    ],
+    "2nd Person" :
+    [
+        "You struggle to pull yourself up, but his {COCK} is tied inside you. You can't escape...",
+        "Ah! Ah! {SWEARING}! Nghh! He's {EJACULATE}ing, he's {EJACULATE}ing inside you!",
+        "Even though you're tied, {ACTIVE} doesn't stop {FUCK}ing you. The feeling is intense...",
+        "{ACTIVE} {PENETRAT}es his {COCK} into you, instantly bringing you to climax.",
+        "The {COCKHEAD} of his {COCK} {PENETRAT}es your cervix, constantly pouring {THICK} {CUM} into you.",
+        "The dog is {EJACULATE}ing his {THICK} {CUM} up your {PUSSY}, you gasp. He's fucking filling you with {CUM}!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} struggles to pull herself up, but his {COCK} is tied inside her. She can't escape...",
+        "Ah! Ah! {SWEARING}! Nghh! He's {EJACULATE}ing, he's {EJACULATE}ing inside {PRIMARY}!",
+        "Even though {PRIMARY} is tied, {ACTIVE} doesn't stop {FUCK}ing her. The feeling is intense...",
+        "{ACTIVE} {PENETRAT}es his {COCK} into {PRIMARY}, instantly bringing her to climax.",
+        "The {COCKHEAD} of his {COCK} {PENETRAT}es {PRIMARY}'s cervix, constantly pouring {THICK} {CUM} into her.",
+        "The dog is {EJACULATE}ing his {THICK} {CUM} up {PRIMARY}'s {PUSSY}, she {SCREAM}s. He's fucking filling her with {CUM}!"
+    ]
+}

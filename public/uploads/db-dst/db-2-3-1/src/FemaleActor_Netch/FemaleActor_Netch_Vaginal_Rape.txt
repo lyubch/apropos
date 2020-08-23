@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "A grab at my leg is all the warning I get before my limbs are all spread and secured, and my {PUSSY} {NUDE}.",
+        "Panic rushes through me, as I feel a grip pull me into the air, but my struggles are for naught, it got me...",
+        "Suddenly tripped onto my back, I hit my head hard, and while dazed I'm handily secured and spread.",
+        "With a {SCREAM}, I fall onto my back. Something tripped me- {SWEARING}! Tentacles! They've got me!"
+    ],
+    "2nd Person": [
+        "A grab at your leg is all the warning you get before your limbs are all spread and secured, and your {PUSSY} {NUDE}.",
+        "Panic rushes through you, as you feel a grip pull you into the air, but your struggles are for naught, it got you...",
+        "Suddenly tripped onto your back, you hit your head hard, and while dazed you're handily secured and spread.",
+        "With a {SCREAM}, you fall onto your back. Something tripped you- {SWEARING}! Tentacles! They've got you!"
+    ],
+    "3rd Person": [
+        "A grab at {PRIMARY}'s leg is all the warning she gets before her limbs are all spread and secured, and her {PUSSY} {NUDE}.",
+        "Panic rushes through {PRIMARY}, as she feels a grip pull her into the air, but her struggles are for naught, it got her...",
+        "Suddenly tripped onto her back, {PRIMARY} hits her head hard, and while dazed she's handily secured and spread.",
+        "With a {SCREAM}, {PRIMARY} falls onto her back. Something tripped her - {SWEARING}! Tentacles! They've got her!"
+    ]
+}

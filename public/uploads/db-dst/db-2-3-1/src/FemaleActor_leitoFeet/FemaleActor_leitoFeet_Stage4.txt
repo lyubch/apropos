@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} grabs my feet, spreading me {ROUGH}ly. The whole situation is just so {LEWD}...",
+        "{ACTIVE} lifts my foot by the ankle, sniffing my foot deeply, starting to pound really hard into me.",
+        "I reach between my legs again, rubbing my swollen clit as {ACTIVE} {INSERT}s his {COCK} hard into me.",
+        "I look up at {ACTIVE}, seeing the desire in his face, staring {LEWD}ly at my bare feet.",
+        "It's okay if you cum... Just... ahhh! Just keep {FUCK}ing me... I'm almost.... ahhh! Almost there!",
+        "When did I turn into a {LEWD} {BITCH} that was{ACCEPTING} to do anything just to take a cumshot?",
+        "Eyes trail down my long, slender legs, lingering on my bare feet.",
+        "Oh! Ah, ah ah... Just... don't pull out! Uhhhh... do it inside me...!!"
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} grabs your feet, spreading you {ROUGH}ly. The whole situation is just so {LEWD}...",
+        "{ACTIVE} lifts your foot by the ankle, sniffing your foot deeply, starting to pound really hard into you.",
+        "You reach between your legs again, rubbing your swollen clit as {ACTIVE} {INSERT}s his {COCK} hard into you.",
+        "You look up at {ACTIVE}, seeing the desire in his face, staring {LEWD}ly at your bare feet.",
+        "({PRIMARY}) It's okay if you cum... Just... ahhh! Just keep {FUCK}ing me... I'm almost.... ahhh! Almost there!",
+        "When did you turn into a {LEWD} {BITCH} that was willing to do anything just to take a cumshot?",
+        "Eyes trail down your long, slender legs, lingering on your bare feet.",
+        "({PRIMARY}) Oh! Ah, ah ah... Just... don't pull out! Uhhhh... do it inside me...!!"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} takes hold of {PRIMARY}'s ankles again, sniffing her foot deeply as he {FUCK}s her hard and fast.",
+        "Getting so {HORNY} by her feet is strange, but there's no denying how hard {ACTIVE} is giving it to her.",
+        "{PRIMARY} is clearly just as {HORNY} as {ACTIVE}, her hand going straight to her clit.",
+        "Both of them are lost to {LUST}. Are they going to go all the way? Could either of them stop?"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "1st Person": [
+        "I'm writhing on the ground, {MOAN}ing with a {ACTIVE} head and beak up my {PUSSY}.",
+        "Oh my... I just came... From {FUCK}ing a {ACTIVE}...",
+        "A great wash of {CREAM} flows down from my {PUSSY}.",
+        "I settle back, {MOAN}ing and contented, {PUSSY} clenched around {ACTIVE}'s head.",
+        "I cum several times, with my {PUSSY} {FAROUSAL} on the {ACTIVE}'s head...",
+        "My {FLESH} {QUIVER}s and my toes curl as I cum around the chicken's head.",
+        "When this started, I wasn't sure about it, but... {SWEARING}, that was good!"
+    ],
+    "2nd Person": [
+        "You're writhing on the ground, {MOAN}ing with a {ACTIVE} head and beak up your {PUSSY}.",
+        "Oh my... You just came... From {FUCK}ing a {ACTIVE}...",
+        "A great wash of {CREAM} flows down from your {PUSSY}.",
+        "You settle back, {MOAN}ing and contented, {PUSSY} clenched around {ACTIVE}'s head.",
+        "You cum several times, with your {PUSSY} {FAROUSAL} on the {ACTIVE}'s head...",
+        "Your {FLESH} {QUIVER}s and your toes curl as you cum around the chicken's head.",
+        "When this started, you weren't sure about it, but... {SWEARING}, that was good!"
+    ],
+    "3rd Person": [
+        "She's writhing on the ground, {MOAN}ing with a {ACTIVE} head and beak up her {PUSSY}.",
+        "Oh my... {PRIMARY} just came... From {FUCK}ing a {ACTIVE}...",
+        "A great wash of {CREAM} flows down from {PRIMARY}'s {PUSSY}.",
+        "Streams of {THICK} {CUM} run down her legs. {PRIMARY}'s making quite a spectacle.",
+        "{PRIMARY} settles back, {MOAN}ing and content, {PUSSY} clenched around {ACTIVE}'s head.",
+        "{PRIMARY} cums several times, with her {PUSSY} {FAROUSAL} on the {ACTIVE}'s head...",
+        "{ACTIVE}'s head still stuck in her, {PRIMARY} {QUIVER}s and {JIGGL}es in orgasm.",
+        "Wow, that was some fuck, {PRIMARY} must be exhausted, and her {PUSSY} must be worn out and raw...",
+        "Her {FLESH} {QUIVER}s and her toes curl as she cums around the chicken's head."
+    ]
+}

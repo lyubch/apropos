@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "{ACTIVE} rolls her head back, clearly pleased with my ministrations.",
+        "That's it, it's good, isn't it? I love the feel of your {STRAPON}...",
+        "Umm... do you think I'm a {BITCH}?",
+        "Wouldn't you like to stick your {STRAPON} way up in my {PUSSY}?",
+        "Everyone can see how {LEWD} I am... They can see how much I love {STRAPON}...",
+        "Do you really think I'm pretty?",
+        "My heart is racing. I'm hot and frisky and feeling good.",
+        "I'm gonna be {FUCK}ing her before the night's over...",
+        "I'm starting to get into it now, enjoying the feeling of power I have over {ACTIVE}.",
+        "({ACTIVE}) You're such a {BITCH}, I bet you've even {FUCK}ed your own {MFAMILY}!"
+    ],
+    "2nd Person": [
+        "{ACTIVE} rolls her head back, clearly pleased with your ministrations.",
+        "({PRIMARY}) That's it, it's good, isn't it? I love the feel of your {STRAPON}.",
+        "({PRIMARY}) Umm... do you think I'm a {BITCH}?",
+        "({PRIMARY}) Wouldn't you like to stick your {STRAPON} way up in my {PUSSY}?",
+        "Everyone can see how {LEWD} you are... They can see how much you love {STRAPON}...",
+        "({PRIMARY}) Do you really think I'm pretty?",
+        "Your heart is racing. You're hot and frisky and feeling good.",
+        "You're gonna be {FUCK}ing her before the night's over...",
+        "You're starting to get into it now, enjoying the feeling of power you have over {ACTIVE}.",
+        "({ACTIVE}) You're such a {BITCH}, I bet you've even {FUCK}ed your own {MFAMILY}!"
+    ],
+    "3rd Person": [
+        "{ACTIVE} rolls her head back, clearly pleased with {PRIMARY}'s ministrations.",
+        "({PRIMARY}) That's it, it's good, isn't it? I love the feel of your {STRAPON}...",
+        "({PRIMARY}) Umm... do you think I'm a {BITCH}?",
+        "({PRIMARY}) Wouldn't you like to stick your {STRAPON} way up in my {PUSSY}?",
+        "Everyone can see how {LEWD} {PRIMARY} is... They can see how much she loves {STRAPON}...",
+        "({PRIMARY}) Do you really think I'm pretty?"
+    ]
+}

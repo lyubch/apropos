@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "Ugh... That's it, you brute! Ah! Fuck me! Fuck me deep! Oh Gods, yes! Deeper!",
+        "Heart thumping in anticipation and fear, I move my leg and let the monster on top of me all the way inside.",
+        "I stare wide eyed between my legs, amazed at the sheer size of the {COCK} disappearing inside me.",
+        "The beast begins to piledrive into my {WTVAGINAL} {PUSSY}, slamming into my cervix.",
+        "Yes... in all the way... I can take it... I want it...",
+        "I'm shocked by what's running through my head; to be taken with such violence, it's so hot.",
+        "Ugh... ugh... ugh... I can't believe my body is taking this kind of punishment.",
+        "I've yearned to be used in this way, and the fact that it's a {BEAST} beast makes it that much more kinky!"        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Ugh... That's it, you brute! Ah! Fuck me! Fuck me deep! Oh Gods, yes! Deeper!",
+        "Heart thumping in anticipation and fear, you move your leg and let the monster on top of you all the way inside.",
+        "You stare wide eyed between your legs, amazed at the sheer size of the {COCK} disappearing inside you.",
+        "The beast begins to piledrive into your {WTVAGINAL} {PUSSY}, slamming into your cervix.",
+        "({PRIMARY}) Yes... in all the way... I can take it... I want it...",
+        "You're shocked by what's running through your head; to be taken with such violence, it's so hot.",
+        "Ugh... ugh... ugh... You can't believe your body is taking this kind of punishment.",
+        "You've yearned to be used in this way, and the fact that it's a {BEAST} beast makes it that much more kinky!"
+    ],
+    "3rd Person" :
+    [
+        "It's unbelievable that {PRIMARY}'s little body is taking such brutal punishment! And she loves it!",
+        "The bulge of the huge {COCK} can be seen on {PRIMARY}'s belly, showing just how far inside it's reaching.",
+        "Oh Gods, that looks so deep! The head of its {COCK} must be in her womb by now!"       
+    ]
+}

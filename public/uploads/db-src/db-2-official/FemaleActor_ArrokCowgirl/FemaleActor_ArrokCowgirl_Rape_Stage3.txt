@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "The {ACTIVE} pulls my feet out from under me, and I fall painfully onto his {PENIS}.",
+        "Reluctantly, I slide slowly down the full length of the {ACTIVE}'s {COCK}.",
+        "Finally taking his entire {PENIS} inside me, I start to bounce gently on top of him.",
+        "Hands on his chest to steady myself, I can't break away from his stare. My hips start to move on their own.",
+        "({ACTIVE}) I knew I had to fuck you the instant I saw you. Didn't think you'd be so easy!",
+        "Do you like it? Do you like it inside you? {ACTIVE} asks. I close my eyes and whisper 'yes'.",
+        "({ACTIVE}) Hey, this {BITCH} is no virgin! Bet she's taken a lot of {COCK}!"
+    ],
+    "2nd Person": [
+        "The {ACTIVE} pulls your feet out from under you, and you fall painfully onto his {COCK}.",
+        "Reluctantly, you slide slowly down the full length of the {ACTIVE}'s {COCK}.",
+        "Finally taking his entire {COCK} inside you, you start to bounce gently on top of him.",
+        "Hands on his chest to steady yourself, You can't break his stare. Your hips start to move on their own.",
+        "({ACTIVE}) I knew I had to fuck you the instant I saw you. Didn't think you'd be so easy!",
+        "Do you like it? Do you like it inside you? {ACTIVE} asks. You close your eyes and whisper 'yes'.",
+        "({ACTIVE}) Hey, this {BITCH} is no virgin! Bet she's taken a lot of {COCK}!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} gasps as she comes down heavily on the {ACTIVE}'s {PENIS}.",
+        "Trembling in fear, {PRIMARY} keep staring at the {ACTIVE}, and they both start to slowly fuck.",
+        "Her whole body still shaking, {PRIMARY} finally starts bouncing gently on the {ACTIVE}'s {PENIS}.",
+        "{PRIMARY} puts her hands on the {ACTIVE}'s chest, and with not a word spoken, starts to slide down."
+    ]
+}

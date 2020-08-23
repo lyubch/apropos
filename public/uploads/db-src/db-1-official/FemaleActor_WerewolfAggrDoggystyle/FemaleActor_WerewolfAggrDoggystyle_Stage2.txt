@@ -1,0 +1,37 @@
+{
+    "1st Person" :
+    [
+        "I'm pushed to the ground, onto my knees, the {ACTIVE}'s {BEAST} {PENIS} still hammering into my {PUSSY}.",
+        "The thrusts are hard, making my body jolt every time the head thumps into my cervix.",
+        "The {ACTIVE} fucks me with jerky, sudden thrusts, the {BEAST} knot slapping into my wet {PUSSY} each time.",
+        "I moan, feeling the full length of the {BEAST} {PENIS} thrusting back and forth in me, right to the knot.",
+        "You like to fuck human girls? You mean bestiality? (giggle) Who's into that sick stuff?",
+        "Does it turn you on to fuck little human {BITCH}s? To stick your big {COCK} way up inside us?",
+        "Never thought I'd hear myself say this with a dog-{COCK} in me, but I do like being your little {BITCH}.",
+        "I feel almost tamed by the beast's {COCK}, and there are so many things I'd have him teach me.",
+        "This {ACTIVE} has an awesomely {BEAST} {PENIS}, and knows how to use it.",
+        "I'm in heaven as the muscled beast begins to pound me.",
+        "The {ACTIVE} growls in frustration as he smashes up against my cervix again. Will it... enter?"        
+    ],
+    "2nd Person" :
+    [
+        "You're pushed to the ground, onto your knees, the {ACTIVE}'s {BEAST} {PENIS} still hammering into your {PUSSY}.",
+        "The thrusts are hard, making your body jolt every time the head thumps into your cervix.",
+        "The {ACTIVE} fucks you with jerky, sudden thrusts, the {BEAST} knot slapping into your wet {PUSSY} each time.",
+        "You moan, feeling the full length of the {BEAST} {PENIS} thrusting back and forth in you, right to the knot.",
+        "({PRIMARY}) You like to fuck human girls? You mean bestiality? (giggle) Who's into that sick stuff?",
+        "({PRIMARY}) Does it turn you on to fuck little human {BITCH}s? To stick your big {COCK} way up inside us?",
+        "({PRIMARY}) Never thought I'd say this with a dog-{COCK} in me, but I do like being your little {BITCH}.",
+        "You feel almost tamed by the beast's {COCK}, and there are so many things you'd have him teach you.",
+        "This {ACTIVE} has an awesomely {BEAST} {PENIS}, and knows how to use it.",
+        "You're in heaven as the muscled beast begins to pound you.",
+        "The {ACTIVE} growls in frustration as he smashes up against your cervix again. Will it... enter?"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s pushed to the ground, on her knees, the {ACTIVE}'s {BEAST} {PENIS} still hammering into her {PUSSY}.",
+        "Even though she's being treated so roughly, the noises {PRIMARY} is making are unmistakable...",
+        "Wow! It's amazing that {PRIMARY} is able to take such a {BEAST} {PENIS} in her {PUSSY}!",
+        "The {ACTIVE} fucks {PRIMARY} with jerky, sudden thrusts, the {BEAST} knot slapping into her wet {PUSSY} each time."
+    ]
+}

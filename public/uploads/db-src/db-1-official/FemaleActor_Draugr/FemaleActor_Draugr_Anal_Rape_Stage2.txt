@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "My body is shaken wildly as the {ACTIVE} pounds into me violently.",
+        "Now that it has its {COCK} all the way in my {ASS}, the {ACTIVE} starts thrusting really, really hard.",
+        "Oh Gods... It's too hard... and too deep! My {ASS} is gonna break!",
+        "The pace is brutal, and I feel wet squelches hitting my {PUSSY}. I sob imagining the {SLIMY} filth.",
+        "My wrists and shoulders ache, and the {ACTIVE}'s grip is digging into me, I won't be able to take much more.",
+        "The {ACTIVE} fucks me brutally hard, almost violently. I can't help but get a little turned on at the abuse."
+    ],
+    "2nd Person": [
+        "Your body is shaken wildly as the {ACTIVE} pounds into you violently.",
+        "Now that it has its {COCK} all the way in your {ASS}, the {ACTIVE} starts thrusting really, really hard.",
+        "Oh Gods... It's too hard... and too deep! Your {ASS} is gonna break!",
+        "The pace is brutal, and you feel wet squelches hitting your {PUSSY}. What kind of {SLIMY} filth is it?",
+        "Your wrists and shoulders ache, and the {ACTIVE}'s grip is digging in, you won't be able to take much more.",
+        "The {ACTIVE} fucks you brutally hard, even violently. You can't help but get a little turned on at the abuse."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} starts to fuck {PRIMARY} hard, and her body thrashes about wildly.",
+        "A thick, {SLIMY} slime splashes from {PRIMARY}'s backend, and it drips grotesquely down her legs.",
+        "The {DEAD} beast has {PRIMARY} completely at his mercy, and he's showing her none."
+    ]
+}

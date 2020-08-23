@@ -1,0 +1,22 @@
+{
+    "1st Person": [
+        "As the {ACTIVE}'s huge claw goes around my neck, I feel my {PUSSY} begin to get wet.",
+        "The {ACTIVE} stares at me {LEWD}ly. To think this huge {MONSTER} wants my body is such a turn on...",
+        "I guide the {ACTIVE}'s hand around my neck. I want him to {RAP}e me...",
+        "The {MONSTER}'s rank breath in my face makes my body tingle. I'm about to do such a {LEWD} thing...",
+        "({PRIMARY}) That's it... Take me... {RAP}e me... Any {HOLE} you want, don't ask, just make me {ACCEPT} your {COCK}..."
+    ],
+    "2nd Person": [
+        "As the {ACTIVE}'s huge claw goes around your neck, you feel your {PUSSY} begin to get wet.",
+        "The {ACTIVE} stares at you {LEWD}ly. To think this huge {MONSTER} wants your body is such a turn on...",
+        "You guide the {ACTIVE}'s hand around your neck. You want him to {RAP}e you...",
+        "The {MONSTER}'s rank breath in your face makes your body tingle. You're about to do such a {LEWD} thing...",
+        "({PRIMARY}) That's it... Take me... {RAP}e me... Any {HOLE} you want, don't ask, just make me {ACCEPT} your {COCK}..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} takes {PRIMARY} by the neck, its {COCK} swollen and dripping.",
+        "{SWEARING}, look at how {HORNY} the {ACTIVE} is getting at the sight of {PRIMARY}'s {HEAVING} {FLESH}!",
+        "{PRIMARY} places the {MONSTER}'s huge claw around her neck. Does she want to be {RAP}ed?",
+        "{PRIMARY} and the {ACTIVE} stare at each other, panting, their bodies betraying their intentions."
+    ]
+}

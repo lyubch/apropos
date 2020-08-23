@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "My heart thundering in my chest, I hold the {MONSTER}'s {COCK} still as I sink down onto it.",
+        "The power I feel as the Oh my. up {LEWD}ly at me is intoxicating, driving me wild as I sink onto its {COCK}.",
+        "Oh wow, this {ACTIVE} has such a {HUGE} {COCK}! I'm going to {FUCK} myself silly on this!",
+        "You don't mind if I do this, do you Mr {ACTIVE}? Mmmm... ah! I think I'm going to enjoy this even more than you will!",
+        "I {SCREAM} as I impale myself on the {ACTIVE}. I didn't know I could take so much {COCK}.",
+        "The {MONSTER}'s {BEASTLY} {COCK} freely leaks a steady stream of pre-cum as I slide down it, easing its passage.",
+        "I know wanting to fuck a troll is pretty sick, but here I am, {FAROUSAL} {PUSSY} spread and stuffed with troll-{COCK}.",
+        "This place smells of sex, {SALTY} and thick. How many other {HEAVING} {NUDE} girls come here to be {FUCK}ed by this {MONSTER}?"
+    ],
+    "2nd Person": [
+        "Your heart thundering in your chest, you hold the {MONSTER}'s {COCK} still as you sink down onto it.",
+        "The power you feel as the Oh my. up {LEWD}ly at you is intoxicating, driving you wild as you sink onto its {COCK}.",
+        "Oh wow, this {ACTIVE} has such a {HUGE} {COCK}! You're going to {FUCK} yourself silly on this!",
+        "({PRIMARY}) You don't mind if I do this, do you Mr {ACTIVE}? Mmmm... I think I'm going to enjoy this even more than you!",
+        "You {SCREAM} as you impale yourself on the {ACTIVE}. You didn't know you could take so much {COCK}.",
+        "The {MONSTER}'s {BEASTLY} {COCK} freely leaks a steady stream of pre-cum as you slide down it, easing its passage.",
+        "You know wanting to fuck a troll is pretty sick, but here you are, {FAROUSAL} {PUSSY} spread and stuffed with troll-{COCK}.",
+        "This place smells of sex, {SALTY} and thick. How many other {HEAVING} {NUDE} girls come here to be {FUCK}ed by this {MONSTER}?"
+    ],
+    "3rd Person": [
+        "Her heart thundering in her chest, {PRIMARY} holds the {MONSTER}'s {COCK} still as she sinks down onto it.",
+        "The power {PRIMARY} feels as the Oh my. up {LEWD}ly at her is intoxicating, driving her wild as she sinks onto its {COCK}.",
+        "Oh wow, this {ACTIVE} has such a {HUGE} {COCK}! {PRIMARY} is going to {FUCK} herself silly on this!",
+        "({PRIMARY}) You don't mind if I do this, do you Mr {ACTIVE}? Mmmm... I think I'm going to enjoy this even more than you!",
+        "{PRIMARY} {MOAN}s as she impales herself on the {ACTIVE}. She didn't know she could take so much {COCK}.",
+        "The {MONSTER}'s {BEASTLY} {COCK} freely leaks a steady stream of pre-cum as {PRIMARY} slides down it, easing its passage.",
+        "{PRIMARY} knows wanting to {FUCK} a troll is pretty sick, but here she is, {FAROUSAL} {PUSSY} spread and stuffed with troll-{COCK}.",
+        "This place smells of sex, {SALTY} and thick. How many other {HEAVING} {NUDE} girls come here to be {FUCK}ed by this {MONSTER}?"
+    ]
+}

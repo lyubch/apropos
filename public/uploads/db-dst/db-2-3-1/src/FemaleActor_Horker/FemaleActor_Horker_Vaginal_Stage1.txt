@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} has a remarkably long {MAROUSAL} {COCK}, my two hands can barely cover it.",
+        "I must be crazy to think of taking this {BEASTLY} {COCK} inside my {PUSSY}, look at the {GIRTH} of this!",
+        "This {COCK} is blazing hot, wouldn't mind having it in me considering how cold it is around here.",
+        "This {ACTIVE} is a very big one of its kind, I am still mesmerized by the {GIRTH} of its {COCK}.",
+        "{ACTIVE} lets out a pleased {MOAN} as I stroke its {BEASTLY} {COCK} with both hands.",
+        "So warm and large, I need this inside my {FAROUSAL} {PUSSY}!",
+	"I am only stroking it and already seeing its precum seeping out {SLOW}ly, {ACTIVE} will burst a {HUGELOAD} load inside me I bet." 
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} has a remarkably long {MAROUSAL} {COCK}, your two hands can barely cover it.",
+        "You must be crazy to think of taking this {BEASTLY} {COCK} inside your {PUSSY}, considering the {GIRTH} of it.",
+        "This {ACTIVE} is a very big one of its kind, you are still mesmerized by the {GIRTH} of its {COCK}.",
+        "So warm and large, you feel the need to have it inside your {FAROUSAL} {PUSSY}!"  
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} begins to {MOAN} as {PRIMARY} gives him pleasure."
+    ]
+}

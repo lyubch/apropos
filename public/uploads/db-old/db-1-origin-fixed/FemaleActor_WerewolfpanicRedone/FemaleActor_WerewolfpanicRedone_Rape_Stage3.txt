@@ -1,0 +1,42 @@
+{
+    "1st Person" :
+    [
+        "My fingers dig into the ground and my toes curl in pain as the knot is forced into my {ASS}.",
+        "My body tenses, my back arching and I let out a cry of ecstasy as my body takes control.",
+        "Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "I find myself near climax, brought about by the intense thrusting.",
+        "After several minutes of the most intense fucking I've ever experienced, I feel the climax wash over me.",
+        "As I cum again, I find myself pushing my hips back into the beast.",
+        "Moaning as waves of orgasm roll over me, tears streaming down my face, I continue to cum.",
+        "No, I can't let it do this... I have to make my escape...",
+        "Having given up screaming and fighting, I just sob softly as the {ACTIVE} continues its assault on me.",
+        "It doesn't slow down, continuing to thrust into me, bringing orgasm after orgasm from my {WTANAL} {ASS}.",
+        "Frantic with lust and sexual energy, the {ACTIVE} is building towards something in a hurry...",
+        "I cry out in pleasure as the beast ravages me again and again."
+    ],
+    "2nd Person" :
+    [
+        "Your fingers dig into the ground and your toes curl in pain as the knot is forced into your {ASS}.",
+        "Your body tenses, your back arching and you let out a cry of ecstasy as your body takes control.",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "You find yourself near climax, brought about by the intense thrusting.",
+        "After several minutes of the most intense fucking you've ever experienced, you feel the climax wash over you.",
+        "As you cum again, you find yourself pushing your hips back into the beast.",
+        "Moaning as waves of orgasm roll over you, tears streaming down your face, you continue to cum.",
+        "No, you can't let it do this... You have to make your escape...",
+        "Having given up screaming and fighting, you just sob softly as the {ACTIVE} continues its assault on you.",
+        "It doesn't slow down, continuing to thrust into you, bringing orgasm after orgasm from your {WTANAL} {ASS}.",
+        "Frantic with lust and sexual energy, the {ACTIVE} is building towards something in a hurry...",
+        "You cry out in pleasure as the beast ravages you again and again."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s fingers dig into the ground and her toes curl in pain as the knot is forced into her {ASS}.",
+        "{PRIMARY}'s body tenses, her back arching and she lets out a cry of ecstasy as her body takes control.",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "{PRIMARY} is near climax, brought about by the intense thrusting.",
+        "After several minutes of intense fucking, {PRIMARY} feels the climax wash over her.",
+        "As {PRIMARY} cums again, she pushes her hips back into the beast.",
+        "Moaning as waves of orgasm roll over her, tears streaming down her face, {PRIMARY} continues to cum."
+    ]
+}

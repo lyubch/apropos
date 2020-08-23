@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "Ah ah ah ah! Ah! {SWEARING}, he's {FUCK}ing me so fast...",
+        "Ow! The pace of the {FUCK} is intense, and he's spanking me so hard!",
+        "After a few hard slaps, my hip is starting to really hurt, my leg {QUIVER}ing with every strike.",
+        "I'm all bruises and welts from this abuse, my collarbone rubbed raw from the {ROUGH} {FUCK}ing I'm taking.",
+        "{SWEARING}... I'm getting so close... All this abuse is driving me wild... I'm such a {BITCH}...",
+        "I'm just their little {BITCH}, just a {BITCH} to abuse and dump their {CUM} into...",
+        "I flush with embarrassment as he starts to spank me, as if I was a badly behaved child!",
+        "Harder! Harder!",
+        "{SWEARING}... fuck... fuck... how much longer can he go on for?",
+        "My hair is a tangled mess, and my {HEAVING} {FLESH} drips with sweat. My {PUSSY} is being {FUCK}ed raw.",
+        "I {SCREAM} and {MOAN} like a {BITCH}, all restraint is gone from me"
+    ],
+    "2nd Person": [
+        "Ah ah ah ah! Ah! {SWEARING}, he's {FUCK}ing you so fast...",
+        "Ow! The pace of the {FUCK} is intense, and he's spanking you so hard!",
+        "After a few hard slaps, your hip is starting to really hurt, your leg {QUIVER}ing with every strike.",
+        "You're all bruises and welts from this abuse, your collarbone rubbed raw from the {ROUGH} {FUCK}ing.",
+        "{SWEARING}... You're getting so close... All this abuse is driving you wild... You're such a {BITCH}...",
+        "You're just their little {BITCH}, just a {BITCH} to abuse and dump their {CUM} into...",
+        "You flush with embarrassment as he starts to spank you, as if you were a badly behaved child!",
+        "({PRIMARY}) Harder! Harder!",
+        "{SWEARING}... fuck... fuck... how much longer can he go on for?",
+        "Your hair is a tangled mess, and your {HEAVING} {FLESH} drips with sweat. Your {PUSSY} is being {FUCK}ed raw.",
+        "You {SCREAM} and {MOAN} like a {BITCH}, all restraint is gone from you"
+    ],
+    "3rd Person": [
+        "{ACTIVE} starts to really {FUCK} {PRIMARY} hard, spanking her as he does so. It's so {LEWD}.",
+        "{PRIMARY}'s leg {QUIVER}s with every hard slap to her thigh. It's red and sore looking...",
+        "{PRIMARY} is such a {BITCH}! She's getting {FUCK}ed hard and {RAP}ed and she's loving it!",
+        "To see a girl restrained like that, and {RAP}ed in such a way... It's such a turn on..."
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "1st Person" :
+    [
+        "Even though I'm consenting, {ACTIVE} pushes me to the ground, and begins to roughly fuck my {ASS}.",
+        "Sometimes I want to make love, and other times I just want to be fucked and used like a {WHORE}.",
+        "I'm pushed roughly to the dirt, my face buried in filth while {ACTIVE} takes me in the {ASS}.",
+        "Face down in the dirt, and my {ASS} in the air getting punished. I love it!",
+        "{ACTIVE} takes me roughly, more aggressively than I imagined. I squeal as he starts to fuck my {ASS}.",
+        "{ACTIVE} thrusts into my {ASS}, and then begins fucking into me in long, powerful strokes.",
+        "{ACTIVE}'s {HUGE} {PENIS} stretches me as it enters, and pulls me back as it leaves. I bite my lip.",
+        "I can feel myself stretch around the invader, and it hurts enough that I almost scream out in pain.",
+        "You want to stick it up my {ASS}? O...okay...  Be gentle...   AHHH!",
+        "{ACTIVE} places the head of his cock against my {ASS} and pushes. I scream in pain."         
+    ],
+    "2nd Person" :
+    [
+        "Even though you're consenting, {ACTIVE} pushes you to the ground, and begins to roughly fuck your {ASS}.",
+        "Sometimes you want to make love, and other times you just want to be fucked and used like a {WHORE}.",
+        "You're pushed roughly to the dirt, your face buried in filth while {ACTIVE} takes you in the {ASS}.",
+        "Face down in the dirt, and your {ASS} in the air getting punished. You love it!",
+        "{ACTIVE} takes you roughly, more aggressively than you imagined. You squeal as he starts to fuck your {ASS}.",
+        "{ACTIVE} thrusts into your {ASS}, and then begins fucking into you in long, powerful strokes.",
+        "{ACTIVE}'s {HUGE} {PENIS} stretches you as it enters, and pulls you back as it leaves. You bite your lip.",
+        "You can feel yourself stretch around the invader, and it hurts enough that you almost scream out in pain.",
+        "({PRIMARY}) You want to stick it up my {ASS}? O...okay...  Be gentle...   AHHH!",
+        "{ACTIVE} places the head of his cock against your {ASS} and pushes. You scream in pain."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} doesn't stop {ACTIVE} pushing her to the ground and fucking her {ASS}. What a {WHORE}.",
+        "{ACTIVE} lifts up {PRIMARY}'s {ASS} and starts to fuck her hard. Does she get off on rough treatment?",
+        "{ACTIVE} manhandles {PRIMARY}, pulling back on her arms as he fucks her {ASS}. Oh my..."
+    ]
+}

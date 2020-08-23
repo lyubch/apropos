@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Now happy with my {PUSSY}'s wetness the wolf presses forward to start fucking me, stepping carefully to avoid the wolf at my mouth.",
+        "Apparently growing jealous of how much attention his packmate is getting, the wolf steps forward, plunging his {COCK} into me.",
+        "I whine for a moment around the {COCK} as my {PUSSY} is left alone, but the tongue is quickly replaced with something much better...",
+        "I feel so used... My face is being fucked into the dirt and now my {PUSSY} as well?... Why does this turn me on so much?",
+        "So worked up by his tongue, I climax the second his {COCK} fills me, crying out in pleasure around the other's {PENIS}.",
+        "I moan my approval as the wolf moves forward to start fucking me, which only spurs the other on to pound my mouth harder."
+    ],
+    "2nd Person": [
+        "Now happy with your {PUSSY}'s wetness the wolf presses forward to start fucking, stepping carefully to avoid the wolf at your mouth.",
+        "Apparently growing jealous of how much attention his packmate is getting, the wolf steps forward, plunging his {COCK} into you.",
+        "You whine for a moment around the {COCK} as your {PUSSY} is left alone, but the tongue is quickly replaced with something far better...",
+        "You feel so used... Your face is being fucked into the dirt and now your {PUSSY} as well?... Why does this turn you on so much?",
+        "So worked up by his tongue, you climax the second his {COCK} fills you, crying out in pleasure around the other's {PENIS}.",
+        "You moan your approval as the wolf moves forward to start fucking you, which only spurs the other on to pound your mouth harder."
+    ],
+    "3rd Person": [
+        "Now happy with her {PUSSY}'s wetness the wolf presses forward to start fucking, stepping carefully to avoid the wolf at {PRIMARY}'s mouth.",
+        "Apparently growing jealous of how much attention his packmate is getting, the wolf steps forward, plunging his {COCK} into {PRIMARY}.",
+        "{PRIMARY} whines for a moment around the {COCK} as her {PUSSY} is left alone, but the tongue is quickly replaced with something far better...",
+        "{PRIMARY} feels so used... Her face is being fucked into the dirt and now her {PUSSY} as well?... Why does this turn her on so much?",
+        "So worked up by his tongue, {PRIMARY} climaxes the second his {COCK} fills her, crying out in pleasure around the other's {PENIS}.",
+        "{PRIMARY} moans her approval as the wolf moves forward to start fucking her, which only spurs the other on to pound her mouth harder."
+    ]
+}

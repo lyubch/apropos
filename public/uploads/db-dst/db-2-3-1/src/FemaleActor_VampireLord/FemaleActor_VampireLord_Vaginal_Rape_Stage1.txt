@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "({ACTIVE}) Eager to feel {DEAD} {COCK} inside your {HEAVING} {FLESH} are you?",
+        "With a {HORNY} {SCREAM}, I lie back, spread my legs, and {ACCEPTING}ly let the demon {FUCK} me.",
+        "Spread your legs for me {PRIMARY}, the {ACTIVE} commands. I can't help but obey.",
+        "It's in my mind, and I {SCREAM} as it {PENETRAT}es me.",
+        "I {STRUGGLE} feebly to resist the {ACTIVE}, but stop completely when it impales me.",
+        "I {STRUGGLE}, but eventually {SUBMIT}, my legs and {PUSSY} spreading wide open for it.",
+        "I sink to the ground, too overcome by {LUST} to fight.",
+        "My mind is clouded, I can't think straight, but I nod weakly as the demon offers his {COCK}.",
+        "The {ACTIVE} grabs my hips and drags his {COCK} down my pussy, and I almost cum right there.",
+        "I feel {SLOW} and my head spins. I want to bend over on the ground, {BUTTOCKS}-up and open, awaiting his {COCK}.",
+        "My {PUSSY} throbs and juices run down my legs. I can only imagine what it's like to {ACCEPT} its {COCK}..."
+    ],
+    "2nd Person" :
+    [
+        "({ACTIVE}) Eager to feel {DEAD} {COCK} inside your {HEAVING} {FLESH} are you?",
+        "With a {HORNY} {SCREAM}, you lie back, spread your legs, and {ACCEPTING}ly let the demon {FUCK} you.",
+        "Spread your legs for you {PRIMARY}, the {ACTIVE} commands. You can't help but obey.",
+        "It's in your mind, and you {SCREAM} as it {PENETRAT}es you.",
+        "You {STRUGGLE} feebly to resist the {ACTIVE}, but stop completely when it impales you.",
+        "You {STRUGGLE}, but eventually {SUBMIT}, your legs and {PUSSY} spreading wide open for it.",
+        "You sink to the ground, too overcome by {LUST} to fight.",
+        "Your mind is clouded, you can't think straight, but you nod weakly as the demon offers his {COCK}.",
+        "The {ACTIVE} grabs your hips and drags his {COCK} down your pussy, and you almost cum right there.",
+        "You feel {SLOW} and your head spins. You bend over on the ground, {BUTTOCKS}-up and open, awaiting his {COCK}.",
+        "Your {PUSSY} throbs and juices run down your legs. You can only imagine what it's like to {ACCEPT} its {COCK}..."
+    ],
+    "3rd Person" :
+    [
+        "({ACTIVE}) Eager to feel {DEAD} {COCK} inside your {HEAVING} {FLESH} are you?",
+        "With a {HORNY} {SCREAM}, {PRIMARY} lies back, spreads her legs, and {ACCEPTING}ly let the demon {FUCK} her.",
+        "Spread your legs for me {PRIMARY}, the {ACTIVE} commands. She can't help but obey.",
+        "{PRIMARY} {SCREAM}s as it {PENETRAT}es her.",
+        "{PRIMARY} struggles feebly to resist the {ACTIVE}, but stops completely when it impales her.",
+        "{PRIMARY} struggles, but eventually {SUBMIT}s, her legs and {PUSSY} spreading wide open for it.",
+        "{PRIMARY} sinks to the ground, too overcome by {LUST} to fight.",
+        "{PRIMARY} nods weakly as the demon offers his {COCK}."
+    ]
+}

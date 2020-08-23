@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I don't know if it was intentional, but I'm startled when its {PENIS} slips up inside me in the struggle.",
+        "In a fit of desperation, I jump into the {ACTIVE}'s arms and onto its {BEAST} {PENIS}.",
+        "I'm jerked up into the air with every sharp thrust from the {ACTIVE}'s {BEAST} {PENIS}.",
+        "So it's true... Trolls like to abduct human girls to fuck...",
+        "I grunt as I am impaled on the {ACTIVE}. I didn't know I could take so much dick.",
+        "I've heard rumours that some young girls sneak out to troll lairs just to get fucked... Ngh... I can tell why!"        
+    ],
+    "2nd Person" :
+    [
+        "You don't know if it was intentional, but you're startled when its {PENIS} slips up inside you in the struggle.",
+        "In a fit of desperation, you jump into the {ACTIVE}'s arms and onto its {BEAST} {PENIS}.",
+        "You're jerked up into the air with every sharp thrust from the {ACTIVE}'s {BEAST} {PENIS}.",
+        "So it's true... Trolls like to abduct human girls to fuck...",
+        "You grunt as you are impaled on the {ACTIVE}. You didn't know you could take so much dick.",
+        "You've heard rumours that some young girls sneak out to troll lairs just to get fucked... Ngh... You can tell why!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s jerked up into the air with every sharp thrust from the {ACTIVE}'s {BEAST} {PENIS}.",
+        "The {ACTIVE}'s {PENIS} slips up inside {PRIMARY} as she's lifted up into its arms. Did it mean to do that?",
+        "So it's true... Trolls like to abduct human girls to fuck..."        
+    ]
+}

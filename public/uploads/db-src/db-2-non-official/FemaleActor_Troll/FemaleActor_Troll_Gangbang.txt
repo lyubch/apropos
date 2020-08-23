@@ -1,0 +1,18 @@
+{
+    "1st Person" :
+    [
+        "{SWEARING}...these {ACTIVE} {COCK}s are {HUGE}...should I really be doing this?",
+	"Well, if one {ACTIVE} {COCK} is so much fun, why not try more?",
+	"I'm mesmerized by the {BEASTLY} {COCK}s swaying between their legs. I need them inside me."
+    ],
+    "2nd Person" :
+    [
+        "{SWEARING}...these {ACTIVE} {COCK}s are {HUGE}...should you really be doing this?",
+	"Well, if one {ACTIVE} {COCK} is so much fun, why not try more?",
+	"You're mesmerized by the {BEASTLY} {COCK}s swaying between their legs. You need them inside you."
+    ],
+    "3rd Person" :
+    [
+        "{SWEARING}...these {ACTIVE} {COCK}s are {HUGE}...should she really be doing this?"
+    ]
+}

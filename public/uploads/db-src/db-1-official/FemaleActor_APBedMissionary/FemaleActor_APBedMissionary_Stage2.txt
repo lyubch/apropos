@@ -1,0 +1,39 @@
+{
+    "1st Person": [
+        "Possibly frustrated with my teasing, {ACTIVE} pins me down hard and fucks me deeper. I love it!",
+        "I squeal with excitement as {ACTIVE} pins my wrists down and fucks deep between my spread legs.",
+        "I let {ACTIVE} roll me onto my back, and I spread my legs as wide as I can for him.",
+        "A wave of excitement washes through my whole body as I stare up at {ACTIVE} as he fucks deeply into me.",
+        "I stare up at {ACTIVE}'s face, an intense look of concentration sending shivers through my whole body.",
+        "Oh my! That's it {ACTIVE}, take control! I'm yours! Your little {BITCH}!",
+        "{ACTIVE} just wants me as a {WHORE}, a quick rut then for me to take his {CUM}. Wickedly, I love it.",
+        "I moan as {ACTIVE} spreads me. I've wanted this for so long... fuck me... fuck me so hard...",
+        "{ACTIVE}, fuck me like you wanted to when you first saw me.",
+        "{ACTIVE} and I watch each other, panting hungrily.",
+        "({ACTIVE}) I've heard all the rumours, about a little {WHORE} who'll fuck anything with a {COCK}!",
+        "({ACTIVE}) Always knew you were a tiger, {BITCH}. I'm going to fuck you all night!",
+        "Do it, baby. Make me scream your name."
+    ],
+    "2nd Person": [
+        "Possibly frustrated with your teasing, {ACTIVE} pins you down hard and fucks you deeper. You love it!",
+        "You squeal with excitement as {ACTIVE} pins your wrists down and fucks deep between your spread legs.",
+        "You let {ACTIVE} roll you onto your back, and you spread your legs as wide as you can for him.",
+        "A wave of excitement washes through your whole body as you stare up at {ACTIVE} as he fucks deeply into you.",
+        "You stare up at {ACTIVE}'s face, an intense look of concentration sending shivers through your whole body.",
+        "({PRIMARY}) Oh my! That's it {ACTIVE}, take control! I'm yours! Your little {BITCH}!",
+        "{ACTIVE} just wants you as a {WHORE}, a quick rut then for you to take his {CUM}. Wickedly, you love it.",
+        "({PRIMARY}) I've wanted this for so long... fuck me... fuck me so hard...",
+        "({PRIMARY}) {ACTIVE}, fuck me like you wanted to when you first saw me.",
+        "You both watch each other, panting hungrily.",
+        "({ACTIVE}) I've heard all the rumours, about a little {WHORE} who'll fuck anything with a {COCK}!",
+        "({ACTIVE}) Always knew you were a tiger, {BITCH}. I'm going to fuck you all night!",
+        "({PRIMARY}) Do it, baby. Make me scream your name."
+    ],
+    "3rd Person": [
+        "Suddenly, {ACTIVE} rolls {PRIMARY} out flat and pins her down hard. She just smiles, spreading her legs.",
+        "{PRIMARY} doesn't resist when {ACTIVE} takes charge. She clearly likes a man to be dominant!",
+        "{ACTIVE} pins {PRIMARY} down by her wrists, and she opens her legs wide, letting him in even further.",
+        "There's something so animalistic, so natural, about a guy taking charge.",
+        "{PRIMARY}'s eyes light up and she squeals as {ACTIVE} takes control, spreading her wide open."
+    ]
+}

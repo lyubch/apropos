@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Surprise and {FEAR} race through me as I feel {ACTIVE}'s thick tongue at my {PUSSY}...",
+        "{SWEARING}, don't tell me he wants to... I can't do that...",
+        "Ahh! Not there! Bad dog, you can't.... Mmmmm aaahh!",
+        "My heart races as I drop to the ground, signalling my submission to {ACTIVE}. I feel like a {BITCH}.",
+        "The {ACTIVE} slobbers and sniffs at my {WTVAGINAL} {PUSSY}. I couldn't possibly.... let him...?",
+        "{ACTIVE} slobbers at my {PUSSY}. {SWEARING}, you can't do that... {PLEADING}! {PLEADING}! Get off me!"
+    ],
+    "2nd Person": [
+        "Surprise and {FEAR} race through you as you feel {ACTIVE}'s thick tongue at your {PUSSY}...",
+        "({PRIMARY}) {SWEARING}, don't tell me he wants to... I can't do that...",
+        "({PRIMARY}) Ahh! Not there! Bad dog, you can't.... Mmmmm aaahh!",
+        "Your heart races as you drop to the ground, signalling your submission to {ACTIVE}. You feel like a {BITCH}.",
+        "The {ACTIVE} slobbers and sniffs at your {WTVAGINAL} {PUSSY}. You couldn't possibly.... let him...?",
+        "({PRIMARY}) {SWEARING}, you can't do that... {PLEADING}! {PLEADING}! Get off me!"
+    ],
+    "3rd Person": [
+        "Surprise and {FEAR} race through {PRIMARY} as she feels {ACTIVE}'s thick tongue at her {WTVAGINAL} {PUSSY}...",
+        "({PRIMARY}) {SWEARING}, don't tell me he wants to... I can't do that...",
+        "({PRIMARY}) Ahh! Not there! Bad dog, you can't.... Mmmmm aaahh!",
+        "{PRIMARY}'s heart races as she drops to the ground, signalling her submission to {ACTIVE}. She feels like a {BITCH}.",
+        "The {ACTIVE} slobbers and sniffs at {PRIMARY}'s {WTVAGINAL} {PUSSY}. She couldn't possibly.... let him...?",
+        "({PRIMARY}) {SWEARING}, you can't do that... {PLEADING}! {PLEADING}! Get off me!"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I don't dare move as the {ACTIVE} holds me steady and begins to {FUCK} its {BEASTLY} {COCK} into my {PUSSY}.",
+        "Every thrust of the {ACTIVE}'s {COCK} is sudden, sharp, and painfully deep, making me {SCREAM}.",
+        "I see stars as the {ACTIVE} impales me fully with a single stroke, before {FUCK}ing me {SLOW}ly.",
+        "Its {COCK} is far too {HUGE} for my {PUSSY}, but that doesn't stop the {ACTIVE} from {INSERT}ing it inside me.",
+        "The {ACTIVE} slides my {WTVAGINAL} {PUSSY} wide open and plugs me fully with its {BEASTLY} {GIRTH}.",
+        "No... It won't fit... The {ACTIVE}'s {BEASTLY} {COCK} stretches me going in."
+    ],
+    "2nd Person": [
+        "You don't dare move as the {ACTIVE} holds you steady and begins to {FUCK} its {BEASTLY} {COCK} into your {PUSSY}.",
+        "Every thrust of the {ACTIVE}'s {COCK} is sudden, sharp, and painfully deep, making you {SCREAM}.",
+        "You see stars as the {ACTIVE} impales you fully with a single stroke, before {FUCK}ing you {SLOW}ly.",
+        "Its {COCK} is far too {HUGE} for your {PUSSY}, but that doesn't stop the {ACTIVE} from {INSERT}ing it inside you.",
+        "The {ACTIVE} slides your {WTVAGINAL} {PUSSY} wide open and plugs you fully with its {BEASTLY} {GIRTH}.",
+        "No... It won't fit... The {ACTIVE}'s {BEASTLY} {COCK} stretches you going in."
+    ],
+    "3rd Person": [
+        "{PRIMARY} doesn't dare move as the {ACTIVE} holds her steady and begins to {FUCK} its {BEASTLY} {COCK} into her {PUSSY}.",
+        "Every thrust of the {ACTIVE}'s {COCK} is sudden, sharp, and painfully deep, making {PRIMARY} {SCREAM}.",
+        "{PRIMARY} sees stars as the {ACTIVE} impales her fully with a single stroke, before {FUCK}ing her {SLOW}ly.",
+        "Its {COCK} is far too {HUGE} for {PRIMARY}'s {PUSSY}, but that doesn't stop the {ACTIVE} from {INSERT}ing it inside her.",
+        "The {ACTIVE} slides {PRIMARY}'s {WTVAGINAL} {PUSSY} wide open and plugs her fully with its {BEASTLY} {GIRTH}.",
+        "No... It won't fit... The {ACTIVE}'s {BEASTLY} {COCK} stretches {PRIMARY} going on."
+    ]
+}

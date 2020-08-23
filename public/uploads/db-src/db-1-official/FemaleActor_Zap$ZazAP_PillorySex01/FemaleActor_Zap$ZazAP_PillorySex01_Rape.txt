@@ -1,0 +1,30 @@
+{
+    "1st Person": [
+        "My hands and neck are held tight, I'm completely at the mercy of these perverted bastards...",
+        "I struggle vainly, but I know there's no escape. They can do whatever they want to me.",
+        "I feel hands roughly groping and stroking my exposed backside. I start to feel afraid...",
+        "I can't be sure exactly who is behind me, but their {COCK} is {MAROUSAL}. Oh Gods, no...",
+        "I'm trembling with fear, but the anticipation and the helplessness starts to make me wet.",
+        "That was definitely a {COCK} I just felt! Oh Gods no! I'm going to get fucked!",
+        "He's going to fuck me, and there's not a god-damned thing I can do to stop him...",
+        "I feel so vulnerable, and so turned on. I hope he takes me...",
+        "Nakedness intensifies my vulnerability, and my lips tremble in forced submissiveness and desire."
+    ],
+    "2nd Person": [
+        "Your hands and neck are held tight, you're completely at the mercy of these perverted bastards...",
+        "You struggle vainly, but you know there's no escape. They can do whatever they want to you.",
+        "You feel hands roughly groping and stroking your exposed backside. You start to feel afraid...",
+        "You can't be sure exactly who is behind you, but their {COCK} is {MAROUSAL}. Oh Gods, no...",
+        "You're trembling with fear, but the anticipation and the helplessness starts to make you wet.",
+        "That was definitely a {COCK} you just felt! Oh Gods no! You're going to get fucked!",
+        "He's going to fuck you, and there's not a god-damned thing you can do to stop him...",
+        "You feel so vulnerable, and so turned on. You hope he takes you...",
+        "Nakedness intensifies your vulnerability, and your lips tremble in forced submissiveness and desire."
+    ],
+    "3rd Person": [
+        "{ACTIVE}'s {PENIS} is {MAROUSAL}, and there's nothing {PRIMARY} can do to stop him fucking her.",
+        "{PRIMARY} is tightly bound, and completely helpless. Those perverted bastards are going rape her.",
+        "{PRIMARY} is locked up and exposed, just a helpless {BITCH} for their sick minds.",
+        "It's sickening that {PRIMARY} is trussed up like that, {ACTIVE} is such a disgusting bastard!"
+    ]
+}

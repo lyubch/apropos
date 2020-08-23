@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "The bare soles of my feet touch all across {ACTIVE}'s muscled chest.",
+        "While one foot roves across his chest, I feel {ACTIVE}'s {COCK} {QUIVER} as my heel {GENTLE}ly touches the base.",
+        "I stare into {ACTIVE}'s eyes, aware of his {MAROUSAL} {COCK} standing to attention before me.",
+        "My legs spread wide, letting {ACTIVE} see how {FAROUSAL} my {PUSSY} is for him.",
+        "My {HEAVING} {BUTTOCKS} resting in the dirt and {SCUM}, I spread my {PUSSY} before {ACTIVE}, {FAROUSAL}.",
+        "My {FAROUSAL} {PUSSY}... and his {MAROUSAL} {COCK}... Can we hold out for a little foreplay before we fuck?",
+        "He knows I'm fascinated with his {MAROUSAL} {COCK} towering right in front of me...",
+        "I gaze at the {HUGE} {COCK} poised and throbbing slightly in front of me, my {PUSSY} {FAROUSAL}...",
+        "I saw you looking at my feet... You want me to rub them all over your {COCK}?"
+    ],
+    "2nd Person" :
+    [
+        "The bare soles of your feet touch all across {ACTIVE}'s muscled chest.",
+        "One foot roves across his chest, and you feel {ACTIVE}'s {COCK} {QUIVER} as your heel {GENTLE}ly touches the base.",
+        "You stare into {ACTIVE}'s eyes, aware of his {MAROUSAL} {COCK} standing to attention before you.",
+        "Your legs spread wide, letting {ACTIVE} see how {FAROUSAL} your {PUSSY} is for him.",
+        "Your {HEAVING} {BUTTOCKS} resting in the dirt and {SCUM}, you spread your {PUSSY} before {ACTIVE}, {FAROUSAL}.",
+        "Your {FAROUSAL} {PUSSY}... and his {MAROUSAL} {COCK}... Maybe a little foreplay first?",
+        "({PRIMARY}) Can you hold out for a little foreplay before we fuck?",
+        "He knows you're fascinated with his {MAROUSAL} {COCK} towering right in front of you...",
+        "You gaze at the {HUGE} {COCK} poised and throbbing slightly in front of you, your {PUSSY} {FAROUSAL}...",
+        "({PRIMARY}) I saw you looking at my feet... You want me to rub them all over your {COCK}?"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} lies back, her legs spread and her {PUSSY} {NUDE}, her bare feet roaming across {ACTIVE}'s chest.",
+        "{ACTIVE}'s {MAROUSAL} {COCK} {QUIVER}s each time {PRIMARY}'s heel brushes the base.",
+        "Oh wow, {PRIMARY} is going to give {ACTIVE} a footjob! That's so {LEWD}... Is he really into that?"
+    ]
+}

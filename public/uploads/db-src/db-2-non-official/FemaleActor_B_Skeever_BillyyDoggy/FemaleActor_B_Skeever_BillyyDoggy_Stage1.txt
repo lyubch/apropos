@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "I can see the {SLIMY} {COCK} of {ACTIVE}, {SLOW}ly opening and {EXPLOR}ing into my {FAROUSAL} {PUSSY}. Am I having second thoughts?",
+        "You are a gross {ANIMAL}, but even you need to breed, go on then, {BREED} me.",
+        "Legs open to a rat, waiting it to fill my {PUSSY} with its {VILE} {COCK}, I am not sure if I am {HORNY} or disgusted.",
+        "The {COCKHEAD} of its {COCK} is touching and entering {GENTLE}ly inside my {PUSSY}, I wonder how it will feel when its ball-deep",
+        "{ACTIVE}'s {VILE} sight is on top of me, its saliva dropping down on my {BOOBS}, and its {COCK} prodding and feeling my {PUSSY}.",
+        "You poor little rodent, you must be craving for a release, you can relieve your {COCK} in my {PUSSY}.",
+        "Ahh, you don't lose time do you? Go on then, take my {FAROUSAL} {PUSSY}.",
+        "If you bite, you won't be {EJACULATE}ing in this {PUSSY}, so be nice and {FUCK} like a good boy.",
+        "I am amazed to see such a large {COCK} from a relatively small rat, or is it just for me?",
+        "The smell and sight of this {ACTIVE} is {VILE}, it better give me a good {FUCK}ing to make up for it."        
+    ],
+    "2nd Person" :
+    [
+        "You can see the {SLIMY} {COCK} of {ACTIVE}, {SLOW}ly opening and {EXPLOR}ing into your {FAROUSAL} {PUSSY}. Are you having second thoughts?",
+        "({PRIMARY}) You are a gross {ANIMAL}, but even you need to breed, go on then, {BREED} me.",
+        "Legs open to a rat, waiting it to fill her {PUSSY} with its {VILE} {COCK}, you are not sure if you are {HORNY} or disgusted.",
+        "The {COCKHEAD} of its {MAROUSAL} {COCK} is touching and entering {GENTLE}ly inside your {PUSSY}, you wonder how it will feel when its ball-deep.",
+        "{ACTIVE}'s {VILE} sight is on top of you, its saliva dropping down on your {BOOBS}, and its {COCK} prodding and feeling your {PUSSY}.",
+        "({PRIMARY}) You poor little rodent, you must be craving for a release, you can relieve your {COCK} in my {PUSSY}.",
+        "({PRIMARY}) Ahh, you don't lose time do you? Go on then, take my {FAROUSAL} {PUSSY}.",
+        "({PRIMARY}) If you bite, you won't be {EJACULATE}ing in this {PUSSY}, so be nice and {FUCK} like a good boy.",
+        "You are amazed to see such a large {COCK} from a relatively small rat, or is it just for you?",
+        "The smell and sight of this {ACTIVE} is {VILE}, you hope it gives you a good {FUCK}ing to make up for it."  
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} can see the {SLIMY} {COCK} of {ACTIVE}, {SLOW}ly opening and {EXPLOR}ing into her {FAROUSAL} {PUSSY}. Is she having second thoughts?",
+        "({PRIMARY}) You are a gross {ANIMAL}, but even you need to breed, go on then, {BREED} me.",
+        "Legs open to a rat, waiting it to fill {PRIMARY}'s {PUSSY} with its {VILE} {COCK}, she is not sure if she is {HORNY} or disgusted.",
+        "The {COCKHEAD} of its {MAROUSAL} {COCK} is touching and entering {GENTLE}ly inside {PRIMARY}'s {PUSSY}, she wonders how it will feel when its ball-deep.",
+        "{ACTIVE}'s {VILE} sight is on top of {PRIMARY}, its saliva dropping down on her {BOOBS}, and its {COCK} prodding and feeling her {PUSSY}.",
+        "({PRIMARY}) You poor little rodent, you must be craving for a release, you can relieve your {COCK} in my {PUSSY}.",
+        "({PRIMARY}) Ahh, you don't lose time do you? Go on then, take my {FAROUSAL} {PUSSY}.",
+        "({PRIMARY}) If you bite, you won't be {EJACULATE}ing in this {PUSSY}, so be nice and {FUCK} like a good boy.",
+        "{PRIMARY} is amazed to see such a large {COCK} from a relatively small rat, or is it just for her?",
+        "The smell and sight of this {ACTIVE} is {VILE}, {PRIMARY} hopes it gives her a good {FUCK}ing to make up for it."  
+    ]
+}

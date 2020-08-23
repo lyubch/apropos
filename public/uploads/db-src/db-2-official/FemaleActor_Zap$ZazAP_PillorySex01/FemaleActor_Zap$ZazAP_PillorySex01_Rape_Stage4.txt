@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I'm in agony... I'm being fucked so hard, and my hip feels swollen and raw...",
+        "My bonds rattle as I'm fucked hard and fast, my collarbone clattering painfully into the stocks.",
+        "The abuse is extreme... I'm being fucked like a {WHORE}, and beaten painfully on top of it.",
+        "Nghhh! Ahhh! I can't help it, the intense abuse is driving me to orgasm! Ah ah ah!",
+        "Oh Gods, he's actually spanking me, like a naughty child! I flush with humiliation.",
+        "Ow! Ow! My hip is beaten raw, and I flinch every time he strikes me.",
+        "({ACTIVE}) There are lots of guys here who want to do you, {BITCH}."
+    ],
+    "2nd Person": [
+        "You're in agony... You're being fucked so hard, and your hip feels swollen and raw...",
+        "Your bonds rattle as you're fucked hard and fast, your collarbone clattering painfully into the stocks.",
+        "The abuse is extreme... You're being fucked like a {WHORE}, and beaten painfully on top of it.",
+        "Nghhh! Ahhh! You can't help it, the intense abuse is driving you to orgasm! Ah ah ah!",
+        "Oh Gods, he's actually spanking you, like a naughty child! You flush with humiliation.",
+        "Ow! Ow! Your hip is beaten raw, and you flinch every time he strikes you.",
+        "({ACTIVE}) There are lots of guys here who want to do you, {BITCH}."
+    ],
+    "3rd Person": [
+        "The abuse intensifies, the {ACTIVE} fucking {PRIMARY} even harder, and spanking her brutally.",
+        "Every stroke turns {PRIMARY}'s hip redder. It looks raw and painful.",
+        "The noise adds to the spectacle, the rattling of {PRIMARY}'s bonds and the slapping of flesh on flesh.",
+        "It's horrible to see this happen, {PRIMARY} being abused like some disposable {WHORE}."
+    ]
+}

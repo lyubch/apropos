@@ -1,0 +1,45 @@
+{
+    "1st Person": [
+        "I scream into the ground as each thrust bottoms out painfully in my {ASS}.",
+        "My face is pushed painfully into the dirty ground with each thrust.",
+        "The beast leans forward, pinning me to the ground as his {COCK} fucks me balls deep.",
+        "I gasp and groan as I start to crave more from the unnatural union.",
+        "I feel every pulsing vein of its {COCK} pulling on my {ASS} as it thrusts in and out me.",
+        "Ugh! No! Please! It's too hard...",
+        "My thoughts are violently scattered as I am fucked silly.",
+        "The {ACTIVE}'s last thrust almost makes me pass out.",
+        "Tears stream down my face from the strain of being fucked by a {BEAST} stone {COCK}.",
+        "Underneath, I'm nothing but bruises and every movement seems to hurt.",
+        "I tremble helplessly around the {HUGE} shaft, fully impaled on the creature's {BEAST} stone {COCK}.",
+        "I push out my tingling {BOOBS}, and I feel my {QUIVERING} legs stretch and my toes spread involuntarily.",
+        "Each mighty thrust into my {ASS} makes my stomach lurch. I can't believe it's so deep..."
+    ],
+    "2nd Person": [
+        "You scream into the ground as each thrust bottoms out painfully in your {ASS}.",
+        "Your face is pushed painfully into the dirty ground with each thrust.",
+        "The beast leans forward, pinning you to the ground as his {COCK} fucks you balls deep.",
+        "You gasp and groan as you start to crave more from the unnatural union.",
+        "You feel every pulsing vein of its {COCK} pulling on your {ASS} as it thrusts in and out you.",
+        "({PRIMARY}) Ugh! No! Please! It's too hard...",
+        "Your thoughts are violently scattered as you are fucked silly.",
+        "The {ACTIVE}'s last thrust almost makes you pass out.",
+        "Tears stream down your face from the strain of being fucked by a {BEAST} stone {COCK}.",
+        "Underneath, you're nothing but bruises and every movement seems to hurt.",
+        "You tremble helplessly around the {HUGE} shaft, fully impaled on the creature's {BEAST} stone {COCK}.",
+        "You push out your tingling {BOOBS}, your {QUIVERING} legs stretch and your toes spreading involuntarily.",
+        "Each mighty thrust into your {ASS} makes your stomach lurch. You can't believe it's so deep..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} screams into the ground as each thrust bottoms out painfully in her {ASS}.",
+        "{PRIMARY}'s face is pushed painfully into the dirty ground with each thrust.",
+        "The beast leans forward, pinning {PRIMARY} to the ground as his {COCK} fucks her balls deep.",
+        "{PRIMARY} gasps and groans as she starts to crave more from the unnatural union.",
+        "{PRIMARY} must feel every pulsing vein of its {COCK} pulling on her {ASS} as it thrusts in and out her.",
+        "({PRIMARY}) Ugh! No! Please! It's too hard...",
+        "The {ACTIVE}'s last thrust makes {PRIMARY}'s eyes roll back. Will she pass out?",
+        "Tears stream down {PRIMARY}'s face from the strain of being fucked by a {BEAST} stone {COCK}.",
+        "{PRIMARY} trembles helplessly around the {HUGE} shaft, fully impaled on the creature's {BEAST} stone {COCK}.",
+        "{PRIMARY} pushes out her {BOOBS}, and her {QUIVERING} legs stretch and her toes spread.",
+        "Each mighty thrust into her {ASS} makes {PRIMARY} moan. It must be really deep..."
+    ]
+}

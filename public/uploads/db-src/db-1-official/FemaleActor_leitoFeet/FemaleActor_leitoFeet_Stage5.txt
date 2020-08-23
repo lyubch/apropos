@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "Wait! Don't cum on my feet! I want you to squirt your stuff way up inside me!",
+        "It's... um... it's okay if you cum inside me... Wouldn't you rather cum in my {PUSSY}?",
+        "No! It's not enough... I need it... Need to feel your {HUGE} {PENIS} inside me again... Please...",
+        "I'm beside myself with lust now, desperate to climb onto {ACTIVE}'s {PENIS}, and he knows it.",
+        "Mmmm... Oh Gods... Could you... fuck me? Please...? You can do it in any {OPENING}...",
+        "My legs raised and my {FAROUSAL} {PUSSY} on display, surely he can see how much I need to be fucked?",
+        "Ah... ahh... no... please... I'm so close... I want it... inside me!",
+        "Are you done? You can fuck me some more if you want..."        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Wait! Don't cum on my feet! I want you to squirt your stuff way up inside me!",
+        "({PRIMARY}) It's... um... it's okay if you cum inside me... Wouldn't you rather cum in my {PUSSY}?",
+        "({PRIMARY}) No! It's not enough... I need it... Need to feel your {HUGE} {PENIS} inside me again... Please...",
+        "You're beside yourself with lust now, desperate to climb onto {ACTIVE}'s {PENIS}, and he knows it.",
+        "({PRIMARY}) Mmmm... Oh Gods... Could you... fuck me? Please...? You can do it in any {OPENING}...",
+        "Your legs raised and your {FAROUSAL} {PUSSY} on display, surely he can see how much you need to be fucked?",
+        "({PRIMARY}) Ah... ahh... no... please... I'm so close... I want it... inside me!",
+        "({PRIMARY}) Are you done? You can fuck me some more if you want..."        
+    ],
+    "3rd Person" :
+    [
+        "It's surprising that {ACTIVE} has withdrawn, but it looks like {PRIMARY} won't be satisfied with that...",
+        "({PRIMARY}) No, you bastard! I was almost there! Fuck me, I need you inside me!",
+        "({ACTIVE}) Look at your face, do you really want me to cum inside you so badly? Okay {BITCH}, get ready!"
+    ]
+}

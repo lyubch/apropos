@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "Он вставляет свой {SALTY}ый {BUGCOCK} в мою {FAROUSAL}ую {PUSSY}у... Ахх... Ммм..."
+    ],
+    "2nd Person": [
+        "Он вставляет свой {MAROUSAL}ый {BUGCOCK} в вашу {FAROUSAL}ую {PUSSY}у."
+    ],
+    "3rd Person": [
+        "Он вставляет свой {MAROUSAL}ый {BUGCOCK} в её {FAROUSAL}ую {PUSSY}у. Она стонет."
+    ]
+}

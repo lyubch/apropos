@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "My legs are spread as far as they'll go now, the brute not caring for my comfort as it has its way with me.",
+        "I struggle to hold my ass up as the {ACTIVE} yanks my legs higher, thrusting his {COCK} even harder into me.",
+        "Ugh! Ah! Oh Gods, its {COCK} is so big, battering against my cervix now. I push into it, eager to take it in my womb.",
+        "I ignore my hips, screaming in pain and pushed to their limits as my {WTVAGINAL} {PUSSY} is pounded and stretched.",
+        "Ahh! Oh Gods... This thing's {COCK}... It hurts... it's too big... But it feels... so good...",
+        "The huge, muscled body of the troll, fucking my tiny, slender frame... It's so hard, so deep..."        
+    ],
+    "2nd Person" :
+    [
+        "Your legs are spread as far as they'll go now, the brute not caring for your comfort as it has its way with you.",
+        "You struggle to hold your ass up as the {ACTIVE} yanks your legs higher, thrusting his {COCK} even harder into you.",
+        "Ugh! Ah! Oh Gods, its {COCK} is so big, battering against your cervix now. You push into it, eager to take it in your womb.",
+        "You ignore your hips, screaming in pain and pushed to their limits as your {WTVAGINAL} {PUSSY} is pounded and stretched.",
+        "Ahh! Oh Gods... This thing's {COCK}... It hurts... it's too big... But it feels... so good...",
+        "The huge, muscled body of the troll, fucking your tiny, slender frame... It's so hard, so deep..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} struggles to hold her ass up as the {ACTIVE} yanks her legs higher, thrusting his {COCK} even harder",
+        "The beast rams its colossal {COCK} so far between {PRIMARY}'s spread legs that it must be in her womb by now!",
+        "Despite taking the full length of a {COCK} that should be tearing her apart, {PRIMARY} is clearly moaning with pleasure!"
+    ]
+}

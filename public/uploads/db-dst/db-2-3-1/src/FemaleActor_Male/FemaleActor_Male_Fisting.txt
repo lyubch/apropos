@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+	"I'm not sure I want this, but {LOVE} and {LUST} spur me on. As long as it's him...",
+        "I hold my body up on my hands, and just stare straight up, trying to ready my body for this ordeal.",
+        "I don't even look at {ACTIVE}, I just stare into space as his hand begins to part my {FAROUSAL} {PUSSY}.",
+        "My legs are spread wide, hoping this will make it easier to take, but it still hurts.",
+        "I can't believe what {ACTIVE} wants to do, and I {MOAN} as he tries to {INSERT} his whole hand inside me.",
+        "Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "I {MOAN} as {ACTIVE} {INSERT}s his fingers inside me, before trying to {INSERT} his entire hand inside me.",
+        "{ACTIVE} presses harder and harder,  until I feel my {PUSSY} give way and he {INSERT}s inside.",
+        "The first few fingers enter me, and I already feel my {FAROUSAL} {PUSSY} straining.",
+        "I want to get really {LEWD}... I want you to hurt me... really hurt me..."
+    ],
+    "2nd Person": [
+	"You're not sure you want this, but {LOVE} and {LUST} spur you on. As long as it's him...",
+        "You hold your body up on your hands, and just stare straight up, trying to ready your body for this ordeal.",
+        "You don't look at {ACTIVE}, you just stare into space as his hand begins to part your {FAROUSAL} {PUSSY}.",
+        "Your legs are spread wide, hoping this will make it easier to take, but it still hurts.",
+        "You can't believe what {ACTIVE} wants to do, and you {MOAN} as he tries to {INSERT} his whole hand inside you.",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "You {MOAN} as {ACTIVE} {INSERT}s his fingers inside you, before trying to {INSERT} his entire hand inside you.",
+        "{ACTIVE} presses harder and harder,  until you feel your {PUSSY} give way and he {INSERT}s inside.",
+        "The first few fingers enter you, and you already feel your {FAROUSAL} {PUSSY} straining.",
+        "({PRIMARY}) I want to get really {LEWD}... I want you to hurt me... really hurt me..."
+    ],
+    "3rd Person": [
+	"She looks like she's not sure about this, but her face tells the story of both {LOVE} and {LUST}.",
+        "{PRIMARY} holds her body up on her hands, staring straight up, trying to ready her body for this ordeal.",
+        "{PRIMARY} doesn't even look at {ACTIVE}, staring into space as his hand parts her {FAROUSAL} {PUSSY}.",
+        "{PRIMARY}'s legs are spread wide, hoping this will make it easier to take, but it still hurts.",
+        "{PRIMARY} {MOAN}s as {ACTIVE} tries to {INSERT} his whole hand inside her.",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!"
+    ]
+}

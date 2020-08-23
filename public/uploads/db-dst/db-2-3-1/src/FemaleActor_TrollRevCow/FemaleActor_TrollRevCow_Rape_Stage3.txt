@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "I {SCREAM} as the {MONSTER} takes me by the legs, afraid for my life. I'm relieved when it starts sliding me up and down.",
+        "As the {MONSTER} takes control, I slump forward. The sheer {GIRTH} of the {MONSTER}'s {COCK} has me exhausted already.",
+        "Perhaps unsatisfied with my efforts, the {MONSTER} grabs my legs and {ROUGH}ly pulls me up and down his {BEASTLY} {COCK}.",
+        "This {MONSTER} knows exactly what to do, where to hit inside me... Has it {FUCK}ed girls before?",
+        "The {ACTIVE} is so {HUGE} and strong, I can't help but get {HORNY} by being taken this way."  
+    ],
+    "2nd Person" :
+    [
+        "You {SCREAM} as the {MONSTER} takes you by the legs, afraid for your life. You're relieved when it starts sliding you up and down.",
+        "As the {MONSTER} takes control, you slump forward. The sheer {GIRTH} of the {MONSTER}'s {COCK} has you exhausted already.",
+        "Perhaps unsatisfied with your efforts, the {MONSTER} grabs your legs and {ROUGH}ly pulls you up and down his {BEASTLY} {COCK}.",
+        "This {MONSTER} knows exactly what to do, where to hit inside you... Has it {FUCK}ed girls before?",
+        "The {ACTIVE} is so {HUGE} and strong, you can't help but get {HORNY} by being taken this way."
+    ],
+    "3rd Person" :
+    [
+        "As the {MONSTER} takes control, {PRIMARY} slumps forward. The sheer {GIRTH} of the {MONSTER}'s {COCK} has her exhausted already.",
+        "Perhaps unsatisfied with her efforts, the {MONSTER} grabs {PRIMARY}'s legs and {ROUGH}ly pulls her up and down his {BEASTLY} {COCK}.",
+        "The {ACTIVE} is so {HUGE} and strong, it's such a turn on seeing a girl being taken this way."
+    ]
+}

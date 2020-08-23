@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "My eyes fly open as the {ACTIVE} starts to cum into my {MOUTH}. It's burning hot, and tastes disgusting.",
+        "Oh Gods! The {ACTIVE}'s {CUM} is red hot! I feel as if my throat is being scalded as I choke it down.",
+        "Never-ending streams of {VILE} {CUM} flow into my mouth. I splutter, feeling it explode from my nose.",
+        "The {ACTIVE}'s claws dig into my shoulder sharply as it begins to CUM, and I dare not move.",
+        "I'm held firmly by the {ACTIVE}'s huge hands, forced to swallow load after load of {VILE} {CUM}."
+    ],
+    "2nd Person" :
+    [
+        "Your eyes fly open as the {ACTIVE} starts to cum into your {MOUTH}. It's burning hot, and tastes disgusting.",
+        "Oh Gods! The {ACTIVE}'s {CUM} is red hot! You feel as if your throat is being scalded as you choke it down.",
+        "Never-ending streams of {VILE} {CUM} flow into your mouth. You splutter, feeling it explode from your nose.",
+        "The {ACTIVE}'s claws dig into your shoulder sharply as it begins to CUM, and you dare not move.",
+        "You're held firmly by the {ACTIVE}'s huge hands, forced to swallow load after load of {VILE} {CUM}."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} lifts its head and its body tenses. It's obviously {CUMMING} in {PRIMARY}'s {MOUTH}.",
+        "The {ACTIVE} pants heavily, and {PRIMARY} can be seen gulping and swallowing hard, choking as she does.",
+        "There must be a lot of {CUM}, it's flowing freely from the sides of {PRIMARY}'s mouth and out her nose.",
+        "Poor {PRIMARY}, being made to drink that horrible creature's {CUM}..."
+    ]
+}

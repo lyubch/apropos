@@ -1,0 +1,16 @@
+{
+    "1st Person": [
+        "I rub the {ACTIVE}'s {STRAPON} between my ankles, pointing her straight at my {WTVAGINAL} {PUSSY} as she cums.",
+        "Ugh... I can feel her {CREAM} over my bare soles... Dripping all over my toes...",
+        "I {SCREAM} as I feel her {CREAM} dripping between my toes."
+    ],
+    "2nd Person": [
+        "You rub {ACTIVE}'s {STRAPON} between your ankles, pointing her straight at your {WTVAGINAL} {PUSSY} as she cums.",
+        "Ugh... You can feel her {CREAM} over your bare soles... Dripping all over your toes...",
+        "You {SCREAM} as you feel her {CREAM} dripping between your toes."
+    ],
+    "3rd Person": [
+        "{PRIMARY} rubs the {ACTIVE}'s {STRAPON} between her ankles, pointing her at her {WTVAGINAL} {PUSSY} as she cums.",
+        "{ACTIVE}'s {CREAM} is all over {PRIMARY}'s bare soles... Dripping all over her toes..."
+    ]
+}

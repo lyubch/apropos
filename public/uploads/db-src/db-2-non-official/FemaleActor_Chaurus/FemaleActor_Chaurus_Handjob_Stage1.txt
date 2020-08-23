@@ -1,0 +1,16 @@
+{
+    "1st Person": [
+        "The {BUGCOCK} looks so {HUGE} and {TASTY}...I have to taste it!",
+	"Maybe I should have just let him {INSERT} this {BUGCOCK} into my {PUSSY}...",
+	"I can feel a chaurus worm climbing up my leg...is it moving towards my {PUSSY} or my {ASSHOLE}?"
+    ],
+    "2nd Person": [
+        "The {BUGCOCK} looks so {HUGE} and {TASTY}...you have to taste it!",
+	"Maybe you should have just let him {INSERT} this {BUGCOCK} into you {PUSSY}...",
+	"You can feel a chaurus worm climbing up your leg...is it moving towards your {PUSSY} or your {ASSHOLE}?"
+    ],
+    "3rd Person": [
+        "The {BUGCOCK} looks so {HUGE} and {TASTY}!",
+	"A chaurus worm is climbing up her leg...is it moving towards her {PUSSY} or her {ASSHOLE}?"
+    ]
+}

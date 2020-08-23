@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "Ugh... That's it, you {MONSTER}! Ah! Fuck me! Fuck me deep! {SWEARING}, yes! Deeper!",
+        "Heart thumping in {LUST} and {FEAR}, I move my leg and let the monster on top of me all the way inside.",
+        "I stare wide eyed between my legs, amazed at the sheer {GIRTH} of the {COCK} disappearing inside me.",
+        "The {MONSTER} begins to piledrive into my {WTVAGINAL} {PUSSY}, slamming into my cervix.",
+        "Yes... in all the way... I can take it... I want it...",
+        "I'm shocked by what's running through my head; to be {RAP}ed with such violence, it's so {LEWD}.",
+        "Ugh... ugh... ugh... I can't believe my {FLESH} is taking this kind of punishment.",
+        "I've yearned to be {RAP}ed in this way, and the fact that it's a {BEASTLY} {MONSTER} makes it that much more {LEWD}!"        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Ugh... That's it, you {MONSTER}! Ah! Fuck me! Fuck me deep! {SWEARING}, yes! Deeper!",
+        "Heart thumping in {LUST} and {FEAR}, you move your leg and let the monster on top of you all the way inside.",
+        "You stare wide eyed between your legs, amazed at the sheer {GIRTH} of the {COCK} disappearing inside you.",
+        "The {MONSTER} begins to piledrive into your {WTVAGINAL} {PUSSY}, slamming into your cervix.",
+        "({PRIMARY}) Yes... in all the way... I can take it... I want it...",
+        "You're shocked by what's running through your head; to be {RAP}ed with such violence, it's so {LEWD}.",
+        "Ugh... ugh... ugh... You can't believe your {FLESH} is taking this kind of punishment.",
+        "You've yearned to be {RAP}ed in this way, and the fact that it's a {BEASTLY} {MONSTER} makes it that much more {LEWD}!"
+    ],
+    "3rd Person" :
+    [
+        "It's unbelievable that {PRIMARY}'s {HEAVING} {FLESH} is taking such {ROUGH} punishment! And she loves it!",
+        "The bulge of the {HUGE} {COCK} can be seen on {PRIMARY}'s belly, showing just how far inside it's reaching.",
+        "{SWEARING}, that looks so deep! The {COCKHEAD} of its {COCK} must be in her womb by now!"       
+    ]
+}

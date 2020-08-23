@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} starts to cum, and starts pumping forward painfully, deep in my {WTANAL} {ASS}.",
+        "Each thrust sends flashes of pain through my body, and every surge of {CUM} makes my stomach turn.",
+        "Ugh... ugh... I can taste... {CUM}?! Oh Gods, there's {CUM} coming up my throat...",
+        "I hold on for my life as the {ACTIVE} finishes inside me. It'll be over soon...",
+        "It cums directly into me, my belly swells and I can't breathe.",
+        "Noooo... too much {CUM}...  it won't stop pouring into me..."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} starts to cum, and starts pumping forward painfully, deep in your {WTANAL} {ASS}.",
+        "Each thrust sends flashes of pain through your body, and every surge of {CUM} makes your stomach turn.",
+        "Ugh... ugh... You can taste... {CUM}?! Oh Gods, there's {CUM} coming up your throat...",
+        "You hold on for your life as the {ACTIVE} finishes inside you. It'll be over soon...",
+        "It cums directly into you, your belly swells and you can't breathe.",
+        "Noooo... too much {CUM}...  it won't stop pouring into you..."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} twitches and lurches. It must be {CUMMING} inside {PRIMARY}.",
+        "{PRIMARY} looks tiny and vulnerable as the huge beast rocks into her, obviously {CUMMING} in her {ASS}.",
+        "{PRIMARY} is shaking and moaning as the beast pumps into her. Is she cumming?"
+    ]
+}

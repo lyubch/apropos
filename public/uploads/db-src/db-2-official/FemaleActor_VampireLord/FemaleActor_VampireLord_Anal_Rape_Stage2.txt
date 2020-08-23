@@ -1,0 +1,37 @@
+{
+    "1st Person": [
+        "Oh Gods, I can't take this, it's too... Nggg! too much for me to handle...",
+        "My knees and palms slide roughly across the ground, drawing a little blood as I'm fucked even harder.",
+        "({ACTIVE}) Struggle all you want, I'm still gonna fuck you hard!",
+        "({ACTIVE}) No one's coming, {BITCH}. Accept it, just lay back and enjoy it.",
+        "My hands and knees braced on the floor, I try vainly to steady myself as I get fucked even harder.",
+        "({ACTIVE}) I didn't realise the Dragonborn was so easy to subdue. A {COCK} in your {ASS} and you give up!",
+        "My body responds to the creature's magic, my nipples bulging painfully, sticking straight out.",
+        "I whimper breathlessly as the demon's {COCK} moves inside me.",
+        "I tense up in pleasure each time the demonic {COCK} pushes forward and disappears inside me.",
+        "The vampire's magic flows through my body. I try to fight it, but I'm getting turned on.",
+        "I push out my tingling {BOOBS}, my erect nipples roughly brushing the ground."
+    ],
+    "2nd Person": [
+        "Oh Gods, you can't take this, it's too... Nggg! too much for you to handle...",
+        "Your knees and palms slide roughly across the ground, drawing a little blood as you're fucked even harder.",
+        "({ACTIVE}) Struggle all you want, I'm still gonna fuck you hard!",
+        "({ACTIVE}) No one's coming, {BITCH}. Accept it, just lay back and enjoy it.",
+        "Your hands and knees braced on the floor, you try vainly to steady yourself as you get fucked even harder.",
+        "({ACTIVE}) I didn't realise the Dragonborn was so easy to subdue. A {COCK} in your {ASS} and you give up!",
+        "Your body responds to the creature's magic, your nipples bulging painfully, sticking straight out.",
+        "You whimper breathlessly as the demon's {COCK} moves inside you.",
+        "You tense up in pleasure each time the demonic {COCK} pushes forward and disappears inside you.",
+        "The vampire's magic flows through your body. You try to fight it, but you're getting turned on.",
+        "You push out your tingling {BOOBS}, your erect nipples roughly brushing the ground."
+    ],
+    "3rd Person": [
+        "Oh Gods, {PRIMARY} can't take this, it's too much for her to handle...",
+        "{PRIMARY}'s knees and palms slide roughly across the ground, drawing blood as she's fucked even harder.",
+        "({ACTIVE}) Struggle all you want, I'm still gonna fuck you hard!",
+        "({ACTIVE}) No one's coming, {BITCH}. Accept it, just lay back and enjoy it.",
+        "{PRIMARY} tries vainly to steady herself as she gets fucked even harder.",
+        "({ACTIVE}) Human girls are so easy to subdue. A {COCK} in your {ASS} and you give up!",
+        "{PRIMARY}'s body responds to the creature's magic, her nipples bulging painfully, sticking straight out."
+    ]
+}

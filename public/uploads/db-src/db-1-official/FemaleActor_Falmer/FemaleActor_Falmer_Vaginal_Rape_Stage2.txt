@@ -1,0 +1,44 @@
+{
+    "1st Person": [
+        "I screw my eyes shut as I am fucked, but I can't block out the noises.",
+        "I can hear things in the dark waiting for their turn with me.",
+        "The pain as this {BEAST} {COCK} stretches me is overwhelming, I'm not sure I can take it...",
+        "Every thrust rubs more {THICK} pre-cum into my {PUSSY} walls.",
+        "The monster keeps my legs spread by pressing its body tightly up against me.",
+        "({ACTIVE}) Be a good breeding pet. Relax and start to enjoy it!",
+        "It's in me, it's raping me. It's going to cum inside me and there is nothing I can do about it.",
+        "Sneering at me, the {ACTIVE} slowly pumps his {BEAST} length, soaked in my {CREAM} and his precum.",
+        "Just fucking do it! Knock me up if you can!",
+        "I screw my eyes shut, trying to block out the visage of the hideous thrusting fiend filling me.",
+        "My pussy lips are still swollen and red after my last fucking, and very sensitive to this new {COCK}.",
+        "I remember hearing stories of young girls being dragged underground... Is this what happens to them?"
+    ],
+    "2nd Person": [
+        "You screw your eyes shut as you are fucked, but you can't block out the noises.",
+        "You can hear things in the dark waiting for their turn with you.",
+        "The pain as this {BEAST} {COCK} stretches you is overwhelming, you're not sure you can take it...",
+        "Every thrust rubs more {THICK} pre-cum into your {PUSSY} walls.",
+        "The monster keeps your legs spread by pressing its body tightly up against you.",
+        "({ACTIVE}) Be a good breeding pet. Relax and start to enjoy it!",
+        "It's in you, it's raping you. It's going to cum inside you and there is nothing you can do about it.",
+        "Sneering at you, the {ACTIVE} slowly pumps his {BEAST} length, soaked in your {CREAM} and his precum.",
+        "({PRIMARY}) Just fucking do it! Knock me up if you can!",
+        "You screw your eyes shut, trying to block out the visage of the hideous thrusting fiend filling you.",
+        "Your pussy lips are still swollen and red after your last fucking, and very sensitive to this new {COCK}.",
+        "You remember hearing stories of young girls being dragged underground... Is this what happens to them?"
+    ],
+    "3rd Person": [
+        "{PRIMARY} screws her eyes shut as she's fucked, but the noises can't be blocked out.",
+        "Noises can be heard, things in the dark waiting for their turn with a human girl.",
+        "The pain as this {BEAST} {COCK} stretches her must be overwhelming, can {PRIMARY} take it?",
+        "Every thrust rubs more {THICK} pre-cum into {PRIMARY}'s {PUSSY} walls.",
+        "The monster keeps {PRIMARY}'s legs spread by pressing its body tightly up against her.",
+        "({ACTIVE}) Be a good breeding pet. Relax and start to enjoy it!",
+        "It's in {PRIMARY}, it's raping her. It's going to cum inside her and there is nothing she can do about it.",
+        "Sneering at {PRIMARY}, the {ACTIVE} slowly pumps his {BEAST} length, soaked in her {CREAM} and his precum.",
+        "({PRIMARY}) Just fucking do it! Knock me up if you can!",
+        "{PRIMARY} screws her eyes shut, trying to block out the visage of the hideous thrusting fiend filling her.",
+        "({PRIMARY})'s pussy lips are still swollen and red after her last fucking, they must be very sensitive.",
+        "Stories tell of young girls being dragged underground... Is this what happens to them?"
+    ]
+}

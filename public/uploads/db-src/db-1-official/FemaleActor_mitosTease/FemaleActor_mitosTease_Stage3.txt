@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "My legs are pulled out from under me, as {ACTIVE} draws my foot towards his mouth.",
+        "I look up at {ACTIVE}, unsure why he is so enamoured with my dirty feet...",
+        "Feeling {ACTIVE}'s tongue at the soles of my feet is ticklish, and I suppress a giggle.",
+        "I continue to bounce {ACTIVE}'s {PENIS} against the sole of one foot, even as he slurps and sniffs the other.",
+        "I'm confused... Would {ACTIVE} really rather do this than have sex with me?"
+    ],
+    "2nd Person" :
+    [
+        "Your legs are pulled out from under you, as {ACTIVE} draws your foot towards his mouth.",
+        "You look up at {ACTIVE}, unsure why he is so enamoured with your dirty feet...",
+        "Feeling {ACTIVE}'s tongue at the soles of your feet is ticklish, and you suppress a giggle.",
+        "You continue to bounce {ACTIVE}'s {PENIS} against the sole of one foot, even as he slurps and sniffs the other.",
+        "You're confused... Would {ACTIVE} really rather do this than have sex with you?"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} finally pulls {PRIMARY} towards him. It's a little disappointing that he doesn't take her.",
+        "Oh my! {ACTIVE} must really like {PRIMARY}'s feet...",
+        "Even as {ACTIVE} manhandles and slobbers all over her foot, {PRIMARY} keeps pumping his {PENIS}."
+    ]
+}

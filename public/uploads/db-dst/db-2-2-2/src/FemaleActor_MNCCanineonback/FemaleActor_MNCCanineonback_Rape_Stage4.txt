@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "Maybe he didn't like that... I'm now face down, with {ACTIVE} snarling in my ear and fucking my {WTVAGINAL} {PUSSY}.",
+        "I shriek as {ACTIVE} throws me off. I stay still, shocked when I feel him start to enter me from behind.",
+        "As I'm fucked by the {ACTIVE}, I desperately glance around, my eyes pleading for help.",
+        "{ACTIVE} pushes his {BEAST} {PENIS} deeper into me, and I moan like a {WHORE}.",
+        "I moan each time the dog fucks my {WTVAGINAL} {PUSSY} full of {BEAST} {COCK}."
+    ],
+    "2nd Person": [
+        "Maybe he didn't like that... You're now face down, {ACTIVE} snarling in your ear and fucking your {WTVAGINAL} {PUSSY}.",
+        "You shriek as {ACTIVE} throws you off. You stay still, shocked when you feel him enter you from behind.",
+        "As you're fucked by the {ACTIVE}, you desperately glance around, your eyes pleading for help.",
+        "{ACTIVE} pushes his {BEAST} {PENIS} deeper into you, and you moan like a {WHORE}.",
+        "You moan each time the dog fucks your {WTVAGINAL} {PUSSY} full of {BEAST} {COCK}."
+    ],
+    "3rd Person": [
+        "Maybe he didn't like that... {PRIMARY} now faces down, {ACTIVE} snarling in her ear and fucking her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} shrieks as {ACTIVE} throws her off. She stays still, shocked when she feels him enter her from behind.",
+        "As {PRIMARY} is fucked by the {ACTIVE}, she desperately glances around, her eyes pleading for help.",
+        "{ACTIVE} pushes his {BEAST} {PENIS} deeper into {PRIMARY}, and she moans like a {WHORE}.",
+        "{PRIMARY} moans each time the dog fucks her {WTVAGINAL} {PUSSY} full of {BEAST} {COCK}."
+    ]
+}

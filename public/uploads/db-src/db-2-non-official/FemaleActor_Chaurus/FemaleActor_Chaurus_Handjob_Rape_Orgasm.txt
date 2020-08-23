@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "I feel sad as the {BUGCOCK} {EJACULATE}s eggs onto the ground, knowing they could be in my {PUSSY}.",
+	"As I {WANK} the {BUGCOCK}, a sudden burst of eggs and {CUM} erupt from the {COCKHEAD}!",
+	"({ACTIVE}) Such a good {BUG}...there you go...let it all out..."
+    ],
+    "2nd Person": [
+        "You feel sad as the {BUGCOCK} {EJACULATE}s eggs onto the ground, knowing they could be in your {PUSSY}.",
+	"As you {WANK} the {BUGCOCK}, a sudden burst of eggs and {CUM} erupt from the {COCKHEAD}!",
+	"({ACTIVE}) Such a good {BUG}...there you go...let it all out..."
+    ],
+    "3rd Person": [
+        "She looks sad as the {BUGCOCK} {EJACULATE}s eggs onto the ground.",
+	"As she {WANK}s the {BUGCOCK}, a sudden burst of eggs and {CUM} erupt from the {COCKHEAD}!",
+	"({ACTIVE}) Such a good {BUG}...there you go...let it all out..."
+    ]
+}

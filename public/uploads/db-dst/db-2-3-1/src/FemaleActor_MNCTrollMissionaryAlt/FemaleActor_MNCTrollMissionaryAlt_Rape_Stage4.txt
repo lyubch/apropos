@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "At last the {MONSTER} allows me to relax my sore legs, and I pant in relief...",
+        "My legs now hang {SUBMISSIVE} in the {MONSTER}'s grip as it continues to {FUCK} deep into my {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} continues to batter its {COCK} against my cervix, and I hold my breath in {FEAR} and {LUST}.",
+        "{SWEARING}, how much {COCK} does it expect me to be able to take?",
+        "I can't hold back a {SCREAM} at the intense {LUST} at being filled with the {MONSTER}'s {BEASTLY} {COCK}.",
+        "The {BEASTLY} {COCK} stretches me with every terrible thrust."
+    ],
+    "2nd Person": [
+        "At last the {MONSTER} allows you to relax your sore legs, and you pant in relief...",
+        "Your legs now hang {SUBMISSIVE} in the {MONSTER}'s grip as it continues to {FUCK} deep into your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} continues to batter its {COCK} against your cervix, and you hold your breath in {FEAR} and {LUST}.",
+        "{SWEARING}, how much {COCK} does it expect you to be able to take?",
+        "You can't hold back a {SCREAM} at the intense {LUST} at being filled with the {MONSTER}'s {BEASTLY} {COCK}.",
+        "The {BEASTLY} {COCK} stretches you with every terrible thrust."
+    ],
+    "3rd Person": [
+        "At last the {MONSTER} allows {PRIMARY} to relax her sore legs, and she {SCREAM}s in relief...",
+        "{PRIMARY}'s legs now hang {SUBMISSIVE} in the {MONSTER}'s grip as it continues to {FUCK} deep into her {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} continues to batter its {COCK} against {PRIMARY}'s cervix, and she holds her breath in {FEAR} and {LUST}.",
+        "{SWEARING}, how much {COCK} does it expect {PRIMARY} to be able to take?",
+        "{PRIMARY} can't hold back a {SCREAM} at the intense {LUST} at being filled with the {MONSTER}'s {BEASTLY} {COCK}.",
+        "The {BEASTLY} {COCK} stretches {PRIMARY} with every terrible thrust."
+    ]
+}

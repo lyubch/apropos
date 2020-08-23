@@ -1,0 +1,13 @@
+{
+    "1st Person": [
+        "I taste {CUM} for the first time. Is it tasty? I'm not sure.",
+        "I don't know how to describe my first taste except that I would be willing to swallow it again."
+    ],
+    "2nd Person": [
+        "You taste {CUM} for the first time. Is it tasty? You're not sure.",
+        "You don't know how to describe your first taste, but you'd be willing to swallow it again."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s face scrunches up. She must not have tasted {CUM} before."
+    ]
+}

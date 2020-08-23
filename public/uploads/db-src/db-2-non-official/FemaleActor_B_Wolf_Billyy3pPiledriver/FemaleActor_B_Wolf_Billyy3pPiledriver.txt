@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "I lose sight of one of the wolves as the other looms over me, his {BEASTLY} {COCK} already lined up with my {FAROUSAL} {PUSSY}.",
+        "With both wolves taking a keen interest in my {PUSSY}, I can't stop myself from spreading my legs, {DISPLAY}ing both my {PUSSY} and ass.",
+        "I let the wolf step over me, guiding his {COCK} towards my {FAROUSAL} {PUSSY} as his packmate watches."
+    ],
+    "2nd Person": [
+        "You lose sight of one of the wolves as the other looms over you, his {BEASTLY} {COCK} already lined up with your {FAROUSAL} {PUSSY}.",
+        "With both wolves taking a keen interest in your {PUSSY}, you can't stop yourself from spreading your legs, {DISPLAY}ing both your privates.",
+        "You let the wolf step over you, guiding his {COCK} towards your {FAROUSAL} {PUSSY} as his packmate watches."
+    ],
+    "3rd Person": [
+        "{PRIMARY} loses sight of one of the wolves as the other looms over her, his {BEASTLY} {COCK} already lined up with her {FAROUSAL} {PUSSY}.",
+        "With both wolves taking a keen interest in {PRIMARY}'s {PUSSY}, she can't stop yourself from spreading your legs, {DISPLAY}ing both her privates.",
+        "{PRIMARY} lets the wolf step over her, guiding his {COCK} towards her {FAROUSAL} {PUSSY} as his packmate watches."
+    ]
+}

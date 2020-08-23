@@ -1,0 +1,24 @@
+{
+    "1st Person": [
+        "I can't keep up the pace, and I collapse forward onto the {ACTIVE}, but I push myself to keep fucking.",
+        "I'm tired and sore, but I have to finish him off. How much longer can he go?",
+        "Our hips thrust quickly together. If this goes on much longer, I'm gonna cum before he does!",
+        "In desperation, I cradle his head, begging him to cum, to blow his load inside me.",
+        "({ACTIVE}) I'm going to {EJACULATE} in you, and you're going to {ACCEPT} it.",
+        "Ooohhh yes! I want your {CUM}, I want it inside me... Hurry and {EJACULATE} inside me!!!"
+    ],
+    "2nd Person": [
+        "You can't keep up the pace, collapsing forward onto the {ACTIVE}, but you push yourself to keep fucking.",
+        "You're tired and sore, but you have to finish him off. How much longer can he go?",
+        "Your hips thrust quickly together. If this goes on much longer, you're gonna cum before he does!",
+        "In desperation, you cradle his head, begging him to cum, to blow his load inside you.",
+        "({ACTIVE}) I'm going to {EJACULATE} in you, and you're going to {ACCEPT} it.",
+        "({PRIMARY) Ooohhh yes! I want your {CUM}, I want it inside me... Hurry and {EJACULATE} inside me!!!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} collapses, clearly exhausted, but somehow manages to keep her hips moving.",
+        "They both {FUCK} quickly together, both clearly longing for climax.",
+        "{PRIMARY} cradles the {ACTIVE}'s head, begging for his {CUM}. Has she given in completely?",
+        "{PRIMARY}'s not a victim anymore. She's just a {ACCEPTING} {BITCH}."
+    ]
+}

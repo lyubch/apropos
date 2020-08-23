@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "I push myself up onto one elbow, staring up at the brute in amazement, knowing its about to cum inside me.",
+        "The {ACTIVE} starts to speed up, with fast, shallow strokes. Oh Gods, it's going to cum! I'm about to take its {CUM}!",
+        "I twist around, watching intently, the very sight of the monstrous beast pounding into me almost making me cum.",
+        "He's gonna cum soon... I hope... Nghhh! That he makes me... Cum first...",
+        "The {ACTIVE} pounds into me and I can see his two melon-sized balls swell. Oh my..."
+    ],
+    "2nd Person": [
+        "You push yourself up onto one elbow, staring up at the brute in amazement, knowing its about to cum inside you.",
+        "The {ACTIVE} starts to speed up, with fast, shallow strokes. Oh Gods, it's going to cum! You're about to take its {CUM}!",
+        "You twist around, watching intently, the very sight of the monstrous beast pounding into you almost making you cum.",
+        "He's gonna cum soon... You hope... Nghhh! That he makes you... Cum first...",
+        "The {ACTIVE} pounds into you and you can see his two melon-sized balls swell. Oh my..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} pushes herself up onto one elbow, staring up at the brute in amazement, knowing its about to cum inside her.",
+        "The {ACTIVE} starts to speed up, with fast, shallow strokes. Oh Gods, it's going to cum! {PRIMARY} is about to take its {CUM}!",
+        "{PRIMARY} twists around, watching intently, the very sight of the monstrous beast pounding into her almost making her cum.",
+        "He's gonna cum soon... {PRIMARY} hopes... Nghhh! That he makes her... Cum first...",
+        "The {ACTIVE} pounds into {PRIMARY} and she can see his two melon-sized balls swell. Oh my..."
+    ]
+}

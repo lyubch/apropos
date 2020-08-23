@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "Он хочет {FUCK} мою {FAROUSAL}ую {PUSSY}у еще!"
+    ],
+    "2nd Person": [
+        "Он хочет {FUCK} твою {FAROUSAL}ую {PUSSY}у еще!"
+    ],
+    "3rd Person": [
+        "Он хочет {FUCK} ее {FAROUSAL}ую {PUSSY}у еще!"
+    ]
+}

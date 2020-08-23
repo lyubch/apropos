@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I retch in disgust as the wolf releases my {MOUTH}, but I can't stop him from pushing his {SALTY} {COCK} past my lips instead.",
+        "The wolf instantly tries to shove his {COCK} down my throat, but with a {GENTLE} squeeze of his {BALLS} I'm able to slow his pace.",
+        "I can't stop the wolf's {COCK} {PENETRAT}ing my {MOUTH}, but if I keep {WANK}ing him off I might not have to {ACCEPT} his knot...",
+        "The wolf has me right where he wants me... my only choice is to make him {EJACULATE} so I can escape.",
+        "With its sharp claws digging into my shoulders, I'd better keep playing along... even if it means doing this...",
+        "Guh... and I thought his mouth was {VILE}... I'd better get him off quick before I throw up..."
+    ],
+    "2nd Person": [
+        "You retch in disgust as the wolf releases your {MOUTH}, but you can't stop him from pushing his {COCK} past your lips instead.",
+        "The wolf instantly tries to shove his {COCK} down your throat, but with a light squeeze of his {BALLS} you're able to slow his pace.",
+        "You can't stop the wolf's {COCK} {PENETRAT}ing your {MOUTH}, but if you keep {WANK}ing him off you might not have to {ACCEPT} his knot...",
+        "The wolf has you right where he wants you... your only choice is to make him {EJACULATE} so you can escape.",
+        "With its sharp claws digging into your shoulders, you'd better keep playing along... even if it means doing this...",
+        "Guh... and you thought his mouth was {VILE}... You'd better get him off quick before you throw up..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} retches in disgust as the wolf releases her {MOUTH}, but she can't stop him from pushing his {COCK} past her lips instead.",
+        "The wolf instantly tries to shove his {COCK} down {PRIMARY}'s throat, but with a light squeeze of his {BALLS} she's able to slow his pace.",
+        "{PRIMARY} can't stop the wolf's {COCK} {PENETRAT}ing her {MOUTH}, but if she keeps {WANK}ing him off she might not have to {ACCEPT} his knot...",
+        "The wolf has {PRIMARY} right where he wants her... her only choice is to make him {EJACULATE} so she can escape.",
+        "With its sharp claws digging into {PRIMARY}'s shoulders, she'd better keep playing along... even if it means doing this...",
+        "Guh... and {PRIMARY} thought his mouth was {VILE}... She'd better get him off quick before she throws up..."
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "I hear him snarling in my ear, and I dare not move. I sob quietly, letting him ravage my {WTANAL} {ASS}.",
+        "I'm so ashamed as {ACTIVE} pushes my face into the dirt while continuing to pound my {WTANAL} {ASS}.",
+        "Still hanging onto my hips, {ACTIVE} drives his {BEAST} {PENIS} into my {ASS}. It hurts so much...",
+        "Face down and ass high in the air, while an animal rapes my {ASS}... I'm so ashamed...",
+        "This is so wrong... I'm a good girl, I shouldn't be getting ass fucked by a dog...",
+        "As I sob into the ground, I console myself with the knowledge that at least it's not my {PUSSY}...",
+        "{ACTIVE} whines and pushes another few inches of {COCK}-meat into me, through my {WTANAL} pink {ASS}."        
+    ],
+    "2nd Person" :
+    [
+        "You hear him snarling in your ear, and you dare not move. You sob quietly, letting him ravage your {ASS}.",
+        "You're so ashamed as {ACTIVE} pushes your face into the dirt while continuing to pound your {WTANAL} {ASS}.",
+        "Still hanging onto your hips, {ACTIVE} drives his {BEAST} {PENIS} into your {ASS}. It hurts so much...",
+        "Face down and ass high in the air, while an animal rapes your {ASS}... You're so ashamed...",
+        "This is so wrong... You're a good girl, you shouldn't be getting ass fucked by a dog...",
+        "As you sob into the ground, you console yourself with the knowledge that at least it's not your {PUSSY}...",
+        "{ACTIVE} whines and pushes another few inches of {COCK}-meat into you, through your {WTANAL} pink {ASS}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} sobs loudly into the ground. That {BEAST} {PENIS} must really hurt.",
+        "It's heartbreaking to see {PRIMARY} beaten and assfucked by an animal."
+    ]
+}

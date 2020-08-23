@@ -1,0 +1,47 @@
+{
+    "1st Person": [
+        "The {ACTIVE} grabs my waist in both its clawed hands, and impales my {ASS} on its {COCK}.",
+        "The {ACTIVE} roughly pushes me to my hands and knees before it begins to fuck my {ASS}.",
+        "My body begins to feel strange; languid, sensual and submissive. I spread my legs for the beast.",
+        "Without hesitating the demon pushes its {COCK} up against my {ASS}. I loudly moan as it pushes right in.",
+        "As the {ACTIVE}'s hips rock forward, the demon's {COCK} sinks into my {ASS}, stretching me.",
+        "The {ACTIVE} speaks in an unknown tongue, his words flowing through me, making me submit.",
+        "I sink to the ground, too overcome by lust and desire to fight.",
+        "The demon climbs between my thighs and positions itself to violate my {ASS}.",
+        "I feel its rock hard {COCK} push aside my cheeks and start to slide inside me, inch by inch.",
+        "I cry out in pain as {ACTIVE} inserts its {COCK} inside my {ASS}.",
+        "With a grunt, the {ACTIVE} pushes forward and spears my {ASS} mercilessly on his {COCK}.",
+        "The {ACTIVE} grabs my hips and drags me down his shaft, my {ASS} stretching painfully.",
+        "With a lustful sigh, I lie back, spread my legs, and willingly let the demon fuck me."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} grabs your waist in both its clawed hands, and impales your {ASS} on its {COCK}.",
+        "The {ACTIVE} roughly pushes you to your hands and knees before it begins to fuck your {ASS}.",
+        "Your body begins to feel strange; languid, sensual and submissive. You spread your legs for the beast.",
+        "Without hesitating the demon pushes its {COCK} up against your {ASS}. You loudly moan as it pushes right in.",
+        "As the {ACTIVE}'s hips rock forward, the demon's {COCK} sinks into your {ASS}, stretching you.",
+        "The {ACTIVE} speaks in an unknown tongue, his words flowing through you, making you submit.",
+        "You sink to the ground, too overcome by lust and desire to fight.",
+        "The demon climbs between your thighs and positions itself to violate your {ASS}.",
+        "You feel its rock hard {COCK} push aside your cheeks and start to slide inside you, inch by inch.",
+        "You cry out in pain as {ACTIVE} inserts its {COCK} inside your {ASS}.",
+        "With a grunt, the {ACTIVE} pushes forward and spears your {ASS} mercilessly on his {COCK}.",
+        "The {ACTIVE} grabs your hips and drags you down his shaft, your {ASS} stretching painfully.",
+        "With a lustful sigh, you lie back, spread your legs, and willingly let the demon fuck you."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} grabs {PRIMARY}'s waist in both its clawed hands, and impales her {ASS} on its {COCK}.",
+        "The {ACTIVE} roughly pushes {PRIMARY} to her hands and knees before it begins to fuck her {ASS}.",
+        "{PRIMARY} acts strangely. She looks languid, sensual and submissive. She spreads her legs for the beast.",
+        "Without hesitating the demon pushes its {COCK} up against {PRIMARY}'s {ASS}. She moans as it pushes right in.",
+        "As the {ACTIVE}'s hips rock forward, the demon's {COCK} sinks into {PRIMARY}'s {ASS}, stretching her.",
+        "The {ACTIVE} speaks in an unknown tongue, his words subverting minds and souls, making {PRIMARY} submit.",
+        "{PRIMARY} sinks to the ground, too overcome by lust and desire to fight.",
+        "The demon climbs between {PRIMARY}'s thighs and positions itself to violate her {ASS}.",
+        "{PRIMARY} feels its rock hard {COCK} push aside her cheeks and start to slide inside her, inch by inch.",
+        "{PRIMARY} cries out in pain as {ACTIVE} inserts its {COCK} inside her {ASS}.",
+        "With a grunt, the {ACTIVE} pushes forward and spears {PRIMARY}'s {ASS} mercilessly on his {COCK}.",
+        "The {ACTIVE} grabs {PRIMARY}'s hips and drags her down his shaft, her {ASS} stretching painfully.",
+        "With a lustful sigh, {PRIMARY} lies back, spreads her legs, and willingly lets the demon fuck her."
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "Clutching my waist in one massive clawed hand, the {ACTIVE} continues to pump me up and down on its {PENIS}.",
+        "I feel giddy every time I reach the bottom, with over a foot of troll-{COCK} inside me, its head punching my womb.",
+        "I moan every time the {BEAST} {COCK} bottom out in my {FAROUSAL} {PUSSY}, spreading me obscenely, wonderfully.",
+        "Yes... in all the way... I can take it... I want it...",
+        "The {ACTIVE} grunts as it tries to fuck his whole {COCK} into me, pounding my cervix.",
+        "I clench my teeth and concentrate on my building orgasm, revelling in every inch of {COCK} that pounds into me.",
+        "The beast pounds itself into me again and again, and the more I moan and gasp the more excited it seems to get."
+    ],
+    "2nd Person" :
+    [
+        "Clutching your waist in one massive clawed hand, the {ACTIVE} continues to pump you up and down on its {PENIS}.",
+        "You feel giddy every time you reach the bottom, with over a foot of troll-{COCK} inside you, its head punching your womb.",
+        "You moan every time the {BEAST} {COCK} bottom out in your {FAROUSAL} {PUSSY}, spreading you obscenely, wonderfully.",
+        "({PRIMARY}) Yes... in all the way... I can take it... I want it...",
+        "The {ACTIVE} grunts as it tries to fuck his whole {COCK} into you, pounding your cervix.",
+        "You clench your teeth and concentrate on your building orgasm, revelling in every inch of {COCK} that pounds into you.",
+        "The beast pounds itself into you again and again, and the more you moan and gasp the more excited it seems to get."
+    ],
+    "3rd Person" :
+    [
+        "Clutching {PRIMARY}'s waist in one massive clawed hand, the {ACTIVE} continues to pump her up and down on its {PENIS}.",
+        "{PRIMARY} moans every time the {BEAST} {COCK} bottoms out in her {WTVAGINAL} {PUSSY}, spreading it obscenely.",
+        "The beast pounds itself into {PRIMARY} again and again, and the more she cries out the more excited it seems to get."
+    ]
+}

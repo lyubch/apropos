@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "The {ACTIVE} seems to find its rhythm, and {FUCK}s my {ASSHOLE} with fast, deep strokes.",
+        "My {FLESH} tenses, straining at the {MONSTER}'s grip, doubling over as the sensation in my {ASSHOLE} becomes too much.",
+        "I glance between my legs, seeing the {SLIMY} {SCUM} coating my thighs, and my heart flutters.",
+        "I slump forward, my shoulders painfully pulling at their sockets, but I have no more energy.",
+        "{SWEARING}... Isn't it done yet? I don't think my {ASSHOLE} can take this..."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} seems to find its rhythm, and {FUCK}s your {ASSHOLE} with fast, deep strokes.",
+        "Your {FLESH} tenses, straining at the {MONSTER}'s grip, doubling over as they {FUCK}ing becomes too much.",
+        "You glance between your legs, seeing the {SLIMY} {SCUM} coating your thighs, and your heart flutters.",
+        "You slump forward, your shoulders painfully pulling at their sockets, but you have no more energy.",
+        "{SWEARING}... Isn't it done yet? You don't think your {ASSHOLE} can take this..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} slumps forward, clearly at her limits, but the {ACTIVE} doesn't look like it's going to stop soon.",
+        "There's a puddle of {SLIMY} {SCUM} pooling around {PRIMARY}'s knees now, and coating her thighs.",
+        "The strain in {PRIMARY}'s arms is obvious, but the {ACTIVE} doesn't slow down."
+    ]
+}

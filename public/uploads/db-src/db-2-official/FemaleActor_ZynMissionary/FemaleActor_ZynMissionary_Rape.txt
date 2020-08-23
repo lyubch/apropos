@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "I stare up at the {ACTIVE} nervously as he positions himself between my legs. Oh Gods, he's {HUGE}!",
+        "I submit fully to the {ACTIVE}, spreading my legs and letting him lift my hips.",
+        "The {ACTIVE}'s {PENIS} thumps down heavily on my stomach. I sharply breath in and my heart flutters.",
+        "({ACTIVE}) You like the look of my {COCK}, don't you {BITCH}?",
+        "The {ACTIVE} lines his {PENIS} up with my {WTVAGINAL} {PUSSY}. I stifle a sob.",
+        "I wearily raise my eyes. In front of me is the {ACTIVE}, his {PENIS} red and angry, about to fuck me.",
+        "What are you waiting for... do me!",
+        "The {ACTIVE} towers over me. My heart stops as I hear 'make sure she gets a proper fucking now'.",
+        "You want me, then take me you fucking assholes...",
+        "I lie back on the ground and spread my legs wide, practically inviting {ACTIVE} to fuck me."
+    ],
+    "2nd Person": [
+        "You stare up at the {ACTIVE} nervously as he positions himself between your legs. Oh Gods, he's {HUGE}!",
+        "You submit fully to the {ACTIVE}, spreading your legs and letting him lift your hips.",
+        "The {ACTIVE}'s {PENIS} thumps down heavily on your stomach. You sharply breath in and your heart flutters.",
+        "({ACTIVE}) You like the look of my {COCK}, don't you {BITCH}?",
+        "The {ACTIVE} lines his {PENIS} up with your {WTVAGINAL} {PUSSY}. You stifle a sob.",
+        "You wearily raise your eyes. In front of you is the {ACTIVE}, his {PENIS} red and angry, about to fuck you.",
+        "({PRIMARY}) What are you waiting for... do me!",
+        "The {ACTIVE} towers over you. Your heart stops as you hear 'make sure she gets a proper fucking now'.",
+        "({PRIMARY}) You want me, then take me you fucking assholes...",
+        "You lie back on the ground and spread your legs wide, practically inviting {ACTIVE} to fuck you."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is shaking, making no move to resist the {ACTIVE} as he kneels between her legs.",
+        "{PRIMARY} stares nervously at the {ACTIVE}'s {PENIS}. It's going to be inside her soon.",
+        "({ACTIVE}) No struggling now. You're going to take my {COCK} like a good little {BITCH}.",
+        "The {ACTIVE}'s {PENIS} is reaching her belly button... Is he really going to fuck her with it?"
+    ]
+}

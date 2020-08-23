@@ -1,0 +1,46 @@
+{
+    "1st Person" :
+    [
+        "Ah... Stop! I've changed my mind! Ughh! Oh Gods, please stop! It's too big!",
+        "Nghhh... Slow down... Not so fast... Ow! You brute, you're going to rip me apart!",
+        "The {ACTIVE} is trying to go too deep, too fast, and I struggle as he pushes almost a foot of {COCK} into me.",
+        "As the head of the {ACTIVE}'s {BEAST} {PENIS} enters me, I begin to have second thoughts...",
+        "I try to slow the penetration, I need to give myself some time to take such a {BEAST} {PENIS}.",
+        "Even though I want this, I groan and push back as my {WTVAGINAL} {PUSSY} starts to strain.",
+        "My nose is immediately assaulted by a strong musk that I instantly recognize; the smell of {CUM}. Oh Gods...",
+        "I have no idea how I'm gonna handle this behemoth, but it's gonna be one hell of a ride to find out!",
+        "Despite the potential pain, I want it. I want to impale myself on it, and fuck it.",
+        "I want this stinking, smelly {COCK} inside my {FAROUSAL} {PUSSY}.",
+        "Dear gods... is... is that his... {COCK}?! Oh my Gods, that IS his {COCK}! I'm not sure I can do this...",
+        "Gods, is it wrong that I'm really looking forward to this?",
+        "I just want to suck on that {BEAST} {PENIS} until it's super stiff so I can sit on it and ride it all night!",
+        "This unclean beast stinks of sweat and {SCUM}... to think I'm going to willingly have sex with it...",
+        "I quiver with arousal as I spread my legs for the {ACTIVE}, ready for a deep fucking.",
+        "Please, just the head... I'm sorry but this is too much for me..."        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Ah... Stop! I've changed my mind! Ughh! Oh Gods, please stop! It's too big!",
+        "({PRIMARY}) Nghhh... Slow down... Not so fast... Ow! You brute, you're going to rip me apart!",
+        "The {ACTIVE} is trying to go too deep, too fast, and you struggle as he pushes almost a foot of {COCK} into you.",
+        "As the head of the {ACTIVE}'s {BEAST} {PENIS} enters you, you begin to have second thoughts...",
+        "You try to slow the penetration, you need to give yourself some time to take such a {BEAST} {PENIS}.",
+        "Even though you want this, you groan and push back as your {WTVAGINAL} {PUSSY} starts to strain.",
+        "Your nose is immediately assaulted by a strong musk that you instantly recognize; the smell of {CUM}. Oh Gods...",
+        "You have no idea how you're gonna handle this behemoth, but it's gonna be one hell of a ride to find out!",
+        "Despite the potential pain, you want it. You want to impale yourself on it, and fuck it.",
+        "You want this stinking, smelly {COCK} inside your {FAROUSAL} {PUSSY}.",
+        "Dear gods... is... is that his... {COCK}?! Oh me Gods, that IS his {COCK}! You're not sure you can do this...",
+        "Gods, is it wrong that you're really looking forward to this?",
+        "You just want to suck on that {BEAST} {PENIS} until it's super stiff so you can sit on it and ride it all night!",
+        "This unclean beast stinks of sweat and {SCUM}... to think you're going to willingly have sex with it...",
+        "You quiver with arousal as you spread your legs for the {ACTIVE}, ready for a deep fucking.",
+        "({PRIMARY}) Please, just the head... I'm sorry but this is too much for me..."
+    ],
+    "3rd Person" :
+    [
+        "Has {PRIMARY} changed her mind? It looks like she's struggling. Does she need help?",
+        "The {ACTIVE} must be going too fast for {PRIMARY}, and she tries to slow it down.",
+        "It's mesmerising, watching such a {BEAST} {PENIS} try to fit inside a little human girl..."
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "1st Person" :
+    [
+        "I... I want you to... {FUCK} me!",
+        "It's too much, I need to feel this {HUGE} {COCK} inside me!",
+        "({ACTIVE}) I can see it in your eyes, {BITCH}, you want to get {FUCK}ed!",
+        "({ACTIVE}) I know you want it. Because now I know what a {CUM}-hungry {BITCH} you are.",
+        "I'm wet as fuck right now just imagining it {EJACULATE}ing on me... or... mmmmm... in me!",
+        "I'm beside myself with {LUST} now, desperate to climb onto {ACTIVE}'s {COCK}, and he knows it.",
+        "{ACTIVE}'s {COCK} feels hot and hard in my hand, and my {CREAM} drips down my legs as I think about it.",
+        "({ACTIVE}) Hah, this {BITCH} is panting! Guess she wants to get {FUCK}ed...",
+        "Where do you want to {EJACULATE}? In my {MOUTH} or across my {BOOBS}? Or maybe... right up my {PUSSY}?",
+        "Whatever you want to do next, I won't say no...",
+        "Enough. {FUCK} me now. Please."
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) I... I want you to... {FUCK} me!",
+        "It's too much, you need to feel this {HUGE} {COCK} inside you!",
+        "({ACTIVE}) I can see it in your eyes, {BITCH}, you want to get {FUCK}ed!",
+        "You're wet as fuck right now just imagining it {EJACULATE}ing on you... or... mmmmm... in you!",
+        "You're beside yourself with {LUST} now, desperate to climb onto {ACTIVE}'s {COCK}, and he knows it.",
+        "{ACTIVE}'s {COCK} feels hot and hard in your hand, and your {CREAM} drips down your legs as you think about it.",
+        "({ACTIVE}) Hah, this {BITCH} is panting! Guess she wants to get {FUCK}ed...",
+        "({PRIMARY}) Where do you want to {EJACULATE}? In my {MOUTH} or across my {BOOBS}? Or maybe... right up my {PUSSY}?",
+        "({PRIMARY}) Whatever you want to do next, I won't say no...",
+        "({PRIMARY}) Enough. {FUCK} me now. Please."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} breathlessly {MOAN}s 'yes'. Oh my, what did {PRIMARY} say to him?",
+        "Surely {PRIMARY}'s not just going give him a handjob? That would be sort of mean after all that..."
+    ]
+}

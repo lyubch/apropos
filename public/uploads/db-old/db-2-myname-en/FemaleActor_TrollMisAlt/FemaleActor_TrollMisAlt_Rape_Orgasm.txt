@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "Every slow, explosive thrust buries the beast's {COCK} all the way in my womb, filling it with {THICK} {CUM}.",
+        "I grunt at each thrust as over a foot of {BEAST} {COCK} fucks past my cervix, depositing the beast's load.",
+        "I wail in pain, tears streaming down my face as the beast's murderous thrusts fuck me to orgasm.",
+        "As my orgasm breaks I let out a guttural cry of delight.",
+        "I feel the creature's {COCK} twitch, followed by the familiar blast of {THICK} {CUM}.",
+        "A shiver runs down my spine, I'm certain I must be pregnant by now...",
+        "My eyes roll back into my head and my teeth clench as a final orgasm crashes through my {CUM}-bloated body."
+    ],
+    "2nd Person" :
+    [
+        "Every slow, explosive thrust buries the beast's {COCK} all the way in your womb, filling it with {THICK} {CUM}.",
+        "You grunt at each thrust as over a foot of {BEAST} {COCK} fucks past your cervix, depositing the beast's load.",
+        "You wail in pain, tears streaming down your face as the beast's murderous thrusts fuck you to orgasm.",
+        "As your orgasm breaks you let out a guttural cry of delight.",
+        "You feel the creature's {COCK} twitch, followed by the familiar blast of {THICK} {CUM}.",
+        "A shiver runs down your spine, you're certain you must be pregnant by now...",
+        "Your eyes roll back into your head and your teeth clench as a final orgasm crashes through your {CUM}-bloated body."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} grunts at each thrust as over a foot of {BEAST} {COCK} fucks into her depths, depositing the beast's load.",
+        "{PRIMARY} wails in pain, tears streaming down her face as the beast's murderous thrusts fuck her to orgasm.",
+        "{PRIMARY}'s body visibly tenses and she groans painfully as a final orgasm crashes through my {CUM}-bloated body."
+    ]
+}

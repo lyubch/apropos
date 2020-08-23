@@ -1,0 +1,15 @@
+{
+    "1st Person": [
+        "As the {ACTIVE}s {PENETRAT}e me, I realize the trouble I'm in.",
+        "I'm completely {NUDE} and {SUBMISSIVE}, and it feels like my {HOLE}s are being torn apart.",
+        "The {ACTIVE}s are {ROUGH}. They'll probably {FUCK} me until I'm dead, and then keep {FUCK}ing me."
+    ],
+    "2nd Person": [
+        "As the {ACTIVE}s {PENETRAT}e you, you realize the trouble you're in.",
+        "You're completely {NUDE} and {SUBMISSIVE}, and it feels like your {HOLE}s are being torn apart.",
+        "The {ACTIVE}s are {ROUGH}. They'll probably {FUCK} you until you're dead, and then keep {FUCK}ing you."
+    ],
+    "3rd Person": [
+        "The {ACTIVE}s are {ROUGH}. They'll probably {FUCK} her until she's dead, and then keep {FUCK}ing her."
+    ]
+}

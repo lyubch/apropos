@@ -1,0 +1,49 @@
+{
+    "1st Person": [
+        "Taking his place between my legs, {ACTIVE}'s {COCK} lies heavily on my stomach.",
+        "{ACTIVE} rubs his {COCK} along my clit and stomach. My {PUSSY} is aching for him to stick it in...",
+        "We stare at each other breathlessly, my heart thumping loud in my ears. This is it...",
+        "{SWEARING}! He's teasing my clit so badly, I know I'm going to cum as soon as he sticks it in!",
+        "The {LUST} is killing me, I want him inside me so badly!",
+        "Um, it's not a safe day... I supposed you can {FUCK} me, as long as you pull out...",
+        "Ahhh... Stop teasing me... Just do it! I want you inside me!",
+        "I stare open mouthed at {ACTIVE}'s {HUGE} {COCK}.",
+        "His {COCK} is {HUGE}. I'm afraid it will hurt, but I know that I want it inside me right now.",
+        "{ACTIVE} presses himself between my legs, all the while we maintain eye contact.",
+        "I'm openly gazing at {ACTIVE}'s body, particularly his {COCK}. I blush a little before continuing.",
+        "{ACTIVE} looks at me, clearly checking me out while I fixate on the {HUGE} {COCK} in front of me.",
+        "I smile sweetly at {ACTIVE}. Wanna do it?",
+        "Just imagine, we go at it and I feel your {COCK} pulse shot after shot into my {PUSSY}.",
+        "I give {ACTIVE} the most inviting look I can muster.",
+        "I want him, need him to spear me with that {HUGE} {COCK}, on the ground if necessary.",
+        "I look up at him and whisper softly. Would you make love to me?",
+        "I see that it wasn't just a boast, his {COCK} is over ten inches!"
+    ],
+    "2nd Person": [
+        "Taking his place between your legs, {ACTIVE}'s {COCK} lies heavily on your stomach.",
+        "{ACTIVE} rubs his {COCK} along your clit and stomach. Your {PUSSY} is aching for him to stick it in...",
+        "You stare at each other breathlessly, your heart thumping loud in your ears. This is it...",
+        "{SWEARING}! He's teasing your clit so badly, you know you're going to cum as soon as he sticks it in!",
+        "The {LUST} is killing you, you want him inside you so badly!",
+        "({PRIMARY}) Um, it's not a safe day... I supposed you can {FUCK} me, as long as you pull out...",
+        "({PRIMARY}) Ahhh... Stop teasing me... Just do it! I want you inside me!",
+        "You stare open mouthed at {ACTIVE}'s {HUGE} {COCK}.",
+        "His {COCK} is {HUGE}. You're afraid it will hurt, but you know that you want it inside you right now.",
+        "{ACTIVE} presses himself between your legs, all the while you maintain eye contact.",
+        "You're openly gazing at {ACTIVE}'s body, particularly his {COCK}. You blush a little before continuing.",
+        "{ACTIVE} looks at you, clearly checking you out while you fixate on the {HUGE} {COCK} in front of you.",
+        "You smile sweetly at {ACTIVE}. Wanna do it?",
+        "({PRIMARY}) Just imagine, we go at it and I feel your {COCK} pulse shot after shot into my {PUSSY}.",
+        "You give {ACTIVE} the most inviting look you can muster.",
+        "You want him, need him to spear you with that {HUGE} {COCK}, on the ground if necessary.",
+        "({PRIMARY}) Would you make love to me?",
+        "You see that it wasn't just a boast, his {COCK} is over ten inches!"
+    ],
+    "3rd Person": [
+        "The sexual tension is palpable. {ACTIVE} is going to {FUCK} {PRIMARY}...",
+        "The {LEWD} {LUST} can clearly be seen in {PRIMARY}'s eyes, she wants to be fucked!",
+        "{ACTIVE} slides in between {PRIMARY}'s legs, grinding his {COCK} against her clit.",
+        "({PRIMARY}) How about a wager? If I cum first, I'll let you watch the dog {FUCK} me!",
+        "What's the {HUGE} {COCK} going to feel like going in?"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "Naked and shivering, I tremble as I feel the {ACTIVE}'s hands all over me. Then I feel his {PENIS}...",
+        "The {ACTIVE} roughly gropes my {BOOBS}, his {MAROUSAL} {PENIS} twitching between my legs.",
+        "Oh Gods, his {PENIS} is {HUGE}! I can't help but thrill as it rubs my {FAROUSAL} {PUSSY}.",
+        "({ACTIVE}) Look at this {BITCH}, nipples hard and {PUSSY} {FAROUSAL}! She wants it!",
+        "The {ACTIVE} rubs his {PENIS} around my {PUSSY}, spreading pre-cum all over me.",
+        "({ACTIVE}) Look at this slutty little {BITCH}, it's obvious that she needs a {HUGE} {COCK} inside her!",
+        "({ACTIVE}) Just go ahead and assume the position. You're our {BITCH} now.",
+        "At that moment I want him to fuck me. I want him to bend me over and fuck me right here.",
+        "There's only one fate for a young woman here; I'm going to be raped...",
+        "({ACTIVE}) You just want everyone to grab these {HEAVING} tits and fuck your {FAROUSAL} pussy, don't you?"
+    ],
+    "2nd Person": [
+        "Naked and shivering, you tremble as you feel the {ACTIVE}'s hands all over you. Then you feel his {PENIS}...",
+        "The {ACTIVE} roughly gropes your {BOOBS}, his {MAROUSAL} {PENIS} twitching between your legs.",
+        "Oh Gods, his {PENIS} is {HUGE}! You can't help but thrill as it rubs your {FAROUSAL} {PUSSY}.",
+        "({ACTIVE}) Look at this {BITCH}, nipples hard and {PUSSY} {FAROUSAL}! She wants it!",
+        "The {ACTIVE} rubs his {PENIS} around your {PUSSY}, spreading pre-cum all over you.",
+        "({ACTIVE}) Look at this slutty little {BITCH}, it's obvious that she needs a {HUGE} {COCK} inside her!",
+        "({ACTIVE}) Just go ahead and assume the position. You're our {BITCH} now.",
+        "At that moment you want him to fuck you. You want him to bend you over and fuck you right here.",
+        "There's only one fate for a young woman here; you're going to be raped...",
+        "({ACTIVE}) You just want everyone to grab these {HEAVING} tits and fuck your {FAROUSAL} pussy, don't you?"
+    ],
+    "3rd Person": [
+        "{PRIMARY} shakes as the {ACTIVE} gropes her roughly from behind. It's obvious what he's going to do.",
+        "The {ACTIVE}'s {COCK} is {HUGE} and {MAROUSAL} between {PRIMARY}'s legs. She's going to get raped.",
+        "The leers of her attackers are disgusting. Poor {PRIMARY}, she's not leaving here without getting raped.",
+        "The {ACTIVE}'s {PENIS} sticks out between {PRIMARY}'s legs. Oh my..."
+    ]
+}

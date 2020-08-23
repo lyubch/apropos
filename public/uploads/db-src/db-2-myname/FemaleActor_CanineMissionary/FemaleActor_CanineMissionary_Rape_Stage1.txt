@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "I'm shocked when {ACTIVE} doesn't attack, and starts to slobber over my {BOOBS} instead.",
+        "He's not attacking? Oh my, look at his {PENIS}! Maybe I have a way out of this after all...",
+        "My eyes are locked to the {ACTIVE}'s {BEAST} red {PENIS}, terrified of where it's going to end up...",
+        "{ACTIVE} must be pretty excited, his {PENIS} is dripping pre-cum and the knot has swollen so large.",
+        "I swallow as my eyes are drawn to the {BEAST} {PENIS} emerging from {ACTIVE}'s furry sheath.",
+        "I feel a familiar tingling in my {FAROUSAL} womanhood. But I can't have sex with... Can I?",
+        "I gulp when I see that the dog's {PENIS} is swelling.",
+        "My eyes are locked to the {ACTIVE}'s {BEAST} red {PENIS}, terrified of where it's going to end up..."        
+    ],
+    "2nd Person" :
+    [
+        "You're shocked when {ACTIVE} doesn't attack, and starts to slobber over your {BOOBS} instead.",
+        "He's not attacking? Oh my, look at his {PENIS}! Maybe you have a way out of this after all...",
+        "Your eyes are locked to the {ACTIVE}'s {BEAST} red {PENIS}, terrified of where it's going to end up...",
+        "{ACTIVE} must be pretty excited, his {PENIS} is dripping pre-cum and the knot has swollen so large.",
+        "You swallow as your eyes are drawn to the {BEAST} {PENIS} emerging from {ACTIVE}'s furry sheath.",
+        "You feel a familiar tingling in your {FAROUSAL} womanhood. But you can't have sex with... Can you?",
+        "You gulp when you see that the dog's {PENIS} is swelling.",
+        "Your eyes are locked to the {ACTIVE}'s {BEAST} red {PENIS}, terrified of where it's going to end up..."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} looms over {PRIMARY}, slobbering at her {BOOBS}, his {PENIS} {BEAST} and erect...",
+        "Oh my, {ACTIVE}'s {COCK} is {BEAST}! {PRIMARY} needs to get away before it's too late!"
+    ]
+}

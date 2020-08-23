@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "At last, the monster starts to cum. I feel my stomach begin to swell painfully with {THICK} {CUM}.",
+        "{SWEARING}, it's {EJACULATE}ing... It's almost over... My {FLESH} burns with stress as the {ANIMAL} finishes in my {ASSHOLE}.",
+        "After several minutes of the most intense {FUCK}ing I've ever experienced, I feel the climax wash over me.",
+        "I feel spurt after spurt of the {MONSTER}'s {CUM} being driven deep into my {ASSHOLE}.",
+        "The {ACTIVE} {QUIVER}s inside me and a warm sensation fills my belly, each thrust driving it deeper into me.",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes me over the edge, and I explode into orgasm.",
+        "The {ACTIVE} keeps {FUCK}ing my {ASSHOLE}, which prolongs my orgasm for a ridiculous length of time.",
+        "Its {COCK} throbs, every vein bulging, {BALLS} engorged as they churn up a load of {CUM} into my {ASSHOLE}.",
+        "There's a puddle of {CUM} beneath me, and the {CUM} in my {ASSHOLE} is now running down my legs and belly."
+    ],
+    "2nd Person" :
+    [
+        "At last, the monster starts to cum. You feel your stomach begin to swell painfully with {THICK} {CUM}.",
+        "{SWEARING}, it's {EJACULATE}ing... It's almost over... Your {FLESH} burns with stress as the {ANIMAL} finishes in your {ASSHOLE}.",
+        "After several minutes of the most intense {FUCK}ing you've ever experienced, you feel the climax wash over you.",
+        "You feel spurt after spurt of the {MONSTER}'s {CUM} being driven deep into your {ASSHOLE}.",
+        "The {ACTIVE} {QUIVER}s inside you and a warm sensation fills your belly, each thrust driving it deeper into you.",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes you over the edge, and you explode into orgasm.",
+        "The {ACTIVE} keeps {FUCK}ing your {ASSHOLE}, which prolongs your orgasm for a ridiculous length of time.",
+        "Its {COCK} throbs, every vein bulging, {BALLS} engorged as they churn up a load of {CUM} into your {ASSHOLE}.",
+        "There's a puddle of {CUM} beneath you, and the {CUM} in your {ASSHOLE} is now running down your legs and belly."
+    ],
+    "3rd Person" :
+    [
+        "There's a puddle of {CUM} beneath {PRIMARY}, {CUM} running out of her {ASSHOLE} and down her legs and belly.",
+        "Oh my, it's {EJACULATE}ing! That {ANIMAL} is {EJACULATE}ing in {PRIMARY}'s {ASSHOLE}!",
+        "{PRIMARY} almost seems relieved as the {ACTIVE} finishes in her {ASSHOLE}."
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "1st Person": [
+        "{ACTIVE} rises up, staring down at me as he lifts my hips and deepens his thrusts.",
+        "I hook my legs around {ACTIVE}'s hips, determined to take him as deeply as possible.",
+        "My heels push into {ACTIVE}'s firm ass and I grasp his wrists. I want him deeper...",
+        "{ACTIVE} starts to {FUCK} me a bit more quickly now. The pace is wonderful!",
+        "I wonder what he'd think if he knew who else has {EJACULATE} inside me today...",
+        "Make me cum with your {COCK} and I'll let you {FUCK} me up the {ASSHOLE}.",
+        "If you make me cum, I'll even let you do other things to me. Dirty things. Things a good girl shouldn't do.",
+        "How many guys have had me, how many loads have I taken? His questions make me blush.",
+        "He starts {INSERT}ing in and out pretty deep, but I suppose that's okay...",
+        "{ACTIVE} pulls back again, and starts to {FUCK} me steadily. The skin to skin contact feels wonderful.",
+        "{ACTIVE} {INSERT}s in and out of my {FAROUSAL} {PUSSY}.",
+        "That's it... work out all the day's frustrations... work them all out inside my {FAROUSAL} {PUSSY}."
+    ],
+    "2nd Person": [
+        "{ACTIVE} rises up, staring down at you as he lifts your hips and deepens his thrusts.",
+        "You hook your legs around {ACTIVE}'s hips, determined to take him as deeply as possible.",
+        "Your heels push into {ACTIVE}'s firm ass and you grasp his wrists. You want him deeper...",
+        "{ACTIVE} starts to {FUCK} me a bit more quickly now. The pace is wonderful!",
+        "You wonder what he'd think if he knew who else has cum inside you today...",
+        "({PRIMARY}) Make me cum with your {COCK} and I'll let you {FUCK} me up the {ASSHOLE}.",
+        "({PRIMARY}) If I cum, I'll let you do other things to me. Dirty things. Things a good girl shouldn't do.",
+        "How many guys have had you, how many loads have you taken? His questions make you blush.",
+        "He starts {INSERT}ing in and out pretty deep, but you suppose that's okay...",
+        "{ACTIVE} pulls back again, and starts to {FUCK} you steadily. The skin to skin contact feels wonderful.",
+        "{ACTIVE} {INSERT}s in and out of your {FAROUSAL} {PUSSY}.",
+        "({PRIMARY}) That's it... work out all the day's frustrations... work them out inside my {FAROUSAL} {PUSSY}."
+    ],
+    "3rd Person": [
+        "{ACTIVE} rises up, {FUCK}ing into {PRIMARY} with steady, relaxed strokes strokes.",
+        "{PRIMARY} wraps her legs around {ACTIVE}'s hips, clearly relishing the deep thrusts.",
+        "They say {PRIMARY}'s the town {BITCH}, that everyone's ridden her.",
+        "({PRIMARY}) That's it... uhh... I love your {COCK}!"
+    ]
+}

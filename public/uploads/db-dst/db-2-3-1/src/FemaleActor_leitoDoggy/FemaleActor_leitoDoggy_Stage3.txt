@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "I drop to my hands and knees, but {ACTIVE} doesn't slow down, continuing to {FUCK} my {PUSSY} quickly.",
+        "On the ground now, my hands are crossed in front of me to steady myself as {ACTIVE} {FUCK}s me from behind.",
+        "({ACTIVE}) Down on your knees, {PRIMARY}, like the {BITCH} you are!",
+        "{SWEARING}... We should stop... really... This has gone too far... Nghh...!",
+        "I'm starting to lose myself, his {COCK} is hitting me really deep... I won't be able to stop him...",
+        "{ACTIVE} {FUCK}s his {COCK} into my {WTVAGINAL} {PUSSY}.",
+        "Perhaps I'm just a foolish, {LEWD} and {HORNY} {BITCH} who loves {COCK}.",
+        "{ACTIVE} is {FUCK}ing me so hard, I find myself growing {HORNY} to have this man {EJACULATE} inside me.",
+        "{ACTIVE}'s {COCK} {FUCK}s my most intimate area as I {MOAN}."        
+    ],
+    "2nd Person" :
+    [
+        "You drop to your hands and knees, but {ACTIVE} doesn't slow down, continuing to {FUCK} your {PUSSY} quickly.",
+        "On the ground now, your hands are crossed in front of you to steady yourself as {ACTIVE} {FUCK}s you from behind.",
+        "({ACTIVE}) Down on your knees, {PRIMARY}, like the {BITCH} you are!",
+        "({PRIMARY}) {SWEARING}... We should stop... really... This has gone too far... Nghh...!",
+        "You're starting to lose yourself, his {COCK} is hitting you really deep... You won't be able to stop him...",
+        "{ACTIVE} {FUCK}s his {COCK} into your {WTVAGINAL} {PUSSY}.",
+        "Perhaps you're just a foolish, {LEWD} and {HORNY} {BITCH} who loves {COCK}.",
+        "{ACTIVE} is {FUCK}ing you so hard, you find yourself growing {HORNY} to have this man cum inside you.",
+        "{ACTIVE}'s {COCK} {FUCK}s your most intimate area as you {MOAN}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s knees buckle and she drops to all fours, {ACTIVE} continuing to {FUCK} her.",
+        "Oh my, did {PRIMARY} really want it to go this far? Is she going to {ACCEPT} his {CUM}?",
+        "{SWEARING}, that looks really good... They're both bound to cum soon.",
+        "Arms crossed underneath her, {PRIMARY} looks shyly back at {ACTIVE}. She looks anxious."
+    ]
+}

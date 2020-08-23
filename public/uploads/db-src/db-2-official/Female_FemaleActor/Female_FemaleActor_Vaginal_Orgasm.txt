@@ -1,0 +1,15 @@
+{
+    "1st Person" :
+    [
+        "I jerk and twitch, riding my orgasm, each wave coming higher than the one before.",
+        "My body tenses, my back arches and I let out a cry of ecstasy as my body takes control."
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

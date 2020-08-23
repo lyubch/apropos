@@ -1,0 +1,31 @@
+{
+    "1st Person": [
+        "{ACTIVE} {FUCK}s into me in a frenzy, and I throw myself into {FUCK}ing back just as hard.",
+        "I stare up at {ACTIVE}, not quite believing that I've spread my legs for an animal.",
+        "I {SCREAM} as {ACTIVE}'s {BEASTLY} knot {FUCK}s in and out of my {WTVAGINAL} {PUSSY}.",
+        "I can't believe I'm on my back, feet in the air, while a dog hammers hard between my legs...",
+        "{SWEARING}... Oh fuck... Oh fuck...",
+        "{SWEARING}, I shouldn't be letting a dog {BREED} me, but he sure knows how to hit it...",
+        "{ACTIVE}'s {BALLS} feel so heavy as they slap against my {ASSHOLE}. All that {CUM}...",
+        "I burn with shame and {LUST}, I can't believe I'm being {FUCK}ed so hard by a dog.",
+        "{SWEARING}... That's so good... I'm gonna cum... I'm gonna cum... Just a little more..."
+    ],
+    "2nd Person": [
+        "{ACTIVE} {FUCK}s into you in a frenzy, and you throw yourself into {FUCK}ing back just as hard.",
+        "You stare up at {ACTIVE}, not quite believing that you've spread your legs for an animal.",
+        "You {SCREAM} as {ACTIVE}'s {BEASTLY} knot {FUCK}s in and out of your {WTVAGINAL} {PUSSY}.",
+        "You can't believe you're on your back, feet in the air, while a dog hammers hard between your legs...",
+        "({PRIMARY}) {SWEARING}... Oh fuck... Oh fuck...",
+        "{SWEARING}, you shouldn't be letting a dog {BREED} you, but he sure knows how to hit it...",
+        "{ACTIVE}'s {BALLS} feel so heavy as they slap against your {ASSHOLE}. All that {CUM}...",
+        "You burn with shame and {LUST}, you can't believe you're being {FUCK}ed so hard by a dog.",
+        "({PRIMARY}) {SWEARING}... That's so good... I'm gonna cum... I'm gonna cum... Just a little more..."
+    ],
+    "3rd Person": [
+        "It's so {VILE} to have sex with an animal... But {PRIMARY} really seems to be enjoying it...",
+        "{PRIMARY} stares blankly, lost to pleasure as {ACTIVE} {FUCK}s into her.",
+        "{PRIMARY}'s bare feet swing about in the air, evidence of just how hard {ACTIVE} is {FUCK}ing her.",
+        "{PRIMARY}'s chest is burning red, and she's gasping for breath. She's cumming!",
+        "{ACTIVE}'s knot thunders in and out of {PRIMARY}, spreading her {PUSST} wide."
+    ]
+}

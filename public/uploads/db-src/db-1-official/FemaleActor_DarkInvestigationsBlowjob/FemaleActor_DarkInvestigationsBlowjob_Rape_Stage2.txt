@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "({ACTIVE}) I'm not here for a handjob, {BITCH}!",
+        "I feel the {ACTIVE}'s hand on the back of my head. I look up in terror briefly before he pushes me down.",
+        "Oh Gods, the taste is disgusting! I can't even imagine where this has been, and now it's in my {MOUTH}!",
+        "My eyes bulge as the first thrust hits the back of my throat, and each stroke after it pushes deeper.",
+        "I brace myself as the {ACTIVE} starts to pump my head down on his {SALTY} {PENIS}.",
+        "{ACTIVE} forces his {PENIS} between my lips. Tears stream down my face.",
+        "I squeal and moan. I choke a couple of times, but it doesn't slow him down.",
+        "({ACTIVE}) C'mon {BITCH}, I'm sure you suck off your boyfriend every day!",
+        "I choke and gag, but I'm so aroused by this rough treatment.",
+        "With nearly 8 inches lodged into my throat, I noisily struggle to gorge myself on the last damn inch."
+    ],
+    "2nd Person": [
+        "({ACTIVE}) I'm not here for a handjob, {BITCH}!",
+        "You feel the {ACTIVE}'s hand on your head. You look up in terror briefly before he pushes you down.",
+        "Oh Gods, the taste is disgusting! You can't even imagine where this has been, and now it's in your {MOUTH}!",
+        "Your eyes bulge as the first thrust hits the back of your throat, and each stroke after it pushes deeper.",
+        "You brace yourself as the {ACTIVE} starts to pump your head down on his {SALTY} {PENIS}.",
+        "{ACTIVE} forces his {PENIS} between your lips. Tears stream down your face.",
+        "You squeal and moan. you choke a couple of times, but it doesn't slow him down.",
+        "({ACTIVE}) C'mon {BITCH}, I'm sure you suck off your boyfriend every day!",
+        "You choke and gag, but you're so aroused by this rough treatment.",
+        "With nearly 8 inches lodged into your throat, you noisily struggle to gorge yourself on the last damn inch."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s shoulders tense every time the {ACTIVE} pushes her head down onto his {PENIS}.",
+        "{PRIMARY} pushes back on the {ACTIVE}, trying to stop him going too deep.",
+        "The {ACTIVE}'s hand takes {PRIMARY}'s head, and steadily pushes her down on his {HUGE} {PENIS}.",
+        "A panicked whimper and moan is cut off by his {PENIS} sliding deeper and cutting off {PRIMARY}'s air passage."
+    ]
+}

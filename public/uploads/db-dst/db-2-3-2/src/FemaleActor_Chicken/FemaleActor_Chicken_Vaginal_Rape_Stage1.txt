@@ -1,0 +1,19 @@
+{
+    "1st Person": [
+        "I {QUIVER} in {FEAR} as {ACTIVE} pushes his beak {ROUGH}ly inside my {PUSSY}.",
+        "{SWEARING}, he wants to have sex with me?",
+        "Ah! Ugh... Ugh... He's in me... He's in my {PUSSY}... And he's {HUGE}...",
+        "I {SCREAM} in {FEAR} as {ACTIVE} {INSERT}s its beak inside my {WTVAGINAL} {PUSSY}.",
+        "{ACTIVE} wastes no time getting on me and {INSERT}ing his beak into me."
+    ],
+    "2nd Person": [
+        "You {QUIVER} in {FEAR} as {ACTIVE} pushes his beak {ROUGH}ly inside your {PUSSY}.",
+        "{SWEARING}, he wants to have sex with you?",
+        "Ah! Ugh... Ugh... He's in you... He's in your {PUSSY}... And he's {HUGE}...",
+        "You {SCREAM} in {FEAR} as {ACTIVE} {INSERT}s its beak inside your {WTVAGINAL} {PUSSY}.",
+        "{ACTIVE} wastes no time getting on you and {INSERT}ing his beak into you."
+    ],
+    "3rd Person": [
+        "W... What? A {ACTIVE} wants to {RAP}e a human woman? That can't be right..."
+    ]
+}

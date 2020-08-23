@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "Suddenly the beast grabs me tightly, thrusting deep up inside me, pumping me full of its {CUM}.",
+        "I'm overcome with panic as the {ACTIVE} pins me to him, {CUMMING} inside, deep and violent.",
+        "I gasp and squirm as over a foot of troll-{COCK} is buried inside me to cum deep in my womb.",
+        "I sob and moan into the creature's chest as it growls and inseminates me.",
+        "All of a sudden the monster takes control, thrusting straight into my womb and {CUMMING} hard.",
+        "My whole body tenses as the {ACTIVE} roars and explodes inside me.",
+        "Its {COCK} throbs, every vein bulging, balls engorged as they churn up a load of {CUM} into my waiting womb." 
+    ],
+    "2nd Person" :
+    [
+        "Suddenly the beast grabs you tightly, thrusting deep up inside you, pumping you full of its {CUM}.",
+        "I'm overcome with panic as the {ACTIVE} pins you to him, {CUMMING} inside, deep and violent.",
+        "You gasp and squirm as over a foot of troll-{COCK} is buried inside you to cum deep in your womb.",
+        "You sob and moan into the creature's chest as it growls and inseminates you.",
+        "All of a sudden the monster takes control, thrusting straight into your womb and {CUMMING} hard.",
+        "Your whole body tenses as the {ACTIVE} roars and explodes inside you.",
+        "Its {COCK} throbs, every vein bulging, balls engorged as they churn up a load of {CUM} into your waiting womb."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} sobs and moans into the creature's chest as it growls and inseminates her.",
+        "The {ACTIVE} suddenly roars, thrusting its {COCK} fiercely up into {PRIMARY}. Surely she'll be pregnant after this...",
+        "The beast's strokes look deep and hard. Gods, its {CUM} must be so deep inside {PRIMARY} now..."
+    ]
+}

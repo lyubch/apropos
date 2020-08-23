@@ -1,0 +1,33 @@
+{
+    "1st Person": [
+        "I {SCREAM} into the ground, with my {ASSHOLE} hiked up, as this {VILE} {MONSTER} {ACTIVE} {MOAN}s, and I.",
+        "Prostrate on all fours, I raise my {ASSHOLE} higher, taking the {ACTIVE}'s {CUM} as deep as I can.",
+        "({ACTIVE}) See? Nothing more than a lust-filled {BITCH}, eager to take any {MONSTER}'s seed.",
+        "I glance up from under heavy eyelids, my {MOUTH} open and {MOAN}ing as I feel the {MONSTER} {EJACULATE} {CUM} into me.",
+        "My mind feels as languid and heavy as my body... I'm dimly aware of {CUM} oozing down my thighs.",
+        "Tears stream down my face from the strain of my own earth-shattering climax.",
+        "As the {ACTIVE} climaxes, an earth shattering orgasm rips through my own body as well.",
+        "All resistance sapped from my mind, I throw myself into an almighty climax, my {FLESH} {QUIVER}ing.",
+        "({ACTIVE}) Ahhh! Consider yourself honoured, {PRIMARY}. Your {ASSHOLE} are full of my seed.",
+        "({ACTIVE}) The mighty Dragonborn, on all fours, climaxing from her {ASSHOLE}! How disappointing!"
+    ],
+    "2nd Person": [
+        "You {SCREAM} into the ground, with your {ASSHOLE} hiked up, as this {VILE} {MONSTER} {ACTIVE} {MOAN}s, and I.",
+        "Prostrate on all fours, you raise your {ASSHOLE} higher, taking the {ACTIVE}'s {CUM} as deep as you can.",
+        "({ACTIVE) See? Nothing more than a lust-filled {BITCH}, eager to take any {MONSTER}'s seed.",
+        "You glance up from under heavy eyelids, panting as you feel the {MONSTER} {EJACULATE} {CUM} into you.",
+        "Your mind feels as languid and heavy as your body... You're dimly aware of {CUM} oozing down your thighs.",
+        "Tears stream down your face from the strain of your own earth-shattering climax.",
+        "As the {ACTIVE} climaxes, an earth shattering orgasm rips through your own body as well.",
+        "All resistance sapped from your mind, you throw yourself into an almighty climax, your {FLESH} {QUIVER}ing.",
+        "({ACTIVE}) Ahhh! Consider yourself honoured, {PRIMARY}. Your {ASSHOLE} are full of my seed.",
+        "({ACTIVE}) The mighty Dragonborn, on all fours, climaxing from her {ASSHOLE}! How disappointing!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} {SCREAM}s into the ground, with her {ASSHOLE} hiked up, as this {VILE} {MONSTER} {ACTIVE} {MOAN}s, and I.",
+        "Prostrate on all fours, {PRIMARY} raises her {ASSHOLE} higher, taking the {ACTIVE}'s {CUM} as deep as she can.",
+        "({ACTIVE}) See? Nothing more than a lust-filled {BITCH}, eager to take any {MONSTER}'s seed.",
+        "{PRIMARY} glances up from under heavy eyelids, her {MOUTH} open as the {MONSTER} {EJACULATE}s {CUM} into her.",
+        "Tears stream down {PRIMARY}'s face from the strain of her own earth-shattering climax."
+    ]
+}

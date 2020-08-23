@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE}'s {PENIS} throbs insistently at the lips of my {PUSSY}. I think it's time...",
+        "Mmmmm... ahh... I want you... inside me...",
+        "All this kissing is making my {PUSSY} throb maddeningly. He could ask me to do anything and I'd say yes.",
+        "All it would take is for me to push backwards, and his {HUGE} {COCK} will slip inside me...",
+        "Wouldn't you like to stick your {PENIS} way up in my {PUSSY} and squirt your {CUM}?",
+        "My heart is racing. I'm hot and frisky and feeling good.",
+        "I'll let you cum anywhere you want. In my {PUSSY}... Even in my {ASS}...",
+        "Mmmm... Oh Gods... Could you... fuck me? Please...? You can do it in any {OPENING}...",
+        "Most guys around here seem to like fucking me. You want to take a turn?",
+        "He's going to try to fuck me... And I'm going to let him..."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE}'s {PENIS} throbs insistently at the lips of your {PUSSY}. You think it's time...",
+        "({PRIMARY}) Mmmmm... ahh... I want you... inside me...",
+        "All this is making your {PUSSY} throb maddeningly. He could ask you to do anything and you'd say yes.",
+        "All it would take is for you to push backwards, and his {HUGE} {COCK} will slip inside you...",
+        "({PRIMARY}) Wouldn't you like to stick your {PENIS} way up in my {PUSSY} and squirt your {CUM}?",
+        "Your heart is racing. You're hot and frisky and feeling good.",
+        "({PRIMARY}) I'll let you cum anywhere you want. In my {PUSSY}... Even in my {ASS}...",
+        "({PRIMARY}) Mmmm... Oh Gods... Could you... fuck me? Please...? You can do it in any {OPENING}...",
+        "({PRIMARY}) Most guys around here seem to like fucking me. You want to take a turn?",
+        "He's going to try to fuck you... And you're going to let him..."
+    ],
+    "3rd Person" :
+    [
+        "They're still just kissing, but {ACTIVE}'s {PENIS} is twitching like mad, and {PRIMARY} is moaning.",
+        "{ACTIVE}'s crotch is soaked with {PRIMARY}'s {CREAM}. She must want it bad..."
+    ]
+}

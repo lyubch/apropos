@@ -1,0 +1,36 @@
+{
+    "1st Person": [
+        "I squeal as {VILE} {CUM} is squirted into both ends.",
+        "My body is overloaded, every muscle shaking and shivering. All three of us cum together.",
+        "I scream around the {COCK} in my {MOUTH} as I cum on the {ACTIVE}'s {COCK}.",
+        "Ugh... the amount of {CUM} is unexpected...",
+        "I'm forced to drink what seems like gallons of foul tasting goblin {CUM}...",
+        "The hard pounding takes me to orgasm, and I moan around the {ACTIVE}'s {SALTY} {COCK}.",
+        "As the creatures finish wetly inside me, I start to worry. Are more waiting to take their turn with me?",
+        "Feeling an explosion of warmth in my womb and down my throat at the same time, I climax hard.",
+        "Despite the {VILE} {CUM} flooding into my body, the creatures don't stop pounding me.",
+        "The two creatures fuck me hard and cum deep inside me.",
+        "Three blasts jet out of the {SALTY} head, and I fight back screams to swallow the mouthful of {VILE} {CUM}."
+    ],
+    "2nd Person": [
+        "You squeal as {VILE} {CUM} is squirted into both ends.",
+        "Your body is overloaded, every muscle shaking and shivering. All three of us cum together.",
+        "You scream around the {COCK} in your {MOUTH} as you cum on the {ACTIVE}'s {COCK}.",
+        "Ugh... the amount of {CUM} is unexpected...",
+        "You're forced to drink what seems like gallons of foul tasting goblin {CUM}...",
+        "The hard pounding takes you to orgasm, and you moan around the {ACTIVE}'s {SALTY} {COCK}.",
+        "As the creatures finish wetly inside you, you start to worry. Are more waiting to take their turn with you?",
+        "Feeling an explosion of warmth in your womb and down your throat at the same time, you climax hard.",
+        "Despite the {VILE} {CUM} flooding into your body, the creatures don't stop pounding you.",
+        "The two creatures fuck you hard and cum deep inside you.",
+        "Three blasts jet out of the {SALTY} head, and you fight back screams to swallow the mouthful of {VILE} {CUM}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} squeals as {VILE} {CUM} is squirted into both ends.",
+        "{PRIMARY}'s body is overloaded, every muscle shaking and shivering. All three of them cum together.",
+        "{PRIMARY} screams around the {COCK} in her {MOUTH} as she cums on the {ACTIVE}'s {COCK}.",
+        "Ugh... the amount of {CUM} is unexpected...",
+        "{PRIMARY}'s forced to drink what seems like gallons of foul tasting goblin {CUM}...",
+        "The hard pounding takes her to orgasm, and {PRIMARY} moans around the {ACTIVE}'s {SALTY} {COCK}."
+    ]
+}

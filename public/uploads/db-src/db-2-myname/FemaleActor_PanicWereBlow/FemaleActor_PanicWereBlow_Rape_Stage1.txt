@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "Oh Gods, look at the size of its {PENIS}! It can't be thinking...",
+        "The {ACTIVE} stares into my eyes, its breath rapid and foul. I'm terrified, but I feel... hot...",
+        "The {ACTIVE}'s massive fist grips my neck, its claws scratching my back. It's so big...",
+        "I try with all my strength, but I can't budge the beast's giant paw. I'm powerless...",
+        "Naked and helpless, staring into the huge {ACTIVE}'s eyes... My body feels strange...",
+        "No, please! You can't... It's too big... Please just let me go...",
+        "Wait! That huge thing won't go in! What should I do?"        
+    ],
+    "2nd Person" :
+    [
+        "Oh Gods, look at the size of its {PENIS}! It can't be thinking...",
+        "The {ACTIVE} stares into your eyes, its breath rapid and foul. You're terrified, but you feel... hot...",
+        "The {ACTIVE}'s massive fist grips your neck, its claws scratching your back. It's so big...",
+        "You try with all your strength, but you can't budge the beast's giant paw. You're powerless...",
+        "Naked and helpless, staring into the huge {ACTIVE}'s eyes... Your body feels strange...",
+        "({PRIMARY}) No, please! I can't... It's too big... Please just let me go...",
+        "Wait! That huge thing won't go in! What should you do?"
+    ],
+    "3rd Person" :
+    [
+        "Naked and shivering, {PRIMARY} is held firmly around the throat by the huge beast.",
+        "Oh Gods, the {ACTIVE} is erect! And its {PENIS} is huge and {BEAST}... Poor {PRIMARY}...",
+        "The {ACTIVE}'s huge clawed hand grips {PRIMARY}'s neck, and she struggles to free herself.",
+        "{PRIMARY} stares wide-eyed into the {ACTIVE}'s fanged maw, clearly terrified."
+    ]
+}

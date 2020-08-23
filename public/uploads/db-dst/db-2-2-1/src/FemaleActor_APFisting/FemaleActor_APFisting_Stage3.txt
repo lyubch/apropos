@@ -1,0 +1,44 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} starts pumping me again as his hand finally slips inside my {WTVAGINAL} {PUSSY}.",
+        "Oh Gods! I can't believe his whole hand slipped inside! Ugh... It feels so tight...",
+        "His whole hand is inside, but he's still pushing! Ahhh! How much am I supposed to take?!",
+        "I feel {ACTIVE}'s hot breath on my stomach, and then his tongue on my clit. The sensations are maddening.",
+        "I scream in pain and humiliation.",
+        "I feel my {PUSSY} stretching as he pushes hard against me, and I rock my body to help force his hand inside.",
+        "For what seems like an eternity he pounds into me, punishing my body again and again.",
+        "I plead to {ACTIVE} for it to finish, my {PUSSY} pushed to its limit and tears streaming down my face.",
+        "I start to relish every thrust as it brings a blast of new sensations.",
+        "I can't believe my tiny body is taking this... I wasn't made to do this kind of thing...",
+        "I stare with unblinking eyes as I gasp for breath. Everyone will be able to hear me whimper helplessly.",
+        "Hurt me you fucker!",
+        "What kind of woman lets herself be used like this?",
+        "I'm breathing heavily, shaking and screaming while he keeps twisting his hand further and further inside me.",
+        "({PRIMARY}) Uh... That's it... It's in... Now... Keep going... deeper... I can take it..."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} starts pumping you again as his hand finally slips inside your {WTVAGINAL} {PUSSY}.",
+        "Oh Gods! You can't believe his whole hand slipped inside! Ugh... It feels so tight...",
+        "His whole hand is inside, but he's still pushing! Ahhh! How much are you supposed to take?!",
+        "You feel {ACTIVE}'s hot breath on your stomach, his tongue on your clit. The sensations are maddening.",
+        "You scream in pain and humiliation.",
+        "You feel your {PUSSY} stretching as he pushes against you, your body rocking to help force his hand inside.",
+        "For what seems like an eternity he pounds into you, punishing your body again and again.",
+        "You plead to {ACTIVE} for it to finish, your {PUSSY} pushed to its limit and tears streaming down your face.",
+        "You start to relish every thrust as it brings a blast of new sensations.",
+        "You can't believe your tiny body is taking this... You weren't made to do this kind of thing...",
+        "You stare with unblinking eyes as you gasp for breath. Everyone will be able to hear you whimper helplessly.",
+        "({PRIMARY}) Hurt me you fucker!",
+        "What kind of woman lets herself be used like this?",
+        "You're breathing heavily, shaking and screaming while he keeps twisting his hand further inside you.",
+        "({PRIMARY}) Uh... That's it... It's in... Now... Keep going... deeper... I can take it..."
+    ],
+    "3rd Person" :
+    [
+        "The noise {PRIMARY} makes as {ACTIVE}'s whole fist slips inside her, it's so primal...",
+        "What kind of {BITCH} lets herself get used like that?",
+        "{ACTIVE} starts pumping again, his fist disappearing inside {PRIMARY}'s {PUSSY} as she gasps and moans."
+    ]
+}

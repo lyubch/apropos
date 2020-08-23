@@ -1,0 +1,31 @@
+{
+    "1st Person": [
+        "The {ACTIVE} continues to fuck me, orgasm after orgasm crashing through me.",
+        "My stomach lurches as I feel his {THICK} {CUM} squirting deep inside me. Oh no...",
+        "({ACTIVE}) What's with that defiant look? You came before I did, {BITCH}!",
+        "I want to scream and thrash as he cums directly into my womb, but I'm exhausted. He's beaten me.",
+        "As I feel his last thrusts and his cumshot rocket into me, I collapse in defeat, exhausted.",
+        "I feel my body twitch as the {ACTIVE} dumps a particularly {THICK} batch of {CUM} into me.",
+        "I feel the {ACTIVE}'s {CUM} rush into my body, filling me up, and I do nothing to stop it.",
+        "The {ACTIVE} violently thrusts into me over and over again as I take his {CUM}.",
+        "As I pant in exhaustion, the {ACTIVE} cums inside me."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} continues to fuck you, orgasm after orgasm crashing through you.",
+        "Your stomach lurches as you feel his {THICK} {CUM} squirting deep inside you. Oh no...",
+        "({ACTIVE}) What's with that defiant look? You came before I did, {BITCH}!",
+        "You want to scream and thrash as he cums directly into your womb, but you're exhausted. He's beaten you.",
+        "As you feel his last thrusts and his cumshot rocket into you, you collapse in defeat, exhausted.",
+        "You feel your body twitch as the {ACTIVE} dumps a particularly {THICK} batch of {CUM} into you.",
+        "You feel the {ACTIVE}'s {CUM} rush into your body, filling you up, and you do nothing to stop it.",
+        "The {ACTIVE} violently thrust into you over and over again as you take his {CUM}.",
+        "As you pant in exhaustion, the {ACTIVE} cums inside you."
+    ],
+    "3rd Person": [
+        "They both look exhausted, their bodies slick with sweat. The {ACTIVE} gives a last few pumps into {PRIMARY}.",
+        "{PRIMARY} stares at the {ACTIVE} as he finishes inside her, her face filled with hate but her nipples stiff.",
+        "{PRIMARY}'s stomach convulses as the {ACTIVE} pumps. He must be {CUMMING}...",
+        "Oh my... That didn't seem like such a bad thing... Perhaps it's worth not fighting back...",
+        "That was intense, it looks like the {ACTIVE} just gave {PRIMARY} the fucking of her life."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE}'s {QUICK} pace threatens to knock me over, and I have to {LEWD}ly hold myself up on all fours.",
+        "My head hangs low, almost to the ground, as the {MONSTER} starts to {FUCK} its entire {COCK} into my {PUSSY}.",
+        "Head low, I look between my legs at the {BEASTLY} {COCK} {FUCK}ing into me, feeling good... really good...",
+        "The {ACTIVE} {FUCK}s into me and I can see his two melon-sized {BALLS} swell. Oh my...",
+        "I watch in {FEAR} as the bulge inches up from my {PUSSY} toward my stomach."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE}'s {QUICK} pace threatens to knock you over, and you have to {LEWD}ly hold yourself up on all fours.",
+        "Your head hangs low, almost to the ground, as the {MONSTER} starts to {FUCK} its entire {COCK} into your {PUSSY}.",
+        "Head low, you look between your legs at the {BEASTLY} {COCK} {FUCK}ing into you, feeling good... really good...",
+        "The {ACTIVE} {FUCK}s into you and you can see his two melon-sized {BALLS} swell. Oh my...",
+        "You watch in {FEAR} as the bulge inches up from your {PUSSY} toward your stomach." 
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} holds herself up on both hands, keeping her {BUTTOCKS} high for the {MONSTER} to fuck.",
+        "Oh my, {PRIMARY} can surely see her {PUSSY} being {FUCK}ed from that position...",
+        "The {ACTIVE} continues to steadily {FUCK} {PRIMARY}, who makes no attempt to pull herself away."
+    ]
+}

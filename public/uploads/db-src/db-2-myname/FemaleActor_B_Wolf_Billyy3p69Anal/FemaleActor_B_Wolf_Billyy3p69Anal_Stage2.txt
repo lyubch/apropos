@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "With plenty of {CREAM} and spit to act as lube, the wolf's {COCK} slides effortlessly deep into my ass, pushing me down on the other.",
+        "I sigh around the {COCK} as the wolf picks my {ASS}, though the other's tongue does kinda make up for it...",
+        "I'm not in much of a position to resist as they squeeze me between them, not that I'd dream of it as long as that tongue keeps up!",
+        "It's hard to concentrate with a dick up my ass, but I must be doing something right as the other's tongue starts lapping at my clit!",
+        "I feel like a {WHORE}, letting them use my {ASS} and {MOUTH}, but that tongue is too good to care...",
+        "I can't believe I'm letting a wolf fuck my {ASS}, but at least the only thing up my {PUSSY} is the other's tongue."
+    ],
+    "2nd Person": [
+        "With plenty of {CREAM} and spit to act as lube, the wolf's {COCK} slides effortlessly deep into your ass, pushing you down on the other.",
+        "You sigh around the {COCK} as the wolf picks your {ASS}, though the other's tongue does kinda make up for it...",
+        "You're not in much of a position to resist as they squeeze you between them, not that you'd dream of it with that tongue inside you!",
+        "It's hard to concentrate with a dick up your ass, but you must be doing something right as the other's tongue starts lapping at your clit!",
+        "You feel like a {WHORE}, letting them use your {ASS} and {MOUTH}, but that tongue is too good to care...",
+        "You can't believe you're letting a wolf fuck your {ASS}, but at least the only thing up your {PUSSY} is the other's tongue."
+    ],
+    "3rd Person": [
+        "With plenty of {CREAM} and spit to act as lube, the wolf's {COCK} slides effortlessly deep into {PRIMARY}'s ass, pushing her down on the other.",
+        "{PRIMARY} sighs around the {COCK} as the wolf picks her {ASS}, though the other's tongue does kinda make up for it...",
+        "{PRIMARY}'s not in much of a position to resist as they squeeze her between them, not that she'd dream of it with that tongue inside her!",
+        "It's hard to concentrate with a dick up {PRIMARY}'s ass, but she must be doing something right as the other's tongue starts lapping at her clit!",
+        "{PRIMARY} feels like a {WHORE}, letting them use her {ASS} and {MOUTH}, but that tongue is too good to care...",
+        "{PRIMARY} can't believe she's letting a wolf fuck her {ASS}, but at least the only thing up her {PUSSY} is the other's tongue."
+    ]
+}

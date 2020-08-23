@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "The {ACTIVE} continues to {FUCK} me in {SLOW}, sharp strokes, its {COCK} so {HUGE} I know I'm going to cum.",
+        "My legs spread maddeningly wide with every deep, painful stroke of the {MONSTER}'s {COCK}, my orgasm building.",
+        "I squeeze my breast a little with every thrust, loving the {GIRTH} and hardness of the {ACTIVE}'s {COCK}.",
+        "It's perverse, the sensation of my stomach bulging every time the {BEASTLY} {COCK} fills me...",
+        "Yes... in all the way... I can take it... I want it...",
+        "The {MONSTER} drives into me while pulling me to him, its huge muscled body engulfing my {SMALL}, {HEAVING} {FLESH}."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} continues to {FUCK} you in {SLOW}, sharp strokes, its {COCK} so {HUGE} you know you're going to cum.",
+        "Your legs spread maddeningly wide with every deep, painful stroke of the {MONSTER}'s {COCK}, your orgasm building.",
+        "You squeeze your breast a little with every thrust, loving the {GIRTH} and hardness of the {ACTIVE}'s {COCK}.",
+        "It's perverse, the sensation of your stomach bulging every time the {BEASTLY} {COCK} fills you...",
+        "({PRIMARY}) Yes... in all the way... I can take it... I want it...",
+        "The {MONSTER} drives into you while pulling you to him, its huge muscled body engulfing your {HEAVING} {FLESH}."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} continues to {FUCK} {PRIMARY} in {SLOW}, sharp strokes, its {COCK} so {HUGE} she knows she's going to cum.",
+        "{PRIMARY}'s legs spread maddeningly wide with every deep, painful stroke of the {MONSTER}'s {COCK}, her orgasm building.",
+        "{PRIMARY} squeezes her breast a little with every thrust, loving the {GIRTH} and hardness of the {ACTIVE}'s {COCK}.",
+        "It's perverse, the sensation of {PRIMARY}'s stomach bulging every time the {BEASTLY} {COCK} fills her...",
+        "({PRIMARY}) Yes... in all the way... I can take it... I want it...",
+        "The {MONSTER} drives into {PRIMARY} while pulling her to him, its huge muscled body engulfing her {HEAVING} {FLESH}."
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "I lean back into my {ROUGH} lover, fully absorbed in the {LEWD} {LUST} of having sex with a monster.",
+        "Mmmm, that's it... {FUCK} me with your {BEASTLY} {COCK}... I want your {CUM}... Inside me...",
+        "The intensity and rhythm of its breath is echoed by the {MAROUSAL} {MONSTER} lodged between my legs.",
+        "It feels like my cervix is being pushed up into my guts, the penetration is so deep.",
+        "I've yearned to be {RAP}ed in this way, and the fact that it's a {BEASTLY} {MONSTER} makes it that much more {LEWD}!",
+        "I dare myself to let it {EJACULATE} inside me! To take all of its {THICK} {CUM}!",
+        "I ready myself for the now-familiar feeling of its {CUM} blasting forth and coating my insides."
+    ],
+    "2nd Person": [
+        "You lean back into your {ROUGH} lover, fully absorbed in the {LEWD} {LUST} of having sex with a monster.",
+        "({PRIMARY}) Mmmm, that's it... {FUCK} me with your {BEASTLY} {COCK}... I want your {CUM}... Inside me...",
+        "The intensity and rhythm of its breath is echoed by the {MAROUSAL} {MONSTER} lodged between your legs.",
+        "It feels like your cervix is being pushed up into your guts, the penetration is so deep.",
+        "You've yearned to be {RAP}ed in this way, and the fact that it's a {BEASTLY} {MONSTER} makes it that much more {LEWD}!",
+        "You dare yourself to let it cum inside you! To take all of its {THICK} {CUM}!",
+        "You ready yourself for the now-familiar feeling of its {CUM} blasting forth and coating your insides."
+    ],
+    "3rd Person": [
+        "{PRIMARY} leans back into her {ROUGH} lover, fully absorbed in the {LEWD} {LUST} of having sex with a monster.",
+        "({PRIMARY}) Mmmm, that's it... {FUCK} me with your {BEASTLY} {COCK}... I want your {CUM}... Inside me...",
+        "The intensity and rhythm of its breath is echoed by the {MAROUSAL} {MONSTER} lodged between {PRIMARY}'s legs.",
+        "It feels like {PRIMARY}'s cervix is being pushed up into her guts, the penetration is so deep.",
+        "{PRIMARY} yearned to be {RAP}ed in this way, and the fact that it's a {BEASTLY} {MONSTER} makes it that much more {LEWD}!",
+        "{PRIMARY} dares herself to let it cum inside her! To take all of its {THICK} {CUM}!",
+        "{PRIMARY} readies herself for the now-familiar feeling of its {CUM} blasting forth and coating her insides."
+    ]
+}

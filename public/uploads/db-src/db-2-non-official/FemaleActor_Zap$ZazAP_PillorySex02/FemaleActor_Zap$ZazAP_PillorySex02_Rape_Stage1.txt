@@ -1,0 +1,63 @@
+{
+    "1st Person" :
+    [
+        "My hands and neck are held tight, I'm completely at the mercy of these {LEWD} {JERK}s...",
+        "I {STRUGGLE} vainly, but I know there's no escape. They can do whatever they want to me.",
+        "I feel hands {ROUGH}ly groping and stroking my {NUDE} {BUTTOCKS}. I start to feel afraid...",
+        "I can't be sure exactly who is behind me, but their {COCK} is {MAROUSAL}. {SWEARING}, no...",
+        "I'm {QUIVER}ing with {FEAR}, but the {LUST} and the helplessness starts to make me wet.",
+        "That was definitely a {COCK} I just felt! {SWEARING} no! I'm going to get {FUCK}ed!",
+        "He's going to {FUCK} me, and there's not a god-damned thing I can do to stop him...",
+        "I feel so {SUBMISSIVE}, and so {HORNY}. I hope he {RAP}es me...",
+        "Nakedness intensifies my vulnerability, and my lips {QUIVER} in forced submissiveness and {LUST}.",
+        "I can't move, my wrists and head held tight by the stocks. All I can do is struggle at every touch.",
+        "I'm completely {NUDE}, he can do anything he wants to me and I can't stop him...",
+        "Oh my... what is that I'm feeling at my {BUTTOCKS}? {SWEARING}, I'm going to get {FUCK}ed...",
+        "The {LUST} and not knowing is maddening, and my {PUSSY} aches at every stroke and grope.",
+        "I can't see what's going on behind me, can't even be sure who it is... All I know is that he's hard...",
+        "Someone's touching me from behind... Who is it? {SWEARING}, what if it's a stranger...",
+        "I can't wait any longer! I want your {COCK} inside me! Ram it into my {PUSSY}! Hard!",
+        "I want you to {FUCK} me, screw me like a {BITCH}... you know you want me... so what are you waiting for?",
+        "I {QUIVER}, {NUDE} and {NUDE}, my {WTVAGINAL} {PUSSY} {DISPLAY}ed.",
+        "My {WTVAGINAL} {PUSSY} is {DISPLAY}ed, lips parted, ready to be {FUCK}ed.",
+        "Hurry up! You can put it in me right now!",
+        "Breathlessly, I fidget in my bonds, my {FLESH} {QUIVER}ing in {LUST}.",
+        "I'm totally {NUDE}! They can see everything; my stomach, my {BOOBS}, my {PUSSY}, everything!"
+    ],
+    "2nd Person" :
+    [
+        "Your hands and neck are held tight, you're completely at the mercy of these {LEWD} {JERK}s...",
+        "You {STRUGGLE} vainly, but you know there's no escape. They can do whatever they want to you.",
+        "You feel hands {ROUGH}ly groping and stroking your {NUDE} {BUTTOCKS}. You start to feel afraid...",
+        "You can't be sure exactly who is behind you, but their {COCK} is {MAROUSAL}. {SWEARING}, no...",
+        "You're {QUIVER}ing with {FEAR}, but the {LUST} and the helplessness starts to make you wet.",
+        "That was definitely a {COCK} you just felt! {SWEARING} no! You're going to get {FUCK}ed!",
+        "He's going to {FUCK} you, and there's not a god-damned thing you can do to stop him...",
+        "You feel so {SUBMISSIVE}, and so {HORNY}. You hope he {RAP}es you...",
+        "Nakedness intensifies your vulnerability, and your lips {QUIVER} in forced submissiveness and {LUST}.",
+        "You can't move, your wrists and head held tight by the stocks. All you can do is struggle at every touch.",
+        "You're completely {NUDE}, he can do anything he wants to you and you can't stop him...",
+        "Oh my... what is that you're feeling at your {BUTTOCKS}? {SWEARING}, you're going to get {FUCK}ed...",
+        "The {LUST} and not knowing is maddening, and your {PUSSY} aches at every stroke and grope.",
+        "You can't see what's going on behind you, can't even be sure who it is... All you know is that he's hard...",
+        "Someone's touching you from behind... Who is it? {SWEARING}, what if it's a stranger...",
+        "({PRIMARY}) I can't wait any longer! I want your {COCK} inside me! Ram it into my {PUSSY}! Hard!",
+        "({PRIMARY}) I want you to {FUCK} me, screw me like a {BITCH}... you know you want me... what are you waiting for?",
+        "You {QUIVER}, {NUDE} and {NUDE}, your {WTVAGINAL} {PUSSY} {DISPLAY}ed.",
+        "Your {WTVAGINAL} {PUSSY} is {DISPLAY}ed, lips parted, ready to be {FUCK}ed.",
+        "({PRIMARY}) Hurry up! You can put it in me right now!",
+        "Breathlessly, you fidget in your bonds, your {FLESH} {QUIVER}ing in {LUST}.",
+        "You're totally {NUDE}! They can see everything; your stomach, your {BOOBS}, your {PUSSY}, everything!"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE}'s {COCK} is {MAROUSAL}, and there's nothing {PRIMARY} can do to stop him {FUCK}ing her.",
+        "{PRIMARY} is tightly bound, and completely helpless. Those {LEWD} {JERK}s are going {RAP}e her.",
+        "{PRIMARY} is locked up and {NUDE}, just a {SUBMISSIVE} {BITCH} for their sick minds.",
+        "It's sickening that {PRIMARY} is trussed up like that, {ACTIVE} is such a {VILE} {JERK}!",
+        "{PRIMARY} is held tight by the stocks, and can only {JIGGL}e as {ACTIVE} gropes her.",
+        "{PRIMARY} is completely helpless, anyone could do anything to her! Is {ACTIVE} going to {FUCK} her?",
+        "Does {PRIMARY} even know that it's {ACTIVE} behind her, touching her like that?",
+        "{ACTIVE}'s {COCK} is {FAROUSAL}, and {PRIMARY} recoils every time it touches her {ASSHOLE}."
+    ]
+}

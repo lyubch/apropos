@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "I gag as this brute's {SALTY} {COCK} enters my {MOUTH}.",
+        "The feeling of helplessness turns me on, and I'm disgusted with myself.",
+        "It's not long before I take his {COCK} in my {MOUTH}, and I truly hate myself for it.",
+        "Please... don't hurt me... I'll suck your {COCK}...",
+        "Don't kill me... I'll swallow your {CUM}... please let me have your {CUM}...",
+        "If you let me go, I'll swallow anything you put in my mouth. I'll drink your {CUM}, just please...",
+        "I don't recall ever being so turned on as I feel my lips part and slide along his {COCK}."
+    ],
+    "2nd Person" :
+    [
+        "You gag as this brute's {SALTY} {COCK} enters your {MOUTH}.",
+        "The feeling of helplessness turns you on, and you're disgusted with yourself.",
+        "It's not long before you take his {COCK} in your {MOUTH}, and you truly hate yourself for it.",
+        "({PRIMARY}) Please... don't hurt me... I'll suck your {COCK}.",
+        "({PRIMARY}) Don't kill me... I'll swallow your {CUM}... please let me have your {CUM}.",
+        "({PRIMARY}) If you let me go, I'll swallow anything you put in my mouth. I'll drink your {CUM}, anything...",
+        "You don't recall ever being so turned on as you feel your lips part and slide along his {COCK}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} gags as that brute's {COCK} enters her {MOUTH}.",
+        "It's not long before {PRIMARY} takes his {COCK} in her {MOUTH}.",
+        "({PRIMARY}) Please... don't hurt me... I'll suck your {COCK}..."
+    ]
+}

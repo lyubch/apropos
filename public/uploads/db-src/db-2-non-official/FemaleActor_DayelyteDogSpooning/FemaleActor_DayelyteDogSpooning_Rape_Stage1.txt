@@ -1,0 +1,21 @@
+{
+    "1st Person" :
+    [
+        "I can't get away. All I can do is lift my leg, and give {ACTIVE} what he wants...",
+        "Tears stream down my face as I watch between my legs, as {ACTIVE}'s {BEASTLY} {COCK} pumps inside me.",
+        "I {SCREAM} in shock. {ACTIVE} has brought me to orgasm just by {INSERT}ing his {COCK} into me...",
+        "{ACTIVE} wraps his legs around me and {PENETRAT}es his {COCK} into my {PUSSY}, and we {FUCK} like {ANIMAL}s."        
+    ],
+    "2nd Person" :
+    [
+        "You can't get away. All you can do is lift your leg, and give {ACTIVE} what he wants...",
+        "Tears stream down your face as you watch between your legs, as {ACTIVE}'s {BEASTLY} {COCK} pumps inside you.",
+        "You {SCREAM} in shock. {ACTIVE} has brought you to orgasm just by {INSERT}ing his {COCK} into you...",
+        "{ACTIVE} wraps his legs around you and {PENETRAT}es his {COCK} into your {PUSSY}, and you {FUCK} like {ANIMAL}s."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE}'s snarling maw at her ear, {PRIMARY} {QUIVER}s as she spreads her legs and lets him in.",
+        "{PRIMARY} looks mortified as she watches {ACTIVE}'s {BEASTLY} {COCK} pump into her {PUSSY}."
+    ]
+}

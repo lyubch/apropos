@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "{ACTIVE} starts to pump his {BEASTLY} {COCK} more quickly into me. It feels good...",
+        "I don't care who sees me like this, and let my head hang back as I enjoy the feeling of {ACTIVE}'s {COCK}.",
+        "I lean back, hearing and feeling the hot panting of my animal lover at my ear.",
+        "Aah... Ahhh... What am I doing? What would my {MFAMILY} think of me, if he saw me like this?",
+        "My cheeks burn red with {LUST}, I want to be seen like this.",
+        "{SWEARING}... That's so good... I'm gonna cum... I'm gonna cum... Just a little more...",
+        "I'm joined together with {ACTIVE}, and I feel a connection, as if with any other lover.",
+        "I can't believe how {BEASTLY} {ACTIVE}'s {COCK} is. I'll need to do this more often!",
+        "I think I love dog {COCK} a lot.",
+        "It's turning me on to be getting {FUCK}ed by a dog."
+    ],
+    "2nd Person": [
+        "{ACTIVE} starts to pump his {BEASTLY} {COCK} more quickly into you. It feels good...",
+        "You don't care who sees you, your head hanging back as you enjoy the feeling of {ACTIVE}'s {COCK}.",
+        "You lean back, hearing and feeling the hot panting of your animal lover at your ear.",
+        "Aah... Ahhh... What are you doing? What would your friends think of you, if they saw you like this?",
+        "Your cheeks burn red with {LUST}, you want to be seen like this.",
+        "({PRIMARY}) {SWEARING}... That's so good... I'm gonna cum... I'm gonna cum... Just a little more...",
+        "You're joined together with {ACTIVE}, and you feel a connection, as if with any other lover.",
+        "You can't believe how {BEASTLY} {ACTIVE}'s {COCK} is. You'll need to do this more often!",
+        "You think you love dog {COCK} a lot.",
+        "It's turning you on to be getting {FUCK}ed by a dog."
+    ],
+    "3rd Person": [
+        "{ACTIVE} starts to pump his {BEASTLY} {COCK} more quickly into {PRIMARY}. It feels good...",
+        "{PRIMARY} doesn't care who sees her, her head hanging back as she enjoys the feeling of {ACTIVE}'s {COCK}.",
+        "{PRIMARY} leans back, hearing and feeling the hot panting of her animal lover at her ear.",
+        "Aah... Ahhh... What is {PRIMARY} doing? What would her friends think of her, if they saw her like this?",
+        "{PRIMARY}'s cheeks burn red with {LUST}, she wants to be seen like this.",
+        "({PRIMARY}) {SWEARING}... That's so good... I'm gonna cum... I'm gonna cum... Just a little more...",
+        "{PRIMARY} is joined together with {ACTIVE}, and she feels a connection, as if with any other lover.",
+        "{PRIMARY} can't believe how {BEASTLY} {ACTIVE}'s {COCK} is. She'll need to do this more often!",
+        "{PRIMARY} thinks she loves dog {COCK} a lot.",
+        "It's turning {PRIMARY} on to be getting {FUCK}ed by a dog."
+    ]
+}

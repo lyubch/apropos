@@ -1,0 +1,46 @@
+{
+    "1st Person": [
+        "He's really trying to {BREED} me. His {COCK}'s {HUGE} inside of me and he's pouring in {CUM}.",
+        "The {ACTIVE}'s {COCK} thrashes about as he {EJACULATE}s inside of me.",
+        "As I am bred, I imagine what it would be like to be {RAP}ed by a whole group, knotted by each one.",
+        "He tenses, and I can feel the first shot fire through and splash against the back of my uterus.",
+        "I go numb, but I'm dimly aware of the {SLOW} slurping noise as {CUM} oozes steadily from my {PUSSY}.",
+        "The {BEASTLY} {COCK} is pressing up on my cervix, while {THICK} {CUM} oozes directly into me.",
+        "{SWEARING}, I can't believe this is happening. This is so wrong.",
+        "Filled with {THICK} {CUM}, I feel my {PUSSY} stretch as the rodent tries to pull its {BEASTLY} {COCK} from me.",
+        "I feel {CUM} bubbling up into my {FLESH}, a constant, pulsing reminder that I am being bred by an animal.",
+        "Having my {WTVAGINAL} {PUSSY} get {FUCK}ed and filled with {CUM} by a {ACTIVE} is just too much...",
+        "I {SCREAM} as I feel his {COCK} throb inside me, stretching my insides and {EJACULATE}ing {CUM} into me.",
+        "Ooooh... my Gods it's (gasp) it's doing it...",
+        "The animal {RAP}es me in a blur before locking into my back-end and cumming.",
+        "I {MOAN} softly as the {ACTIVE} ties with me, inseminating his bitch.",
+        "I begin to {QUIVER}, before {SCREAM}ing and {QUIVER}ing.",
+        "I can't believe I'm cumming from being {RAP}ed by an animal..."
+    ],
+    "2nd Person": [
+        "He's really trying to {BREED} you. His {COCK}'s {HUGE} inside of you and he's pouring in {CUM}.",
+        "The {ACTIVE}'s {COCK} thrashes about as he {EJACULATE}s inside of you.",
+        "As you are bred, you imagine what it would be like to be {RAP}ed by a whole group, knotted by each one.",
+        "He tenses, and you can feel the first shot fire through and splash against the back of your uterus.",
+        "You go numb, but you're dimly aware of the {SLOW} slurping noise as {CUM} oozes steadily from your {PUSSY}.",
+        "The {BEASTLY} {COCK} is pressing up on your cervix, while {THICK} {CUM} oozes directly into you.",
+        "{SWEARING}, you can't believe this is happening. This is so wrong.",
+        "Filled with {THICK} {CUM}, your {PUSSY} stretches as the rodent tries to pull its {BEASTLY} {COCK} from you.",
+        "You feel {CUM} bubbling up into your body, a constant, pulsing reminder that you are being bred by an animal.",
+        "Having your {WTVAGINAL} {PUSSY} get {FUCK}ed and filled with {CUM} by a {ACTIVE} is just too much...",
+        "You {SCREAM} as you feel his {COCK} throb inside you, stretching your insides and {EJACULATE}ing {CUM} into you.",
+        "({PRIMARY}) Ooooh... my Gods it's (gasp) it's doing it...",
+        "The animal {FUCK}s you in a blur before locking into your back-end and cumming.",
+        "You {MOAN} softly as the {ACTIVE} ties with you, inseminating his bitch.",
+        "You begin to {QUIVER}, before {SCREAM}ing and {QUIVER}ing.",
+        "You can't believe you're cumming from being {RAP}ed by an animal..."
+    ],
+    "3rd Person": [
+        "He's really trying to {BREED} {PRIMARY}. His {COCK}'s {HUGE} inside of her and he's pouring in {CUM}.",
+        "The {ACTIVE}'s {COCK} thrashes about as he {EJACULATE}s inside of {PRIMARY}.",
+        "Imagine what it would be like to be {RAP}ed by a whole group, knotted by each one.",
+        "He tenses, and the first shot fires through and splashes against the back of {PRIMARY}'s uterus.",
+        "The {BEASTLY} {COCK} is pressing up on {PRIMARY}'s cervix, while {THICK} {CUM} oozes directly into her.",
+        "{SWEARING}, is this really happening? This is so wrong."
+    ]
+}

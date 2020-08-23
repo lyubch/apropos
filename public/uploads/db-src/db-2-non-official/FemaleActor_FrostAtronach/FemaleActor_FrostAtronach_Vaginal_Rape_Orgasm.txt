@@ -1,0 +1,27 @@
+{
+    "1st Person": [
+        "The {ACTIVE} climaxes into me painfully, but with him inside me I can only thrash along his length.",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes me over the edge, and I explode into orgasm.",
+        "I'm cumming as I'm being filled up!",
+        "My muscles burning, I jerk my {ASSHOLE} backwards, fighting exhaustion to finally reach my climax.",
+        "Ugh... ahhh... no.... at this rate... it's gonna make me... {SWEARING}... nnnnnnnnnnnnn... AAAAHHHH!",
+        "{SWEARING}! Ngghhhh! Ahhh! Ahhh...!",
+        "The {ACTIVE} keeps {FUCK}ing my {PUSSY}, which prolongs my orgasm for a ridiculous length of time."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} climaxes into you painfully, but with him inside you you can only thrash along his length.",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes you over the edge, and you explode into orgasm.",
+        "You're cumming as you're being filled up!",
+        "Your muscles burning, you jerk your ass backwards, fighting exhaustion to finally reach your climax.",
+        "({PRIMARY}) Ugh... ahhh... no.... at this rate... it's gonna make me... {SWEARING}... nnnnnnn... AAAAHHHH!",
+        "({PRIMARY}) {SWEARING}! Ngghhhh! Ahhh! Ahhh...!",
+        "The {ACTIVE} keeps {FUCK}ing your {PUSSY}, which prolongs your orgasm for a ridiculous length of time."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} climaxes into {PRIMARY} painfully, but with him inside her she can only thrash along his length.",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes {PRIMARY} over the edge, and she explodes into orgasm.",
+        "{PRIMARY}'s cumming as she's filled up!",
+        "Her muscles burning, {PRIMARY} jerks her ass backwards, fighting exhaustion to finally reach her climax.",
+        "({PRIMARY}) Ugh... ahhh... no.... at this rate... it's gonna make me... {SWEARING}... nnnnnnnnn... AAAAHHHH!"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "As the beast grips my ankles and stares at my nude form, it's obvious what it wants me to do...",
+        "My heart thundering in my chest, I hold the beast's {COCK} still as I sink down onto it.",
+        "I do my best to appear sexy for this brute as I straddle its {BEAST} {PENIS}.",
+        "Oh Gods, I can't believe I'm doing this! Aahhh... Better to let it fuck me than kill me...",
+        "It's going to fuck me whether I want it to or not...",
+        "The beast's {COCK} is {BEAST}, and as thick as my arm... Ah! No way... Can I really?  Ugh! Gods, it's in, it's all in!",
+        "The beast's {BEAST} {COCK} freely leaks a steady stream of pre-cum as I slide slowly, painfully down it."        
+    ],
+    "2nd Person" :
+    [
+        "As the beast grips your ankles and stares at your nude form, it's obvious what it wants you to do...",
+        "Your heart thundering in your chest, you hold the beast's {COCK} still as you sink down onto it.",
+        "You do your best to appear sexy for this brute as you straddle its {BEAST} {PENIS}.",
+        "Oh Gods, you can't believe you're doing this! Aahhh... Better to let it fuck you than kill you...",
+        "It's going to fuck you whether you want it to or not...",
+        "The beast's {COCK} is {BEAST}, and as thick as your arm... Ah! No way... Can you really?  Ugh! Gods, it's in, it's all in!",
+        "The beast's {BEAST} {COCK} freely leaks a steady stream of pre-cum as you slide slowly, painfully down it."
+    ],
+    "3rd Person" :
+    [
+        "It's clear that {PRIMARY} is terrified, even as she does her best to appear sexy for this monster.",
+        "Oh wow, look at that brute's {COCK}! {PRIMARY} takes one look at it, before parting her legs and sinking down onto it.",
+        "{PRIMARY} is putting on such a sexy show that the {ACTIVE} just lays there as she slides down its {COCK}."
+    ]
+}

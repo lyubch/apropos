@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "I'm flattened to the ground, my legs forced together, {ACTIVE}'s {PENIS} feeling huge in my {ASS}.",
+        "My arms are pinned hard behind my back, but the pain just intensifies the feeling in my {ASS}.",
+        "I'm being treated so roughly, like a {WHORE}, but part of me likes it, likes feeling used...",
+        "{ACTIVE} starts to fuck me even harder, splitting my {WTANAL} {ASS} apart painfully.",
+        "({ACTIVE}) Are you ready, {BITCH}? Ready to show me just how nasty you can be?",
+        "I'm completely restrained, unable to move, unable to do anything other than take this furious punishment.",
+        "Fuck me {ACTIVE}... fuck me whenever you want! I'm yours! I'm your... uhhh yes... I'm your little {WHORE}!",
+        "Oh Gods!! More! Harder! Faster! Treat me like your personal {WHORE}, do what you want with me!!! Yes!",
+        "My legs are spread wide, with my {FAROUSAL} {PUSSY} dripping onto the ground as my {ASS} is fucked.",
+        "He fucks my {ASS} using long deep hard strokes, slamming painfully into my {WTANAL} opening.",
+        "Yes! Drive it up my {ASS}! I'm gonna cum!",
+        "({ACTIVE}) I'm owning your {ASS} like a whore's, and the harder I fuck, the harder you seem to cum!",
+        "({ACTIVE}) Are you gonna be a good little {BITCH}, and suck your {ASS} from my {COCK}?"        
+    ],
+    "2nd Person" :
+    [
+        "You're flattened to the ground, your legs forced together, {ACTIVE}'s {PENIS} feeling huge in your {ASS}.",
+        "Your arms are pinned hard behind your back, but the pain just intensifies the feeling in your {ASS}.",
+        "You're being treated so roughly, like a {WHORE}, but part of you likes it, likes feeling used...",
+        "{ACTIVE} starts to fuck you even harder, splitting your {WTANAL} {ASS} apart painfully.",
+        "({ACTIVE}) Are you ready, {BITCH}? Ready to show me just how nasty you can be?",
+        "You're completely restrained, unable to move, unable to do anything other than take this furious punishment.",
+        "({PRIMARY}) Fuck me {ACTIVE}... whenever you want! I'm yours! I'm your... uhhh yes... I'm your little {WHORE}!",
+        "({PRIMARY}) Oh Gods!! Harder! Faster! Treat me like your personal {WHORE}, do what you want with me!!! Yes!",
+        "Your legs are spread wide, with your {FAROUSAL} {PUSSY} dripping onto the ground as your {ASS} is fucked.",
+        "He fucks your {ASS} using long deep hard strokes, slamming painfully into your {WTANAL} opening.",
+        "({PRIMARY}) Yes! Drive it up my {ASS}! I'm gonna cum!",
+        "({ACTIVE}) I'm owning your {ASS} like a whore's, and the harder I fuck, the harder you seem to cum!",
+        "({ACTIVE}) Are you gonna be a good little {BITCH}, and suck your {ASS} from my {COCK}?"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is lying in filth, her {ASS} being fucked hard by {ACTIVE}, and she seems to be loving it!",
+        "{ACTIVE} holds {PRIMARY}'s arms behind her back, yanking on them each time he drives hard into her.",
+        "It's unbelievable that {PRIMARY} is letting that man treat her that way...",
+        "The look on {PRIMARY}'s face says volumes as he drives his {PENIS} all the way inside her."      
+    ]
+}

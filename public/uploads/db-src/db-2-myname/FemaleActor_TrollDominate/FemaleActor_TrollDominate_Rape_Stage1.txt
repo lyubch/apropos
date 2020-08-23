@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "Yanking me upside down by my ankle, the beast wastes no time in sinking its {BEAST} {PENIS} into my {PUSSY}.",
+        "I try with all my strength to push the brute off me, grunting as it sinks its {COCK} into my upturned body.",
+        "Upturned, one arm pinned to the ground, I can only watch in horror as the beast's {COCK} splits me open.",
+        "The huge brute pins me to the ground, with a clear intent to have its way, sinking its {COCK} down into my {PUSSY}.",
+        "Pinning me to the ground with one huge hand, it spreads me wide open with the other.",
+        "I'm paralyzed with fear as the {ACTIVE} descends on me, feeling sick at what is happening."        
+    ],
+    "2nd Person" :
+    [
+        "Yanking you upside down by your ankle, the beast wastes no time in sinking its {BEAST} {PENIS} into your {PUSSY}.",
+        "You try with all your strength to push the brute off you, grunting as it sinks its {COCK} into your upturned body.",
+        "Upturned, one arm pinned to the ground, you can only watch in horror as the beast's {COCK} splits you open.",
+        "The huge brute pins you to the ground, with a clear intent to have its way, sinking its {COCK} down into your {PUSSY}.",
+        "Pinning you to the ground with one huge hand, it spreads you wide open with the other.",
+        "I'm paralyzed with fear as the {ACTIVE} descends on me, feeling sick at what is happening."
+    ],
+    "3rd Person" :
+    [
+        "Yanking her upside down by her ankle, the beast wastes no time in sinking its {BEAST} {PENIS} into {PRIMARY}'s {PUSSY}.",
+        "The huge brute pins {PRIMARY} to the ground, with a clear intent to have its way, sinking its {COCK} down into her {PUSSY}.",
+        "Pinning her to the ground with one huge hand, it spreads {PRIMARY} wide open with the other."        
+    ]
+}

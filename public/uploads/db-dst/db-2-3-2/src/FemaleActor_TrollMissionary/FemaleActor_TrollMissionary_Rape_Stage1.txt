@@ -1,0 +1,25 @@
+{
+    "1st Person": [
+        "I desperately try to push the {ACTIVE} off me, feeling my body weaken with every deep thrust between my legs.",
+        "The {ACTIVE} starts to {FUCK} me, its {BEASTLY} {COCK} thrusting {SLOW}ly into me, but terrifyingly deep.",
+        "Even though its {COCK} is inside me, it's the monster's terrifying maw that scares me the most.",
+        "My heart is racing, I can't escape! This {ACTIVE} can do whatever it wants to me.",
+        "I let out a {LEWD} {SCREAM} as my {WTVAGINAL} {PUSSY} is {RAP}ed on the {MONSTER}'s {COCK}.",
+        "The {ACTIVE} {ROUGH}ly forces my legs apart and thrusts its {COCK} into my {PUSSY}.",
+        "I'm bruised and {NUDE}, being {ROUGH}ly {RAP}ed by a {MONSTER}. Then why am I {FAROUSAL}?"
+    ],
+    "2nd Person": [
+        "You desperately try to push the {ACTIVE} off you, feeling your body weaken with every deep thrust between your legs.",
+        "The {ACTIVE} starts to {FUCK} you, its {BEASTLY} {COCK} thrusting {SLOW}ly into you, but terrifyingly deep.",
+        "Even though its {COCK} is inside you, it's the monster's terrifying maw that scares you the most.",
+        "Your heart is racing, you can't escape! This {ACTIVE} can do whatever it wants to you.",
+        "You let out a {LEWD} {SCREAM} as your {WTVAGINAL} {PUSSY} is {RAP}ed on the {MONSTER}'s {COCK}.",
+        "The {ACTIVE} {ROUGH}ly forces your legs apart and thrusts its {COCK} into your {PUSSY}.",
+        "You're bruised and {NUDE}, being {ROUGH}ly {RAP}ed by a {MONSTER}. Then why are you {FAROUSAL}?"
+    ],
+    "3rd Person": [
+        "The {ACTIVE} starts to {FUCK} {PRIMARY}, its {BEASTLY} {COCK} thrusting {SLOW}ly into her, but terrifyingly deep.",
+        "{PRIMARY} lets out a {LEWD} {SCREAM} as her {WTVAGINAL} {PUSSY} is {RAP}ed on the {MONSTER}'s {COCK}.",
+        "The {ACTIVE} {ROUGH}ly forces {PRIMARY}'s legs apart and thrusts its {COCK} into her {PUSSY}."
+    ]
+}

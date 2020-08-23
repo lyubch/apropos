@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "{ACTIVE} forces its cock inside my {MOUTH}.",
+        "I cry out in pain as {ACTIVE} jams its cock inside my {MOUTH}.",
+        "Unable to fight back any longer, {ACTIVE} inserts its cock inside my {MOUTH}.",
+        "By the Divines! My {MOUTH} is being violated!"
+    ],
+    "2nd Person": [
+        "{ACTIVE} forces its cock inside your {MOUTH}.",
+        "You cry out in pain as {ACTIVE} jams its cock inside your {MOUTH}.",
+        "Unable to fight back any longer, {ACTIVE} inserts its cock inside your {MOUTH}.",
+        "By the Divines! Your {MOUTH} is being violated!"
+    ],
+    "3rd Person": [
+        "{ACTIVE} forces its cock inside {PRIMARY}'s {MOUTH}.",
+        "{PRIMARY} cries out in pain as {ACTIVE} inserts its cock inside her {MOUTH}.",
+        "Unable to fight back any longer, {ACTIVE} jams its cock inside {PRIMARY}'s {MOUTH}.",
+        "By the Divines! {PRIMARY}'s {MOUTH} is being violated!"
+    ]
+}

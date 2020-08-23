@@ -1,0 +1,63 @@
+{
+    "1st Person" :
+    [
+        "My hands and neck are held tight, I'm completely at the mercy of these perverted bastards...",
+        "I struggle vainly, but I know there's no escape. They can do whatever they want to me.",
+        "I feel hands roughly groping and stroking my exposed backside. I start to feel afraid...",
+        "I can't be sure exactly who is behind me, but their {COCK} is {MAROUSAL}. Oh Gods, no...",
+        "I'm trembling with fear, but the anticipation and the helplessness starts to make me wet.",
+        "That was definitely a {COCK} I just felt! Oh Gods no! I'm going to get fucked!",
+        "He's going to fuck me, and there's not a god-damned thing I can do to stop him...",
+        "I feel so vulnerable, and so turned on. I hope he takes me...",
+        "Nakedness intensifies my vulnerability, and my lips tremble in forced submissiveness and desire.",
+        "I can't move, my wrists and head held tight by the stocks. All I can do is struggle at every touch.",
+        "I'm completely exposed and helpless, he can do anything he wants to me and I can't stop him...",
+        "Oh my... what is that I'm feeling at my backside? Oh Gods, I'm going to get fucked...",
+        "The anticipation and not knowing is maddening, and my {PUSSY} aches at every stroke and grope.",
+        "I can't see what's going on behind me, can't even be sure who it is... All I know is that he's hard...",
+        "Someone's touching me from behind... Who is it? Oh Gods, what if it's a stranger...",
+        "I can't wait any longer! I want your {PENIS} inside me! Ram it into my {PUSSY}! Hard!",
+        "I want you to fuck me, screw me like a whore... you know you want me... so what are you waiting for?",
+        "I shiver, exposed and naked, my {FAROUSAL} {PUSSY} on display.",
+        "My {FAROUSAL} {PUSSY} is on display, lips parted, ready to be fucked.",
+        "Hurry up! You can put it in me right now!",
+        "Breathlessly, I fidget in my bonds, my whole body shaking in anticipation.",
+        "I'm totally naked! They can see everything; my stomach, my {BOOBS}, my {PUSSY}, everything!"
+    ],
+    "2nd Person" :
+    [
+        "Your hands and neck are held tight, you're completely at the mercy of these perverted bastards...",
+        "You struggle vainly, but you know there's no escape. They can do whatever they want to you.",
+        "You feel hands roughly groping and stroking your exposed backside. You start to feel afraid...",
+        "You can't be sure exactly who is behind you, but their {COCK} is {MAROUSAL}. Oh Gods, no...",
+        "You're trembling with fear, but the anticipation and the helplessness starts to make you wet.",
+        "That was definitely a {COCK} you just felt! Oh Gods no! You're going to get fucked!",
+        "He's going to fuck you, and there's not a god-damned thing you can do to stop him...",
+        "You feel so vulnerable, and so turned on. You hope he takes you...",
+        "Nakedness intensifies your vulnerability, and your lips tremble in forced submissiveness and desire.",
+        "You can't move, your wrists and head held tight by the stocks. All you can do is struggle at every touch.",
+        "You're completely exposed and helpless, he can do anything he wants to you and you can't stop him...",
+        "Oh my... what is that you're feeling at your backside? Oh Gods, you're going to get fucked...",
+        "The anticipation and not knowing is maddening, and your {PUSSY} aches at every stroke and grope.",
+        "You can't see what's going on behind you, can't even be sure who it is... All you know is that he's hard...",
+        "Someone's touching you from behind... Who is it? Oh Gods, what if it's a stranger...",
+        "({PRIMARY}) I can't wait any longer! I want your {PENIS} inside me! Ram it into my {PUSSY}! Hard!",
+        "({PRIMARY}) I want you to fuck me, screw me like a whore... you know you want me... what are you waiting for?",
+        "You shiver, exposed and naked, your {FAROUSAL} {PUSSY} on display.",
+        "Your {FAROUSAL} {PUSSY} is on display, lips parted, ready to be fucked.",
+        "({PRIMARY}) Hurry up! You can put it in me right now!",
+        "Breathlessly, you fidget in your bonds, your whole body shaking in anticipation.",
+        "You're totally naked! They can see everything; your stomach, your {BOOBS}, your {PUSSY}, everything!"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE}'s {PENIS} is {MAROUSAL}, and there's nothing {PRIMARY} can do to stop him fucking her.",
+        "{PRIMARY} is tightly bound, and completely helpless. Those perverted bastards are going rape her.",
+        "{PRIMARY} is locked up and exposed, just a helpless {BITCH} for their sick minds.",
+        "It's sickening that {PRIMARY} is trussed up like that, {ACTIVE} is such a disgusting bastard!",
+        "{PRIMARY} is held tight by the stocks, and can only wriggle as {ACTIVE} gropes her.",
+        "{PRIMARY} is completely helpless, anyone could do anything to her! Is {ACTIVE} going to fuck her?",
+        "Does {PRIMARY} even know that it's {ACTIVE} behind her, touching her like that?",
+        "{ACTIVE}'s {PENIS} is {FAROUSAL}, and {PRIMARY} recoils every time it touches her ass."
+    ]
+}

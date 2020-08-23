@@ -1,0 +1,43 @@
+{
+    "1st Person": [
+        "I feel every pulsing vein of its {COCK} pulling on my {PUSSY} as it thrusts in and out me.",
+        "The {BEAST} {COCK} plunges deep into me, sinking into my tight body as I stretch around its girth.",
+        "I look down in shock. I can see the outline of the {ACTIVE}'s {COCK} on the skin of my belly.",
+        "I push out my tingling {BOOBS}, stretching my {QUIVERING} legs and spreading my toes.",
+        "I moan loudly and lewdly with each thrust, hips squeezing around the demon-{COCK}.",
+        "I relish the feeling of hardness from the monster's stone {COCK}.",
+        "Uurgrghh my god!! Ohhhh yes... yes!!! More!!! I'm just a slut for monster cock!",
+        "Fuck me you big monster! Stick your big monster {COCK} all the way in me.... uuuuuurrrrrghhh! YES!!",
+        "My thoughts are violently scattered as I am fucked silly.",
+        "The {ACTIVE}'s last thrust almost makes me pass out.",
+        "I'm giving myself to a monster, willingly taking an {BEAST} {COCK}, and I'm about to cum hard...",
+        "I buck on the stone {COCK}, and I'm about to cum hard..."
+    ],
+    "2nd Person": [
+        "You feel every pulsing vein of its {COCK} pulling on your {PUSSY} as it thrusts in and out you.",
+        "The {BEAST} {COCK} plunges deep into you, sinking into your tight body as you stretch around its girth.",
+        "You look down in shock. You can see the outline of the {ACTIVE}'s {COCK} on the skin of your belly.",
+        "You push out your tingling {BOOBS}, stretching your {QUIVERING} legs and spreading your toes.",
+        "You moan loudly and lewdly with each thrust, hips squeezing around the demon-{COCK}.",
+        "You relish the feeling of hardness from the monster's stone {COCK}.",
+        "({PRIMARY}) Uurgrghh my Gods!! Ohhhh yes... yes!!! More!!! I'm just a slut for monster cock!",
+        "({PRIMARY}) Fuck me you big monster! Stick your big monster {COCK} all the way in me.... ugh! YES!!",
+        "Your thoughts are violently scattered as you are fucked silly.",
+        "The {ACTIVE}'s last thrust almost makes you pass out.",
+        "You're giving yourself to a monster, willingly taking an {BEAST} {COCK}, and you're about to cum hard...",
+        "You buck on the stone {COCK}, and you're about to cum hard..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} must feel every pulsing vein of its {COCK} pulling on her {PUSSY} as it thrusts in and out her.",
+        "The {BEAST} {COCK} plunges deep into {PRIMARY}, sinking into her tight body, stretching around its girth.",
+        "{PRIMARY} looks down in shock. The outline of the {ACTIVE}'s {COCK} can be soon on her belly!",
+        "{PRIMARY} pushes out her {BOOBS}, stretches her {QUIVERING} legs and spreads her toes.",
+        "{PRIMARY} moans loudly and lewdly with each thrust, hips squeezing around the demon-{COCK}.",
+        "{PRIMARY} seems to relish the feeling of hardness from the monster's stone {COCK}.",
+        "({PRIMARY}) Uurgrghh her god!! Ohhhh yes... yes!!! More!!! I'm just a slut for monster cock!",
+        "({PRIMARY}) Fuck me you big monster! Stick your big monster {COCK} all the way in me.... uuuurrrghhh! YES!!",
+        "The {ACTIVE}'s last thrust might have made her pass out...",
+        "{PRIMARY}'s giving herself to a monster, willingly taking an {BEAST} {COCK}, and is about to cum hard...",
+        "{PRIMARY} bucks on the stone {COCK}, and is about to cum hard..."
+    ]
+}

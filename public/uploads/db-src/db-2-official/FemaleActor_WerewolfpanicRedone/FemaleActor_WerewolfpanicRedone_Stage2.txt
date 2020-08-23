@@ -1,0 +1,39 @@
+{
+    "1st Person" :
+    [
+        "I'm pushed to the ground, onto my knees, the {ACTIVE}'s {BEAST} {PENIS} still hammering into my {ASS}.",
+        "The thrusts are hard, making my body jolt every time the {PENIS} pushes into my {WTANAL} {ASS}.",
+        "The {ACTIVE} fucks me with jerky, sudden thrusts, the {BEAST} knot slapping into my {WTANAL} {ASS} each time.",
+        "I moan, feeling the full length of the {BEAST} {PENIS} thrusting back and forth in me, right to the knot.",
+        "Fuck me slow and hard, baby. I want you to fuck me deep, please! I was begging him.",
+        "Fuck my {ASS}! I want your {CUM} inside all my holes!",
+        "He gives one more pump, just to make sure I have every inch of his {PENIS} firmly seated in me.",
+        "The {COCK} firmly embedded between my cheeks pushes deeper.",
+        "I feel myself clench around the {PENIS} embedded inside my hips.",
+        "I tense as he enters me and gasp as he withdraws, only to let out a moan as he thrusts into me again.",
+        "I scream in pain as his {BEAST} {PENIS} stretches my {WTANAL} {ASS}.",
+        "Ugh... Ahh! I wonder...Nghh! how long this... this thing can last..."        
+    ],
+    "2nd Person" :
+    [
+        "You're pushed to the ground, onto your knees, the {ACTIVE}'s {BEAST} {PENIS} still hammering into your {ASS}.",
+        "The thrusts are hard, making your body jolt every tiyou the {PENIS} pushes into your {WTANAL} {ASS}.",
+        "The {ACTIVE} fucks you with jerky, sudden thrusts, the {BEAST} knot slapping into your {WTANAL} {ASS} each time.",
+        "You moan, feeling the full length of the {BEAST} {PENIS} thrusting back and forth in you, right to the knot.",
+        "({PRIMARY}) Fuck me slow and hard, baby. I want you to fuck me deep, please!",
+        "({PRIMARY}) Fuck my {ASS}! I want your {CUM} inside all my holes!",
+        "He gives one more pump, just to make sure you have every inch of his {PENIS} firmly seated in you.",
+        "The {COCK} firmly embedded between your cheeks pushes deeper.",
+        "You feel yourself clench around the {PENIS} embedded inside your hips.",
+        "You tense as he enters you and gasp as he withdraws, only to let out a moan as he thrusts into you again.",
+        "You scream in pain as his {BEAST} {PENIS} stretches your {WTANAL} {ASS}.",
+        "Ugh... Ahh! You wonder...Nghh! how long this... this thing can last..."
+    ],
+    "3rd Person" :
+    [
+        "The thrusts are hard, making {PRIMARY}'s body jolt every time the {PENIS} pushes into her {WTANAL} {ASS}.",
+        "The {ACTIVE} fucks {PRIMARY} with jerky, sudden thrusts, the {BEAST} knot slapping into her {WTANAL} {ASS}.",
+        "Even though {PRIMARY} soon collapses to the ground, the {ACTIVE} never stops fucking her.",
+        "Look at the size of the knot! There's no way that will fit into {PRIMARY}'s {ASS}..."
+    ]
+}

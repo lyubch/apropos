@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I hook my knees around the {MONSTER}'s hips, and begin to {JIGGL}e on its {COCK}, eager to please it.",
+        "I try not to look down at the rows of vicious teeth so close to my {BOOBS} as I ride the monster's {BEASTLY} {COCK}.",
+        "Hot, rank breath and spittle makes my nipples hard while more and more of its {COCK} slips inside me.",
+        "So it's true! Trolls like to {FUCK} human girls...",
+        "The odor is incredibly {SALTY}, its musk is as thick as the {ACTIVE}'s {COCK} itself.",
+        "The stench of the {MONSTER} fills my lungs as the {MONSTER}'s {BEASTLY} {COCK} fills my {PUSSY}." 
+    ],
+    "2nd Person" :
+    [
+        "You hook your knees around the {MONSTER}'s hips, and begin to {JIGGL}e on its {COCK}, eager to please it.",
+        "You try not to look down at the rows of vicious teeth so close to your {BOOBS} as you ride the monster's {BEASTLY} {COCK}.",
+        "Hot, rank breath and spittle makes your nipples hard while more and more of its {COCK} slips inside you.",
+        "So it's true! Trolls like to {FUCK} human girls...",
+        "The odor is incredibly {SALTY}, its musk is as thick as the {ACTIVE}'s {COCK} itself.",
+        "The stench of the {MONSTER} fills your lungs as the {MONSTER}'s {BEASTLY} {COCK} fills your {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "Hooking her knees around the {MONSTER}'s hips, {PRIMARY} begins to {JIGGL}e on its {COCK}. Is she trying to please it?",
+        "{PRIMARY} looks away from the rows of vicious teeth so close to her {BOOBS} as she rides the monster's {BEASTLY} {COCK}.",
+        "{PRIMARY} {JIGGL}es heavily on the {MONSTER}'s {COCK}, {MOAN}ing as she does so."
+    ]
+}

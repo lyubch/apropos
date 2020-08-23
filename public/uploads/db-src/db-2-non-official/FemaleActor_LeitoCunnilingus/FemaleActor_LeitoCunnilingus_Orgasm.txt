@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "My {FLESH} {JIGGL}es {ROUGH}ly, driven to one thunderous climax after another.",
+        "I feel my breath catch in my chest, and my heart pounds so hard I think I'm going to die.",
+        "My {FLESH} tenses, my thighs locked around {ACTIVE}'s head as I'm licked to orgasm.",
+        "I grab on tight to {ACTIVE}'s knees as I feel a thunderous orgasm rip through me.",
+        "Upside down like this, all the blood in my head, I'm sure I black out for a moment as I cum hard.",
+        "When {ACTIVE} finally stops, my arms and legs hang {SUBMISSIVE}, and sweat drips from my {FLESH} as I lie there {MOAN}ing.",
+        "{PLEADING}... ahh... ahh... no more... I can't take any more... One more orgasm and I'll pass out..."
+    ],
+    "2nd Person": [
+        "Your {FLESH} {JIGGL}es {ROUGH}ly, driven to one thunderous climax after another.",
+        "You feel your breath catch in your chest, and your heart pounds so hard you think you're going to die.",
+        "Your {FLESH} tenses, your thighs locked around {ACTIVE}'s head as you're licked to orgasm.",
+        "You grab on tight to {ACTIVE}'s knees as you feel a thunderous orgasm rip through you.",
+        "Upside down like this, all the blood in your head, you're sure you black out for a moment as you cum hard.",
+        "When {ACTIVE} finally stops, your arms and legs hang {SUBMISSIVE}, and sweat drips from your {FLESH} as you lie there {MOAN}ing.",
+        "({PRIMARY}) {PLEADING}... ahh... ahh... no more... I can't take any more... One more orgasm and I'll pass out..."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s {FLESH} {JIGGL}es {ROUGH}ly, driven to one thunderous climax after another.",
+        "{PRIMARY} feels her breath catch in her chest, and her heart pounds so hard she thinks she's going to die.",
+        "{PRIMARY}'s {FLESH} tenses, her thighs locked around {ACTIVE}'s head as she's licked to orgasm.",
+        "{PRIMARY} grabs on tight to {ACTIVE}'s knees as she feels a thunderous orgasm rip through her.",
+        "Upside down like this, all the blood in her head, {PRIMARY} is sure she blacks out for a moment as she cums hard.",
+        "When {ACTIVE} finally stops, {PRIMARY}'s arms and legs hang {SUBMISSIVE}, and sweat drips from her {FLESH} as she lies there panting.",
+        "({PRIMARY}) {PLEADING}... ahh... ahh... no more... I can't take any more... One more orgasm and I'll pass out..."
+    ]
+}

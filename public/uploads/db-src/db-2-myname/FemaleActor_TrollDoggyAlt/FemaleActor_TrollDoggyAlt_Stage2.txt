@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I moan into the ground as the brute fucks me, deep and fast into my {FAROUSAL} {PUSSY}.",
+        "I pant and moan into the dirt, overjoyed by the monster's vigorous assault. This brute is going to make me cum!",
+        "Nghhh! I can already feel the {BEAST} {COCK} hammering at my womb, and part of me wants to take him all the way inside.",
+        "I watch in fascination as the bulge inches up from my groin towards my stomach.",
+        "That arousing, vulnerable abandon of submitting to such a brute, to be fucked like an animal...",
+        "Between my spread legs I see oversized balls slapping into me heavily. I can't wait to empty them!"        
+    ],
+    "2nd Person" :
+    [
+        "You moan into the ground as the brute fucks you, deep and fast into your {FAROUSAL} {PUSSY}.",
+        "You pant and moan into the dirt, overjoyed by the monster's vigorous assault. This brute is going to make you cum!",
+        "Nghhh! You can already feel the {BEAST} {COCK} hammering at your womb, and part of you wants to take him all the way inside.",
+        "You watch in fascination as the bulge inches up from your groin towards your stomach.",
+        "That arousing, vulnerable abandon of submitting to such a brute, to be fucked like an animal...",
+        "Between your spread legs you see oversized balls slapping into you heavily. You can't wait to empty them!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} moans into the ground as the brute fucks her, deep and fast into her poor {PUSSY}.",
+        "The monster shows no mercy, and begins to fuck {PRIMARY} murderously as she groans into the dirt.",
+        "{PRIMARY} pants into the ground as the huge beast starts to fuck even deeper into her."
+    ]
+}

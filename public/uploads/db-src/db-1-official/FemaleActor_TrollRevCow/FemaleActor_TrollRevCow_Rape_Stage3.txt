@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "I shriek as the beast takes me by the legs, afraid for my life. I'm relieved when it starts sliding me up and down.",
+        "As the brute takes control, I slump forward. The sheer thickness of the beast's {COCK} has me exhausted already.",
+        "Perhaps unsatisfied with my efforts, the brute grabs my legs and roughly pulls me up and down his {BEAST} {PENIS}.",
+        "This beast knows exactly what to do, where to hit inside me... Has it fucked girls before?",
+        "The {ACTIVE} is so big and strong, I can't help but get turned on by being taken this way."  
+    ],
+    "2nd Person" :
+    [
+        "You shriek as the beast takes you by the legs, afraid for your life. You're relieved when it starts sliding you up and down.",
+        "As the brute takes control, you slump forward. The sheer thickness of the beast's {COCK} has you exhausted already.",
+        "Perhaps unsatisfied with your efforts, the brute grabs your legs and roughly pulls you up and down his {BEAST} {PENIS}.",
+        "This beast knows exactly what to do, where to hit inside you... Has it fucked girls before?",
+        "The {ACTIVE} is so big and strong, you can't help but get turned on by being taken this way."
+    ],
+    "3rd Person" :
+    [
+        "As the brute takes control, {PRIMARY} slumps forward. The sheer thickness of the beast's {COCK} has her exhausted already.",
+        "Perhaps unsatisfied with her efforts, the brute grabs {PRIMARY}'s legs and roughly pulls her up and down his {BEAST} {PENIS}.",
+        "The {ACTIVE} is so big and strong, it's such a turn on seeing a girl being taken this way."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "AHHHH! Two {BEAST} fingers push up inside me, and I climax instantly.",
+        "Orgasms shudder through me as two {BEAST} fingers, bigger than a {COCK}, fuck me steadily.",
+        "Oh Gods! Yes! I can't believe I'm taking two fingers at once! Maybe I should try two human cocks at once...",
+        "I feel so full, fucked deeply by the {ACTIVE}'s fingers. I wish he'd stick another in my {ASS}...",
+        "Mmmm.... I think I'm ready for your {COCK} now!",
+        "Slowly pumping on the {ACTIVE}'s hand, I gaze down at its {BEAST} {COCK}, a weak smile at my lips."
+    ],
+    "2nd Person" :
+    [
+        "AHHHH! Two {BEAST} fingers push up inside you, and I climax instantly.",
+        "Orgasms shudder through you as two {BEAST} fingers, bigger than a {COCK}, fuck you steadily.",
+        "Oh Gods! Yes! You can't believe you're taking two fingers at once! Maybe you should try two human cocks at once...",
+        "You feel so full, fucked deeply by the {ACTIVE}'s fingers. You wish he'd stick another in your {ASS}...",
+        "({PRIMARY}) Mmmm.... I think I'm ready for your {COCK} now!",
+        "Slowly pumping on the {ACTIVE}'s hand, you gaze down at its {BEAST} {COCK}, a weak smile at your lips."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} cums hard, her body hanging limp as the {ACTIVE} finger fucks her.",
+        "Oh my... {CREAM} is flowing down {PRIMARY}'s legs. She must have cum pretty hard.",
+        "{PRIMARY} looks like she's enjoying that... What a {WHORE}!"
+    ]
+}

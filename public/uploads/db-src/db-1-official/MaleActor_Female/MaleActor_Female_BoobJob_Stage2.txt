@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "{PRIMARY} bites her lip as she watches my {COCK}. She looks hungry.",
+        "({PRIMARY}) You have such a beautiful {COCK}... Could you fuck me with it next?",
+        "{PRIMARY}'s chest is flushed and her nipples are rock hard. I bet she's wet, too."
+    ],
+    "2nd Person": [
+        "{PRIMARY} bites her lip as she watches your {COCK}. She looks hungry.",
+        "({PRIMARY}) You have such a beautiful {COCK}... Could you fuck me with it next?",
+        "{PRIMARY}'s chest is flushed and her nipples are rock hard. You bet she's wet, too."
+    ],
+    "3rd Person": [
+        "({ACTIVE}) I saw you, shaking your ass out there, trying to get guys to fuck you. You're such a {WHORE}.",
+        "{ACTIVE} can see everything; {PRIMARY}'s {BOOBS}, her flat stomach, her {PUSSY}.",
+        "Naked and pushing her {BOOBS} out, all of {PRIMARY}'s feminine charms are completely exposed.",
+        "({PRIMARY}) You love it when I show off my {HEAVING} {BOOBS} to other guys, don't you {ACTIVE}?",
+        "{PRIMARY} smiles sweetly while gripping her {BOOBS}, giving her a sensual, confident look.",
+        "The thought of just being used as some guy's {WHORE} is such a turn on.",
+        "{PRIMARY}'s chest is already flushed from the naughtiness of such a submissive act."
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "My face is pushed into the ground, my cheek in the dirt, the {ACTIVE} still gripping my neck.",
+        "Face in the dirt, {BUTTOCKS} in the air, and a monster's {COCK} in my {ASSHOLE}... I'm such a {BITCH}...",
+        "The {QUICK} pace is making a wet squelching noise as the knot slaps against my {ASSHOLE}.",
+        "I feel my {WTANAL} {ASSHOLE} give way a little every time, and I wait for the knot to penetrate me.",
+        "My heart thunders in my chest. I'm about to have a monster {EJACULATE} in my {ASSHOLE}...",
+        "Ohh yeah, that's it! Drive it in all the way!",
+        "I want to feel the {MONSTER} {CUM} inside me.",
+        "I {MOAN} in {LUST} as the {MONSTER} {RAP}es me again and again.",
+        "Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "Moaning as waves of orgasm roll over me, tears streaming down my face, I continue to cum.",
+        "Frantic with {LUST} and sexual energy, the {ACTIVE} is building towards something in a hurry...",
+        "Being {FUCK}ed this hard in the {ASSHOLE} is going to hurt later, but right now, I want it...",
+        "Ah... ah... come on... show this {NUDE} human {BITCH}... what an {ANIMAL} you are! Fuck me! Fuck my {ASSHOLE}!"        
+    ],
+    "2nd Person" :
+    [
+        "Your face is pushed into the ground, your cheek in the dirt, the {ACTIVE} still gripping your neck.",
+        "Face in the dirt, {BUTTOCKS} in the air, and a monster's {COCK} in your {ASSHOLE}... You're such a {BITCH}...",
+        "The {QUICK} pace is making a wet squelching noise as the knot slaps against your {ASSHOLE}.",
+        "You feel your {WTANAL} {ASSHOLE} give way a little every time, and you wait for the knot to penetrate you.",
+        "Your heart thunders in your chest. You're about to have a monster {EJACULATE} in your {ASSHOLE}...",
+        "({PRIMARY}) Ohh yeah, that's it! Drive it in all the way!",
+        "You want to feel the {MONSTER} {CUM} inside you.",
+        "You {MOAN} in {LUST} as the {MONSTER} {RAP}es you again and again.",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "Moaning as waves of orgasm roll over you, tears streaming down your face, you continue to cum.",
+        "Frantic with {LUST} and sexual energy, the {ACTIVE} is building towards something in a hurry...",
+        "Being {FUCK}ed this hard in the {ASSHOLE} is going to hurt later, but right now, you want it...",
+        "({PRIMARY}) Ah... come on... show this {NUDE} human {BITCH}... what an {ANIMAL} you are! Fuck me! Fuck my {ASSHOLE}!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s face is pushed into the ground, her cheek in the dirt, the {ACTIVE} still gripping her neck.",
+        "Face in the dirt, {BUTTOCKS} in the air, and a monster's {COCK} in her {ASSHOLE}... {PRIMARY}'s such a {BITCH}...",
+        "The {QUICK} pace is making a wet squelching noise as the knot slaps against {PRIMARY}'s {ASSHOLE}.",
+        "The tension is maddening, any moment that {BEASTLY} knot is going to be inside {PRIMARY}..."
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "Even though it felt good, I'm relieved when the {ACTIVE} slows down and starts {CUMMING} into my {WTVAGINAL} {PUSSY}.",
+        "My heart is in my throat as I feel every deep pump down into the {ACTIVE}'s {BEAST} {PENIS}.",
+        "The pain of the {ACTIVE} {CUMMING} is intense, and I scream. Turn my womb inside out!",
+        "I swoon, my belly swelling as the {ACTIVE}'s orgasm fills me with an unnatural quantity of {CUM}.",
+        "The {ACTIVE}'s load is released from my {PUSSY} in a cascade of {THICK} white {CUM}.",
+        "My {PUSSY} is too small to take so much {CUM}, and it rushes like a waterfall down my legs.",
+        "I'm positive I can feel my stomach start to bloat from the mass of {CUM} building up inside of me.",
+        "My belly begins to swell and bulge as the {ACTIVE} pumps litres of {CUM} into me.",
+        "Each pulsing blast of {CUM} is answered by a matching torrent of {CUM} that sprays from my {PUSSY}.",
+        "So much {CUM} is flowing from me, down my legs and off my feet, puddling on the ground.",
+        "I groan as gallons of {CUM} pour into me. How much more {CUM} do I have to take?",
+        "I feel my womb swell with the volume of {CUM}, the excess dribbling out and spilling on the ground.",
+        "A new sensation as the creature lets out a groan, {CUMMING} directly into my womb."  
+    ],
+    "2nd Person" :
+    [
+        "Even though it felt good, you're relieved when the {ACTIVE} slows down and cums into your {WTVAGINAL} {PUSSY}.",
+        "Your heart is in your throat as you feel every deep pump down into the {ACTIVE}'s {BEAST} {PENIS}.",
+        "The pain of the {ACTIVE} {CUMMING} is intense, and you scream.",
+        "You swoon, your belly swelling as the {ACTIVE}'s orgasm fills you with an unnatural quantity of {CUM}.",
+        "The {ACTIVE}'s load is released from your {PUSSY} in a cascade of {THICK} white {CUM}.",
+        "Your {PUSSY} is too small to take so much {CUM}, and it rushes like a waterfall down your legs.",
+        "You're positive you can feel your stomach start to bloat from the mass of {CUM} building up inside of you.",
+        "Your belly begins to swell and bulge as the {ACTIVE} pumps litres of {CUM} into you.",
+        "Each pulsing blast of {CUM} is answered by a matching torrent of {CUM} that sprays from your {PUSSY}.",
+        "So much {CUM} is flowing from you, down your legs and off your feet, puddling on the ground.",
+        "You groan as gallons of {CUM} pour into you. How much more {CUM} do you have to take?",
+        "You feel your womb swell with the volume of {CUM}, the excess dribbling out and spilling on the ground.",
+        "A new sensation as the creature lets out a groan, {CUMMING} directly into your womb."
+    ],
+    "3rd Person" :
+    [
+        "Relief seems to wash over {PRIMARY}'s face as the {ACTIVE} begins to cum.",
+        "{PRIMARY} groans as the {ACTIVE} starts to ejaculate inside her, excess {CUM} dripping down her legs.",
+        "{PRIMARY} leans back and moans, cumming together with the {ACTIVE}."
+    ]
+}

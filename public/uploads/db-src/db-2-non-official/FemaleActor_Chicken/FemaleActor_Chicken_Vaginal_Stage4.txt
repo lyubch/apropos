@@ -1,0 +1,27 @@
+{
+    "1st Person": [
+        "{ACTIVE} starts to {FUCK} me even faster now, and I can feel the start of my orgasm stirring.",
+        "I burn with shame and {LUST}, I can't believe I'm being {FUCK}ed this hard by a {ACTIVE}.",
+        "I wonder what it would feel like in my {ASSHOLE}? I'll need to try that sometime.",
+        "Aah... ahhh... what am I doing? What would my {MFAMILY} think of me, if it saw me like this?",
+        "I'm just a {LEWD} little {BITCH}...",
+        "Fucking with an animal is {LEWD}, I know, but it's all the more exciting because of that!",
+        "I'm {JIGGL}ing to meet every thrust of the animal as it rapidly {FUCK}s my {PUSSY}.",
+        "A woman losing herself fucking a {ANIMAL}, the feeling drives me wild."
+    ],
+    "2nd Person": [
+        "{ACTIVE} starts to {FUCK} you even faster now, and you can feel the start of your orgasm stirring.",
+        "You burn with shame and {LUST}, you can't believe you're being {FUCK}ed this hard by a {ACTIVE}.",
+        "You wonder what it would feel like in your {ASSHOLE}? You'll need to try that sometime.",
+        "Aah... ahhh... what are you doing? What would your friends think of you, if they saw you like this?",
+        "You're just a {LEWD} little {BITCH}...",
+        "Fucking with an animal is {LEWD}, you know, but it's all the more exciting because of that!",
+        "You're {JIGGL}ing to meet every thrust of the animal as it rapidly {FUCK}s your {PUSSY}.",
+        "A woman losing herself fucking a {ANIMAL}, the feeling drives you wild."
+    ],
+    "3rd Person": [
+        "A woman losing herself fucking a {ANIMAL}, the sight of it is so {LEWD}.",
+        "It's so arousing to watch {ACTIVE} {FUCK} her. He's doing so fast, and for so long...",
+        "{ACTIVE}'s stamina is impressive, can all {ACTIVE}s last so long?"
+    ]
+}

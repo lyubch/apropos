@@ -1,0 +1,42 @@
+{
+    "1st Person": [
+        "I can't move, my wrists and head held tight by the stocks. All I can do is struggle at every touch.",
+        "I'm completely exposed and helpless, he can do anything he wants to me and I can't stop him...",
+        "Oh my... what is that I'm feeling at my backside? Oh Gods, I'm going to get fucked...",
+        "The anticipation and not knowing is maddening, and my {PUSSY} aches at every stroke and grope.",
+        "I can't see what's going on behind me, can't even be sure who it is... All I know is that he's hard...",
+        "Someone's touching me from behind... Is it {ACTIVE}? Oh Gods, what if it's someone else...",
+        "I can't wait any longer! I want your {PENIS} inside me! Ram it into my {PUSSY}! Hard!",
+        "You can stick it anywhere you like, and I'll take all of your {CUM}. Does that sound hot?",
+        "I want you to fuck me, screw me like a whore... you know you want me... so what are you waiting for?",
+        "I shiver, exposed and naked, my {FAROUSAL} {PUSSY} on display.",
+        "My {FAROUSAL} {PUSSY} is on display, lips parted, ready to be fucked.",
+        "Hurry up! You can put it in me right now!",
+        "Breathlessly, I fidget in my bonds, my whole body shaking in anticipation.",
+        "I'm totally naked! They can see everything; my stomach, my {BOOBS}, my {PUSSY}, everything!",
+        "I guess I'm tonight's entertainment."
+    ],
+    "2nd Person": [
+        "You can't move, your wrists and head held tight by the stocks. All you can do is struggle at every touch.",
+        "You're completely exposed and helpless, he can do anything he wants to you and you can't stop him...",
+        "Oh my... what is that you're feeling at your backside? Oh Gods, you're going to get fucked...",
+        "The anticipation and not knowing is maddening, and your {PUSSY} aches at every stroke and grope.",
+        "You can't see what's going on behind you, can't even be sure who it is... All you know is that he's hard...",
+        "Someone's touching you from behind... Is it {ACTIVE}? Oh Gods, what if it's someone else...",
+        "({PRIMARY}) I can't wait any longer! I want your {PENIS} inside me! Ram it into my {PUSSY}! Hard!",
+        "({PRIMARY}) You can stick it anywhere you like, and I'll take all of your {CUM}. Does that sound hot?",
+        "({PRIMARY}) I want you to fuck me, screw me like a whore... you know you want me... what are you waiting for?",
+        "You shiver, exposed and naked, your {FAROUSAL} {PUSSY} on display.",
+        "Your {FAROUSAL} {PUSSY} is on display, lips parted, ready to be fucked.",
+        "({PRIMARY}) Hurry up! You can put it in me right now!",
+        "Breathlessly, you fidget in your bonds, your whole body shaking in anticipation.",
+        "You're totally naked! They can see everything; your stomach, your {BOOBS}, your {PUSSY}, everything!",
+        "You guess you're tonight's entertainment."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is held tight by the stocks, and can only wriggle as {ACTIVE} gropes her.",
+        "{PRIMARY} is completely helpless, anyone could do anything to her! Is {ACTIVE} going to fuck her?",
+        "Does {PRIMARY} even know that it's {ACTIVE} behind her, touching her like that?",
+        "{ACTIVE}'s {PENIS} is {FAROUSAL}, and {PRIMARY} recoils every time it touches her ass."
+    ]
+}

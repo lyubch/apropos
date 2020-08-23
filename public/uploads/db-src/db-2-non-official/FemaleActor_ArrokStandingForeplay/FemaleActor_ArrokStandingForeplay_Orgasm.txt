@@ -1,0 +1,17 @@
+{
+    "1st Person" :
+    [
+        "A strong sense of disappointment washes over me as I hear him grunt; the look on his face says it all.",
+        "But... but I'm not done! I can't believe you came just from that!"
+    ],
+    "2nd Person" :
+    [
+        "A strong sense of disappointment washes over you as you hear him grunt; the look on his face says it all.",
+        "({PRIMARY}) But... but I'm not done! I can't believe you came just from that!"
+    ],
+    "3rd Person" :
+    [
+        "Oh my, {ACTIVE} came just from that... How embarrassing...",
+        "It's a shame {ACTIVE} just came, no one will get to see him {FUCK} {PRIMARY}..."
+    ]
+}

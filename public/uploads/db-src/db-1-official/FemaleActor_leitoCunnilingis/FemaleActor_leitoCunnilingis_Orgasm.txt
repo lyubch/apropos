@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "My body shakes violently, driven to one thunderous climax after another.",
+        "I feel my breath catch in my chest, and my heart pounds so hard I think I'm going to die.",
+        "My whole body tenses, my thighs locked around {ACTIVE}'s head as he licks me to orgasm.",
+        "I grab on tight to {ACTIVE}'s knees as I feel a thunderous orgasm rip through me.",
+        "Upside down like this, all the blood in my head, I'm sure I black out for a moment as I cum hard.",
+        "When {ACTIVE} finally stops, my arms and legs hang limp, and sweat drips from my skin as I lie there panting.",
+        "Please... ahh... ahh... no more... I can't take any more... One more orgasm and I'll pass out..."
+    ],
+    "2nd Person" :
+    [
+        "Your body shakes violently, driven to one thunderous climax after another.",
+        "You feel your breath catch in your chest, and your heart pounds so hard you think you're going to die.",
+        "Your whole body tenses, your thighs locked around {ACTIVE}'s head as he licks you to orgasm.",
+        "You grab on tight to {ACTIVE}'s knees as you feel a thunderous orgasm rip through you.",
+        "Upside down like this, all the blood in your head, you're sure you black out for a moment as you cum hard.",
+        "When {ACTIVE} finally stops, your arms and legs hang limp, and sweat drips from your skin as you lie there panting.",
+        "({PRIMARY}) Please... ahh... ahh... no more... I can't take any more... One more orgasm and I'll pass out..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s body tenses rigidly, shaking and spasming as she cums really, really hard.",
+        "The strain all through {PRIMARY}'s body is obvious, and she's screaming like she's dying...",
+        "After what looked like an amazing orgasm, {PRIMARY} slumps to the ground, {BOOBS} heaving and skin drenched in sweat."
+    ]
+}

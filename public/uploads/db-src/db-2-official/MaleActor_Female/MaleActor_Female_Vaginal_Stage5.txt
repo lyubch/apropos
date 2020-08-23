@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "{PRIMARY} gazes up at me with a wanton lust, her eyes glassy. She's so beautiful and slutty.",
+        "({PRIMARY}) You're better than my man! Better than my dog! Better than those giants!",
+        "I feel {PRIMARY}'s cervix starting to yawn open for my {COCK}, and her eyes start to roll back.",
+        "({PRIMARY}) Oh Gods! I'm almost there... Let's cum together!"
+    ],
+    "2nd Person": [
+        "{PRIMARY} gazes up at you with a wanton lust, her eyes glassy. She's so beautiful and slutty.",
+        "({PRIMARY}) You're better than my man! Better than my dog! Better than those giants!",
+        "You feel {PRIMARY}'s cervix starting to yawn open for your {COCK}, and her eyes start to roll back.",
+        "({PRIMARY}) Oh Gods! I'm almost there... Let's cum together!"
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s legs are spread wide as they grind hard against each other, the penetration so wonderfully deep.",
+        "Between moans {PRIMARY} looks at {ACTIVE} as he fucks her raw.",
+        "{ACTIVE} starts pounding {PRIMARY}'s {PUSSY} hard",
+        "{ACTIVE} starts rocking {PRIMARY} on his lap with his {HUGE} {COCK} stuck way up in her.",
+        "{PRIMARY} arches her back as they fuck, so that they get a good view of her {HEAVING} {BOOBS}.",
+        "When did {PRIMARY} turn into a wanton {WHORE} that was willing to do anything just to take a cumshot?",
+        "({PRIMARY}) I've been a {WHORE}. Human cocks aren't enough, I've been fucking beasts. You need to punish me!",
+        "({PRIMARY}) Let me lead, I'm gonna teach you how to properly pound a {BITCH}'s {PUSSY}!",
+        "({PRIMARY}) Ohhhh yes, harder damn you, I want to know I'm being fucked!!",
+        "{PRIMARY} pants heavily, fighting off fatigue as she fucks."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "It's OK. Go ahead, touch it. I know you want to. I want to feel you touch me, too.",
+        "On her knees and grinning up at me, {PRIMARY} looks like such a {BITCH}.",
+        "{PRIMARY} takes hold of my {COCK} and starts pumping."
+    ],
+    "2nd Person" :
+    [
+        "({ACTIVE}) It's OK. Go ahead, touch it. I know you want to. I want to feel you touch me, too.",
+        "On her knees and grinning up at you, {PRIMARY} looks like such a {BITCH}.",
+        "{PRIMARY} takes hold of your {COCK} and starts pumping."
+    ],
+    "3rd Person" :
+    [
+        "On her knees in front of {ACTIVE}, {PRIMARY} smiles up at him and takes his {HUGE} {COCK} in her hand.",
+        "{PRIMARY}'s knees are spread wide apart, {DISPLAY}ing her {FAROUSAL} {PUSSY}, as she begins servicing {ACTIVE}.",
+        "Her legs spread as {PRIMARY} kneels in front of {ACTIVE}.",
+        "({PRIMARY}) Let me touch you, baby. Let me feel how big and hard you are, you sexy fucker.",
+        "Right now, it's not his ego {PRIMARY}'s interested in stroking...",
+        "Taking it in her hand, {PRIMARY} {WANK}s {ACTIVE}'s {COCK} {SLOW}ly in front of her face while looking up at him.",
+        "{PRIMARY} slips her clothes off and kneels in front of the {MAROUSAL} young man.",
+        "While {ACTIVE} watches her every move, {PRIMARY} {SLOW}ly sinks to her knees between his now wide-spread legs."
+    ]
+}

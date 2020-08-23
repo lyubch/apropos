@@ -1,0 +1,42 @@
+{
+    "1st Person": [
+        "My eyes are watering now, {ACTIVE}'s fast, deep strokes punishing my {WTORAL} {MOUTH}.",
+        "({ACTIVE}) C'mon, {PRIMARY}, you're almost there! Only a few more inches!",
+        "Nghhh... His {PENIS} is so far down my throat now that I can't breathe... I don't know how long I can last...",
+        "Both his hands hold my head tight. Despite my struggling, he fucks my {MOUTH} hard.",
+        "I push with both hands, desperate to make him slow down, but he's too strong, I can't stop him.",
+        "He's using me like a {WHORE}, and I'm loving it!",
+        "I can taste his {SALTY} {PENIS} in every part of my mouth, and the small of his balls fills my nostrils.",
+        "({ACTIVE}) I heard a rumour this {BITCH} sucked off a horse, and now I believe it!",
+        "{ACTIVE} is fucking my {MOUTH}, and it's a struggle for me to breathe.",
+        "With each thrust, I'm able to take more and more cock down my throat.",
+        "I love feeling a {TASTY} {PENIS} thrust in and out of my {MOUTH}. My nipples respond quickly.",
+        "{ACTIVE} seems pleased as I suck in air through my nose and he fucks my {MOUTH}.",
+        "{ACTIVE} fucks me deep, never leaving my {MOUTH} as he bounces my head.",
+        "({ACTIVE}) I can't believe you're taking so much of my {COCK} down your throat!",
+        "({ACTIVE}) Does your boyfriend get that far down your throat?"
+    ],
+    "2nd Person": [
+        "Your eyes are watering now, {ACTIVE}'s fast, deep strokes punishing your {WTORAL} {MOUTH}.",
+        "({ACTIVE}) C'mon, {PRIMARY}, you're almost there! Only a few more inches!",
+        "His {PENIS} is so far down your throat now that you can't breathe... you don't know how long you can last...",
+        "Both his hands hold your head tight. Despite your struggling, he fucks your {MOUTH} hard.",
+        "You push with both hands, desperate to make him slow down, but he's too strong, you can't stop him.",
+        "He's using you like a {WHORE}, and you're loving it!",
+        "You can taste his {SALTY} {PENIS} in every part of your mouth, and the small of his balls fills your nostrils.",
+        "({ACTIVE}) I heard a rumour this {BITCH} sucked off a horse, and now I believe it!",
+        "{ACTIVE} is fucking your {MOUTH}, and it's a struggle for you to breathe.",
+        "With each thrust, you're able to take more and more cock down your throat.",
+        "You love feeling a {TASTY} {PENIS} thrust in and out of your {MOUTH}. Your nipples respond quickly.",
+        "{ACTIVE} seems pleased as you suck in air through your nose and he fucks your {MOUTH}.",
+        "{ACTIVE} fucks you deep, never leaving your {MOUTH} as he bounces your head.",
+        "({ACTIVE}) I can't believe you're taking so much of my {COCK} down your throat!",
+        "({ACTIVE}) Does your boyfriend get that far down your throat?"
+    ],
+    "3rd Person": [
+        "{ACTIVE} grabs {PRIMARY}'s head, and brutally fucks her {MOUTH}. What must that be like?",
+        "More and more of {ACTIVE}'s {HUGE} {PENIS} disappears into {PRIMARY}'s {MOUTH}. Can she take it all?",
+        "{PRIMARY} seems to be trying to push {ACTIVE} back, is he going too deep? What if she can't breathe?",
+        "Oh my, he's fucking her {MOUTH}! That's so wild, so brutal..."
+    ]
+}

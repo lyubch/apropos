@@ -1,0 +1,31 @@
+{
+    "1st Person": [
+        "I look down, in awe of the {BEASTLY} {COCK} working its way in and out of my {PUSSY}.",
+        "The {ACTIVE}'s {COCK} is getting even deeper now, battering my insides to make more room.",
+        "I stare in rapt fascination at the sheer {GIRTH} of the {COCK} working between my legs.",
+        "{SWEARING}! There's got to be more than a foot of this thing's {COCK} inside me now...",
+        "I watch as the {BEASTLY} {GIRTH} of the {ACTIVE}'s {COCK} {FUCK}s into my {PUSSY}.",
+        "{SWEARING}, the {ACTIVE} {FUCK}ed all the way past my cervix.",
+        "Ughhhhh... I didn't know I could take so much {COCK}.",
+        "The {ACTIVE} forces himself as far into me as I can manage. My {FLESH} is tense with the strain.",
+        "I {MOAN}, and looking down I can see my stomach distending to {ACCEPT} his incredible {GIRTH}.",
+        "With an immense push the {COCKHEAD} slips inside my womb."
+    ],
+    "2nd Person": [
+        "You look down, in awe of the {BEASTLY} {COCK} working its way in and out of your {PUSSY}.",
+        "The {ACTIVE}'s {COCK} is getting even deeper now, battering your insides to make more room.",
+        "You stare in rapt fascination at the sheer {GIRTH} of the {COCK} working between your legs.",
+        "{SWEARING}! There's got to be more than a foot of this thing's {COCK} inside you now...",
+        "You watch as the {BEASTLY} {GIRTH} of the {ACTIVE}'s {COCK} {FUCK}s into your {PUSSY}.",
+        "{SWEARING}, the {ACTIVE} {FUCK}ed all the way past your cervix.",
+        "Ughhhhh... You didn't know you could take so much {COCK}.",
+        "The {ACTIVE} forces himself as far into you as you can manage. Your {FLESH} is tense with the strain.",
+        "You {MOAN}, and looking down you can see your stomach distending to {ACCEPT} his incredible {GIRTH}.",
+        "With an immense push the {COCKHEAD} slips inside your womb."
+    ],
+    "3rd Person": [
+        "{PRIMARY} {MOAN}s and stares wide-eyed between her legs. It must be a hell of a view...",
+        "Pain must be the only thing stopping {PRIMARY} from cumming after a {FUCK}ing like that.",
+        "Oh wow, how is she taking so much {COCK}?! The {COCKHEAD} must be in her womb, surely..."
+    ]
+}

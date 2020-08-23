@@ -1,0 +1,25 @@
+{
+    "1st Person": [
+        "I straddle {ACTIVE}'s face. He grips my thighs, pulling me down onto his mouth.",
+        "{ACTIVE}'s tongue starts to part my {FAROUSAL} lips. I lean back and {MOAN}, enjoying the moment.",
+        "{SWEARING}, {ACTIVE} is really good at this! If he makes me cum, I'll have to reward him...",
+        "I blush as I realise I still have a load of {CUM} in my {PUSSY}. I wonder if he'll notice?",
+        "It feels so good that I lean right back, thrusting my {BOOBS} out for everyone to get a good look.",
+        "{ACTIVE} pulls me down onto his face. As soon as his tongue touches my {PUSSY}, my nipples get stiff.",
+        "If you can make me cum, I'll come back to your house, and let you {FUCK} me in the {PUSSY} till you {EJACULATE}."
+    ],
+    "2nd Person": [
+        "You straddle {ACTIVE}'s face. He grips your thighs, pulling you down onto his mouth.",
+        "{ACTIVE}'s tongue starts to part your {FAROUSAL} lips. You lean back and {MOAN}, enjoying the moment.",
+        "{SWEARING}, {ACTIVE} is really good at this! If he makes you cum, you'll have to reward him...",
+        "You blush as you realise you still have a load of {CUM} in your {PUSSY}. You wonder if he'll notice?",
+        "It feels so good that you lean right back, thrusting your {BOOBS} out for everyone to get a good look.",
+        "{ACTIVE} pulls you down onto his face. As soon as his tongue touches your {PUSSY}, your nipples get stiff.",
+        "({PRIMARY}) If you make me cum, I'll come back to your house, and let you {FUCK} me in the {PUSSY} till you {EJACULATE}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} sits spread legged on {ACTIVE}'s face. From the look on her face, he must be good.",
+        "{PRIMARY} is {NUDE} and completely {DISPLAY}ed, pushing out her {BOOBS} like she wants people to see her.",
+        "{PRIMARY}'s {HEAVING} {BOOBS} look magnificent, and her nipples are starting to get hard."
+    ]
+}

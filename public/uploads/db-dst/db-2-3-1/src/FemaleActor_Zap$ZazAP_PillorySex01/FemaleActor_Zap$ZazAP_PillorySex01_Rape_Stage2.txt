@@ -1,0 +1,30 @@
+{
+    "1st Person": [
+        "{SWEARING}, here it comes! I strain as a {HUGE} {COCK} starts to pump into me.",
+        "Strong arms wrap around my waist, and I {SCREAM} as his {HUGE} {COCK} pushes {ROUGH}ly into my {PUSSY}.",
+        "My {FLESH} tenses as I feel a {COCK} at my {PUSSY}. My toes dig into the ground as he starts to {FUCK} me.",
+        "I'm terrified, but the thrill of not knowing who it is starts to overcome me.",
+        "I {SCREAM} as I'm {RAP}ed by deep, steady thrusts.",
+        "There's nothing I can do, no way to escape, and I {SCREAM} as a {COCK} is pushed inside me.",
+        "{PLEADING}! You can't do this to me! AAAH! Somebody, help! Please, stop this!",
+        "My {PUSSY} drips with several loads, and another {COCK} is now between my {WTVAGINAL} lips.",
+        "{PLEADING}! Not this! Nghhhh!"
+    ],
+    "2nd Person": [
+        "{SWEARING}, here it comes! You strain as a {HUGE} {COCK} starts to pump into you.",
+        "Strong arms wrap around your waist, and you {SCREAM} as his {HUGE} {COCK} pushes {ROUGH}ly into your {PUSSY}.",
+        "Your {FLESH} tenses as you feel a {COCK} at your {PUSSY}. Your toes dig into the ground as he {FUCK}s you.",
+        "You're terrified, but the thrill of not knowing who it is starts to overcome you.",
+        "You {SCREAM} as you're {RAP}ed by deep, steady thrusts.",
+        "There's nothing you can do, no way to escape, and you {SCREAM} as a {COCK} is pushed inside you.",
+        "({PRIMARY}) {PLEADING}! You can't do this to me! AAAH! Somebody, help! Please, stop this!",
+        "Your {PUSSY} drips with several loads, and another {COCK} is now between your {WTVAGINAL} lips.",
+        "({PRIMARY}) {PLEADING}! Not this! Nghhhh!"
+    ],
+    "3rd Person": [
+        "{ACTIVE} grabs {PRIMARY}'s waist with both arms, and starts to {FUCK} her with {SLOW}, deep strokes.",
+        "{SWEARING}, he can't really be doing that, can he? Isn't anyone going to stop this?!",
+        "{PRIMARY}'s {FLESH} tenses and she {SCREAM}s as {ACTIVE} starts to {FUCK} her {SUBMISSIVE} {FLESH}.",
+        "They're {FUCK}ing her, they're really {FUCK}ing her! They're such {JERK}s..."
+    ]
+}

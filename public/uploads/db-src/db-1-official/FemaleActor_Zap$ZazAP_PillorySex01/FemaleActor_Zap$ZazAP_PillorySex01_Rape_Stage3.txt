@@ -1,0 +1,30 @@
+{
+    "1st Person": [
+        "The unwanted strokes are slower now, but they're so deep, and so much more painful.",
+        "Please... (sob) Why don't anyone stop this...",
+        "Ugh! There's no telling how much longer this will go on for... Or how many men are waiting in line...",
+        "I shudder every time the mystery {PENIS} drives into me, banging on my cervix insistently.",
+        "How long am I gonna be left here like this? Hours? Days? Weeks?! Just being used as a {WHORE}...",
+        "I don't even really know who's fucking me... And I'm just being used as some anonymous {WHORE}...",
+        "({ACTIVE}) Just let it go in you. As soon as someone cums in you the rest will be easier.",
+        "I sob as harsh voices cheer my rape. Fuck her raw, so she can't walk.",
+        "Harsh voices drown out my screams. Fill her {PUSSY}. Plow the {BITCH}, show her you're a man."
+    ],
+    "2nd Person": [
+        "The unwanted strokes are slower now, but they're so deep, and so much more painful.",
+        "({PRIMARY}) Please... (sob) Why don't anyone stop this...",
+        "Ugh! There's no telling how much longer this will go on for... Or how many men are waiting in line...",
+        "You shudder every time the mystery {PENIS} drives into you, banging on your cervix insistently.",
+        "How long are you gonna be left here like this? Hours? Days? Weeks?! Just being used as a {WHORE}...",
+        "You don't even really know who's fucking you... And you're just being used as some anonymous {WHORE}...",
+        "({ACTIVE}) Just let it go in you. As soon as someone cums in you the rest will be easier.",
+        "You sob as harsh voices cheer your rape. Fuck her raw, so she can't walk.",
+        "Harsh voices drown out your screams. Fill her {PUSSY}. Plow the {BITCH}, show her you're a man."
+    ],
+    "3rd Person": [
+        "The idea that they might just keep {PRIMARY} bound like that for weeks is terrifying...",
+        "Small sobs are fucked steadily out of {PRIMARY}, the occasional grunt telling just how deep the {ACTIVE} is.",
+        "Isn't anyone going to stop this? It's inhuman to do this to a girl...",
+        "The {ACTIVE}'s thrusts are slow, but look really deep."
+    ]
+}

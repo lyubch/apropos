@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "The {ACTIVE}'s rough, matted fur presses into my back, coating me with {SCUM}.",
+        "The {PAIN} in my hips subsides as the {ANIMAL}'s front paws drop to the ground, looking for a more stable fuck.",
+        "Tears flow down my face as the {ACTIVE} {ROUGH}ly {FUCK}s my {ASSHOLE}, growling and huffing in my ear.",
+        "The powerful {ANIMAL} humps, {FUCK}ing his {COCK} through my {ASSHOLE}, the {COCKHEAD} hitting me deep inside.",
+        "{PLEADING}! I {MOAN}, {QUIVER}ing my {ASSHOLE}, trying to dislodge the {ANIMAL}.",
+        "I {SCREAM} in {PAIN} and humiliation.",
+        "I let out a quiet {SCREAM} as the {BEASTLY} {COCK} {FUCK}s a few inches deeper.",
+        "{ACTIVE} whines and {INSERT}s another few inches of cockmeat into me, through my tight pink {ASSHOLE}.",
+        "{SWEARING}... I'm... I'm almost there... already... Just a little bit more...",
+        "Each time he pulls back, the anxiety of the next thrust is overwhelming.",
+        "My eyes screw shut, my fists clench and I {SCREAM} into the dirt as the {ACTIVE} {RAP}es me.",
+        "This is so wrong... I'm a good girl, I shouldn't be getting {SODOMIZE}ed by a {ACTIVE}..."
+    ],
+    "2nd Person": [
+        "The {ACTIVE}'s rough, matted fur presses into your back, coating you with {SCUM}.",
+        "The {PAIN} in your hips subsides as the {ANIMAL}'s front paws drop to the ground, looking for a more stable fuck.",
+        "Tears flow down your face as the {ACTIVE} {ROUGH}ly {FUCK}s your {ASSHOLE}, growling and huffing in your ear.",
+        "The powerful {ANIMAL} humps, {FUCK}ing his {COCK} through your {ASSHOLE}, the {COCKHEAD} hitting you deep inside.",
+        "{PLEADING}! you gasp, {QUIVER}ing your {ASSHOLE}, trying to dislodge the {ANIMAL}.",
+        "You {SCREAM} in {PAIN} and humiliation.",
+        "You let out a quiet {SCREAM} as the {BEASTLY} {COCK} {FUCK}s a few inches deeper.",
+        "{ACTIVE} whines and {INSERT}s another few inches of cockmeat into you, through your tight pink {ASSHOLE}.",
+        "{SWEARING}... You're... You're almost there... already... Just a little bit more...",
+        "Each time he pulls back, the anxiety of the next thrust is overwhelming.",
+        "Your eyes screw shut, your fists clench and you {SCREAM} into the dirt as the {ACTIVE} {FUCK}s you.",
+        "This is so wrong... You're a good girl, you shouldn't be getting {SODOMIZE}ed by a {ACTIVE}..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE}'s rough, matted fur presses into  {PRIMARY}'s back, coating her with {SCUM}.",
+        "The {PAIN} in  {PRIMARY}'s hips subsides as the {ANIMAL}'s drops to the ground, looking for a more stable fuck.",
+        "Tears flow down  {PRIMARY}'s face as the {ACTIVE} {ROUGH}ly {FUCK}s her {ASSHOLE}, growling in her ear.",
+        "The powerful {ANIMAL} humps, {FUCK}ing his {COCK} through  {PRIMARY}'s {ASSHOLE}, the {COCKHEAD} hitting her deep inside.",
+        "{PLEADING}! {PRIMARY} {SCREAM}s, {QUIVER}ing her {ASSHOLE}, trying to dislodge the {ANIMAL}.",
+        "{PRIMARY} {SCREAM}s in {PAIN} and humiliation."
+    ]
+}

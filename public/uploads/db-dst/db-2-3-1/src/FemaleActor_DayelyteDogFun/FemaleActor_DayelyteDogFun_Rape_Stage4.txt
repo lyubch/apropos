@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "Maybe he didn't like that... I'm now face down, with {ACTIVE} snarling in my ear and {FUCK}ing my {PUSSY}.",
+        "I {SCREAM} as {ACTIVE} throws me off. I stay still, shocked when I feel him start to enter me from behind.",
+        "As I'm {FUCK}ed by the {ACTIVE}, I desperately glance around, my eyes pleading for help.",
+        "{ACTIVE} {PENETRAT}es his {BEASTLY} {COCK} deeper into me, and I {SCREAM} like a {BITCH}.",
+        "I {SCREAM} each time the dog {FUCK}s my {PUSSY} full of {BEASTLY} {COCK}."        
+    ],
+    "2nd Person" :
+    [
+        "Maybe he didn't like that... You're now face down, {ACTIVE} snarling in your ear and {FUCK}ing your {PUSSY}.",
+        "You {SCREAM} as {ACTIVE} throws you off. You stay still, shocked when you feel him enter you from behind.",
+        "As you're {FUCK}ed by the {ACTIVE}, you desperately glance around, your eyes pleading for help.",
+        "{ACTIVE} {PENETRAT}es his {BEASTLY} {COCK} deeper into you, and you {SCREAM} like a {BITCH}.",
+        "You {SCREAM} each time the dog {FUCK}s your {PUSSY} full of {BEASTLY} {COCK}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} must have turned {ACTIVE} on too much. He throws her off him, and starts to {FUCK} her from behind.",
+        "{PRIMARY} doesn't move as she's rolled over, {SCREAM}ing as she lets {ACTIVE} stick his {COCK} in her again."
+    ]
+}

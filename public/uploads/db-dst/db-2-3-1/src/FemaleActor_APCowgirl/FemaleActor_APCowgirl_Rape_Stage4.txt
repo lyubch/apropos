@@ -1,0 +1,28 @@
+{
+    "1st Person": [
+        "I try to lean forward, hoping that it won't be as hard to {ACCEPT} the whole thing...",
+        "I start to lose myself, twisting my hips as I come down, trying to take what pleasure I can.",
+        "({ACTIVE}) Ugh! You can feel that, can't you {BITCH}? I'm gonna be in your womb soon!",
+        "Every time I fall down, I feel his {COCK} pound into me, knocking at my final barrier.",
+        "I shouldn't, but I want his {CUM}. What's happening to me? I began to ride {ACTIVE}'s {COCK} harder.",
+        "My nipples harden and I can already feel {LUST} spreading through my limbs, despite my anger and {FEAR}.",
+        "My mind is in disarray; I should {STRUGGLE}, but I find myself submitting, {HORNY} for this...",
+        "({ACTIVE}) Bare everything to me. Your {BOOBS}, your {WTVAGINAL} {PUSSY}, everything. Do you understand me?"
+    ],
+    "2nd Person": [
+        "You try to lean forward, hoping that it won't be as hard to {ACCEPT} the whole thing...",
+        "You start to lose yourself, twisting your hips as you come down, trying to take what pleasure you can.",
+        "({ACTIVE}) Ugh! You can feel that, can't you {BITCH}? I'm gonna be in your womb soon!",
+        "Every time you fall down, you feel his {COCK} pound into you, knocking at your final barrier.",
+        "You shouldn't, but you want his {CUM}. What's happening to you? You began to ride {ACTIVE}'s {COCK} harder.",
+        "Your nipples harden and you already feel {LUST} spreading through your limbs, despite your anger and {FEAR}.",
+        "Your mind is in disarray; you should {STRUGGLE}, but you find yourself submitting, {HORNY} for this...",
+        "({ACTIVE}) Bare everything to me. Your {BOOBS}, your {WTVAGINAL} {PUSSY}, everything. Do you understand me?"
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s strokes are heavy, laboured. She won't be able to stay on her feet much longer.",
+        "{PRIMARY} is {WET} with sweat, her muscles tight and straining as she continues fucking.",
+        "Every stroke looks deep and painful, and {PRIMARY} {MOAN}s every time she comes down.",
+        "({ACTIVE}) You remind me of the last little {BITCH} we had! She's probably still in that troll cave..."
+    ]
+}

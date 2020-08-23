@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} is fucking my {ASS} even harder and even faster now, and I genuinely fear for my life.",
+        "Tears are flowing freely now, but I can feel the beast's {PENIS} twitching and throbbing. It's almost over...",
+        "Pinned down on all fours beneath the {ACTIVE}, as it violently fucks my {ASS}. It feels so dirty!",
+        "My whole body shakes as the beast violates my {ASS}.",
+        "My {CREAM} flows over my thighs like a tide because I want him to make me cum so bad.",
+        "The beast's frenzied grunts turn me on, each one accompanied by a powerful thrust into my {ASS}.",
+        "I cry out with joy, knowing that the {ACTIVE} is about to fill my {ASS} with his {CUM}.",
+        "Ugh! Ugh! Harder! Harder you brute! Nghhhhh! Yes, that's it! Make me squeal!"
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} is fucking your {ASS} even harder and even faster now, and you genuinely fear for your life.",
+        "Tears are flowing freely now, but you can feel the beast's {PENIS} twitching and throbbing. It's almost over...",
+        "Pinned down on all fours beneath the {ACTIVE}, as it violently fucks your {ASS}. It feels so dirty!",
+        "Your whole body shakes as the beast violates your {ASS}.",
+        "Your {CREAM} flows over your thighs like a tide because you want him to make you cum so bad.",
+        "The beast's frenzied grunts turn you on, each one accompanied by a powerful thrust into your {ASS}.",
+        "You cry out with joy, knowing that the {ACTIVE} is about to fill your {ASS} with his {CUM}.",
+        "({PRIMARY}) Ugh! Ugh! Harder! Harder you brute! Nghhhhh! Yes, that's it! Make me squeal!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s whole body shakes as the beast hammers her gorgeous {ASS}. That must be so intense!",
+        "The beast's frenzied grunts are terrifying, each one accompanied by a powerful thrust into {PRIMARY}'s {ASS}.",
+        "Rapid thrusts pound into {PRIMARY} with long powerful strokes, each filling her with over a foot of {BEAST} {COCK}."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "I turn around, getting on your knees, giving {ACTIVE} a good look at my {FAROUSAL} {PUSSY}.",
+        "I look back over my shoulder at {ACTIVE}. He's staring {LEWD}ly at my {PUSSY}...",
+        "If he came like this, it'd go right up my {PUSSY}. The thought excites me, I want him inside me...",
+        "The way he's staring at my {ASSHOLE}... {SWEARING}, if he wants to {FUCK} it right now, I'll let him!"
+    ],
+    "2nd Person" :
+    [
+        "You turn around, getting on your knees, giving {ACTIVE} a good look at your {FAROUSAL} {PUSSY}.",
+        "You look back over your shoulder at {ACTIVE}. He's staring {LEWD}ly at your {PUSSY}...",
+        "If he came like this, it'd go right up your {PUSSY}. The thought excites you, you want him inside you...",
+        "The way he's staring at your {ASSHOLE}... {SWEARING}, if he wants to {FUCK} it right now, you'll let him!"
+    ],
+    "3rd Person" :
+    [
+        "That's such a seductive pose... It's amazing that {ACTIVE} doesn't cum straight away.",
+        "{PRIMARY} turns and aims {ACTIVE}'s {COCK} right at her {PUSSY}. She must want it inside her!",
+        "The look of hunger in {ACTIVE}'s eyes as he stares at {PRIMARY}'s {PUSSY} and ass... He's going to {FUCK} her!"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "1st Person": [
+        "The two creatures' hands are all over me, grabbing me roughly as one of them prepares to fuck me.",
+        "A kinky thrill goes through my as the {ACTIVE}'s hand grips my throat.",
+        "Unable to scream from the pressure on my throat, I can only moan as I feel a {COCK} slap my {PUSSY}.",
+        "The {ACTIVE} pauses before entering me, his grimy hands all over my smooth hips.",
+        "I lift my hips slightly to let them undress me, and am soon completely nude and spread wantonly.",
+        "Should I really be letting this happen? Am I that desperate? Their rough hands feel so good though...",
+        "The tiny creatures gang up to fuck me.",
+        "All I want to do is fuck a couple of {ACTIVE}s... There's no shame in that... Is there?",
+        "I don't understand their strange language, but I know what they want from me.",
+        "They babble excitedly at the sight of my {FAROUSAL} {PUSSY}. My mind races, imagining what they're saying.",
+        "Give it to me, boys. Fill my {PUSSY} and {ASS} with {THICK} {CUM}.",
+        "My desires well up in me again I once again fall deep into depravity."
+    ],
+    "2nd Person": [
+        "The two creatures' hands are all over you, grabbing you roughly as one of them prepares to fuck you.",
+        "A kinky thrill goes through your as the {ACTIVE}'s hand grips your throat.",
+        "Unable to scream from the pressure on your throat, you can only moan as you feel a {COCK} slap your {PUSSY}.",
+        "The {ACTIVE} pauses before entering you, his grimy hands all over your smooth hips.",
+        "You lift your hips slightly to let them undress you, and are soon completely nude and spread wantonly.",
+        "Should you really be letting this happen? Are you that desperate? Their rough hands feel so good though...",
+        "The tiny creatures gang up to fuck you.",
+        "All you want to do is fuck a couple of {ACTIVE}s... There's no shame in that... Is there?",
+        "You don't understand their strange language, but you know what they want from you.",
+        "They babble excitedly at the sight of your {PUSSY}. Your mind races, imagining what they're saying.",
+        "({PRIMARY}) Give it to me, boys. Fill my {PUSSY} and {ASS} with {THICK} {CUM}.",
+        "Your desires well up again, and once you again fall deep into depravity."
+    ],
+    "3rd Person": [
+        "The two creatures' hands are all over {PRIMARY}, grabbing her roughly as one of them prepares to fuck her.",
+        "Unable to scream from the pressure on her throat, {PRIMARY} can only moan as a {COCK} slaps her {PUSSY}.",
+        "The {ACTIVE} pauses before entering {PRIMARY}, his grimy hands all over her smooth hips.",
+        "{PRIMARY} lifts her hips slightly to let them undress her, and is soon completely nude and spread wantonly.",
+        "Should {PRIMARY} really be letting this happen? Is she that desperate?",
+        "The tiny creatures gang up to fuck {PRIMARY}.",
+        "{PRIMARY} doesn't understand their strange language, but it's obvious what they want from her."
+    ]
+}

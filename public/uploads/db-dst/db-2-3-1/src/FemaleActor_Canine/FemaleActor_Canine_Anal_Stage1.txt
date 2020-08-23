@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "{SWEARING}, that's not the right... nghhh! I struggle to hold myself up as {ACTIVE} {FUCK}s my {ASSHOLE}.",
+        "My arms give way and I collapse, shocked as {ACTIVE} {INSERT}s himself into my {ASSHOLE}.",
+        "{ACTIVE} grips me tightly around the waist, {FUCK}ing steadily into my {ASSHOLE}, quicker than I'd like...",
+        "I prop myself up on one elbow, struggling to rise as {ACTIVE} {QUICK}ly {FUCK}s my {ASSHOLE}.",
+        "I can't believe I'm letting a dog {FUCK} my {ASSHOLE}, but I'm {HORNY}!",
+        "Just a bit lower... AH! {PLEADING}! Not there... Nghhhh!!! That's the wrong...OWWW!",
+        "There's no way I should take doggy-{CUM} in my {PUSSY}, but maybe in the {ASSHOLE} would be okay?",
+        "Having sex with a dog is {LEWD}, but taking one in the {ASSHOLE}? I have to try it!",
+        "If it's just in the {ASSHOLE}, that's okay, right? It doesn't count...",
+        "{ACTIVE} clearly wants to {FUCK} me. I don't see any harm in it if it's just my {ASSHOLE}...",
+        "I have a really {LEWD} idea... this doggie seems really into me... so I'm gonna let him {FUCK} my {ASSHOLE}.", 
+        "Ah! Ugh...  ugh... he's in me... he's in my {ASSHOLE}... and he's {HUGE}...",
+        "I briefly feel {ACTIVE} at my {ASSHOLE}. My eyes widen in {FEAR} as he {INSERT}s in, spreading my {ASSHOLE}."        
+    ],
+    "2nd Person" :
+    [
+        "{SWEARING}, that's not the right... nghhh! You struggle to hold yourself up as {ACTIVE} {FUCK}s your {ASSHOLE}.",
+        "Your arms give way and you collapse, shocked as {ACTIVE} {INSERT}s himself into your {ASSHOLE}.",
+        "{ACTIVE} grips you tightly around the waist, {FUCK}ing steadily into your {ASSHOLE}, quicker than you'd like...",
+        "You prop yourself up on one elbow, struggling to rise as {ACTIVE} {QUICK}ly {FUCK}s your {ASSHOLE}.",
+        "You can't believe you're letting a dog {FUCK} your {ASSHOLE}, but you're {HORNY}!",
+        "({PRIMARY}) Just a bit lower... AH! {PLEADING}! Not there... Nghhhh!!! That's the wrong...OWWW!",
+        "There's no way you should take doggy-{CUM} in your {PUSSY}, but maybe in the {ASSHOLE} would be okay?",
+        "Having sex with a dog is {LEWD}, but taking one in the {ASSHOLE}? You have to try it!",
+        "If it's just in the {ASSHOLE}, that's okay, right? It doesn't count...",
+        "{ACTIVE} clearly wants to {FUCK} you. You don't see any harm in it if it's just your {ASSHOLE}...",
+        "You have a really {LEWD} idea; this doggie seems really into you, so you're gonna let him {FUCK} your {ASSHOLE}.", 
+        "Ah! Ugh...  ugh... he's in you... he's in your {ASSHOLE}... and he's {HUGE}...",
+        "You briefly feel {ACTIVE} at your {ASSHOLE}. Your eyes widen in {FEAR} as he {INSERT}s in, spreading your {ASSHOLE}."
+    ],
+    "3rd Person" :
+    [
+        "Wait... Is {PRIMARY} letting a dog {FUCK} her {ASSHOLE}?!",
+        "{PRIMARY} struggles to hold herself up, grunting with every thrust.",
+        "That looks sore... Did {PRIMARY} really mean to let {ACTIVE} into her {ASSHOLE}?",
+        "That's so {LEWD}, being {FUCK}ed in the {ASSHOLE} by a {ANIMAL}..."
+    ]
+}

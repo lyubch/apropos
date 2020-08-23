@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "The thrusting becomes more intense, my tiny body being shaken wildly by the brute between my legs.",
+        "The fast fucking feels so good, I can feel my orgasm coming... I don't care if he knots me...",
+        "Long, hard strokes batter quickly inside me, filling me completely, but still he wants me to take more!",
+        "Holy fuck, the {ACTIVE} plowed all the way past my cervix.",
+        "He fucks me furiously, my whole body shaking like a ragdoll as my {WTVAGINAL} {PUSSY} is ravaged.",
+        "I'm bucking desperately on the {ACTIVE}'s {PENIS}, as my {PUSSY} strains around it.",
+        "I want people to watch as a beautiful, slender human {BITCH} is wildly fucked by a huge, hairy beast.",
+        "This feels so good... It's so erotic to be part of such a wild display."    
+    ],
+    "2nd Person" :
+    [
+        "The thrusting becomes more intense, your tiny body being shaken wildly by the brute between your legs.",
+        "The fast fucking feels so good, you can feel your orgasm coming... You don't care if he knots you...",
+        "Long, hard strokes batter quickly inside you, filling you completely, but still he wants you to take more!",
+        "Holy fuck, the {ACTIVE} plowed all the way past your cervix.",
+        "He fucks you furiously, your whole body shaking like a ragdoll as your {WTVAGINAL} {PUSSY} is ravaged.",
+        "You're bucking desperately on the {ACTIVE}'s {PENIS}, as your {PUSSY} strains around it.",
+        "You want people to watch as a beautiful, slender human {BITCH} is wildly fucked by a huge, hairy beast.",
+        "This feels so good... It's so erotic to be part of such a wild display."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s head hangs back and she's moaning more intensely now... She's about to cum.",
+        "Tears are flowing from her eyes, and her face looks pained, but the noises she's making...",
+        "The {ACTIVE} pumps {PRIMARY} hard and fast on its {BEAST} {COCK}, and she's loving it!",
+        "The {ACTIVE} raises its head, snarling louder and louder. It's going to happen soon!"
+    ]
+}

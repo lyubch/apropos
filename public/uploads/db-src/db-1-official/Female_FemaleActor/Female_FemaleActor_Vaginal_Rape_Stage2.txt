@@ -1,0 +1,14 @@
+{
+    "1st Person" :
+    [
+        "({ACTIVE}) I watched you wiggling your ass at my man, you little {BITCH}."
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

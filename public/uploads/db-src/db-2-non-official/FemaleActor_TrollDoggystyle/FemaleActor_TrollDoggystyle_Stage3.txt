@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} is {FUCK}ing my {ASSHOLE} even harder and even faster now, and I genuinely {FEAR} for my life.",
+        "Tears are flowing freely now, but I can feel the {ANIMAL}'s {COCK} {QUIVER}ing and throbbing. It's almost over...",
+        "Pinned down on all fours beneath the {ACTIVE}, as it {ROUGH}ly {FUCK}s my {ASSHOLE}. It feels so {LEWD}!",
+        "My whole {FLESH} {JIGGL}es as the {ANIMAL} {RAP}es my {ASSHOLE}.",
+        "My {CREAM} flows over my thighs like a tide because I want him to make me cum so bad.",
+        "The {ANIMAL}'s frenzied grunts turn me on, each one accompanied by a powerful thrust into my {ASSHOLE}.",
+        "I {MOAN} with {LUST}, knowing that the {ACTIVE} is about to fill my {ASSHOLE} with his {CUM}.",
+        "Ugh! Ugh! Harder! Harder you {ANIMAL}! Nghhhhh! Yes, that's it! Make me {SCREAM}!"
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} is {FUCK}ing your {ASSHOLE} even harder and even faster now, and you genuinely {FEAR} for your life.",
+        "Tears are flowing freely now, but you can feel the {ANIMAL}'s {COCK} {QUIVER}ing and throbbing. It's almost over...",
+        "Pinned down on all fours beneath the {ACTIVE}, as it {ROUGH}ly {FUCK}s your {ASSHOLE}. It feels so {LEWD}!",
+        "Your whole {FLESH} {JIGGL}es as the {ANIMAL} {RAP}es your {ASSHOLE}.",
+        "Your {CREAM} flows over your thighs like a tide because you want him to make you cum so bad.",
+        "The {ANIMAL}'s frenzied grunts turn you on, each one accompanied by a powerful thrust into your {ASSHOLE}.",
+        "You {MOAN} with {LUST}, knowing that the {ACTIVE} is about to fill your {ASSHOLE} with his {CUM}.",
+        "({PRIMARY}) Ugh! Ugh! Harder! Harder you {ANIMAL}! Nghhhhh! Yes, that's it! Make me {SCREAM}!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s whole {FLESH} {JIGGL}es as the {ANIMAL} hammers her gorgeous {ASSHOLE}. That must be so intense!",
+        "The {ANIMAL}'s frenzied grunts are terrifying, each one accompanied by a powerful thrust into {PRIMARY}'s {ASSHOLE}.",
+        "Rapid thrusts pound into {PRIMARY} with long powerful strokes, each filling her with over a foot of {BEASTLY} {COCK}."
+    ]
+}

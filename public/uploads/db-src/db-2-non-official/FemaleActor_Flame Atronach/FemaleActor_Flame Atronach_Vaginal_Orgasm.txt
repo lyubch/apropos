@@ -1,0 +1,14 @@
+{
+    "1st Person" :
+    [
+        "As orgasm overcomes your body, you've never felt so warm before."
+    ],
+    "2nd Person" :
+    [
+        "As orgasm overcomes my body, I've never felt so warm before."
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I don't dare move as the {ACTIVE} holds me steady and begins to fuck its {BEAST} {PENIS} into my {PUSSY}.",
+        "Every thrust of the {ACTIVE}'s {PENIS} is sudden, sharp, and painfully deep, making me cry out.",
+        "I see stars as the {ACTIVE} impales me fully with a single stroke, before fucking me slowly.",
+        "Its {COCK} is far too big for my {PUSSY}, but that doesn't stop the {ACTIVE} from pushing it inside me.",        
+        "The {ACTIVE} slides my {WTVAGINAL} {PUSSY} wide open and plugs me fully with its dripping mass.",
+        "No... it won't fit... The {ACTIVE}'s {BEAST} {COCK} stretches me going on."        
+    ],
+    "2nd Person" :
+    [
+        "You don't dare move as the {ACTIVE} holds you steady and begins to fuck its {BEAST} {PENIS} into your {PUSSY}.",
+        "Every thrust of the {ACTIVE}'s {PENIS} is sudden, sharp, and painfully deep, making you cry out.",
+        "You see stars as the {ACTIVE} impales you fully with a single stroke, before fucking you slowly.",
+        "Its {COCK} is far too big for your {PUSSY}, but that doesn't stop the {ACTIVE} from pushing it inside you.",        
+        "The {ACTIVE} slides your {WTVAGINAL} {PUSSY} wide open and plugs you fully with its dripping mass.",
+        "No... it won't fit... The {ACTIVE}'s {BEAST} {COCK} stretches you going on."
+    ],
+    "3rd Person" :
+    [
+        "Every thrust of the {ACTIVE}'s {PENIS} is sudden, sharp, and painfully deep, making {PRIMARY} cry out.",
+        "{PRIMARY} whimpers quietly, trying to hold still as the {ACTIVE} forces its {PENIS} into her {PUSSY}.",
+        "This is what happens to pretty young girls who stumble upon troll lairs; they get raped."
+    ]
+}

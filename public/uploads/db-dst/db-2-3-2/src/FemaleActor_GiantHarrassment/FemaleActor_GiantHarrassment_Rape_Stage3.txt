@@ -1,0 +1,33 @@
+{
+    "1st Person": [
+        "{SWEARING}, I can't take this! It's too much... And I'm not even all the way down...",
+        "I can feel the {ACTIVE}'s {COCK} battering my uterus now, the {COCKHEAD} starting to push painfully through.",
+        "I stare in {FEAR} and fascination as I watch more than a foot of {COCK} slide in and out of me.",
+        "I {SCREAM} in {PAIN} as the {ACTIVE} starts to {FUCK} even deeper into me, my {WTVAGINAL} {PUSSY} straining.",
+        "The {ACTIVE} forces himself as far into me as I can manage, and then keeps on going.",
+        "I {SCREAM}, and looking down I can see my stomach distending to {ACCEPT} his incredible {GIRTH}.",
+        "{SWEARING}! Shoot your {CUM} straight into my womb!",
+        "The {ACTIVE} is pulling me all the way down to the base of his {COCK}.",
+        "With an immense push the {COCKHEAD} slips inside my womb.",
+        "Pain and {LUST} explode through me as the {ACTIVE}'s {COCK} {PENETRAT}es into my womb.",
+        "I let out a long, {LEWD} {SCREAM}, driven to a {ROUGH} orgasm on a {COCK} like a tree stump."
+    ],
+    "2nd Person": [
+        "{SWEARING}, you can't take this! It's too much... And you're not even all the way down...",
+        "You can feel the {ACTIVE}'s {COCK} battering your uterus now, the {COCKHEAD} starting to push painfully through.",
+        "You stare in {FEAR} and fascination as you watch more than a foot of {COCK} slide in and out of you.",
+        "You {SCREAM} in {PAIN} as the {ACTIVE} starts to {FUCK} even deeper into you, your {WTVAGINAL} {PUSSY} straining.",
+        "The {ACTIVE} forces himself as far into you as you can manage, and then keeps on going.",
+        "You {SCREAM}, and looking down you can see your stomach distending to {ACCEPT} his incredible {GIRTH}.",
+        "({PRIMARY}) {SWEARING}! Shoot your {CUM} straight into my womb!",
+        "The {ACTIVE} is pulling you all the way down to the base of his {COCK}.",
+        "With an immense push the {COCKHEAD} slips inside your womb.",
+        "Pain and {LUST} explode through you as the {ACTIVE}'s {COCK} {PENETRAT}es into your womb.",
+        "You let out a long, {LEWD} {SCREAM}, driven to a {ROUGH} orgasm on a {COCK} like a tree stump."
+    ],
+    "3rd Person": [
+        "{PRIMARY} stares between her legs in disbelief as over a foot of {COCK} {FUCK}s into her.",
+        "The {ACTIVE} pulls {PRIMARY} even further down. Its {COCK} must be {FUCK}ing her womb by now...",
+        "Sweat is pouring off {PRIMARY} as she struggles to survive such a deep penetration."
+    ]
+}

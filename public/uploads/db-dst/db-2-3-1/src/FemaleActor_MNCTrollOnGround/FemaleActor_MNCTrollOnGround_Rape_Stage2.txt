@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I {STRUGGLE} with all my strength, freeing one leg as I try to escape the steady {FUCK}ing of the {MONSTER}'s {COCK}.",
+        "I pull myself forward, my nipples dragging painfully across the ground, the {ACTIVE} continuing to {RAP}e me.",
+        "In freeing one leg, I inadvertently allow the {MONSTER} to {INSERT} his entire {COCK} inside me, and I {MOAN} at the feeling.",
+        "I can only writhe around the {BEASTLY} troll {COCK} stretching out my {WTVAGINAL} {PUSSY}.",
+        "I try to {STRUGGLE}, but it's no use against such a strong {MONSTER}.",
+        "I {STRUGGLE} vainly, {NUDE}, as the monstrous {MONSTER} {RAP}es me."
+    ],
+    "2nd Person": [
+        "You {STRUGGLE} with all your strength, freeing one leg as you try to escape the steady {FUCK}ing of the {MONSTER}'s {COCK}.",
+        "You pull yourself forward, your nipples dragging painfully across the ground, the {ACTIVE} continuing to {RAP}e you.",
+        "In freeing one leg, you inadvertently allow the {MONSTER} to {INSERT} his entire {COCK} inside you, and you gasp at the feeling.",
+        "You can only writhe around the {BEASTLY} troll {COCK} stretching out your {WTVAGINAL} {PUSSY}.",
+        "You try to {STRUGGLE}, but it's no use against such a strong {MONSTER}.",
+        "You {STRUGGLE} vainly, {NUDE}, as the monstrous {MONSTER} {RAP}es you."
+    ],
+    "3rd Person": [
+        "{PRIMARY} struggles with all her strength, freeing one leg as she tries to escape the steady {FUCK}ing of the {MONSTER}'s {COCK}.",
+        "{PRIMARY} pulls herself forward, her nipples dragging painfully across the ground, the {ACTIVE} continuing to {RAP}e her.",
+        "In freeing one leg, {PRIMARY} inadvertently allows the {MONSTER} to {INSERT} his entire {COCK} inside her, and she {SCREAM}s at the feeling.",
+        "{PRIMARY} can only writhe around the {BEASTLY} troll {COCK} stretching out her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} tries to {STRUGGLE}, but it's no use against such a strong {MONSTER}.",
+        "{PRIMARY} struggles vainly, {NUDE}, as the monstrous {MONSTER} {RAP}es her."
+    ]
+}

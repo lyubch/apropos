@@ -1,0 +1,42 @@
+{
+    "1st Person" :
+    [
+        "I pump my whole body against {ACTIVE}'s fist, straining my {FAROUSAL} {PUSSY} to take it all.",
+        "{ACTIVE} has stopped moving, letting me work my body slowly onto his hand.",
+        "My strength is already leaving me, and my head hangs limply back as tears fall from my eyes.",
+        "I wasn't ready for this feeling, but whoa what a feeling it is...",
+        "I bite my lip to muffle the sounds of my screams as {ACTIVE} buries his hand to his wrist.",
+        "The pain is incredible, but {ACTIVE} begins curling his fingers, stroking the walls of my {PUSSY}.",
+        "A moment of pain and his fist pops inside, lubricated by the {CUM} that seeps out.",
+        "I let out a gasp as the pressure between my legs increases.",
+        "The strong arousal I felt moments earlier is quickly turning to apprehension and pain...",
+        "There are no words to describe the feeling of a man pushing his whole arm into your body...",
+        "I thought I was pretty depraved, but oh my! I certainly didn't expect anything like this...",
+        "I close my eyes tight and try to relax my muscles, but my fists clench at the strain.",
+        "Anyone watching can clearly see how white my knuckles are as I dig into the ground beneath me.",
+        "I feel a fourth finger work its way inside me and feel so stretched."
+    ],
+    "2nd Person" :
+    [
+        "You pump your whole body against {ACTIVE}'s fist, straining your {FAROUSAL} {PUSSY} to take it all.",
+        "{ACTIVE} has stopped moving, letting you work your body slowly onto his hand.",
+        "Your strength is already leaving you, and your head hangs limply back as tears fall from your eyes.",
+        "You weren't ready for this feeling, but whoa what a feeling it is...",
+        "You bite your lip to muffle the sounds of your screams as {ACTIVE} buries his hand to his wrist.",
+        "The pain is incredible, but {ACTIVE} begins curling his fingers, stroking the walls of your {PUSSY}.",
+        "A moment of pain and his fist pops inside, lubricated by the {CUM} that seeps out.",
+        "You let out a gasp as the pressure between your legs increases.",
+        "The strong arousal you felt moments earlier is quickly turning to apprehension and pain...",
+        "There are no words to describe the feeling of a man pushing his whole arm into your body...",
+        "You thought you were pretty depraved, but oh my! You certainly didn't expect anything like this...",
+        "You close your eyes tight and try to relax your muscles, but your fists clench at the strain.",
+        "Anyone watching can clearly see how white your knuckles are as you dig into the ground beneath you.",
+        "You feel a fourth finger work its way inside you and feel so stretched."
+    ],
+    "3rd Person" :
+    [
+        "Tears are beginning to fall from {PRIMARY}'s eyes, but she pushes desperately against {ACTIVE}.",
+        "What they're doing is so... so depraved... What must that feel like?",
+        "{ACTIVE} stops pumping, instead letting {PRIMARY} ease his fist into her body."
+    ]
+}

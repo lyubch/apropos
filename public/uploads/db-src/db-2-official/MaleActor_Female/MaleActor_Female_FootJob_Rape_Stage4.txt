@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "{PRIMARY} rolls over, showing off her shapely curves. She's really making me want to fuck her.",
+        "Worry crossing her face, {PRIMARY} tries another position. Is she trying to get me off quickly?",
+        "My pre-cum is coating {PRIMARY}'s delicate feet, dripping between her toes."
+    ],
+    "2nd Person": [
+        "{PRIMARY} rolls over, showing off her shapely curves. She's really making you want to fuck her.",
+        "Worry crossing her face, {PRIMARY} tries another position. Is she trying to get you off quickly?",
+        "Your pre-cum is coating {PRIMARY}'s delicate feet, dripping between her toes."
+    ],
+    "3rd Person": [
+        "{PRIMARY} adjusts herself, lying on her hip, bringing her legs together to get a tighter grip.",
+        "{PRIMARY}'s feet are slick with pre-cum, the {SLOPPY} mess making her seem ashamed.",
+        "With the top of one foot, {PRIMARY} milks {ACTIVE}'s {COCK} of {SLOPPY} pre-cum onto the sole of her other.",
+        "{PRIMARY}'s staving off an attack with just her legs and feet..."
+    ]
+}

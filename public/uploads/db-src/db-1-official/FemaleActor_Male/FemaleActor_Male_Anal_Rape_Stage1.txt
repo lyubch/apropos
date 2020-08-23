@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "Pain runs up my spine as this bastard shoves his {COCK} in my {ASS}.",
+        "I grunt in discomfort from the sudden straightening of my colon, unable to take such a beast in silence.",
+        "It's far too big for me, but that doesn't stop him from pushing it inside my {ASS}.",
+        "I feel no mercy or pity as the his {HUGE} {COCK} forcibly widens my {ASS}.",
+        "His {COCK} squeezes its way forward into my {WTANAL} {ASS}",
+        "Oh Gods! His {COCK} is huge, its thickness outrageously oversized for where it wants to go.",
+        "I try not to think about it, but the pleasure intensifies as the bulge slips past my sphincter.",
+        "No, please! It's so big I don't think it will fit!",
+        "I promise I'll do whatever you ask if you don't hurt me...",
+        "({ACTIVE}) Gonna fuck a {BITCH}'s {ASS}...",
+        "What the hell are you... OH!",
+        "As his {COCK} touches my {ASS}, it just feels too fucking big to ever fit, but it does."
+    ],
+    "2nd Person" :
+    [
+        "Pain runs up your spine as this bastard shoves his {COCK} up your {ASS}.",
+        "You grunt in discomfort from the sudden straightening of your colon, unable to take such a beast in silence.",
+        "It's far too big for you, but that doesn't stop him from pushing it inside your {ASS}.",
+        "You feel no mercy or pity as his{HUGE} {COCK} forcibly widens your {ASS}.",
+        "His {COCK} squeezes its way forward into your {WTANAL} {ASS}",
+        "Oh Gods! His {COCK} is huge, its thickness outrageously oversized for where it wants to go.",
+        "You try not to think about it, but the pleasure intensifies as the bulge slips past your sphincter.",
+        "({PRIMARY}) No, please! It's so big I don't think it will fit!",
+        "({PRIMARY}) I promise I'll do whatever you ask if you don't hurt me!",
+        "({ACTIVE}) Gonna fuck a {BITCH}'s {ASS}...",
+        "({PRIMARY}) What the hell are you... OH!",
+        "As his {COCK} touches your {ASS}, it just feels too fucking big to ever fit, but it does."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s eyes open wide in surprise at the pressure at her {ASS}.",
+        "{PRIMARY} grunts in discomfort, unable to take such a beast in her {ASS} in silence.",
+        "It's far too big for {PRIMARY}, but that doesn't stop the {ACTIVE} from pushing it inside her {ASS}.",
+        "{PRIMARY} feels no mercy or pity as her attacker {HUGE} {COCK} forcibly widens her {ASS}.",
+        "{PRIMARY} clenches her teeth as he starts to push in."
+    ]
+}

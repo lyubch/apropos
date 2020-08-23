@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "I sit back onto {ACTIVE}'s naked lap, feeling his {HUGE} {MAROUSAL} {COCK} at my hip.",
+        "I lean back, pushing my {HEAVING} {BOOBS} out, and let {ACTIVE} kiss me deeply.",
+        "I pull my knees together, not wanting to let {ACTIVE} know just how wet I am...",
+        "My {BOOBS} are thrust forward as I twist round, letting {ACTIVE}'s tongue invade my {MOUTH}.",
+        "({ACTIVE}) C'mon, {PRIMARY}, be a good girl and sit on my lap!"
+    ],
+    "2nd Person" :
+    [
+        "You sit back onto {ACTIVE}'s naked lap, feeling his {HUGE} {MAROUSAL} {COCK} at your hip.",
+        "You lean back, pushing your {HEAVING} {BOOBS} out, and let {ACTIVE} kiss you deeply.",
+        "You pull your knees together, not wanting to let {ACTIVE} know just how wet you are...",
+        "Your {BOOBS} are thrust forward as you twist round, letting {ACTIVE}'s tongue invade your {MOUTH}.",
+        "({ACTIVE}) C'mon, {PRIMARY}, be a good girl and sit on my lap!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} leans back into {ACTIVE}'s kiss, her {HEAVING} {BOOBS} pushed out and {DISPLAY}ed.",
+        "{PRIMARY} must surely feel the {HUGE} {COCK} pressing into her hip..."
+    ]
+}

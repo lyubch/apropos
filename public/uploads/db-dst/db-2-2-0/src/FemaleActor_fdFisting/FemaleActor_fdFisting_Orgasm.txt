@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "({ACTIVE}) Your {PUSSY}'s pretty loose, {BITCH}. I bet your {ASS} is still nice and tight!",
+        "I clench my fist and moan as I feel {ACTIVE}'s {HUGE} {PENIS} suddenly push into my {ASS}, and I cum.",
+        "I can feel my {WTVAGINAL} {PUSSY} gaping open as {ACTIVE} pumps slowly into my {WTANAL} {ASS}.",
+        "{ACTIVE}'s {PENIS} pushes roughly into my {ASS}, and I immediately feel spurts of {THICK} {CUM}.",
+        "I'm such a {WHORE}... This man has just fisted my {PUSSY} and now he's {CUMMING} in my {ASS}...",
+        "I enjoy the feeling of {ACTIVE} spurting his {CUM} deep into my bowels. It's so dirty...",
+        "Oh, my Gods! Oh, he's squirting in my {ASS}! {SWEARING}, this is so intense...",
+        "My sphincter clamps down tightly around {ACTIVE}'s {HUGE} {PENIS}, as my {PUSSY} gushes and I cum.",
+        "I'm lost in the sheer hedonism of the whole thing, my eyes closed as I milk his {COCK} with my {ASS}."
+    ],
+    "2nd Person" :
+    [
+        "({ACTIVE}) Your {PUSSY}'s pretty loose, {BITCH}. I bet your {ASS} is still nice and tight!",
+        "You clench your fist and moan as you feel {ACTIVE}'s {HUGE} {PENIS} suddenly push into your {ASS}, and you cum.",
+        "You can feel your {WTVAGINAL} {PUSSY} gaping open as {ACTIVE} pumps slowly into your {WTANAL} {ASS}.",
+        "{ACTIVE}'s {PENIS} pushes roughly into your {ASS}, and you immediately feel spurts of {THICK} {CUM}.",
+        "You're such a {WHORE}... This man has just fisted your {PUSSY} and now he's {CUMMING} in your {ASS}...",
+        "You enjoy the feeling of {ACTIVE} spurting his {CUM} deep into your bowels. It's so dirty...",
+        "Oh, my Gods! Oh, he's squirting in your {ASS}! {SWEARING}, this is so intense...",
+        "Your sphincter clamps down tightly around {ACTIVE}'s {HUGE} {PENIS}, as your {PUSSY} gushes and you cum.",
+        "You're lost in the sheer hedonism of the whole thing, your eyes closed as you milk his {COCK} with your {ASS}."
+    ],
+    "3rd Person" :
+    [
+        "You can see right inside {PRIMARY}'s gaping {PUSSY} as {ACTIVE} pumps into her {ASS}.",
+        "What kind of woman lets herself get abused like that? Ahhh... Although... it does look like it might be good...",
+        "{ACTIVE} stands up, squatting over {PRIMARY}, and driving his {COCK} down into her waiting {ASS}.",
+        "{PRIMARY} clenches her fist and moans into the ground, her {WTVAGINAL} {PUSSY} dripping wet."
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "The {ACTIVE} stares {LEWD}ly up at me, eyeing my {HEAVING} {BOOBS}. I feel its {COCK} {QUIVER} inside me.",
+        "Nghhh, it's huge! I grind my hips back and forth, straining to get used to the {HUGE} {COCK}.",
+        "My hands go to my {HEAVING} {BOOBS}, the {MONSTER}'s eyes glued to them, my nipples already hard.",
+        "Straddling a huge {MONSTER}, impaled on its {COCK}, I feel my {FLESH} start to react.",
+        "The {ACTIVE} holds me down, but seems content to let me do all the work... For now...",
+        "That's it... aaahh... You don't need to hurt me... Let me... ngh... ride your {COCK}...",
+        "{SWEARING}... Its {COCK}... It's reaching all the way up inside me... Why does it feel so good?",
+        "The {ACTIVE} is {HUGE}, it feels like its {COCK} is in my stomach.",
+        "A cold breeze blows across my now {DISPLAY}ed skin, reminding me just how utterly {NUDE} I am."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} stares {LEWD}ly up at you, eyeing your {HEAVING} {BOOBS}. You feel its {COCK} {QUIVER} inside you.",
+        "Nghhh, it's huge! You grind your hips back and forth, straining to get used to the {HUGE} {COCK}.",
+        "Your hands go to your {HEAVING} {BOOBS}, the {MONSTER}'s eyes glued to them, your nipples already hard.",
+        "Straddling a huge {MONSTER}, impaled on its {COCK}, you feel your {FLESH} start to react.",
+        "The {ACTIVE} holds you down, but seems content to let you do all the work... For now...",
+        "({PRIMARY}) That's it... aaahh... You don't need to hurt me... Let me... ngh... ride your {COCK}...",
+        "{SWEARING}... Its {COCK}... It's reaching all the way up inside you... Why does it feel so good?",
+        "The {ACTIVE} is {HUGE}, it feels like its {COCK} is in your stomach.",
+        "A cold breeze blows across your now {DISPLAY}ed skin, reminding you just how utterly {NUDE} you are."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} stares {LEWD}ly up at {PRIMARY}, eyeing her {HEAVING} {BOOBS}. She feels its {COCK} {QUIVER} inside her.",
+        "Nghhh, it's huge! {PRIMARY} grinds her hips back and forth, straining to get used to the {HUGE} {COCK}.",
+        "{PRIMARY}'s hands go to your {HEAVING} {BOOBS}, the {MONSTER}'s eyes glued to them, her nipples already hard.",
+        "Straddling a huge {MONSTER}, impaled on its {COCK}, {PRIMARY} feels her {FLESH} start to react.",
+        "The {ACTIVE} holds {PRIMARY} down, but seems content to let her do all the work... For now...",
+        "({PRIMARY}) That's it... aaahh... You don't need to hurt me... Let me... ngh... ride your {COCK}...",
+        "{SWEARING}... Its {COCK}... It's reaching all the way up inside {PRIMARY}... Why does it feel so good?",
+        "The {ACTIVE} is {HUGE}, it feels like its {COCK} is in {PRIMARY}'s stomach.",
+        "A cold breeze blows across {PRIMARY}'s now {DISPLAY}ed skin, reminding her just how utterly {NUDE} she is."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I do my best to suppress my gag reflex, letting his {COCK} {INSERT} effortlessly down my {MOUTH}, as deep as the other's is in my {PUSSY}.",
+        "I swallow around the {COCK} in my {MOUTH}, determined to make him {EJACULATE} before the other makes me cream around his {BEASTLY} {COCK}.",
+        "They're driving so deep into me... I can already feel the first few {QUIVER}ing waves of climax.",
+        "I {QUIVER} against the wolf, already on the brink of orgasm as both of them {FUCK} me {ROUGH}ly.",
+        "I sputter and {MOAN} helplessly, locked between the two wolves as they {FUCK} me towards orgasm.",
+        "{SWEARING}... I can feel both their knots now... I nearly orgasm right there, just at the thought of {ACCEPT}ing them both at the same time."
+    ],
+    "2nd Person": [
+        "You do your best to suppress your gag reflex, letting his {COCK} {INSERT} easily down your {MOUTH}, as deep as the other's is in your {PUSSY}.",
+        "You swallow around the {COCK} in your {MOUTH}, determined to make him {EJACULATE} before the other makes you cream around his thick {COCK}.",
+        "They're driving so deep into you... You can already feel the first few {QUIVER}ing waves of climax.",
+        "You {QUIVER} against the wolf, already on the brink of orgasm as both of them {FUCK} you {ROUGH}ly.",
+        "You sputter and {MOAN} helplessly, locked between the two wolves as they {FUCK} you towards orgasm.",
+        "{SWEARING}... You can feel both their knots now... You nearly orgasm right there, just at the thought of {ACCEPT}ing them both at the same time."
+    ],
+    "3rd Person": [
+        "{PRIMARY} does her best to suppress her gag reflex, letting his {COCK} {INSERT} easily down her {MOUTH}, as deep as the other's is in her {PUSSY}.",
+        "{PRIMARY} swallows around the {COCK} in her throat, determined to make him {EJACULATE} before the other makes her cream around his thick {COCK}.",
+        "They're driving so deep into {PRIMARY}... she can already feel the first few {QUIVER}ing waves of climax.",
+        "{PRIMARY} {QUIVER} against the wolf, already on the brink of orgasm as both of them {FUCK} her {ROUGH}ly.",
+        "{PRIMARY} sputters and {MOAN}s helplessly, locked between the two wolves as they {FUCK} her towards orgasm.",
+        "{SWEARING}... {PRIMARY} can feel both their knots now... She nearly orgasms right there, just at the thought of {ACCEPT}ing them both at the same time."
+    ]
+}

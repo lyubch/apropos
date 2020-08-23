@@ -1,0 +1,48 @@
+{
+    "1st Person" :
+    [
+        "I offer myself to the wild beast, spreading my cheeks and displaying my {WTANAL} {ASS}.",
+        "I spread my legs for the beast to fuck my {FAROUSAL} {PUSSY}, but it seems to have other ideas...",
+        "I don't know if it just went for any {OPENING}, or if it was deliberate, but I scream as my {ASS} is penetrated.",
+        "Do me from behind, fuck me like a dog!",
+        "I just love this feeling, my {ASS} stretching slowly, and then...",
+        "I grunt as I am impaled on the {ACTIVE}, I didn't know I could take so much dick.",
+        "Oh Gods, it's in my {ASS}! Where did a troll learn to do that?!",
+        "I can do this... it will fit... The {ACTIVE}'s {BEAST} {COCK} stretches me going on.",
+        "My heart is racing, I want this, this {ACTIVE} can do whatever it wants to me.",
+        "Oh my... Gods...! I groan, the {BEAST} {COCK} sinking into my tight body as I stretch around its girth.",
+        "I lie back on the ground and spread my cheeks wide, practically inviting the {ACTIVE} to fuck me.",
+        "I let out a primal grunt as I am impaled on the creature's {COCK}.",
+        "I'm not sure if I can get pregnant by a troll, but maybe I should take it in the {ASS} just in case...",
+        "A delighted squeal escapes my lips as the {ACTIVE} roughly spreads my cheeks and fucks its {COCK} into me.",
+        "I can only gasp in horror as I feel the {BEAST} {COCK} align with my {WTANAL} {ASS}."
+    ],
+    "2nd Person" :
+    [
+        "You offer yourself to the wild beast, spreading your cheeks and displaying your {WTANAL} {ASS}.",
+        "You spread your legs for the beast to fuck your {FAROUSAL} {PUSSY}, but it seems to have other ideas...",
+        "Unsure if it just went for any {OPENING}, or if it was deliberate, but you scream as your {ASS} is penetrated.",
+        "({PRIMARY}) Do me from behind, fuck me like a dog!",
+        "You just love this feeling, your {ASS} stretching slowly, and then...",
+        "You grunt as you are impaled on the {ACTIVE}, you didn't know you could take so much dick.",
+        "Oh Gods, it's in your {ASS}! Where did a troll learn to do that?!",
+        "You can do this... it will fit... The {ACTIVE}'s {BEAST} {COCK} stretches you going on.",
+        "Your heart is racing, you want this, this {ACTIVE} can do whatever it wants to you.",
+        "Oh my... Gods...! You groan, the {BEAST} {COCK} sinking into your tight body as you stretch around its girth.",
+        "You lie back on the ground and spread your cheeks wide, practically inviting the {ACTIVE} to fuck you.",
+        "You let out a primal grunt as you are impaled on the creature's {COCK}.",
+        "You're not sure if you can get pregnant by a troll, but maybe you should take it in the {ASS} just in case...",
+        "A delighted squeal escapes your lips as the {ACTIVE} roughly spreads your cheeks and fucks its {COCK} in.",
+        "You can only gasp in horror as you feel the {BEAST} {COCK} align with your {WTANAL} {ASS}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} offers herself to the wild beast, spreading her cheeks and displaying her {WTANAL} {ASS}.",
+        "{PRIMARY} spreads her legs for the beast to fuck her {FAROUSAL} {PUSSY}, but it seems to have other ideas...",
+        "({PRIMARY}) Do me from behind, fuck me like a dog!",
+        "{PRIMARY} seems to love this feeling, her {ASS} stretching slowly, and then...",
+        "{PRIMARY} grunts as she's impaled on the {ACTIVE}, it's amazing she can take so much dick.",
+        "Oh Gods, it's in {PRIMARY}'s {ASS}! Where did a troll learn to do that?!",
+        "{PRIMARY} can do this... it will fit... The {ACTIVE}'s {BEAST} {COCK} stretches her going on."
+    ]
+}

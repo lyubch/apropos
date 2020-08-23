@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "I {STRUGGLE}, but the {ACTIVE} is too strong and {INSERT}s its {BEASTLY} {COCK} into my {ASSHOLE}.",
+        "Clutching right around my waist with a single massive paw, the {ACTIVE} pushes {SLOW}ly and deeply into my {ASSHOLE}.",
+        "Shrieking and fighting, I'm beaten to the ground before a {BEASTLY} {COCK} splits my {ASSHOLE}.",
+        "With powerful arms the {MONSTER} pulls me down, {PENETRAT}ing my {ASSHOLE} on its {HUGE} {BEASTLY} {COCK}.",
+        "A tortured {SCREAM} escapes my lips as the {ACTIVE} {ROUGH}ly spreads my {BUTTOCKS} and {FUCK}s its {COCK} into me.",
+        "I squawk out loud in genuine alarm as the {BEASTLY} {COCKHEAD} {PENETRAT}es into me like it's about to split me in two.",
+        "{SWEARING}, it's in my {ASSHOLE}! Where did a troll learn to do that?!",
+        "No... It won't fit... The {ACTIVE}'s {BEASTLY} {COCK} stretches me going in.",
+        "Ah, it hurts! Not in the {ASSHOLE}! Please!"
+    ],
+    "2nd Person": [
+        "You {STRUGGLE}, but the {ACTIVE} is too strong and {INSERT}s its {BEASTLY} {COCK} into your {ASSHOLE}.",
+        "Clutching right around your waist with a single massive paw, the {ACTIVE} pushes {SLOW}ly and deeply into your {ASSHOLE}.",
+        "Shrieking and fighting, you're beaten to the ground before a {BEASTLY} {COCK} splits your {ASSHOLE}.",
+        "With powerful arms the {MONSTER} pulls you down, {PENETRAT}ing your {ASSHOLE} on its {HUGE} {BEASTLY} {COCK}.",
+        "A tortured {SCREAM} escapes your lips as the {ACTIVE} {ROUGH}ly spreads your {BUTTOCKS} and {FUCK}s its {COCK} into you.",
+        "You squawk out loud in genuine alarm as the {BEASTLY} {COCKHEAD} {PENETRAT}es into you like it's about to split you in two.",
+        "{SWEARING}, it's in your {ASSHOLE}! Where did a troll learn to do that?!",
+        "No... It won't fit... The {ACTIVE}'s {BEASTLY} {COCK} stretches you going in.",
+        "({PRIMARY}) Ah, it hurts! Not in the {ASSHOLE}! Please!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} struggles, but the {ACTIVE} is too strong and {INSERT}s its {BEASTLY} {COCK} into her {ASSHOLE}.",
+        "Clutching right around her waist with a single massive paw, the {ACTIVE} pushes {SLOW}ly and deeply into {PRIMARY}'s {ASSHOLE}.",
+        "Shrieking and fighting, {PRIMARY}'s beaten to the ground before a {BEASTLY} {COCK} splits her {ASSHOLE}."
+    ]
+}

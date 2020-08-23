@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "My legs give way as I lower myself onto the {ACTIVE}'s {PENIS}. All I can do is grind feebly.",
+        "({ACTIVE}) Spread those legs, {BITCH}! Let me see you take my {COCK}! All of it!",
+        "Oh Gods, he's so big! I can feel him up in my stomach... Ugh...",
+        "I sink down onto the {ACTIVE}'s {PENIS}, too overcome by lust and desire to fight.",
+        "The {ACTIVE} laughs as his {HUGE} {PENIS} effortlessly slides into my {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} takes his turn between my legs. How much more do I have to endure?",
+        "({ACTIVE}) The little {BITCH} didn't even wait to spread her legs for us!",
+        "{ACTIVE} is buried to the balls inside of me. I've lost."
+    ],
+    "2nd Person" :
+    [
+        "Your legs give way as you lower yourself onto the {ACTIVE}'s {PENIS}. All you can do is grind feebly.",
+        "({ACTIVE}) Spread those legs, {BITCH}! Let me see you take my {COCK}! All of it!",
+        "Oh Gods, he's so big! You can feel him up in your stomach... Ugh...",
+        "You sink down onto the {ACTIVE}'s {PENIS}, too overcome by lust and desire to fight.",
+        "The {ACTIVE} laughs as his {HUGE} {PENIS} effortlessly slides into your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} takes his turn between your legs. How much more do you have to endure?",
+        "({ACTIVE}) The little {BITCH} didn't even wait to spread her legs for us!",
+        "{ACTIVE} is buried to the balls inside of you. You've lost."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} stifles a sob as she drops down onto the {ACTIVE}'s {PENIS}, gasping when she hits the bottom.",
+        "{PRIMARY} seems to be trying to mentally prepare herself, grinding back and forth and breathing hevaily.",
+        "Oh my goodness! She's taken his entire {PENIS}, all the way to the base!",
+        "It's heartbreaking to watch {PRIMARY}, being forced to climb onto a stranger's {COCK} and fuck herself...",
+        "{PRIMARY} grunts, twisting painfully on the {ACTIVE}'s {PENIS}. It looks like it's deep..."
+    ]
+}

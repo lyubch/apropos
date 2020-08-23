@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I reach back, making sure his {COCK} enters the right {HOLE}, this would hurt even more in the {ASSHOLE}...",
+        "I start to flick my clit, trying to make myself wetter so that this rough {FUCK} doesn't hurt as much.",
+        "I {SCREAM} in {FEAR} as {ACTIVE} {INSERT}s its {BEASTLY} {COCK} inside my {WTVAGINAL} {PUSSY}.",
+        "Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off me now!",
+        "{SWEARING}, I'm being {RAP}ed by a dog! {SWEARING}! Oh it's too {HUGE}! Ow ow ow ow! Pleeeeassse get off me!"  
+    ],
+    "2nd Person" :
+    [
+        "You reach back, making sure his {COCK} enters the right {HOLE}, this would hurt even more in the {ASSHOLE}...",
+        "You start to flick your clit, trying to make yourself wetter so that this rough {FUCK} doesn't hurt as much.",
+        "You {SCREAM} in {FEAR} as {ACTIVE} {INSERT}s its {BEASTLY} {COCK} inside your {WTVAGINAL} {PUSSY}.",
+        "({PRIMARY}) Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off me now!",
+        "({PRIMARY}) {SWEARING}, I'm being {RAP}ed by a dog! {SWEARING}! Oh it's too {HUGE}! Ow ow ow! Pleeeeassse get off me!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} reaches back, making sure his {COCK} enters the right {HOLE}, this would hurt even more in the {ASSHOLE}...",
+        "{PRIMARY} starts to flick her clit, trying to make herself wetter so that this rough {FUCK} doesn't hurt as much.",
+        "{PRIMARY} {SCREAM}s in {FEAR} as {ACTIVE} {INSERT}s its {BEASTLY} {COCK} inside her {WTVAGINAL} {PUSSY}.",
+        "({PRIMARY}) Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off me now!",
+        "({PRIMARY}) {SWEARING}, I'm being {RAP}ed by a dog! {SWEARING}! Oh it's too {HUGE}! Ow ow ow! Pleeeeassse get off me!"
+    ]
+}

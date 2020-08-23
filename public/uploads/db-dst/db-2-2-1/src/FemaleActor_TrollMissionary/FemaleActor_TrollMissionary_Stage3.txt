@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I can feel it now, so intensely. Both the monster and myself are almost there, about to reach a thunderous climax.",
+        "I stare up in wonder at the savage monster hanging over me, the monster that's fucking me to orgasm.",
+        "Its {COCK} is deeper now, deeper than I thought was possible, and still I want more...",
+        "Madness threatens to overtake me, and I wonder what it would be like to tongue kiss a troll as we near climax.",
+        "My legs flail limply as my body is rocked back and forth.",
+        "The {ACTIVE}'s {COCK} pounds into me in a blur. AH! YES! It's never felt this good!"        
+    ],
+    "2nd Person" :
+    [
+        "You can feel it now, so intensely. Both the monster and yourself are almost there, about to reach a thunderous climax.",
+        "You stare up in wonder at the savage monster hanging over you, the monster that's fucking you to orgasm.",
+        "Its {COCK} is deeper now, deeper than you thought was possible, and still you want more...",
+        "Madness threatens to overtake you, and you wonder what it would be like to tongue kiss a troll as we near climax.",
+        "Your legs flail limply as your body is rocked back and forth.",
+        "The {ACTIVE}'s {COCK} pounds into you in a blur. AH! YES! It's never felt this good!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s legs flail limply as her body is rocked back and forth.",
+        "{PRIMARY} stares up at the beast as it fucks her, it's face a mask of bestial lust.",
+        "The beast's {COCK} bulges {PRIMARY}'s stomach again and again. That should be agony, but her moans tell a different story."
+    ]
+}

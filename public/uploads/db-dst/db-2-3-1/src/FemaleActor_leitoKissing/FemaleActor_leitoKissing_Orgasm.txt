@@ -1,0 +1,20 @@
+{
+    "1st Person" :
+    [
+        "My eyes fly open and I break the kiss as I feel {ACTIVE}'s {THICK} {CUM} gush all over my {PUSSY}.",
+        "Wow, am I really that good a kisser, that {ACTIVE} came just from that?",
+        "The kiss has so turned me on that I can feel {ACTIVE}'s {THICK} cumshot squirt straight up my open {PUSSY}."
+    ],
+    "2nd Person" :
+    [
+        "Your eyes fly open and you break the kiss as you feel {ACTIVE}'s {THICK} {CUM} gush all over your {PUSSY}.",
+        "Wow, are you really that good a kisser, that {ACTIVE} came just from that?",
+        "The kiss has so turned you on that you can feel {ACTIVE}'s {THICK} cumshot squirt straight up your open {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "Wow, {ACTIVE} just came! {PRIMARY} must be a really good kisser!",
+        "{ACTIVE} grunts, and his {CUM} {EJACULATE}s all over {PRIMARY}'s {PUSSY}, dripping down her legs.",
+        "{PRIMARY} breaks the kiss, and stares at {ACTIVE} with a bit of disappointment."
+    ]
+}

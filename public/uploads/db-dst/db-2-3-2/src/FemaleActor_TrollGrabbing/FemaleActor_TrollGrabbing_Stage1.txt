@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "I {STRUGGLE}, trying to guide the {ACTIVE} into my {PUSSY}, but it's too strong and {INSERT}s its {COCK} into my {ASSHOLE}.",
+        "Clutching right around my waist with a single massive paw, the {ACTIVE} pushes {SLOW}ly and deeply into my {ASSHOLE}.",
+        "I can only {MOAN} in {FEAR} as I feel the {BEASTLY} {COCK} penetrate my {WTANAL} {ASSHOLE}.",
+        "I spread my legs for the {MONSTER} to {FUCK} my {FAROUSAL} {PUSSY}, but it seems to have other ideas...",
+        "I don't know if it just went for any {HOLE}, or if it was deliberate, but I {SCREAM} as my {ASSHOLE} is {PENETRAT}ed.",
+        "{SWEARING}, it's in my {ASSHOLE}! Where did a troll learn to do that?!"
+    ],
+    "2nd Person": [
+        "You {STRUGGLE}, trying to guide the {ACTIVE} into your {PUSSY}, but it's too strong and {INSERT}s its {COCK} into your {ASSHOLE}.",
+        "Clutching right around your waist with a single massive paw, the {ACTIVE} pushes {SLOW}ly and deeply into your {ASSHOLE}.",
+        "You can only {MOAN} in {FEAR} as you feel the {BEASTLY} {COCK} penetrate your {WTANAL} {ASSHOLE}.",
+        "You spread your legs for the {MONSTER} to {FUCK} your {FAROUSAL} {PUSSY}, but it seems to have other ideas...",
+        "You don't know if it just went for any {HOLE}, or if it was deliberate, but you {SCREAM} as your {ASSHOLE} is {PENETRAT}ed.",
+        "{SWEARING}, it's in your {ASSHOLE}! Where did a troll learn to do that?!"
+    ],
+    "3rd Person": [
+        "Clutching right around her waist with a single massive paw, the {ACTIVE} pushes {SLOW}ly and deeply into {PRIMARY}'s {ASSHOLE}.",
+        "{PRIMARY} seems to be resisting, and {MOAN}ing in {PAIN}. She must not have wanted anal with the {ACTIVE}...",
+        "{PRIMARY} is struggling. It looks like she's overestimated the {GIRTH} of the {ACTIVE}'s {COCK}."
+    ]
+}

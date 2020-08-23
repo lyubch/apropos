@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I'm soaked now, and it feels wonderful when {ACTIVE} starts to pump two fingers inside me.",
+        "I'm already so close to cumming. I'm shaking and moaning as {ACTIVE} starts to finger me.",
+        "It'll be okay if it's just his fingers... aaahh... And it feels so good...",
+        "My head hangs back and I stare up, enjoying the intense stimulation of {ACTIVE}'s fingers.",
+        "({ACTIVE}) I've heard some pretty nasty things about you... And I bet they're all true...",
+        "({ACTIVE}) A hot {BITCH} like you isn't going to be satisfied with just a tongue..."
+    ],
+    "2nd Person" :
+    [
+        "You're soaked now, and it feels wonderful when {ACTIVE} starts to pump two fingers inside you.",
+        "You're already so close to cumming. You're shaking and moaning as {ACTIVE} starts to finger you.",
+        "It'll be okay if it's just his fingers... aaahh... And it feels so good...",
+        "Your head hangs back and you stare up, enjoying the intense stimulation of {ACTIVE}'s fingers.",
+        "({ACTIVE}) I've heard some pretty nasty things about you... And I bet they're all true...",
+        "({ACTIVE}) A hot {BITCH} like you isn't going to be satisfied with just a tongue..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s head falls back and she moans deeply as {ACTIVE} pushes two fingers up her {PUSSY}.",
+        "{PRIMARY}'s nipples are standing straight up on her {HEAVING} {BOOBS}. {ACTIVE} must be really good.",
+        "{ACTIVE} starts to finger-fuck {PRIMARY}. He must be about to have sex with her..."
+    ]
+}

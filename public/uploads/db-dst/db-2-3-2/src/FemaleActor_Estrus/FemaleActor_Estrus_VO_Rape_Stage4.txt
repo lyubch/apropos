@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "A neverending stream of {CREAM} and {SLIME} leaks out of my {WTVAGINAL} lips, no room left in my {PUSSY} or womb...",
+        "Although the {SLIMY} substance dulls the feeling, every egg that pushes through my cervix leaves me racked with {PAIN}.",
+        "As I feel my insides being squished by my expanding womb, I wonder which will come first, it running out of eggs or me bursting...",
+        "Each thrust pushes another grape-sized egg into me, adding to the already mounting bath of eggs and {CUM} floating in my womb.",
+        "{SWEARING}... They just keep coming! How many fucking eggs does this thing need to lay!",
+        "{SWEARING}! Am I supposed to birth an entire army?! I'm full, let me go!",
+        "I feel a pang of relief as the eggs stop coming, the tentacle instead {EJACULATE}ing {THICK} streams of {VILE} {CUM} into my womb.",
+        "I twist and writhe to try and slow the onslaught of eggs pushing up to my womb, but it's no use...",
+        "I wish I could just pass out, wake up when this nightmare is over, but the feeling of each egg passing into me is just too intense.",
+        "{PLEADING}... I lost count at least a dozen eggs ago... I'm already so full... When will this nightmare end...",
+        "The pressure builds as my womb is stretched by the growing pile of eggs, causing the dull ache to rise in {PAIN}."
+    ],
+    "2nd Person": [
+        "A neverending stream of {CREAM} and {SLIME} leaks out of your {WTVAGINAL} lips, no room left in your {PUSSY} or womb...",
+        "Although the {SLIMY} substance dulls the feeling, every egg that pushes through your cervix leaves you racked with {PAIN}.",
+        "As you feel your insides being squished by your expanding womb, you wonder which will come first, it running out of eggs or you bursting.",
+        "Each thrust pushes another grape-sized egg into you, adding to the already mounting bath of eggs and {CUM} floating in your womb.",
+        "{SWEARING}... They just keep coming! How many fucking eggs does this thing need to lay!",
+        "{SWEARING}! Are you supposed to birth an entire army?! You're full, let you go!",
+        "{PLEADING}... You lost count at least a dozen eggs ago... You're already so full... When will this nightmare end...",
+        "The pressure builds as your womb is stretched by the growing pile of eggs, causing the dull ache to rise in {PAIN}.",
+        "You feel a pang of relief as the eggs stop coming, the tentacle instead {EJACULATE}ing {THICK} streams of {VILE} {CUM} into your womb.",
+        "You twist and writhe to try and slow the onslaught of eggs pushing up to your womb, but it's no use...",
+        "You wish you could just pass out, wake up when this nightmare is over, but the feeling of each egg passing into you is just too intense."
+    ],
+    "3rd Person": [
+        "A neverending stream of {CREAM} and {SLIME} leaks out of {PRIMARY}'s {WTVAGINAL} lips, no room left in her {PUSSY} or womb...",
+        "Although the {SLIMY} substance dulls the feeling, every egg that pushes through {PRIMARY}'s cervix leaves her racked with {PAIN}.",
+        "As {PRIMARY} feels her insides being squished by her expanding womb, she wonders which will come first, it running out of eggs, or her bursting.",
+        "Each thrust pushes another grape-sized egg into {PRIMARY}, adding to the already mounting bath of eggs and {CUM} floating in her womb.",
+        "{SWEARING}... They just keep coming! How many fucking eggs does this thing need to lay!",
+        "{SWEARING}! Is {PRIMARY} supposed to birth an entire army?! She's full, let her go!",
+        "{PLEADING}... {PRIMARY} has lost count at least a dozen eggs ago... She's already so full... When will this nightmare end...",
+        "The pressure builds as {PRIMARY}'s womb is stretched by the growing pile of eggs, causing the dull ache to rise in {PAIN}.",
+        "{PRIMARY} feels a pang of relief as the eggs stop coming, the tentacle instead {EJACULATE}ing {THICK} streams of {VILE} {CUM} into her womb.",
+        "{PRIMARY} twists and writhes to try and slow the onslaught of eggs pushing up to her womb, but it's no use...",
+        "{PRIMARY} wishes she could just pass out, wake up when this nightmare is over, but the feeling of each egg passing into her is just too intense."
+    ]
+}

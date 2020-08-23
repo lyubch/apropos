@@ -1,0 +1,14 @@
+{
+    "1st Person": [
+        "As riekling relishes feeling my body, I indulge myself in its leaking juice as it {FUCK}s my {BOOBS}.",
+        "I struggle to control myself and {ACCEPT} the {COCKHEAD} of its {BEASTCOCK} in my {MOUTH}. He {FUCK}s my lips as I taste him."
+    ],
+    "2nd Person": [
+        "As riekling relishes feeling your body, you indulge yourself in its leaking juice as it {FUCK}s your {BOOBS}.",
+        "You struggle to control yourself and {ACCEPT} the {COCKHEAD} of its {BEASTCOCK} in your {MOUTH}. He {FUCK}s your lips as you taste him."
+    ],
+    "3rd Person": [
+        "As riekling relishes feeling {PRIMARY}'s body, she indulges herself in its leaking juice as it {FUCK}s her {BOOBS}.",
+        "{PRIMARY} struggles to control herself and {ACCEPT} the {COCKHEAD} of its {BEASTCOCK} in her {MOUTH}. He {FUCK}s {PRIMARY}'s lips as she tastes him."
+    ]
+}

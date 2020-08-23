@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "I look into {ACTIVE}'s eyes, before he pulls me in for a kiss.",
+        "{ACTIVE} pulls me into him, his hands clutching my ass, squeezing me firmly.",
+        "My hands rest on {ACTIVE}'s muscular chest, my nipples tingling as they get crushed against him.",
+        "I stand on tip toes, leaning in to let {ACTIVE}'s tongue dance in my mouth.",
+        "I can feel {ACTIVE}'s {COCK} between my legs. I gasp each time it touches my {FAROUSAL} lips.",
+        "I'm not sure about this, but I let {ACTIVE} pull me into his embrace, and we kiss.",
+        "Mmmmm... I shouldn't be doing this... But he feels so good against my skin, and on my lips..."
+    ],
+    "2nd Person" :
+    [
+        "You look into {ACTIVE}'s eyes, before he pulls you in for a kiss.",
+        "{ACTIVE} pulls you into him, his hands clutching your ass, squeezing you firmly.",
+        "Your hands rest on {ACTIVE}'s muscular chest, your nipples tingling as they get crushed against him.",
+        "You stand on tip toes, leaning in to let {ACTIVE}'s tongue dance in your mouth.",
+        "You can feel {ACTIVE}'s {COCK} between your legs. You gasp each time it touches your {FAROUSAL} lips.",
+        "You're not sure about this, but you let {ACTIVE} pull you into his embrace, and you kiss.",
+        "Mmmmm... You shouldn't be doing this... But he feels so good against your skin, and on your lips..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} and {ACTIVE} kiss almost tenderly, {PRIMARY} up on tip toes.",
+        "Oh my... {ACTIVE}'s {PENIS} can be seen lewdly sticking out between {PRIMARY}'s legs..."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} wants to {FUCK} my {FAROUSAL} {PUSSY} more!",
+	"{SWEARING}, this is good!  I need to keep this thing in my {FAROUSAL} {PUSSY}!"
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} wants to {FUCK} your {FAROUSAL} {PUSSY} more!",
+	"{SWEARING}, this is good!  You need to keep this thing in your {FAROUSAL} {PUSSY}!"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} wants to {FUCK} {PRIMARY}'s {FAROUSAL} {PUSSY} more!",
+	"({PRIMARY}) {SWEARING}, this is good!  I need to keep this thing in my {FAROUSAL} {PUSSY}!"
+    ]
+}

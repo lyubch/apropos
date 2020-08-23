@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I giggle to myself as both wolves thrust into my hands as I stroke them, they're so eager!",
+        "I give both cocks a squeeze, delighting in the whimper both wolves let out. They're both so hard... which one should I let {FUCK} me?",
+        "I feel my {PUSSY} twitch as I stroke both their {COCK}s... It's such a shame I have to pick one, and can't just have both up there at once.",
+        "Although I enjoy the control I have over both these wolves, a part of me wishes they'd just turn around and ravage me.",
+        "Gods, they're both so hard, how do I chose between them? Or could I take both at once...?",
+        "I can feel my {CREAM} dripping onto the ground... it's no longer a matter of which one to let fuck me, it's which one will fuck me first."
+    ],
+    "2nd Person": [
+        "You giggle to yourself as both wolves thrust into your hands as you stroke them, they're so eager!",
+        "You give both cocks a squeeze, delighting in the whimper the wolves let out. They're both so hard, which one should you let {FUCK} you?",
+        "You feel your {PUSSY} twitch as you stroke both their {COCK}s... It's such a shame you can't just have both up there at once.",
+        "Although you enjoy the control you have over both these wolves, a part of you wishes they'd just turn around and ravage you.",
+        "Gods, they're both so hard, how do you chose between them? Or could you take both at once...?",
+        "You can feel your {CREAM} dripping onto the ground... it's no longer a matter of which to let fuck you, it's which will fuck you first."
+    ],
+    "3rd Person": [
+        "{PRIMARY} giggles to yourself as both wolves thrust into her hands as she strokes them, they're so eager!",
+        "{PRIMARY} gives both cocks a squeeze, delighting in the whimper the wolves let out. They're both so hard, which one should {PRIMARY} let {FUCK} her?",
+        "{PRIMARY} feels her {PUSSY} twitch as she strokes both their {COCK}s... It's such a shame {PRIMARY} can't just have both up there at once.",
+        "Although {PRIMARY} enjoys the control she has over both these wolves, a part of her wishes they'd just turn around and ravage her.",
+        "Gods, they're both so hard, how does {PRIMARY} chose between them? Or could she take both at once...?",
+        "{PRIMARY} can feel her {CREAM} dripping onto the ground... it's no longer a matter of which to let fuck her, it's which will fuck her first."
+    ]
+}

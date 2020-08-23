@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "Reluctantly, I break the kiss and look into {ACTIVE}'s eyes. I just stare at him, panting and {HORNY}.",
+        "Mmmm... {SWEARING}... Could you... {FUCK} me? Please...? You can do it in any {HOLE}...",
+        "He's going to try to {FUCK} me... And I'm going to let him...",
+        "Whatever you want to do next, I won't say no...",
+        "My heart is racing. I'm hot and frisky and feeling good.",
+        "I'm beside myself with {LUST} now, desperate to climb onto {ACTIVE}'s {COCK}, and he knows it.",
+        "I can feel your {MAROUSAL} {COCK}... Would you like to go a little further...?",
+        "{ACTIVE} must surely be able to feel my erect nipples and {FAROUSAL} {PUSSY}..."
+    ],
+    "2nd Person" :
+    [
+        "Reluctantly, you break the kiss and look into {ACTIVE}'s eyes. You just stare at him, panting and {HORNY}.",
+        "({PRIMARY}) Mmmm... {SWEARING}... Could you... {FUCK} me? Please...? You can do it in any {HOLE}...",
+        "He's going to try to {FUCK} you... And you're going to let him...",
+        "({PRIMARY}) Whatever you want to do next, I won't say no...",
+        "Your heart is racing. You're hot and frisky and feeling good.",
+        "You're beside yourself with {LUST} now, desperate to climb onto {ACTIVE}'s {COCK}, and he knows it.",
+        "({PRIMARY}) I can feel your {MAROUSAL} {COCK}... Would you like to go a little further...?",
+        "{ACTIVE} must surely be able to feel your erect nipples and {FAROUSAL} {PUSSY}..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} and {ACTIVE} break the kiss and stare intensely into each other's eyes.",
+        "As they both stare at each other, panting and hungry, it's obvious that they're going to fuck."
+    ]
+}

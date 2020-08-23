@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "Before I knew it, {ACTIVE} was on top of me, prodding and finding a way in my {MOUTH} with its {VILE} {COCK}.",
+        "I stare up only to see its {PENIS} erect. I invite its {VILE} {CUM} in my {MOUTH}.",
+        "I lie down with my {MOUTH} open, feeling {ACTIVE}'s tip, I proceed to welcome its {SALTY} member.",
+        "{ACTIVE} slowly explores my body and feels my mouth. I wrap my tongue around it as it goes in.",
+        "This oversized rat's {COCK} smells bad, but the poor thing must be in need of a release, It's desperately pushing inside my {MOUTH}",
+        "My legs were open for its {VILE} {COCK}, it seems he had another plans as it penetrates my {MOUTH}.",
+        "Is it already {CUMMING}? What is this {SALTY} aroma? It's {MAROUSAL} {COCK} is covered in this slime.",
+        "{ACTIVE} doesn't lose time, it must be dying for {CUMMING} in my {MOUTH}",
+        "As I relish the taste of its {MAROUSAL} {COCK}, {ACTIVE} also savors the pleasure of having my lips wrapped around its {PENIS}."        
+    ],
+    "2nd Person" :
+    [
+        "Before you knew it, {ACTIVE} was on top of you, prodding and finding a way in your {MOUTH} with its {VILE} {COCK}.",
+        "You stare up only to see its {PENIS} erect. You invite its {VILE} {CUM} in your {MOUTH}.",
+        "{ACTIVE} slowly explores your body and feels your mouth. You wrap your tongue around it as it goes in.",
+        "This oversized rat's {COCK} smells bad, but the poor thing must be in need of a release, It's desperately pushing inside your {MOUTH}",
+        "Your legs were open for its {VILE} {COCK}, it seems he had another plans as it penetrates your {MOUTH}.",
+        "Is it already {CUMMING}? What is that {SALTY} aroma? It's {COCK} is covered in this slime.",
+        "{ACTIVE} doesn't lose time, it must be dying for {CUMMING} in your {MOUTH}",
+        "As You relish the taste of its {COCK}, {ACTIVE} also savors the pleasure of having your lips wrapped around its {PENIS}." 
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} finds herself clogged up and trying to breathe as {ACTIVE} fills her {MOUTH}",
+        "{ACTIVE} gets on top of {PRIMARY} and begins to feel her lips with slow thrusts."
+    ]
+}

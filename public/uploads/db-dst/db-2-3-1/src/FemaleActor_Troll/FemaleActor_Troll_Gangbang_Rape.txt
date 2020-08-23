@@ -1,0 +1,19 @@
+{
+    "1st Person" :
+    [
+        "{SWEARING}...these {ACTIVE} {COCK}s are {HUGE}...this can't be happening!",
+	"The {ACTIVE}s are pushing me down...wait...they can't want...to jam their {COCK}s inside me...?",
+	"I shouldn't have come out here. These {HUGE}, {BEASTLY} {COCK}s are about to completely fill my {HOLE}s."
+    ],
+    "2nd Person" :
+    [
+        "{SWEARING}...these {ACTIVE} {COCK}s are {HUGE}...this can't be happening!",
+	"The {ACTIVE}s are pushing you down...wait...they can't want...to jam their {COCK}s inside you...?",
+	"You shouldn't have come out here. These {HUGE}, {BEASTLY} {COCK}s are about to completely fill your {HOLE}s."
+    ],
+    "3rd Person" :
+    [
+	"The {ACTIVE}s are pushing her down...wait...they can't want...to jam their {COCK}s inside her...?",
+	"She shouldn't have come out here. These {HUGE}, {BEASTLY} {COCK}s are about to completely fill her {HOLE}s."
+    ]
+}

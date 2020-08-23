@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "I wrap my legs around the brute, pulling its {BEAST} {COCK} all the way inside me. I let myself fall back, moaning.",
+        "I lock my ankles around the creature, eager to feel its {COCK} all the way inside me, in my womb.",
+        "Aaahh... Mmmm... Oh my... this is so good... Fuck me! Cum in me! Get me pregnant! I want it all!",
+        "It's fucking me so hard, so roughly... It's so sexy...",
+        "I'm literally hanging from a monstrous beast's {COCK}, and I love it!"
+    ],
+    "2nd Person" :
+    [
+        "You wrap your legs around the brute, pulling its {BEAST} {COCK} all the way inside you. You let yourself fall back, moaning.",
+        "You lock your ankles around the creature, eager to feel its {COCK} all the way inside you, in your womb.",
+        "({PRIMARY}) Aaahh... Mmmm... Oh my... this is so good... Fuck me! Cum in me! Get me pregnant! I want it all!",
+        "It's fucking you so hard, so roughly... It's so sexy...",
+        "You're literally hanging from a monstrous beast's {COCK}, and you love it!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} wraps her legs around the brute, pulling its {BEAST} {COCK} all the way inside her.",
+        "{PRIMARY} locks her ankles around the creature. Is she afraid of falling? Or does she just want to be fucked deep?",
+        "The {ACTIVE} begins to growl with each thrust, plunging in even more forcefully."
+    ]
+}

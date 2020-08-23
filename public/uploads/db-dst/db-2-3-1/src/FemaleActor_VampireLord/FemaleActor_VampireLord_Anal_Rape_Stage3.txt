@@ -1,0 +1,37 @@
+{
+    "1st Person": [
+        "The {MONSTER} pulls my {ASSHOLE} even higher, {FUCK}ing me even more deeply as I scrabble at the ground.",
+        "The cool ground under my palms is not indifferent to the cold {COCK} between my {BUTTOCKS}.",
+        "My knees slide further apart as more weight is shifted onto my {ASSHOLE}. {SWEARING}, it's so deep...",
+        "I feel a penetrating magical energy flow through me, and I feel my {FLESH} flush with {LUST}.",
+        "Images of myself {SUCK}ing and {FUCK}ing the demon assault my mind, unnaturally arousing me.",
+        "My mind fills with visions, an eternity of being {FUCK}ed and {RAP}ed in inhuman, impossible ways.",
+        "As the {ACTIVE} {FUCK}s into my {ASSHOLE}, my {PUSSY} aches jealously.",
+        "I fight the waves of {LUST} and struggle to keep my mind clear.",
+        "My clit throbs madly and my {PUSSY} gapes, streams of my {CREAM} running down my thighs.",
+        "I'm completely lost to my {LUST} now, and I'm {FUCK}ing back against the monster's {COCK} {ROUGH}ly.",
+        "I {SCREAM} {LEWD}ly with each thrust, hips squeezing around the {BEASTLY} {COCK}.",
+        "The vampire's heavy {BALLS} slap into my {PUSSY} over and over. Soon their contents will be inside me."
+    ],
+    "2nd Person": [
+        "The {MONSTER} pulls your ass even higher, {FUCK}ing you even more deeply as you scrabble at the ground.",
+        "The cool ground under your palms is not indifferent to the cold {COCK} between your {BUTTOCKS}.",
+        "Your knees slide further apart as more weight is shifted onto your {ASSHOLE}. {SWEARING}, it's so deep...",
+        "You feel a penetrating magical energy flow through you, and you feel your {FLESH} flush with {LUST}.",
+        "Images of yourself {SUCK}ing and {FUCK}ing the demon assault your mind, unnaturally arousing you.",
+        "Your mind fills with visions, an eternity of being {FUCK}ed and {RAP}ed in inhuman, impossible ways.",
+        "As the {ACTIVE} {FUCK}s into your {ASSHOLE}, your {PUSSY} aches jealously.",
+        "You fight the waves of {LUST} and struggle to keep your mind clear.",
+        "Your clit throbs madly and your {PUSSY} gapes, streams of your {CREAM} running down your thighs.",
+        "You're completely lost to your {LUST} now, and you're {FUCK}ing back against the monster's {COCK} {ROUGH}ly.",
+        "You {SCREAM} {LEWD}ly with each thrust, hips squeezing around the {BEASTLY} {COCK}.",
+        "The vampire's heavy {BALLS} slap into your {PUSSY} over and over. Soon their contents will be inside you."
+    ],
+    "3rd Person": [
+        "The {MONSTER} pulls {PRIMARY}'s ass even higher, {FUCK}ing her even more deeply as she scrabbles at the ground.",
+        "{PRIMARY}'s knees slide further apart as more weight is shifted onto her {ASSHOLE}. {SWEARING}, it's so deep...",
+        "Images spring to mind of {SUCK}ing and {FUCK}ing the demon, bringing unnatural arousal.",
+        "Visions spring to mind, an eternity of being {FUCK}ed and {RAP}ed in inhuman, impossible ways.",
+        "{PRIMARY} fights the waves of {LUST} and struggle to keep her mind clear."
+    ]
+}

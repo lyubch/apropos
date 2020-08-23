@@ -1,0 +1,56 @@
+{
+    "1st Person" :
+    [
+        "Mouth open and eyes closed, I vigorously wank the {ACTIVE} off into my face.",
+        "A huge torrent of {SLOPPY} {CUM} washes over me, coating my face and {BOOBS}.",
+        "My head bobs and I take a jet of {CUM} down my gullet, before pulling away and taking the next in my face.",
+        "I swallow as fast as I can, but there's so much {THICK} {CUM} that I can't gulp it all down.",
+        "Pump after pump he pushes into my {MOUTH}, {JUICY} gooey {CUM}.",
+        "I feel his {JUICY} {CUM} slip down my throat as I try to swallow and keep up with it.",
+        "I squeal at the thrill of having this {TASTY} {COCK} spurt {CUM} in my {MOUTH}.",
+        "Ribbons of {JUICY} {CUM} overflows my lips, running down the stallion's cockshaft and down my arm and chin.",
+        "A huge amount of {JUICY} {CUM} streams from my chin, and {THICK} drops splash on my {BOOBS}.",
+        "The stallion cums hard in my {MOUTH}. I can't take it all, and I cough up huge {JUICY} pools of the stuff.",
+        "Closing my eyes, the huge animal cums in my face. I'm completely drenched, my face plastered in white.",
+        "The {THICK} {CUM} showers my body, thickly flowing down my chest, between my {BOOBS} and to my {PUSSY}.",
+        "Streams of {CUM} drip down my chest, past my belly button, and down to my open {PUSSY}.",
+        "Oh! There's so much {CUM}! The smell is making me so horny...",
+        "Oh wow! That taste is making me dizzy... The {CUM} tastes even better than its {COCK}!",
+        "Yes! Yes! Ooohh! I can't stop cumming! Every time I swallow a load, I cum!",
+        "Oh! I think I came a little there! All this {CUM} is making me hornier!",
+        "The stream of {CUM} seems never ending, as I drink down as much of the {JUICY} slime as I can...",
+        "Oh fuck, I can't wait to feel what that's like in my {PUSSY}!",
+        "Huge gushes of {CUM} drench my face, filling my mouth and going up my nose."
+    ],
+    "2nd Person" :
+    [
+        "Mouth open and eyes closed, you vigorously wank the {ACTIVE} off into your face.",
+        "A huge torrent of {SLOPPY} {CUM} washes over you, coating your face and {BOOBS}.",
+        "You take a jet of {CUM} down your gullet, before pulling away and taking the next in your face.",
+        "You swallow as fast as you can, but there's so much {THICK} {CUM} that you can't gulp it all down.",
+        "Pump after pump he pushes into your {MOUTH}, {JUICY} gooey {CUM}.",
+        "You feel his {JUICY} {CUM} slip down your throat as you try to swallow and keep up with it.",
+        "You squeal at the thrill of having this {TASTY} {COCK} spurt {CUM} in your {MOUTH}.",
+        "Ribbons of {JUICY} {CUM} overflow your lips, running down the cockshaft and down your arm and chin.",
+        "A huge amount of {JUICY} {CUM} streams from your chin, and {THICK} drops splash on your {BOOBS}.",
+        "The stallion cums hard in your {MOUTH}. You can't take it all, and you cough up huge pools of the stuff.",
+        "Closing your eyes, the animal cums in your face. You're completely drenched, your face plastered in white.",
+        "The {SLOPPY} {CUM} showers your body, flowing down your chest, between your {BOOBS} and to your {PUSSY}.",
+        "Streams of {CUM} drip down your chest, past your belly button, and down to your open {PUSSY}.",
+        "Oh! There's so much {CUM}! The smell is making you so horny...",
+        "Oh wow! That taste is making you dizzy... The {CUM} tastes even better than its {COCK}!",
+        "Yes! Yes! Ooohh! you can't stop cumming! Every time you swallow a load, you cum!",
+        "Oh! You think you came a little there! All this {CUM} is making you hornier!",
+        "The stream of {CUM} seems never ending, as you drink down as much of the {JUICY} slime as you can...",
+        "Oh fuck, you can't wait to feel what that's like in your {PUSSY}!",
+        "Huge gushes of {CUM} drench your face, filling your mouth and going up your nose."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} vigorously wanks off the {ACTIVE} onto her face and {BOOBS}.",
+        "Oh wow! So much {CUM}! {PRIMARY} is drenched.",
+        "{PRIMARY} gulps down as much as she can, but the huge quantities of {CUM} flow down her chest.",
+        "The {ACTIVE}'s cumshot instantly fills {PRIMARY}'s {MOUTH}, with more erupting all over her face.",
+        "There's so much {SLOPPY} {CUM}, all over {PRIMARY} and the ground. The smell is intoxicating."
+    ]
+}

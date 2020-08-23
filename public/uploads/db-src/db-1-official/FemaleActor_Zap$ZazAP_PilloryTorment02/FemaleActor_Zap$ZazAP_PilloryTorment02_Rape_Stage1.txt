@@ -1,0 +1,35 @@
+{
+    "1st Person" :
+    [
+        "I can't move while shackled like this. All I can do is try hard to take this bastard's abuse.",
+        "I feel a hand press down firmly on my back, holding me in place while another punishes my ass.",
+        "Oh Gods, this is so humiliating, being chained up and spanked like this, completely on display!",
+        "({ACTIVE}) You been a bad little {BITCH}, huh? This is my kind of justice...",
+        "I'm being spanked hard from behind, my body jerking painfully into my bonds every time he strikes me.",
+        "({PRIMARY}) Ahh... Please... please show mercy! Ah! Ow! Oh Gods, please! Ah! You bastard!",
+        "I feel hands roughly groping and stroking my exposed backside. I start to feel afraid...",
+        "I'm trembling with fear, but the anticipation and the helplessness starts to make me wet.",
+        "I'm completely exposed and helpless, he can do anything he wants to me and I can't stop him...",
+        "I flush with embarrassment as he starts to spank me, as if I was a badly behaved child!"        
+    ],
+    "2nd Person" :
+    [
+        "You can't move while shackled like this. All you can do is try hard to take this bastard's abuse.",
+        "You feel a hand press down firmly on your back, holding you in place while another punishes your ass.",
+        "Oh Gods, this is so humiliating, being chained up and spanked like this, completely on display!",
+        "({ACTIVE}) You been a bad little {BITCH}, huh? This is my kind of justice...",
+        "You're being spanked hard from behind, your body jerking painfully into your bonds every time he strikes you.",
+        "({PRIMARY}) Ahh... Please... please show mercy! Ah! Ow! Oh Gods, please! Ah! You bastard!",
+        "You feel hands roughly groping and stroking your exposed backside. You start to feel afraid...",
+        "You're trembling with fear, but the anticipation and the helplessness starts to make you wet.",
+        "You're completely exposed and helpless, he can do anything he wants to you and you can't stop him...",
+        "You flush with embarrassment as he starts to spank you, as if you were a badly behaved child!"
+    ],
+    "3rd Person" :
+    [
+        "Chained up and unable to move, {PRIMARY} can do nothing to stop {ACTIVE} abusing her.",
+        "{ACTIVE} laughs as he spanks {PRIMARY}, clearly enjoying his power over her.",
+        "({ACTIVE}) This turning you on, huh {BITCH}? Maybe you'd like a turn?",
+        "{PRIMARY} is held firmly, {ACTIVE} spanking her like she was a child. That's so demeaning..."
+    ]
+}

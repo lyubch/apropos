@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "By the gods! I can feel {ACTIVE}'s balls hitting my {FAROUSAL} {PUSSY}'s lips! Is he that inside of me!? Am I taking all of its {VILE} {COCK}!?",
+        "The {ACTIVE} is {FUCKING} me uncontrollably! Is it going to cum!? Surely it won't cum inside my {PUSSY}.",
+        "I am literally getting pounded by a rat, and I am loving this.",
+        "It goes faster and deeper and gets larger inside me, I feel its {COCK} in every inch inside of me now.",
+	"I can't see its {MAROUSAL} {COCK} anymore, It shoved it all the way inside me.",
+        "Keep {FUCKING}, don't stop, I can feel your bulge getting larger, you are almost there.",
+        "Ahh, you are touching my womb, now its time to fill there with your {VILE} {CUM}",
+        "My, you are getting larger there, ah yes, do it then, dump your {CUM} in my {FAROUSAL} {PUSSY}, release it all and relieve yourself inside me.",
+        "{ACTIVE} is out of control, its only purpose is to breed me right here right now.",
+	"It's entire shaft is buried inside, {ACTIVE} is ravaging my {PUSSY} and I am in love with its {VILE} {COCK}."        
+    ],
+    "2nd Person" :
+    [
+        "You can feel {ACTIVE}'s balls hitting your {FAROUSAL} {PUSSY}'s lips! Is he that inside of you? Are you taking all of its {VILE} {COCK}!?",
+        "The {ACTIVE} is {FUCKING} you uncontrollably! Is it going to cum!? Surely it won't cum inside your {PUSSY}.",
+        "You are literally getting pounded by a rat, and loving this.",
+        "It goes faster and deeper and gets larger inside you, you feel its {COCK} in every inch inside of you now.",
+	"You can't see its {COCK} anymore, It shoved it all the way inside you.",
+        "{ACTIVE} is out of control, its only purpose is to breed you right here right now.",
+	"It's entire shaft is buried inside, {ACTIVE} is ravaging your {PUSSY} and you are in love with its {VILE} {COCK}."      
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE}'s bulge is getting visibly larger, it is about to fill {PRIMARY}'s {PUSSY} with its {VILE} {CUM}.",
+        "{ACTIVE} loses itself in a euphoric pleasure and {FUCKS} {PRIMARY} hard.",
+	"{PRIMARY}'s {PUSSY} is clogged up as {ACTIVE} shoves its bulge, keeping all of {ACTIVE}'s goo and precum inside her."
+    ]
+}

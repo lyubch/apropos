@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "{PRIMARY} bursts into tears as I start pushing my hand into her {PUSSY}.",
+        "I spread {PRIMARY}'s lips apart and open up her {PUSSY}. I wonder how much she can take...",
+        "{PRIMARY} is shaking in terror, but she keeps her legs spread like a good {BITCH}."
+    ],
+    "2nd Person": [
+        "{PRIMARY} bursts into tears as you start pushing your hand into her {PUSSY}.",
+        "You spread {PRIMARY}'s lips apart and open up her {PUSSY}. You wonder how much she can take...",
+        "{PRIMARY} is shaking in terror, but she keeps her legs spread like a good {BITCH}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} holds her body up on her hands, staring straight up, trying to ready her body for this ordeal.",
+        "{PRIMARY} doesn't even look at the {ACTIVE}, sobbing as his hand begins to part her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY}'s legs are spread wide, hoping this will make it easier to take, but it still hurts.",
+        "{PRIMARY} gasps as {ACTIVE} tries to force his whole hand inside her.",
+        "{PRIMARY} timidly thrusts back herself as he begins, trying to take control rather than let him force her.",
+        "({PRIMARY}) Ohhh! Please don't.... huuugh... you can't do this! Aahhhh! I can't do this!"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "1st Person" :
+    [
+        "Pain shoots through me as I'm sharply impaled all the way on the {ACTIVE}'s {BEAST} {COCK}.",
+        "I fill with fear each time I'm slowly dragged up the {ACTIVE}'s {PENIS}, before being slammed down each time.",
+        "I shriek, eyes wide open in panic as I'm slammed down hard, balls deep on a {ACTIVE}'s {COCK}.",
+        "I moan and sob as the {ACTIVE}'s {BEAST} {PENIS} fucks straight through my cervix, pounding my womb.",
+        "Oh my goodness, the thing's balls deep! The head must be in my throat by now!",
+        "After what seemed like an age of slowly sliding down the {BEAST} {PENIS}, my thighs touch its balls.",
+        "I felt the touch of the creature's ball sack, its {PENIS} right up inside me.",
+        "The {ACTIVE}'s load is released from my {PUSSY} in an cascade of {THICK} white {CUM}.",
+        "My {PUSSY} is too small to take so much {CUM}, and it rushes like a waterfall down my legs.",
+        "I'm positive I can feel my stomach start to bloat from the mass of {CUM} building up inside of me.",
+        "My belly begins to swell and bulge as the {ACTIVE} pumps litres of {CUM} into me.",
+        "Each pulsing blast of {CUM} is answered by a matching torrent of {CUM} that sprays from my {PUSSY}.",
+        "So much {CUM} is flowing from me, down my legs and off my feet, puddling on the ground.",
+        "As the {ACTIVE} finishes I can feel his {CUM} sloshing around in my womb."        
+    ],
+    "2nd Person" :
+    [
+        "Pain shoots through you as you're sharply impaled all the way on the {ACTIVE}'s {BEAST} {COCK}.",
+        "You fill with fear each time you're slowly dragged up the {ACTIVE}'s {PENIS}, before being slammed down each time.",
+        "You shriek, eyes wide open in panic as you're slammed down hard, balls deep on a {ACTIVE}'s {COCK}.",
+        "You moan and sob as the {ACTIVE}'s {BEAST} {PENIS} fucks straight through your cervix, pounding your womb.",
+        "Oh my goodness, the thing's balls deep! The head must be in your throat by now!",
+        "After what seemed like an age of slowly sliding down the {BEAST} {PENIS}, your thighs touch its balls.",
+        "You felt the touch of the creature's ball sack, its {PENIS} right up inside you.",
+        "The {ACTIVE}'s load is released from your {PUSSY} in an cascade of {THICK} white {CUM}.",
+        "Your {PUSSY} is too small to take so much {CUM}, and it rushes like a waterfall down your legs.",
+        "You're positive you can feel your stomach start to bloat from the mass of {CUM} building up inside of you.",
+        "Your belly begins to swell and bulge as the {ACTIVE} pumps litres of {CUM} into you.",
+        "Each pulsing blast of {CUM} is answered by a matching torrent of {CUM} that sprays from your {PUSSY}.",
+        "So much {CUM} is flowing from you, down your legs and off your feet, puddling on the ground.",
+        "As the {ACTIVE} finishes you can feel his {CUM} sloshing around in your womb."
+    ],
+    "3rd Person" :
+    [
+        "Just as {PRIMARY} is pulled right down to the base, the {ACTIVE}'s balls leap, signalling its own climax.",
+        "A strangled moan escapes from {PRIMARY} as the {ACTIVE} brutally fucks his whole {PENIS} into her.",
+        "That looks like it must hurt... Tears, sweat and {CUM} drip from {PRIMARY}'s battered body."
+    ]
+}

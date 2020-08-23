@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Sliding underneath the wolf, I find myself face to face with his {MAROUSAL} length. I better get to work quick before he loses patience.",
+        "He watches me curiously as I slide myself between his legs, holding still for me as I gently bring my mouth to his tip.",
+        "Amazed at his obedience as I guide him over me, I quickly take his tip between my lips as a reward.",
+        "Gently cupping his balls to still his squirming, I raise my mouth to his {PENIS}, licking the pre-cum from his tip before taking him in.",
+        "I quickly start bobbing my head over his throbbing tip, already well acquainted with how to get a wolf off.",
+        "I moan around his {COCK}'s tip, impressed with myself that I've manage to tame one of Skyrim's savage beasts."
+    ],
+    "2nd Person": [
+        "Sliding underneath the wolf, you find yourself face to face with his {MAROUSAL} length. No time to waste...",
+        "He watches you curiously as you slide yourself between his legs, holding still for you as you gently bring your mouth to his tip.",
+        "Amazed at his obedience as you guide him over you, you quickly take his tip between your lips as a reward.",
+        "Gently cupping his balls to still his squirming, you raise your mouth to his {PENIS}, licking the pre-cum from his tip before taking him in.",
+        "You quickly start bobbing your head over his throbbing tip, already well acquainted with how to get a wolf off.",
+        "You moan around his {COCK}'s tip, impressed with yourself that you've manage to tame one of Skyrim's savage beasts."
+    ],
+    "3rd Person": [
+        "Sliding underneath the wolf, {PRIMARY} finds herself face to face with his {MAROUSAL} length. No time to waste...",
+        "He watches {PRIMARY} curiously as she slides herself between his legs, holding still for her as she gently bring her mouth to his tip.",
+        "Amazed at his obedience as {PRIMARY} guides him over her, she quickly takes his tip between her lips as a reward.",
+        "Gently cupping his balls to still his squirming, {PRIMARY} raises her mouth to his {PENIS}, licking the pre-cum from his tip before taking him in.",
+        "{PRIMARY} quickly starts bobbing her head over his throbbing tip, already well acquainted with how to get a wolf off.",
+        "{PRIMARY} moans around his {COCK}'s tip, impressed with herself that she's manage to tame one of Skyrim's savage beasts."
+    ]
+}

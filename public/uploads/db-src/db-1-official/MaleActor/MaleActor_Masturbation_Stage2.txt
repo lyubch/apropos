@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "Hunching over and bending my knees, I start to work the entire shaft.",
+        "This'd be a lot better with some little {BITCH}'s lips wrapped around it...",
+        "I start imagining a certain {BITCH}... I bet she squeals when she's fucked..."
+    ],
+    "2nd Person": [
+        "Hunching over and bending your knees, you start to work the entire shaft.",
+        "This'd be a lot better with some little {BITCH}'s lips wrapped around it...",
+        "You start imagining a certain {BITCH}... You bet she squeals when she's fucked..."
+    ],
+    "3rd Person": [
+        "{ACTIVE} hunches over, knees bent. He's putting in so much effort, it looks painful.",
+        "Does {ACTIVE} really want to just wank himself off? Maybe he'd be open to offers...",
+        "{ACTIVE} is working his entire shaft between his tight fist. It's mesmerizing...",
+        "Wouldn't it be better if all that work was going into some young {BITCH}'s {PUSSY}?"
+    ]
+}

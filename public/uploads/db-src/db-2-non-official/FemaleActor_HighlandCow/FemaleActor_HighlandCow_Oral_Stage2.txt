@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "Ah ah ah ah! I'm starting to get really close, my clit is so sensitive! I'm going to cum soon...",
+        "I buck and rise a little, the pressure on my clit becoming too much for a moment.",
+        "Mmmm... Her tongue is so deep inside me, {EXPLOR}ing into my {FAROUSAL} {PUSSY}...",
+        "I do nothing to cover up, and just leave my {HEAVING} {BOOBS} and nipples completely {NUDE}.",
+        "I guess I'm the entertainment for tonight, and now everyone is seeing my {HEAVING} {BOOBS} and nipples.",
+        "I let them have a good long look at my {HEAVING} {BOOBS}, and they all see my {PUSSY} too!",
+        "I feel like I'm putting on a show.",
+        "Perhaps... ahh! Perhaps she thinks if she makes me cum, I'll be her little pet? Ahhhh!",
+        "Naked and with my {BOOBS} pushed out, all of my feminine charms are completely {DISPLAY}ed."   
+    ],
+    "2nd Person" :
+    [
+        "Ah ah ah ah! You're starting to get really close, your clit is so sensitive! You're going to cum soon...",
+        "You buck and rise a little, the pressure on your clit becoming too much for a moment.",
+        "Mmmm... Her tongue is so deep inside you, {EXPLOR}ing into your {FAROUSAL} {PUSSY}...",
+        "You do nothing to cover up, and just leave your {HEAVING} {BOOBS} and nipples completely {NUDE}.",
+        "You let them have a good long look at your {HEAVING} {BOOBS}, and they all see your {PUSSY} too!",
+        "You feel like you're putting on a show.",
+        "Perhaps... ahh! Perhaps she thinks if she makes you cum, you'll be her little pet? Ahhhh!",
+        "Naked and with your {BOOBS} pushed out, all of your feminine charms are completely {DISPLAY}ed."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s {CREAM} is coating {ACTIVE}'s face as she {INSERT}s her tongue inside her.",
+        "{PRIMARY}'s starting to buck a little now, {ACTIVE} must be really hitting the right spots.",
+        "{PRIMARY}'s puffy nipples are hard and stand out tantalizingly from her {HEAVING} {BOOBS}."
+    ]
+}

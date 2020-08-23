@@ -1,0 +1,27 @@
+{
+    "1st Person":
+    [
+        "I took a {HUGELOAD} load of {CUM} from {ACTIVE} in my {MOUTH}!",
+	"{SWEARING}! The {CUM} keeps {EJACULATE}ing out of his {COCKHEAD}! Guess I can skip my next meal!",
+	"{SWEARING}, how long has it been for him? My cheeks bulge as I struggle to retain his load in my {MOUTH}.",
+	"({ACTIVE}) That's right...I've been saving that load for days...swallow it all you stupid fucking {BITCH}.",
+	"{ACTIVE} is {MOAN}ing, and then my {MOUTH} is beyond full and there's {CUM} everywhere.",
+	"With the amount of {CUM} that just {EJACULATE}ed out of this {COCK}, there's nothing I can say but 'thank you'."
+    ],
+    "2nd Person":
+    [
+        "You took a {HUGELOAD} load of {CUM} from {ACTIVE} in your {MOUTH}!",
+	"{SWEARING}! The {CUM} keeps {EJACULATE}ing out of his {COCKHEAD}! Guess you can skip your next meal!",
+	"{SWEARING}, how long has it been for him? Your cheeks bulge as you struggle to retain his load in your {MOUTH}.",
+	"({ACTIVE}) That's right...I've been saving that load for days...swallow it all you stupid fucking {BITCH}.",
+	"{ACTIVE} is {MOAN}ing, and then your {MOUTH} is beyond full and there's {CUM} everywhere.",
+	"With the amount of {CUM} that just {EJACULATE}ed out of this {COCK}, there's nothing you can say but 'thank you'."
+    ],
+    "3rd Person":
+    [
+        "{PRIMARY} took a {HUGELOAD} load of {CUM} from {ACTIVE} in her {MOUTH}!",
+	"You watch as she swallows the load. Then swallows again. And again...and again?",
+	"{SWEARING}, how long has it been for him? Her cheeks bulge as she struggles to retain his load in her {MOUTH}.",
+	"({ACTIVE}) That's right...I've been saving that load for days...swallow it all you stupid fucking {BITCH}."
+    ]
+}

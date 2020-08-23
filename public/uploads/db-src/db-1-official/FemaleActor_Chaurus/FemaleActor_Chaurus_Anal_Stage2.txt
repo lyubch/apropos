@@ -1,0 +1,44 @@
+{
+    "1st Person": [
+        "The bug pushes its {BUGCOCK} deeper down my throat. I moan approvingly.",
+        "(gulp) It's hard to breathe like this! But its {BEAST} {BUGCOCK} sliding down my throat feels so wild!",
+        "The bug pushes its {BUGCOCK} deeper down my throat. I can't breathe...",
+        "Yet more {BUGCOCK} enters me, and my face gets closer to the beast's pelvis. Can I really take it all?",
+        "The constant probing and wet dripping against my {PUSSY} is maddening.",
+        "Ugh! Ewww! The {COCK} is revolting... Warm and slimy, and with a horrible taste...",
+        "I feel the strong muscles inside the {BUGCOCK} inside me rubbing against the walls of my throat.",
+        "I become aware that there's little chance of it pulling out when I want, and I start to panic.",
+        "I feel the {ACTIVE}'s maw start to lap at my crotch, coating it with sticky fluid.",
+        "I can't see what's the beast is doing to my {PUSSY}, but I can feel it's doing something inside of me...",
+        "I can hear the falmer in the shadows, waiting for their turn. The thought of them having me too...",
+        "Every so often my erect nipples drag on the underside of the bug, sending maddening tingles to my {PUSSY}."
+    ],
+    "2nd Person": [
+        "The bug pushes its {BUGCOCK} deeper down your throat. You moan approvingly.",
+        "(gulp) It's hard to breathe like this! But its {BEAST} {BUGCOCK} sliding down your throat feels so wild!",
+        "The bug pushes its {BUGCOCK} deeper down your throat. You can't breathe...",
+        "Yet more {BUGCOCK} enters you, and your face gets closer to the beast's pelvis. Can you really take it all?",
+        "The constant probing and wet dripping against your {PUSSY} is maddening.",
+        "Ugh! Ewww! The {COCK} is revolting... Warm and slimy, and with a horrible taste...",
+        "You feel the strong muscles inside the {BUGCOCK} inside you rubbing against the walls of your throat.",
+        "You become aware that there's little chance of it pulling out when you want, and you start to panic.",
+        "You feel the {ACTIVE}'s maw start to lap at your crotch, coating it with sticky fluid.",
+        "You can't see what's the beast is doing to your {PUSSY}, but you can feel it's doing something inside...",
+        "You can hear the falmer in the shadows, waiting for their turn. The thought of them having you too...",
+        "Every so often your erect nipples drag on the underside of the bug, sending maddening tingles to your {PUSSY}."
+    ],
+    "3rd Person": [
+        "The bug pushes its {BUGCOCK} deeper down her throat. {PRIMARY} moans approvingly.",
+        "It's hard to breathe like that! But its {BEAST} {BUGCOCK} sliding down {PRIMARY}'s throat feels so wild!",
+        "The bug pushes its {BUGCOCK} deeper down her throat. {PRIMARY} can't breathe...",
+        "More {BUGCOCK} enters her, and her face gets closer to the beast's pelvis. Can {PRIMARY} really take it all?",
+        "The constant probing and wet dripping against {PRIMARY}'s {PUSSY} is maddening.",
+        "Ugh! Ewww! The {COCK} is revolting... Warm and slimy, and with a horrible taste...",
+        "{PRIMARY} feels the strong muscles inside the {BUGCOCK} inside her rubbing against the walls of her throat.",
+        "{PRIMARY} becomes aware that there's little chance of it pulling out when she wants, and starts to panic.",
+        "{PRIMARY} feel the {ACTIVE}'s maw start to lap at her crotch, coating it with sticky fluid.",
+        "{PRIMARY} can't see what's the beast is doing to her {PUSSY}, but she can feel it's doing something inside...",
+        "{PRIMARY} can hear the falmer in the shadows, waiting for their turn. The thought of them having her too...",
+        "Every so often her erect nipples drag on the underside of the bug, sending maddening tingles to her {PUSSY}."
+    ]
+}

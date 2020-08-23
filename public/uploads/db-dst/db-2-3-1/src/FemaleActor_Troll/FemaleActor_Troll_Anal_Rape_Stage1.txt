@@ -1,0 +1,54 @@
+{
+    "1st Person" :
+    [
+        "The huge {MONSTER} pins me to the ground, with a clear intent to have its way with me.",
+        "Shrieking and fighting, I'm beaten to the ground before a {BEASTLY} {COCK} splits my {ASSHOLE}.",
+        "I can't beat it... Maybe I have to use my other 'talents' to subdue it...",
+        "As the hulking {MONSTER} mounts me I {SCREAM} in panic, its {HUGE} {BEASTLY} {COCK} pushed between my {BUTTOCKS}.",
+        "With its powerful arms the {MONSTER} pulled me down, impaling my {ASSHOLE} on its {HUGE} {BEASTLY} {COCK}.",
+        "No... it won't fit... The {ACTIVE}'s {BEASTLY} {COCK} stretches me going in.",
+        "My heart is racing, I can't escape, this {ACTIVE} can do whatever it wants to me.",
+        "I {SCREAM} as I am impaled on the {ACTIVE}, I didn't know I could take so much {COCK}.",
+        "I'm paralysed with {FEAR} as the {ACTIVE} descends on me, feeling sick at what is about to happen.",
+        "I'm bruised and {NUDE}, about to be {ROUGH}ly {RAP}ed by a {MONSTER}. Then why am I {FAROUSAL}?",
+        "I can only {MOAN} in {FEAR} as I feel the {BEASTLY} {COCK} align with my {WTANAL} {ASSHOLE}.",
+        "I spread my {BUTTOCKS}. I guess whatever it takes to keep it from killing me, right?",
+        "If it's gonna {RAP}e me, I don't want its {CUM} in my {PUSSY}... I spread my {BUTTOCKS} apart, {DISPLAY}ing my {ASSHOLE}.",
+        "{SWEARING}, it's in my {ASSHOLE}! Where did a troll learn to do that?!",
+        "I let out a {LEWD} {SCREAM} as I am {RAP}ed on the {MONSTER}'s {COCK}.",
+        "A tortured {SCREAM} escapes my lips as the {ACTIVE} {ROUGH}ly spreads my {BUTTOCKS} and {FUCK}s its {COCK} into me.",
+        "I squawk out loud in genuine alarm as the {BEASTLY} {COCKHEAD} {PENETRAT}es into me like it's about to split me in two."
+    ],
+    "2nd Person" :
+    [
+        "The huge {MONSTER} pins you to the ground, with a clear intent to have its way with you.",
+        "Shrieking and fighting, you're beaten to the ground before a {BEASTLY} {COCK} splits your {ASSHOLE}.",
+        "You can't beat it... Maybe you have to use your other 'talents' to subdue it...",
+        "As the hulking {MONSTER} mounts you you {SCREAM} in panic, its {BEASTLY} {COCK} pushed between your {BUTTOCKS}.",
+        "With its powerful arms the {MONSTER} pulled you down, {PENETRAT}ing your {ASSHOLE} on its {HUGE} {BEASTLY} {COCK}.",
+        "No... it won't fit... The {ACTIVE}'s {BEASTLY} {COCK} stretches you going in.",
+        "Your heart is racing, you can't escape, this {ACTIVE} can do whatever it wants to you.",
+        "You {SCREAM} as you are impaled on the {ACTIVE}, you didn't know you could take so much {COCK}.",
+        "You're paralysed with {FEAR} as the {ACTIVE} descends on you, feeling sick at what is about to happen.",
+        "You're bruised and {NUDE}, about to be {ROUGH}ly {RAP}ed by a {MONSTER}. Then why are you {FAROUSAL}?",
+        "You can only {MOAN} in {FEAR} as you feel the {BEASTLY} {COCK} align with your {WTANAL} {ASSHOLE}.",
+        "You spread your {BUTTOCKS}. Whatever it takes to keep it from killing you, right?",
+        "If it's gonna {RAP}e you, you don't want {CUM} in your {PUSSY}. Spreading your cheeks, you offer your {ASSHOLE}.",
+        "{SWEARING}, it's in your {ASSHOLE}! Where did a troll learn to do that?!",
+        "You let out a {LEWD} {SCREAM} as you are {RAP}ed on the {MONSTER}'s {COCK}.",
+        "A tortured {SCREAM} escapes your lips as the {ACTIVE} {ROUGH}ly spreads your {BUTTOCKS} and {FUCK}s its {COCK} in.",
+        "You squawk out loud in genuine alarm as the {BEASTLY} {COCKHEAD} {PENETRAT}es into you, about to split you in two."
+    ],
+    "3rd Person" :
+    [
+        "The huge {MONSTER} pins {PRIMARY}, with a clear intent to have its way with her.",
+        "Shrieking and fighting, {PRIMARY}'s beaten to the ground before a {BEASTLY} {COCK} splits her {ASSHOLE}.",
+        "{PRIMARY} can't beat it... Maybe she should to use her other 'talents' to subdue it...",
+        "As the hulking {MONSTER} mounts her {PRIMARY} {SCREAM}s in panic, its {BEASTLY} {COCK} pushed between her {BUTTOCKS}.",
+        "With its powerful arms the {MONSTER} pulled {PRIMARY} down, {PENETRAT}ing her {ASSHOLE} on its {HUGE} {BEASTLY} {COCK}.",
+        "No... it won't fit... The {ACTIVE}'s {BEASTLY} {COCK} stretches {PRIMARY} going on.",
+        "{PRIMARY} can't escape, this {ACTIVE} can do whatever it wants to her.",
+        "{PRIMARY} {MOAN}s as she's impaled on the {ACTIVE}, it's amazing she can take so much {COCK}.",
+        "{PRIMARY}'s bruised and {NUDE}, about to be {ROUGH}ly {RAP}ed by a {MONSTER}. Then why is she {FAROUSAL}?"
+    ]
+}

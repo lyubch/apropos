@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "As the {MONSTER} grips my ankles and stares at my {HEAVING} form, it's obvious what it wants me to do...",
+        "My heart thundering in my chest, I hold the {MONSTER}'s {COCK} still as I sink down onto it.",
+        "I do my best to appear sexy for this {MONSTER} as I straddle its {BEASTLY} {COCK}.",
+        "{SWEARING}, I can't believe I'm doing this! Aahhh... Better to let it {FUCK} me than kill me...",
+        "It's going to {FUCK} me whether I want it to or not...",
+        "The {MONSTER}'s {COCK} is {BEASTLY}, and as thick as my arm... Ah! No way... Can I really?  Ugh! {SWEARING}, it's in, it's all in!",
+        "The {MONSTER}'s {BEASTLY} {COCK} freely leaks a steady stream of pre-cum as I slide {SLOW}ly, painfully down it."        
+    ],
+    "2nd Person" :
+    [
+        "As the {MONSTER} grips your ankles and stares at your {HEAVING} form, it's obvious what it wants you to do...",
+        "Your heart thundering in your chest, you hold the {MONSTER}'s {COCK} still as you sink down onto it.",
+        "You do your best to appear sexy for this {MONSTER} as you straddle its {BEASTLY} {COCK}.",
+        "{SWEARING}, you can't believe you're doing this! Aahhh... Better to let it {FUCK} you than kill you...",
+        "It's going to {FUCK} you whether you want it to or not...",
+        "The {MONSTER}'s {COCK} is {BEASTLY}, and as thick as your arm... Ah! No way... Can you really?  Ugh! {SWEARING}, it's in, it's all in!",
+        "The {MONSTER}'s {BEASTLY} {COCK} freely leaks a steady stream of pre-cum as you slide {SLOW}ly, painfully down it."
+    ],
+    "3rd Person" :
+    [
+        "It's clear that {PRIMARY} is terrified, even as she does her best to appear sexy for this monster.",
+        "Oh wow, look at that {MONSTER}'s {COCK}! {PRIMARY} takes one look at it, before parting her legs and sinking down onto it.",
+        "{PRIMARY} is putting on such a sexy show that the {ACTIVE} just lays there as she slides down its {COCK}."
+    ]
+}

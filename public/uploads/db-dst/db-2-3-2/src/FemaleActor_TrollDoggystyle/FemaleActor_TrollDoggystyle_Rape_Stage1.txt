@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "I strain as the {ACTIVE} {SLOW}ly begins to rape my {ASSHOLE}, my muscles feeling like the tension may rip them apart.",
+        "I fight back tears, muffling my {SCREAM}s as my {WTANAL} {ASSHOLE} is forced apart and {RAP}ed.",
+        "As the hulking {ANIMAL} mounts me I {SCREAM} in panic, its {HUGE} {BEASTLY} {COCK} pushed between my {BUTTOCKS}.",
+        "I can only {MOAN} in {FEAR} as I feel the {BEASTLY} {COCK} push inside my {WTANAL} {ASSHOLE}.",
+        "I kneel down, {DISPLAY}ing my {ASSHOLE}. I guess whatever it takes to keep it from killing me, right?",
+        "If it's gonna {RAP}e me, I don't want its {CUM} in my {PUSSY}... I prostate myself, {DISPLAY}ing my {ASSHOLE}."
+    ],
+    "2nd Person": [
+        "You strain as the {ACTIVE} {SLOW}ly begins to {RAP}e your {ASSHOLE}, your muscles feeling like the tension may rip them apart.",
+        "You fight back tears, muffling your {SCREAM}s as your {WTANAL} {ASSHOLE} is forced apart and {RAP}ed.",
+        "As the hulking {ANIMAL} mounts you you {SCREAM} in panic, its {HUGE} {BEASTLY} {COCK} pushed between your {BUTTOCKS}.",
+        "You can only {MOAN} in {FEAR} as you feel the {BEASTLY} {COCK} push inside your {WTANAL} {ASSHOLE}.",
+        "You kneel down, {DISPLAY}ing your {ASSHOLE}. You guess whatever it takes to keep it from killing you, right?",
+        "If it's gonna {RAP}e you, you don't want its {CUM} in your {PUSSY}... You prostate yourself, {DISPLAY}ing your {ASSHOLE}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} {SUBMIT}s, raising her {ASSHOLE} and letting the {ANIMAL} {RAP}e her there.",
+        "As the hulking {ANIMAL} mounts {PRIMARY} she {SCREAM}s in panic, its inhuman {COCK} pushing between her {BUTTOCKS}.",
+        "It's clear from {PRIMARY}'s hunched shoulders how much it hurts as the {ActIVE} begins to {FUCK} her {ASSHOLE}."
+    ]
+}

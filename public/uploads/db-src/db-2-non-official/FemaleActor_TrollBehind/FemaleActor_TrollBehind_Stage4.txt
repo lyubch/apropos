@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I wrap my legs up around the {MONSTER}'s hips, pulling it deeper into my {PUSSY}, {FEAR} and reason leaving me.",
+        "This is the kind of {LEWD}, dangerous sex I wanted, and my mind races. How can I push it further? I want more!",
+        "Between my spread legs I see {HUGE} {BALLS} slapping into me heavily. I can't wait to empty them!",
+        "The {THICK} {CUM} and {CREAM} from our sloppy {FUCK}ing splashes on my clit, making it tingle almost painfully.",
+        "Yes... in all the way... I can take it... I want it...",
+        "Yes, yes! Harder, deeper! {SWEARING}!"        
+    ],
+    "2nd Person" :
+    [
+        "You wrap your legs up around the {MONSTER}'s hips, pulling it deeper into your {PUSSY}, {FEAR} and reason leaving you.",
+        "This is the kind of {LEWD}, dangerous sex you wanted, and your mind races. How can you push it further? You want more!",
+        "Between your spread legs you see {HUGE} {BALLS} slapping into heavily. You can't wait to empty them!",
+        "The {THICK} {CUM} from your sloppy {FUCK}ing splash on your clit, making it tingle almost painfully.",
+        "({PRIMARY}) Yes... in all the way... I can take it... I want it...",
+        "({PRIMARY}) Yes, yes! Harder, deeper! {SWEARING}!"
+    ],
+    "3rd Person" :
+    [
+        "Oh wow, that's such a {LEWD} position! {PRIMARY} must be able to feel every inch!",
+        "{PRIMARY} hooks her feet behind the {ACTIVE}, pulling the {MONSTER}'s {COCK} deeper inside her.",
+        "It's clear that {PRIMARY} is completely overcome with {LUST}. She must really love monster {COCK}..."
+    ]
+}

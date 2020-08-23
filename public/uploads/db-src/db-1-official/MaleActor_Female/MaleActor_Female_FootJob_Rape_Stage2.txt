@@ -1,0 +1,19 @@
+{
+    "1st Person": [
+        "{PRIMARY} pushes me back with her foot. Cheeky {BITCH}...",
+        "{PRIMARY} trembles as she strokes her sole up and down my {COCK}, her toes circling the head.",
+        "{PRIMARY}'s doing pretty damn well with just her feet. I'm still gonna rape her though."
+    ],
+    "2nd Person": [
+        "{PRIMARY} pushes you back with her foot. Cheeky {BITCH}...",
+        "{PRIMARY} trembles as she strokes her sole up and down your {COCK}, her toes circling the head.",
+        "{PRIMARY}'s doing pretty damn well with just her feet. You're still gonna rape her though."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} tries to lean forward, but {PRIMARY} pushes him back down, trying to retain control.",
+        "{PRIMARY} pushes the {ACTIVE} back, trying to appear playful, bringing her foot back to his {COCK}.",
+        "The {ACTIVE}'s face has a look of arousal as {PRIMARY}'s bare foot tenderly strokes his {MAROUSAL} {COCK}.",
+        "{PRIMARY} blushes nervously at her attacker as her {HEAVING} {BOOBS} rise and fall noticeably.",
+        "{PRIMARY} flushes with shame as {CUM} dribbles out of her {PUSSY}... Oh my..."
+    ]
+}

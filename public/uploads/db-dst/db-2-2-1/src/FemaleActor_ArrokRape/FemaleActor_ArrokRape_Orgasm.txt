@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "Baffled as {ACTIVE} pulls out, I shriek as suddenly his balls and asshole are in my face.",
+        "Oh Gods, what's he doing?! I didn't agree to this... Mpphhh! Oh Gods, what do I do?",
+        "Completely submissive by this point, I can only open my mouth and tongue {ACTIVE}'s asshole.",
+        "I can't believe I'm doing this, I'm letting a man do this in my mouth!",
+        "My arms trapped under my back, I struggle as {ACTIVE} smears his stinking balls and asshole across my face.",
+        "Overcome by lust, I greedily tongue at {ACTIVE}'s filthy asshole and balls.",
+        "({ACTIVE}) You're just a filthy {BITCH} open to anything aren't you?",
+        "My chest flushes and my nipples stiffen as I accept this degrading act."        
+    ],
+    "2nd Person" :
+    [
+        "Baffled as {ACTIVE} pulls out, you shriek as suddenly his balls and asshole are in your face.",
+        "Oh Gods, what's he doing?! You didn't agree to this... Mpphhh! Oh Gods, what do you do?",
+        "Completely submissive by this point, you can only open your mouth and tongue {ACTIVE}'s asshole.",
+        "You can't believe you're doing this, you're letting a man do this in your mouth!",
+        "Your arms trapped under your back, you struggle as {ACTIVE} smears his balls and asshole across your face.",
+        "Overcome by lust, you greedily tongue at {ACTIVE}'s filthy asshole and balls.",
+        "({ACTIVE}) You're just a filthy {BITCH} open to anything aren't you?",
+        "Your chest flushes and your nipples stiffen as you accept this degrading act."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s muffled shrieks can be heard as {ACTIVE} squats in her face. She must not have expected that...",
+        "Oh my, what is {ACTIVE} doing on {PRIMARY}'s face? He can't be... doing that?!",
+        "{PRIMARY}'s legs are spread and her {PUSSY} is {FAROUSAL} as she slurps at {ACTIVE}'s balls."
+    ]
+}

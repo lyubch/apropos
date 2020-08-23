@@ -1,0 +1,53 @@
+{
+    "1st Person" :
+    [
+        "Oh Gods, this is it! The {ACTIVE} is hammering me hard and fast, trying to get his knot inside me!",
+        "I'm exhausted, but the {ACTIVE} just keeps going, pounding his knot against my {PUSSY} over and over.",
+        "I'm in agony, but when that knot finally forces itself inside me, it's going to be much worse...",
+        "The {ACTIVE}'s claws squeeze into my tender flesh. The beast must be close...",
+        "Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "I find myself near climax, brought about by the intense thrusting.",
+        "After several minutes of the most intense fucking I've ever experienced, I feel the climax wash over me.",
+        "As I cum again, I find myself pushing my hips back into the beast.",
+        "Moaning as waves of orgasm roll over me, tears streaming down my face, I continue to cum.",
+        "No, I can't let it do this... I have to make my escape...",
+        "Holy fuck, the {ACTIVE} plowed all the way past my cervix.",
+        "The beast forces his {PENIS} deeper, forcing himself past my cervix",
+        "I can only grit my teeth harder as I'm stretched more and more beyond my natural limits.",
+        "The {BEAST} {PENIS} engorges more than I thought possible, and my {PUSSY} strains desperately at the knot.",
+        "I almost pass out as a sense of euphoria washes over me, I didn't expect it to be so good...",
+        "Its {PENIS} is so big that it's virtually impossible to avoid my g-spot, making me buck and moan.",
+        "No! Please, not inside! Your {CUM} is too thick! I'll get pregnant! Somebody, save me!",
+        "The {ACTIVE} furiously pounds into me, desperately trying to fit the whole thing in.",
+        "It pounds into me, brutally, viciously, my whole body shaking."
+    ],
+    "2nd Person" :
+    [
+        "Oh Gods, this is it! The {ACTIVE} is hammering you hard and fast, trying to get his knot inside you!",
+        "You're exhausted, but the {ACTIVE} just keeps going, pounding his knot against your {PUSSY} over and over.",
+        "You're in agony, but when that knot finally forces itself inside you, it's going to be much worse...",
+        "The {ACTIVE}'s claws squeeze into your tender flesh. The beast must be close...",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "You find yourself near climax, brought about by the intense thrusting.",
+        "After several minutes of the most intense fucking you've ever experienced, you feel the climax wash over you.",
+        "As you cum again, you find yourself pushing your hips back into the beast.",
+        "Moaning as waves of orgasm roll over you, tears streaming down your face, you continue to cum.",
+        "No, you can't let it do this... you have to make your escape...",
+        "Holy fuck, the {ACTIVE} plowed all the way past your cervix.",
+        "The beast forces his {PENIS} deeper, forcing himself past your cervix",
+        "You can only grit your teeth harder as you're stretched more and more beyond your natural limits.",
+        "The {BEAST} {PENIS} engorges more than you thought possible, and your {PUSSY} strains desperately at the knot.",
+        "You almost pass out as a sense of euphoria washes over you, you didn't expect it to be so good...",
+        "Its {PENIS} is so big that it's virtually impossible to avoid your g-spot, making you buck and moan.",
+        "({PRIMARY}) No! Please, not inside! Your {CUM} is too thick! I'll get pregnant! Somebody, save me!",
+        "The {ACTIVE} furiously pounds into you, desperately trying to fit the whole thing in.",
+        "It pounds into you, brutally, viciously, your whole body shaking."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} hangs limp in the beast's grasp, sobbing and trembling as it slams even harder into her.",
+        "Oh my goodness, it's trying to knot her! Poor girl...",
+        "{PRIMARY}'s {WTVAGINAL} {PUSSY} will be ruined after this...",
+        "The {ACTIVE} fucks {PRIMARY} even more intensely, desperate to push his {BEAST} knot into her {PUSSY}."
+    ]
+}

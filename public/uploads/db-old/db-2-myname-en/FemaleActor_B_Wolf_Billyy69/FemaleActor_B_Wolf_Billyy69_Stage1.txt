@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "As I ready myself to take this {BEAST} {COCK}, a sudden slurping at my lower lips provokes a gasp, and he slips inside.",
+        "As I slurp noisily on his proffered {COCK}, my actions are quickly rewarded by an eager tongue...",
+        "Mmmmm... I must be doing something right, as the {ACTIVE} seems keen to return the favor!",
+        "Ooohh... you're pretty good with your tongue... fancy a race?",
+        "Oh! Oh my! It's licking my pussy! Mmmm... well... it would be rude not to return the favour...",
+        "I gasp in suprise around his cock; the wolf wrapped his paws around me, pulling my {PUSSY} right onto his tongue!"
+    ],
+    "2nd Person": [
+        "As you ready yourself to take this {BEAST} {COCK}, a sudden slurping at your lower lips provokes a gasp, and he slips inside.",
+        "As you slurp noisily on his proffered {COCK}, your actions are quickly rewarded by an eager tongue...",
+        "Mmmmm... You must be doing something right, as the {ACTIVE} seems keen to return the favor!",
+        "({PRIMARY}) Ooohh... you're pretty good with your tongue... fancy a race?",
+        "Oh! Oh my! It's licking your pussy! Mmmm... well... it would be rude not to return the favour...",
+        "You gasp in suprise around his cock; the wolf wrapped his paws around you, pulling your {PUSSY} right onto his tongue!"
+    ],
+    "3rd Person": [
+        "As {PRIMARY} readies herself to take this {BEAST} {COCK}, a sudden slurping at her lower lips provokes a gasp, and he slips inside.",
+        "As {PRIMARY} slurps noisily on his proffered {COCK}, her actions are quickly rewarded by an eager tongue...",
+        "Mmmmm... {PRIMARY} must be doing something right, as the {ACTIVE} seems keen to return the favor!",
+        "({PRIMARY}) Ooohh... you're pretty good with your tongue... fancy a race?",
+        "({PRIMARY}) Oh! Oh my! It's licking your pussy! Mmmm... well... it would be rude not to return the favour...",
+        "{PRIMARY} gasps in suprise around his cock; the wolf wrapped his paws around her, pulling her {PUSSY} right onto his tongue!"
+    ]
+}

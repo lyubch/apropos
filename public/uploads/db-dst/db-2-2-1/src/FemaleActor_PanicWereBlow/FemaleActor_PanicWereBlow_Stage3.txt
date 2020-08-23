@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "I open as wide as I can, but I gag and splutter as the {BEAST} {PENIS} chokes me.",
+        "The {ACTIVE} takes control, a massive, clawed hand on top of my head to hold me while he fucks my {MOUTH}.",
+        "I really can't do this, it's too big... I strain my jaw, but I can't even take half the length...",
+        "The {BEAST} {PENIS} is red hot... So much hotter than a human {PENIS}, and already leaking pre-cum.",
+        "The {PENIS} tastes strange, I'm not sure if I like it or not, but there's no denying how hot I'm getting.",
+        "I'm already swallowing a constant stream of {THICK} pre-cum. What will it be like when it cums?",
+        "The {PENIS} is {BEAST}, and I feel it hit the back of my throat with every thrust.",
+        "I can't believe I'm on my knees, sucking off a monster like this... I'm such a {WHORE}..."
+    ],
+    "2nd Person" :
+    [
+        "You open as wide as you can, but you gag and splutter as the {BEAST} {PENIS} chokes you.",
+        "The {ACTIVE} takes control, a massive, clawed hand on top of your head to hold you while he fucks your {MOUTH}.",
+        "You really can't do this, it's too big... You strain your jaw, but you can't even take half the length...",
+        "The {BEAST} {PENIS} is red hot... So much hotter than a human {PENIS}, and already leaking pre-cum.",
+        "The {PENIS} tastes strange, You're not sure if you like it or not, but there's no denying how hot you're getting.",
+        "You're already swallowing a constant stream of {THICK} pre-cum. What will it be like when it cums?",
+        "The {PENIS} is {BEAST}, and you feel it hit the back of your throat with every thrust.",
+        "You can't believe you're on your knees, sucking off a monster like this... You're such a {WHORE}..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s really doing it, she's giving a monster a blowjob!",
+        "The {ACTIVE} holds {PRIMARY} steady, fucking her {MOUTH} steadily as she moans her approval.",
+        "It sounds like {PRIMARY}'s choking already, and she's barely even taken the tip...",
+        "Watching {PRIMARY}'s tiny body service such a {BEAST} {COCK} is strangely erotic..."
+    ]
+}

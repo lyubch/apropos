@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "I bend over slightly, and {ACTIVE} wastes no time pushing his {PENIS} inside me and fucking me quickly.",
+        "I feel {ACTIVE}'s hands on my hips as his {PENIS} pumps briskly into my {WTVAGINAL} {PUSSY}.",
+        "I'm so wet from {ACTIVE}'s fingers that I take his entire length right to the base with the very first stroke.",
+        "{ACTIVE} begins to fuck me with deep, long strokes, and I hear his hips slap into my ass each time.",
+        "{ACTIVE}'s deep fucking feels so good, I can't help but push myself back against his {HUGE} {PENIS}.",
+        "Ahhh... uhhh... I suppose this is okay... Just for a little while... Ahhhh!",
+        "{ACTIVE} thrusts his {PENIS} straight into my {FAROUSAL} {PUSSY}.",
+        "My hand goes to {ACTIVE}'s as he guides himself into me, and I squeeze it as he starts to thrust.",
+        "{ACTIVE} says I'm so sexy, like he's probably said to countless other young girls..."       
+    ],
+    "2nd Person" :
+    [
+        "You bend over slightly, and {ACTIVE} wastes no time pushing his {PENIS} inside you and fucking you quickly.",
+        "You feel {ACTIVE}'s hands on your hips as his {PENIS} pumps briskly into your {WTVAGINAL} {PUSSY}.",
+        "You're so wet from {ACTIVE}'s fingers that you take his entire length right to the base with the first stroke.",
+        "{ACTIVE} begins to fuck you with deep, long strokes, and you hear his hips slap into your ass each time.",
+        "{ACTIVE}'s deep fucking feels so good, you can't help but push yourself back against his {HUGE} {PENIS}.",
+        "({PRIMARY}) Ahhh... uhhh... I suppose this is okay... Just for a little while... Ahhhh!",
+        "{ACTIVE} thrusts his {PENIS} straight into your {FAROUSAL} {PUSSY}.",
+        "Your hand goes to {ACTIVE}'s as he guides himself into you, and you squeeze it as he starts to thrust.",
+        "{ACTIVE} says you're so sexy, like he's probably said to countless other young girls..."
+    ],
+    "3rd Person" :
+    [
+        "Whatever {ACTIVE} said to {PRIMARY} has worked, she just bent over and let him stick it in!",
+        "{PRIMARY} still looks hesitant, but she doesn't stop {ACTIVE} from bending her over and fucking her.",
+        "{ACTIVE} holds {PRIMARY}'s ass in place as he starts to thrust quickly into her {PUSSY}.",
+        "Being able to hear the slapping of {ACTIVE}'s hips on her ass shows how deep he's getting..."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "My knees are spread and my arms held back painfully. I can't stop the {ACTIVE} from entering my {ASS}.",
+        "The {ACTIVE} grabs me roughly, dragging my hips back painfully, its {COCK} slowly penetrating my {ASS}.",
+        "I'm held in place, my head dangling limply as {DEAD} flesh spreads my {WTANAL} {ASS}.",
+        "My arms are painfully wrenched up behind me, but it's nothing compared to the pain in my {ASS}."
+    ],
+    "2nd Person" :
+    [
+        "Your knees are spread, your arms held back painfully. You can't stop the {ACTIVE} from entering your {ASS}.",
+        "The {ACTIVE} grabs you roughly, dragging your hips back painfully, its {COCK} slowly penetrating your {ASS}.",
+        "You're held in place, your head dangling limply as {DEAD} flesh spreads your {WTANAL} {ASS}.",
+        "Your arms are painfully wrenched up behind you, but it's nothing compared to the pain in your {ASS}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is restrained roughly, and squeals as the {ACTIVE}'s {DEAD} {COCK} thrusts into her {ASS}.",
+        "The sight of {PRIMARY}'s naked flesh being defiled by this {DEAD} monster is horrible, but somehow erotic.",
+        "The {ACTIVE} looks horrific, its flesh is {DEAD}, and {PRIMARY} screams as it rapes her."
+    ]
+}

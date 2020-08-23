@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "He starts to slow, and I feel the base of his {PENIS} swelling. He's trying to knot my {ASS}...",
+        "I rest my cheek on the ground and grit my teeth, I know what's coming next...",
+        "{ACTIVE} slows a little, but his thrusts are still hard. Oh Gods, he's trying to knot me!",
+        "I feel {ACTIVE}'s knot begin to batter at my {ASS}. I'm not sure if I want him to succeed...",
+        "Oh my... I just came... from a dog fucking my {ASS}...",
+        "The hound fucks his knot into my {ASS} slowly, inch by inch.",
+        "Oh Gods, I can feel his knot at my {ASS}... I try to relax myself, to let him in...",
+        "I think I'm even more determined than he is to get every last inch of {COCK} jammed in my {ASS}.",
+        "Ohh yeah, that's it! Drive it in all the way!",
+        "I don't know if I can take this...",
+        "The thought that even a dog is just using me as a cum dump, fucking me in the {ASS}, is so erotic...",
+        "I'm just this doggy's anal {WHORE}!",
+        "{ACTIVE}'s knot stretches my {ASS} obscenely, while the head penetrates me right to my core."        
+    ],
+    "2nd Person" :
+    [
+        "He starts to slow, and you feel the base of his {PENIS} swelling. He's trying to knot your {ASS}...",
+        "You rest your cheek on the ground and grit your teeth, you know what's coming next...",
+        "{ACTIVE} slows a little, but his thrusts are still hard. Oh Gods, he's trying to knot you!",
+        "You feel {ACTIVE}'s knot begin to batter at your {ASS}. You're not sure if you want him to succeed...",
+        "Oh my... you just came... from a dog fucking your {ASS}...",
+        "The hound fucks his knot into your {ASS} slowly, inch by inch.",
+        "Oh Gods, you can feel his knot at your {ASS}... you try to relax yourself, to let him in...",
+        "You think you're even more determined than he is to get every last inch of {COCK} jammed in your {ASS}.",
+        "({PRIMARY}) Ohh yeah, that's it! Drive it in all the way!",
+        "You don't know if you can take this...",
+        "The thought that even a dog is just using you as a cum dump, fucking you in the {ASS}, is so erotic...",
+        "You're just this doggy's anal {WHORE}!",
+        "{ACTIVE}'s knot stretches your {ASS} obscenely, while the head penetrates you right to your core."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} has slowed down, but his strokes seem hard, determined. Oh Gods, he's trying to knot her {ASS}!",
+        "{PRIMARY} is panting into the dirt, just letting {ACTIVE} try to tie with her {ASS}.",
+        "It's going to hurt so much when {ACTIVE} knots her, but {PRIMARY} looks like she wants him to...",
+        "With each sudden, quick stroke, {PRIMARY} grunts and moans, and the knot seems to get further inside."
+    ]
+}

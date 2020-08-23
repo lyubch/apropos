@@ -1,0 +1,40 @@
+{
+    "1st Person": [
+        "My entire body is spasming with pleasure, all of my holes cumming at once.",
+        "I thrash violently, cumming hard from the arachnid's ministrations.",
+        "Fucked by a large {BUGCOCK}, and with multiple bites along my thighs, I moan and cum.",
+        "The spider is spurting his {THICK} {CUM} up my {PUSSY}, and I gasp.",
+        "Oh Gods! He's fucking filling me with {CUM}! My {PUSSY} is filling up!",
+        "Slime starts to drip from my {PUSSY}. Is that the {ACTIVE}'s {CUM}?",
+        "An almighty orgasm rips through me, and I arch my back and scream as my {PUSSY} is fucked.",
+        "The {ACTIVE} continues its assault on me, pulling orgasm after orgasm from my intoxicated body.",
+        "Every time it pumps its nectar into me I feel my climax intensify until I feel that I may pass out...",
+        "I'm not sure what that thing just did to me, but it seems to have finished now... I'm kinda worried...",
+        "The spider is buried deep in my {PUSSY}, slowly fucking me to orgasm after orgasm.",
+        "I watch between my legs as I'm squirted full of the beast's {THICK} {CUM}."
+    ],
+    "2nd Person": [
+        "Your entire body is spasming with pleasure, all of your holes cumming at once.",
+        "You thrash violently, cumming hard from the arachnid's ministrations.",
+        "Fucked by a large {BUGCOCK}, and with multiple bites along your thighs, you moan and cum.",
+        "The spider is spurting his {THICK} {CUM} up your {PUSSY}, and you gasp.",
+        "Oh Gods! He's fucking filling you with {CUM}! Your {PUSSY} is filling up!",
+        "Slime starts to drip from your {PUSSY}. Is that the {ACTIVE}'s {CUM}?",
+        "An almighty orgasm rips through you, and you arch your back and scream as your {PUSSY} is fucked.",
+        "The {ACTIVE} continues its assault on you, pulling orgasm after orgasm from your intoxicated body.",
+        "Every time it pumps into you you feel your climax intensify until you feel that you may pass out...",
+        "You're not sure what that thing just did to you, but it seems to have finished... You're kinda worried...",
+        "The spider is buried deep in your {PUSSY}, slowly fucking you to orgasm after orgasm.",
+        "You watch between your legs as you're squirted full of the beast's {THICK} {CUM}."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s entire body is spasming with pleasure, all of her holes cumming at once.",
+        "{PRIMARY} thrashes violently, cumming hard from the arachnid's ministrations.",
+        "Fucked by a large {BUGCOCK}, and with multiple bites along her thighs, {PRIMARY} moans and cums.",
+        "The spider is spurting his {THICK} {CUM} up {PRIMARY}'s {PUSSY}, and she gasps.",
+        "Oh Gods! He's fucking filling {PRIMARY} with {CUM}! Her {PUSSY} is filling up!",
+        "Slime starts to drip from her {PUSSY}. Is that the {ACTIVE}'s {CUM}?",
+        "An almighty orgasm rips through {PRIMARY}, and she arches her back and screams as her {PUSSY} is fucked.",
+        "The {ACTIVE} continues its assault on {PRIMARY}, pulling orgasm after orgasm from her intoxicated body."
+    ]
+}

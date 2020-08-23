@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "And just like that, they're gone... it's over...",
+        "Either finally deciding I'm full or just running out of eggs to lay, the tentacles slither back into the ground.",
+        "Exhausted beyond belief, I just slump to the ground as the tentacles restraining me let go.",
+        "I collapse to the floor as the tentacles retreat back underground, far too weak to support myself after all of that.",
+        "I slump down into the dirt as the tentacles finally release me, their work done.",
+        "I {MOAN} as I'm unceremoniously dropped into a puddle of our juices, far too tired to move...",
+        "Just as I'm on the verge of passing out, the tentacles release me, dropping me onto my back as they escape."
+    ],
+    "2nd Person": [
+        "And just like that, they're gone... it's over...",
+        "Either finally deciding you're full or just running out of eggs to lay, the tentacles slither back into the ground.",
+        "Exhausted beyond belief, you just slump to the ground as the tentacles restraining you let go.",
+        "You collapse to the floor as the tentacles retreat back underground, far too weak to support yourself after all of that.",
+        "You slump down into the dirt as the tentacles finally release you, their work done.",
+        "You {MOAN} as you're unceremoniously dropped into a puddle of our juices, far too tired to move...",
+        "Just as you're on the verge of passing out, the tentacles release you, dropping you onto your back as they escape."
+    ],
+    "3rd Person": [
+        "And just like that, they're gone... it's over...",
+        "Either finally deciding {PRIMARY} is full or just running out of eggs to lay, the tentacles slither back into the ground.",
+        "Exhausted beyond belief, {PRIMARY} just slumps to the ground as the tentacles restraining her let go.",
+        "{PRIMARY} collapses to the floor as the tentacles retreat back underground, far too weak to support herself after all of that.",
+        "{PRIMARY} slumps down into the dirt as the tentacles finally release her, their work done.",
+        "{PRIMARY} {MOAN}s as she's unceremoniously dropped into a puddle of their juices, far too tired to move...",
+        "Just as {PRIMARY} is on the verge of passing out, the tentacles release her, dropping her onto her back as they escape."
+    ]
+}

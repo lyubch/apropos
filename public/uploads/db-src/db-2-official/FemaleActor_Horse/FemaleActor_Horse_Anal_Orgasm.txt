@@ -1,0 +1,19 @@
+{
+    "1st Person": [
+        "The {ACTIVE} is finally there, and bucks forward, {THICK} {CUM} filling my stomach.",
+        "Ugh! Gods! This is so intense... Every thrust, every surge of {CUM}... I'm going to pass out...",
+        "My whole body rocks forward as the {ACTIVE} pumps deep into my {ASS}, squirting torrents of {CUM}.",
+        "I hold tightly to the {ACTIVE}'s leg, pushing back against the painfully deep thrusts."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} is finally there, and bucks forward, {THICK} {CUM} filling your stomach.",
+        "Ugh! Gods! This is so intense... Every thrust, every surge of {CUM}... You're going to pass out...",
+        "Your whole body rocks forward as the {ACTIVE} pumps deep into your {ASS}, squirting torrents of {CUM}.",
+        "You hold tightly to the {ACTIVE}'s leg, pushing back against the painfully deep thrusts."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} rocks deeply into {PRIMARY}, who looks tiny underneath that huge beast. She's moaning...",
+        "The {ACTIVE} seems agitated, and bucks into {PRIMARY}. Is it {CUMMING}?",
+        "{PRIMARY}'s legs are trembling, her toes spread and scraping the ground as she takes each deep thrust."
+    ]
+}

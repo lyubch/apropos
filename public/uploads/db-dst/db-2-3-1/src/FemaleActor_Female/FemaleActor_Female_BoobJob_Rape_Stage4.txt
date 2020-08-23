@@ -1,0 +1,28 @@
+{
+    "1st Person": [
+        "Even though I'm being forced to do this, my fingers pound into my {WTVAGINAL} {PUSSY}.",
+        "I hang on to {ACTIVE} as I desperately pump my {BOOBS} around her {STRAPON}.",
+        "Never breaking eye contact, {ACTIVE} completely {RAP}es me.",
+        "My legs are spread open, my {WTVAGINAL} {PUSSY} {DISPLAY}ed...",
+        "Her {STRAPON} is {HUGE}, thick and hard; I won't be able to contain myself if she sticks that in me.",
+        "I feel so {SUBMISSIVE}, {DISPLAY}ed. And wet.",
+        "My mind races, imagining being kept as a {BITCH}, women grabbing my {BOOBS} and pulling on my puffy nipples."
+    ],
+    "2nd Person": [
+        "Even though you're being forced to do this, your fingers pound into your {WTVAGINAL} {PUSSY}.",
+        "You hang on to {ACTIVE} as you desperately pump your {BOOBS} around her {STRAPON}.",
+        "Never breaking eye contact, {ACTIVE} completely {RAP}es you.",
+        "Your legs are spread open, your {WTVAGINAL} {PUSSY} {DISPLAY}ed...",
+        "Her {STRAPON} is {HUGE}, thick and hard; you won't be able to contain yourself if she sticks that in you.",
+        "You feel so {SUBMISSIVE}, {DISPLAY}ed. And wet.",
+        "Your mind races, imagining being kept as a {BITCH}, women grabbing your {BOOBS} and pulling on your nipples."
+    ],
+    "3rd Person": [
+        "Even though {PRIMARY}'s being forced to do this, her fingers pound into her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} hangs on to {ACTIVE} as she desperately pumps her {BOOBS} around her {STRAPON}.",
+        "Never breaking eye contact, {ACTIVE} completely {RAP}es {PRIMARY}.",
+        "{PRIMARY}'s legs are spread open, her {WTVAGINAL} {PUSSY} {DISPLAY}ed...",
+        "Her {STRAPON} is {HUGE}, thick and hard; {PRIMARY} won't be able to contain herself if she sticks that in her.",
+        "{PRIMARY} is so {SUBMISSIVE}, {DISPLAY}ed. And wet."
+    ]
+}

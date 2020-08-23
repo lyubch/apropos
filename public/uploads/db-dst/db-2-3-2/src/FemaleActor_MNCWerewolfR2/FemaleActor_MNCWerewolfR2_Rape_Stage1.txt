@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "{SWEARING}, look at the {GIRTH} of its {COCK}! It can't be thinking...",
+        "The {ACTIVE} stares into my eyes, its breath {QUICK} and {VILE}. I'm terrified, but I feel... {HORNY}...",
+        "The {ACTIVE}'s massive fist grips my neck, its claws scratching my back. It's so {HUGE}...",
+        "I try with all my strength, but I can't budge the {MONSTER}'s giant paw. I'm powerless...",
+        "Naked and helpless, staring into the huge {ACTIVE}'s eyes... My {FLESH} feels strange...",
+        "{PLEADING}! You can't... It's too {HUGE}... Please just let me go...",
+        "Wait! That {HUGE} {COCK} won't go in! What should I do?"
+    ],
+    "2nd Person": [
+        "{SWEARING}, look at the {GIRTH} of its {COCK}! It can't be thinking...",
+        "The {ACTIVE} stares into your eyes, its breath {QUICK} and {VILE}. You're terrified, but you feel... {HORNY}...",
+        "The {ACTIVE}'s massive fist grips your neck, its claws scratching your back. It's so {HUGE}...",
+        "You try with all your strength, but you can't budge the {MONSTER}'s giant paw. You're powerless...",
+        "Naked and helpless, staring into the huge {ACTIVE}'s eyes... Your {FLESH} feels strange...",
+        "({PRIMARY}) {PLEADING}! I can't... It's too {HUGE}... Please just let me go...",
+        "Wait! That {HUGE} {COCK} won't go in! What should you do?"
+    ],
+    "3rd Person": [
+        "{SWEARING}, look at the {GIRTH} of its {COCK}! It can't be thinking...",
+        "The {ACTIVE} stares into {PRIMARY}'s eyes, its breath {QUICK} and {VILE}. She's terrified, but she feels... Strangely hot...",
+        "The {ACTIVE}'s massive fist grips {PRIMARY}'s neck, its claws scratching her back. It's so {HUGE}...",
+        "{PRIMARY} tries with all her strength, but she can't budge the {MONSTER}'s giant paw. She's powerless...",
+        "Naked and helpless, staring into the huge {ACTIVE}'s eyes... {PRIMARY}'s body feels strange...",
+        "({PRIMARY}) {PLEADING}! I can't... It's too {HUGE}... Please just let me go...",
+        "Wait! That {HUGE} {COCK} won't go in! What should {PRIMARY} do?"
+    ]
+}

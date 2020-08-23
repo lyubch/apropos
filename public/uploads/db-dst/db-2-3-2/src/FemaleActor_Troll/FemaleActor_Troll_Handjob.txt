@@ -1,0 +1,16 @@
+{
+    "1st Person": [
+        "I reach out and {GENTLE}ly begin to {WANK} the {BEASTLY} {BEASTCOCK}.",
+        "The {BEASTLY} {BEASTCOCK} is {HUGE} and {MAROUSAL}. I use one hand to {WANK} it, while my other hand grasps for the {BALLS}.",
+        "The {ACTIVE} could clearly use some relief. I'll have to use my hand so it doesn't tear me in two."
+    ],
+    "2nd Person": [
+        "You reach out and {GENTLE}ly begin to {WANK} the {BEASTLY} {BEASTCOCK}.",
+        "The {BEASTLY} {BEASTCOCK} is {HUGE} and {MAROUSAL}. You use one hand to {WANK} it, while your other hand grasps for the {BALLS}.",
+        "The {ACTIVE} could clearly use some relief. You'll have to use your hand so it doesn't tear you in two."
+    ],
+    "3rd Person": [
+        "She reaches out and {GENTLE}ly begin to {WANK} the {BEASTLY} {BEASTCOCK}.",
+        "The {BEASTLY} {BEASTCOCK} is {HUGE} and {MAROUSAL}. She uses one hand to {WANK} it, while her other hand grasps for the {BALLS}."
+    ]
+}

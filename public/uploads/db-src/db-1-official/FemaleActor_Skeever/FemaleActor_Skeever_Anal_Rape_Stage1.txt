@@ -1,0 +1,44 @@
+{
+    "1st Person" :
+    [
+        "Pushed down, I feel the rodent's front legs come down on my shoulders as it mounts me.",
+        "A {BEAST} {COCK} is pressed against my {ASS}, grinding between my cheeks with urgency.",
+        "The rodent mounts me, and begins humping my ass. My head whips back and I shriek as it hits its mark.",
+        "I remove my clothing and drop to all fours and timidly present my back end.",
+        "I drop naked to the ground, wagging my backside, mimicking what I think such a rodent would do.",
+        "I pull down my underwear, and present my {ASS} to the rodent. I can't believe I'm thinking this...",
+        "As the rodent begins to pound into my body, I begin to sob.",
+        "The {ACTIVE} suddenly mounts me.",
+        "Oh! I cry out, startled to feel the {ACTIVE}'s weight on my hiked-up ass, and pressure at my {ASS}...",
+        "Ah! Ugh...  ugh... he's in me... he's in my {ASS}... and he's huge...",
+        "I cry out in shock as the {ACTIVE} jams its {BEAST} {COCK} inside my {WTVAGINAL} {ASS}.",
+        "The {ACTIVE} thrusts his {COCK} desperately. My heart is in my throat, waiting for penetration...",
+        "It won't be as bad if I take it in the {ASS}, right? It doesn't count if it's not in my {PUSSY}..."
+    ],
+    "2nd Person" :
+    [
+        "Pushed down, you feel the rodent's front legs come down on your shoulders as it mounts you.",
+        "A {BEAST} {COCK} is pressed against your {ASS}, grinding between your cheeks with urgency.",
+        "The rodent mounts you, and begins humping your ass. Your head whips back and you shriek as it hits its mark.",
+        "You remove your clothing and drop to all fours and timidly present your back end.",
+        "You drop naked to the ground, wagging your backside, mimicking what you think such a rodent would do.",
+        "You pull down your underwear, and present your {ASS} to the rodent. You can't believe you're thinking this...",
+        "As the rodent begins to pound into your body, you begin to sob.",
+        "The {ACTIVE} suddenly mounts you.",
+        "Oh! you cry out, startled to feel the {ACTIVE}'s weight on your hiked-up ass, and pressure at your {ASS}...",
+        "Ah! Ugh...  ugh... he's in you... he's in your {ASS}... and he's huge...",
+        "You cry out in shock as the {ACTIVE} jams its {BEAST} {COCK} inside your {WTVAGINAL} {ASS}.",
+        "The {ACTIVE} thrusts his {COCK} desperately. Your heart is in your throat, waiting for penetration...",
+        "It won't be as bad if you take it in the {ASS}, right? It doesn't count if it's not in your {PUSSY}..."
+    ],
+    "3rd Person" :
+    [
+        "Pushed down, {PRIMARY} feels the rodent's front legs come down on her shoulders as it mounts her.",
+        "A {BEAST} {COCK} is pressed against {PRIMARY}'s {ASS}, grinding between her cheeks with urgency.",
+        "The rodent mounts {PRIMARY}, and begins humping her ass. She shrieks as it hits its mark.",
+        "{PRIMARY} removes her clothing and drops to all fours and timidly present her back end.",
+        "{PRIMARY} drops naked to the ground, wagging her backside, mimicking what such a rodent would do.",
+        "{PRIMARY} pulls down her underwear, and presents her {ASS} to the rodent.",
+        "As the rodent begins to pound into her body, {PRIMARY} begins to sob."
+    ]
+}

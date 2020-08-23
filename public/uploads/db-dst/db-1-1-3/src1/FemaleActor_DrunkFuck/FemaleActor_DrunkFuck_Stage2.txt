@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "Он {FUCK2} меня в {MOUTH}..."
+    ],
+    "2nd Person": [
+        "Он {FUCK2} вас в {MOUTH}..."
+    ],
+    "3rd Person": [
+        "Он {FUCK2} её в {MOUTH}..."
+    ]
+}

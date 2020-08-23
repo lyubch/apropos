@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE}'s {PENIS} is so big that I spread my knees, letting my {ASS} spread wider for him.",
+        "My hips buck and twitch as {ACTIVE}'s speed picks up, his {HUGE} {COCK} spreading my {ASS}.",
+        "My head hangs and my shoulders hunch as the intensity of {ACTIVE}'s fucking starts to hurt more.",
+        "I squirm, and try to move my hips to lessen the pain, but {ACTIVE} holds me firmly in place.",
+        "It starts to hurt, but {ACTIVE} continues to hold me, taking his pleasure from me despite my pain.",
+        "I can feel him pulsing inside me, as my sphincter clenches around his {HUGE} {PENIS}.",
+        "Open my {ASS} wide, make me moan...",
+        "({ACTIVE}) Oh yeah, take it all the way!",
+        "I bite my lip as I am assfucked, my lover sending jolts through my body with every thrust.",
+        "({ACTIVE}) Tell me you like it up your {ASS}, tell me you want it harder!"        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE}'s {PENIS} is so big that you spread your knees, letting your {ASS} spread wider for him.",
+        "Your hips buck and twitch as {ACTIVE}'s speed picks up, his {HUGE} {COCK} spreading your {ASS}.",
+        "Your head hangs and your shoulders hunch as the intensity of {ACTIVE}'s fucking starts to hurt more.",
+        "You squirm, and try to move your hips to lessen the pain, but {ACTIVE} holds you firmly in place.",
+        "It starts to hurt, but {ACTIVE} continues to hold you, taking his pleasure from you despite your pain.",
+        "You can feel him pulsing inside you, as your sphincter clenches around his {HUGE} {PENIS}.",
+        "({PRIMARY}) Open my {ASS} wide, make me moan...",
+        "({ACTIVE}) Oh yeah, take it all the way!",
+        "You bite your lip as you are assfucked, your lover sending jolts through your body with every thrust.",
+        "({ACTIVE}) Tell me you like it up your {ASS}, tell me you want it harder!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s legs spread as {ACTIVE} continues to fuck her {ASS}.",
+        "{PRIMARY}'s fingers dig into the ground, and she sounds like she's in a lot of pain.",
+        "Even as {PRIMARY} squeals and pants, it's somehow erotic to watch her be dominated by {ACTIVE} like that.",
+        "{PRIMARY}'s hips buck as she takes a pounding, but {ACTIVE} keeps her held firmly in place.",
+        "Sweat is pouring down {PRIMARY}'s back as she takes the strain."
+    ]
+}

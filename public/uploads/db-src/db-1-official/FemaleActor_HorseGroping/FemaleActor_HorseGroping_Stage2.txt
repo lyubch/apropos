@@ -1,0 +1,44 @@
+{
+    "1st Person" :
+    [
+        "I drop to my knees, coming face to face with the {ACTIVE}'s {BEAST} {PENIS}.",
+        "My mouth waters and my {PUSSY} aches as I gaze upon the animal's {BEAST} {PENIS}.",
+        "I kneel down, showing the beast it shouldn't be scared... Wow... Is that it's.. {COCK}...?!",
+        "It's {PENIS} looks a lot bigger up close... Maybe just a blowjob?",
+        "The stench of the beast's {PENIS} is strong, and I finger myself a little faster.",
+        "Oh wow! I wonder how far up I could take that... Would it even fit?",
+        "The sight of the {BEAST} {PENIS} makes my mind reel, the taboo act I'm about to perform making me giddy.",
+        "That's really big. Really, really big. I pause for a moment, trying to regain my earlier courage.",
+        "I kneel down, spreading my legs wide, giving my nimble fingers easier access.",
+        "Oh my goodness... I'm not sure about this any more...",
+        "Oh Gods, that's the same size as my arm! I should just suck it off instead...",
+        "I grin giddily, overwhelmed by the idea that this animal is so hard and erect for me...",
+        "I just adore that {BEAST} horse-{COCK}, the sight causing me to tremble.",
+        "Oh my... its {PENIS} is over two feet long, and its balls sway heavily."        
+    ],
+    "2nd Person" :
+    [
+        "You drop to your knees, coming face to face with the {ACTIVE}'s {BEAST} {PENIS}.",
+        "Your mouth waters and your {PUSSY} aches as you gaze upon the animal's {BEAST} {PENIS}.",
+        "You kneel down, showing the beast it shouldn't be scared... Wow... Is that it's.. {COCK}...?!",
+        "It's {PENIS} looks a lot bigger up close... Maybe just a blowjob?",
+        "The stench of the beast's {PENIS} is strong, and you finger yourself a little faster.",
+        "Oh wow! you wonder how far up you could take that... Would it even fit?",
+        "The sight of the {BEAST} {PENIS} makes your mind reel, the taboo act you're about to perform making you giddy.",
+        "That's really big. Really, really big. You pause for a moment, trying to regain your earlier courage.",
+        "You kneel down, spreading your legs wide, giving your nimble fingers easier access.",
+        "Oh my goodness... You're not sure about this any more...",
+        "Oh Gods, that's the same size as your arm! You should just suck it off instead...",
+        "You grin giddily, overwhelmed by the idea that this animal is so hard and erect for you...",
+        "You just adore that {BEAST} horse-{COCK}, the sight causing you to tremble.",
+        "Oh my... its {PENIS} is over two feet long, and its balls sway heavily."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} doesn't stop fingering herself as she drops to her knees beside the {ACTIVE}.",
+        "Kneeling beside the {ACTIVE}, {PRIMARY} stares at its {BEAST} {PENIS}.",
+        "The {ACTIVE}'s {PENIS} looks so big next to {PRIMARY}... Can she really take something that size?",
+        "Oh my, she shouldn't be doing this... It's so dirty, so taboo...",
+        "{PRIMARY} audibly gasps as she comes face to face with the {ACTIVE}'s {BEAST} {PENIS}."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "Surprise and fear race through me as I feel {ACTIVE}'s thick tongue at my {PUSSY}...",
+        "Oh Gods, don't tell me he wants to... I can't do that...",
+        "Ahh! Not there! Bad dog, you can't.... Mmmmm aaahh!",
+        "My heart races as I drop to the ground, signalling my submission to {ACTIVE}. I feel like a {WHORE}.",
+        "The {ACTIVE} slobbers and sniffs at my {FAROUSAL} {PUSSY}. I couldn't possibly.... let him...?",
+        "{ACTIVE} slobbers at my crotch. Oh my gosh, you can't do that... No! Stop! Get off me!"        
+    ],
+    "2nd Person" :
+    [
+        "Surprise and fear race through you as you feel {ACTIVE}'s thick tongue at your {PUSSY}...",
+        "Oh Gods, don't tell you he wants to... you can't do that...",
+        "({PRIMARY}) Ahh! Not there! Bad dog, you can't.... Mmmmm aaahh!",
+        "Your heart races as you drop to the ground, signalling your submission to {ACTIVE}. You feel like a {WHORE}.",
+        "The {ACTIVE} slobbers and sniffs at your {FAROUSAL} {PUSSY}. You couldn't possibly.... let him...?",
+        "({PRIMARY}) Oh my gosh, you can't do that... No! Stop! Get off me!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} drops to the floor, her ass raised, and {ACTIVE} starts to slobber all over her.",
+        "{PRIMARY} cowers, trying to protect her face, but seems shocked when {ACTIVE} begins to lick her."
+    ]
+}

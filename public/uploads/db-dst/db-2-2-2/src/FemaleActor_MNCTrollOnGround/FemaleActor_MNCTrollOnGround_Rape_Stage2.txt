@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I struggle with all my strength, freeing one leg as I try to escape the steady pounding of the beast's {COCK}.",
+        "I pull myself forward, my nipples dragging painfully across the ground, the {ACTIVE} continuing to rape me.",
+        "In freeing one leg, I inadvertently allow the creature to push his entire {PENIS} inside me, and I gasp at the feeling.",
+        "I can only writhe around the {BEAST} troll {COCK} stretching out my {WTVAGINAL} {PUSSY}.",
+        "I try to struggle, but it's no use against such a strong brute.",
+        "I struggle vainly, naked and exposed, as the monstrous brute rapes me."
+    ],
+    "2nd Person": [
+        "You struggle with all your strength, freeing one leg as you try to escape the steady pounding of the beast's {COCK}.",
+        "You pull yourself forward, your nipples dragging painfully across the ground, the {ACTIVE} continuing to rape you.",
+        "In freeing one leg, you inadvertently allow the creature to push his entire {PENIS} inside you, and you gasp at the feeling.",
+        "You can only writhe around the {BEAST} troll {COCK} stretching out your {WTVAGINAL} {PUSSY}.",
+        "You try to struggle, but it's no use against such a strong brute.",
+        "You struggle vainly, naked and exposed, as the monstrous brute rapes you."
+    ],
+    "3rd Person": [
+        "{PRIMARY} struggles with all her strength, freeing one leg as she tries to escape the steady pounding of the beast's {COCK}.",
+        "{PRIMARY} pulls herself forward, her nipples dragging painfully across the ground, the {ACTIVE} continuing to rape her.",
+        "In freeing one leg, {PRIMARY} inadvertently allows the creature to push his entire {PENIS} inside her, and she gasps at the feeling.",
+        "{PRIMARY} can only writhe around the {BEAST} troll {COCK} stretching out her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} tries to struggle, but it's no use against such a strong brute.",
+        "{PRIMARY} struggles vainly, naked and exposed, as the monstrous brute rapes her."
+    ]
+}

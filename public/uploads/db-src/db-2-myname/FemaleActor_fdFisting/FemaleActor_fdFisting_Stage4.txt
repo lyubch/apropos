@@ -1,0 +1,53 @@
+{
+    "1st Person" :
+    [
+        "I turn over, raising my ass into the air, and whimper 'more'.",
+        "I bend over, giving {ACTIVE} better access to my {WTVAGINAL} {PUSSY}.",
+        "Like a drunken {WHORE}, I present myself to {ACTIVE}, revelling in the abuse.",
+        "({ACTIVE}) Look at you, such a {WHORE}, eager to be abused by men!",
+        "I'm ashamed of myself, but I lift my {PUSSY}, anxious as he pushes deep inside me.",
+        "My {PUSSY} on show, I glance around nervously as {ACTIVE} punishes me. Oh Gods, who's watching me?",
+        "I pull my knees together, making {ACTIVE}'s hand feel even bigger, my {PUSSY} stretched around it.",
+        "{ACTIVE} drives his fingers into me, pushing deep. I can feel them at the entrance to my womb...",
+        "Oh Gods, you're so deep inside me! Nghhh! Please... I want it deeper!",
+        "Ahhh... Oh Gods, just your hand? Don't you want to... fuck me? You can... Ahh! If you want to...",
+        "Ahh... I'm yours... You can... Nghhh! You can do what you want to me... Anything...",
+        "Please... I want you to fuck my {ASS}... Don't be gentle... ahhh! Just do it...",
+        "The pain is incredible, but {ACTIVE} begins curling his fingers, stroking the walls of my {PUSSY}.",
+        "I start to relish every thrust as it brings a blast of new sensations.",
+        "I can't believe my tiny body is taking this... I wasn't made to do this kind of thing...",
+        "({PRIMARY}) Uh... That's it... It's in... Now... Keep going... deeper... I can take it...",
+        "His hand is pumping in and out of me with such ease... My {PUSSY} must be ruined...",
+        "I crave the pain, knowing what intense pleasure will follow.",
+        "This is intense... What would it feel like... in my {ASS}? Or maybe even... both? Would that be possible?"        
+    ],
+    "2nd Person" :
+    [
+        "You turn over, raising your ass into the air, and whimper 'more'.",
+        "You bend over, giving {ACTIVE} better access to your {WTVAGINAL} {PUSSY}.",
+        "Like a drunken {WHORE}, you present yourself to {ACTIVE}, revelling in the abuse.",
+        "({ACTIVE}) Look at you, such a {WHORE}, eager to be abused by men!",
+        "You're ashamed of yourself, but you lift your {PUSSY}, anxious as he pushes deep inside you.",
+        "Your {PUSSY} on show, you glance around nervously as {ACTIVE} punishes you. Oh Gods, who's watching you?",
+        "You pull your knees together, making {ACTIVE}'s hand feel even bigger, your {PUSSY} stretched around it.",
+        "{ACTIVE} drives his fingers into you, pushing deep. You can feel them at the entrance to your womb...",
+        "({PRIMARY}) Oh Gods, you're so deep inside me! Nghhh! Please... I want it deeper!",
+        "({PRIMARY}) Ahhh... Oh Gods, just your hand? Don't you want to... fuck me? You can... Ahh! If you want to...",
+        "({PRIMARY}) Ahh... I'm yours... You can... Nghhh! You can do what you want to me... Anything...",
+        "({PRIMARY}) Please... I want you to fuck my {ASS}... Don't be gentle... ahhh! Just do it...",
+        "The pain is incredible, but {ACTIVE} begins curling his fingers, stroking the walls of your {PUSSY}.",
+        "You start to relish every thrust as it brings a blast of new sensations.",
+        "You can't believe your tiny body is taking this... you weren't made to do this kind of thing...",
+        "({PRIMARY}) Uh... That's it... It's in... Now... Keep going... deeper... I can take it...",
+        "His hand is pumping in and out of you with such ease... your {PUSSY} must be ruined...",
+        "You crave the pain, knowing what intense pleasure will follow.",
+        "This is intense... What would it feel like... in your {ASS}? Or maybe even... both? Would that be possible?"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} turns over, presenting her backside to {ACTIVE}. She wants more...",
+        "{ACTIVE} pushes deep into {PRIMARY}'s {PUSSY}, and she just moans and gasps in pleasure.",
+        "{ACTIVE} sits up to get a better angle to fist {PRIMARY}, putting his {HUGE} {PENIS} on display.",
+        "Oh my... If {PRIMARY} could see {ACTIVE}'s {HUGE} {PENIS}, she'd want it inside her for sure!"
+    ]
+}

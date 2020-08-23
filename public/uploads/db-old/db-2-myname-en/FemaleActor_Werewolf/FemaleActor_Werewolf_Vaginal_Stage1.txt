@@ -1,0 +1,58 @@
+{
+    "1st Person" :
+    [
+        "I lick my lips. I want that knot inside my soon-to-be-wrecked {PUSSY}.",
+        "Girls were not meant to take meat this thick into their pussies, I know, but I'm dripping in anticipation.",
+        "You think I'm into bestiality? Think I'll take your {COCK}? I smile as I spread my legs.",
+        "I lock eyes with the beast, fingering my {FAROUSAL} {PUSSY}, my mouth open and panting.",
+        "I press my naked body against the {ACTIVE}'s chest. I whisper in his ear, 'I want some dog cock'.",
+        "Oh my, Mr Wolf, what a big {COCK} you have!",
+        "Want to have some fun? (giggle)",
+        "I want you to put it in me.",
+        "You look as if you'd give me the kind of fucking I'd feel for days...",
+        "I'd heard rumours that some human girls like to fuck werewolves, I wonder if it's true?",
+        "The beast is upon me and begins to thrust the full length of it into my womb.",
+        "Once the knot batters inside me, I won't be able to change my mind, I'll be forced to take its cumshot.",
+        "The {ACTIVE} yanks my legs apart and fucks me.",
+        "Don't change back. Stay. I want to fuck the beast.",
+        "I want you to fuck me as hard as you can, as savagely as you can. Don't worry about me, just fuck me.",
+        "(giggle) Stay as the monster! I've had stranger than you, I've fucked real monsters!",
+        "Sometimes I dream about getting it hard from a werewolf. Make sure you live up to the fantasy!",
+        "I want you to show this little human {BITCH} just how much of an animal you can be..."
+    ],
+    "2nd Person" :
+    [
+        "You lick your lips. You want that knot inside your soon-to-be-wrecked {PUSSY}.",
+        "Girls were not meant to take meat this thick into their pussies, but you're dripping in anticipation.",
+        "({PRIMARY}) You think I'm into bestiality? Think I'll take your {COCK}?",
+        "You smile at the {ACTIVE}, staring at his {COCK} as you spread your legs.",
+        "You lock eyes with the beast, fingering your {FAROUSAL} {PUSSY}, your mouth open and panting.",
+        "You press your naked body against the {ACTIVE}'s chest. You whisper in his ear, 'I want some dog cock'.",
+        "({PRIMARY}) Oh my, Mr Wolf, what a big {COCK} you have!",
+        "({PRIMARY}) Want to have some fun?",
+        "({PRIMARY}) I want you to put it in me.",
+        "He looks as if he'd give you the kind of fucking you'd feel for days...",
+        "You'd heard rumours that some human girls like to fuck werewolves, you wonder if it's true?",
+        "The beast is upon you and begins to thrust the full length of it into your womb.",
+        "Once the knot is inside you, you won't be able to change your mind, you'll be forced to take his cumshot.",
+        "The {ACTIVE} yanks your legs apart and fucks you.",
+        "({PRIMARY}) Don't change back. Stay. I want to fuck the beast.",
+        "({PRIMARY}) I want you to fuck me as hard as you can, as savagely as you can. Don't worry, just fuck me.",
+        "({PRIMARY}) Stay as the monster! I've had stranger than you, I've fucked real monsters!",
+        "Sometimes you dream about getting it hard from a werewolf. You hope he lives up to the fantasy!",
+        "({PRIMARY}) I want you to show this little human {BITCH} just how much of an animal you can be..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} licks her lips. She wants that knot inside her soon-to-be-wrecked {PUSSY}.",
+        "Girls were not meant to take meat this thick into their pussies, but {PRIMARY}'s dripping in anticipation.",
+        "({PRIMARY}) You think I'm into bestiality? Think I'll take your {COCK}?",
+        "{PRIMARY} locks eyes with the beast, fingering her {FAROUSAL} {PUSSY}, her mouth open and panting.",
+        "{PRIMARY} presses her naked body against the {ACTIVE}'s chest.",
+        "({PRIMARY}) I want some dog cock.",
+        "({PRIMARY}) Oh her, Mr Wolf, what a big {COCK} you have!",
+        "({PRIMARY}) Want to have some fun? (giggle)",
+        "({PRIMARY}) I want you to put it in me.",
+        "({PRIMARY}) You look as if you'd give me the kind of fucking I'd feel for days..."
+    ]
+}

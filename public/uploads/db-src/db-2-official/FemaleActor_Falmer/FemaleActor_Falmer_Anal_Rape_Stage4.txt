@@ -1,0 +1,47 @@
+{
+    "1st Person": [
+        "My knees rub in the rough ground, but it doesn't distract me from the pain in my {ASS}.",
+        "Ahhhh! Give me all you have, don't hold back... fuck me!",
+        "I fight hard not to enjoy it. I try to think of everything that turns me off, makes me angry.",
+        "I try to hold back, to think about people I hate, but my imagination turns to how big their cocks are.",
+        "(sniff) (sob)  Well, you better get on with it then, you're already half way there...",
+        "I gasp, then let out a cry of helpless rage as I feel the monster's {COCK} start to explore my back passage.",
+        "I grunt with each lunge as the creature buries himself balls deep into my {WTANAL} {ASS}.",
+        "Ohh! Just do it and ahhh! Get it over with!",
+        "({ACTIVE}) You're going to keep coming back for more Falmer {COCK}, aren't you?",
+        "Urghhh! Just fucking cum and get... AHHH! get... it over with...",
+        "As the beast continue to fuck me, I eventually feel a sensation that revolts me... pleasure...",
+        "I meet the assault with thrusts of my hips and soft grunts.",
+        "Maybe they'll want me to... ughh! to fuck one of their... bugs..."
+    ],
+    "2nd Person": [
+        "Your knees rub in the rough ground, but it doesn't distract you from the pain in your {ASS}.",
+        "({PRIMARY}) Ahhhh! Give me all you have, don't hold back... fuck me!",
+        "You fight hard not to enjoy it. You try to think of everything that turns you off, makes you angry.",
+        "You try to hold back, to think about people you hate, but your imagination turns to how big their cocks are.",
+        "({ACTIVE}) (sniff) (sob)  Well, you better get on with it then, you're already half way there...",
+        "You let out a cry of helpless rage as you feel the monster's {COCK} start to explore your back passage.",
+        "You grunt with each lunge as the creature buries himself balls deep into your {WTANAL} {ASS}.",
+        "({PRIMARY}) Ohh! Just do it and ahhh! Get it over with!",
+        "({ACTIVE}) You're going to keep coming back for more Falmer {COCK}, aren't you?",
+        "({PRIMARY}) Urghhh! Just fucking cum and get.. AH! get.. it over with.",
+        "As the beast continue to fuck you, you eventually feel a sensation that revolts you... pleasure...",
+        "You meet the assault with thrusts of your hips and soft grunts.",
+        "Maybe they'll want you to... ugh! to fuck one of their... bugs..."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s knees rub in the rough ground, but it can't distract her from the pain in her {ASS}.",
+        "({PRIMARY}) Ahhhh! Give me all you have, don't hold back... fuck me!",
+        "{PRIMARY} fights hard not to enjoy it, but gasps of pleasure are escaping her.",
+        "{PRIMARY} tries to hold back, but it's clear what effect the {ACTIVE}'s {COCK} is having on her.",
+        "({PRIMARY}) (sniff) (sob)  Well, you better get on with it then, you're already half way there...",
+        "{PRIMARY} lets out a cry of helpless rage as the monster's {COCK} start to explore her back passage.",
+        "{PRIMARY} grunts with each lunge as the creature buries himself balls deep into her {WTANAL} {ASS}.",
+        "({PRIMARY}) Ohh! Just do it and ahhh! Get it over with!",
+        "({ACTIVE}) You're going to keep coming back for more Falmer {COCK}, aren't you?",
+        "({PRIMARY}) Urghhh! Just fucking cum and get... AHHH! get... it over with...",
+        "As the beast continue to fuck her, {PRIMARY} starts to thrust back a little, moaning each time.",
+        "{PRIMARY} meets the assault with thrusts of her hips and soft grunts.",
+        "Maybe they'll want {PRIMARY} to... ughh! to fuck one of their... bugs..."
+    ]
+}

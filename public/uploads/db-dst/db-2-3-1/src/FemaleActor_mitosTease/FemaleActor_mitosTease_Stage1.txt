@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "I drop to all fours, raising my {BUTTOCKS} to {ACTIVE}. I hope he takes the hint...",
+        "I'm on my hands and knees, {JIGGL}ing my {BUTTOCKS} at {ACTIVE}... I blush deeply at my {LEWD} action.",
+        "Even as I lower my head in shame and embarrassment, I raise my {ASSHOLE}, wiggling it provocatively.",
+        "I'm ready to be {RAP}ed, but all I hear are {ACTIVE}'s grunts and {MOAN}s... What is he waiting for?",
+        "({ACTIVE}) C'mon, {BITCH}, show me your {PUSSY}! That's it, you like to be watched!",
+        "({ACTIVE}) What a {BITCH}! She's begging for a {COCK}, any {COCK}!"
+    ],
+    "2nd Person" :
+    [
+        "You drop to all fours, raising your {BUTTOCKS} to {ACTIVE}. You hope he takes the hint...",
+        "You're on your hands and knees, wiggling your ass at {ACTIVE}... You blush deeply at your {LEWD} action.",
+        "Even as you lower your head in shame and embarrassment, you raise your {ASSHOLE}, wiggling it provocatively.",
+        "You're ready to be {RAP}ed, but all you hear are {ACTIVE}'s grunts and {MOAN}s... What is he waiting for?",
+        "({ACTIVE}) C'mon, {BITCH}, show me your {PUSSY}! That's it, you like to be watched!",
+        "({ACTIVE}) What a {BITCH}! She's begging for a {COCK}, any {COCK}!"
+    ],
+    "3rd Person" :
+    [
+        "Oh my! {PRIMARY} is such a {BITCH}...",
+        "Is {ACTIVE} really content to just play with himself? {PRIMARY} clearly wants to be fucked...",
+        "{ACTIVE} is staring intently at {PRIMARY}'s {WTVAGINAL} {PUSSY}...",
+        "Isn't {PRIMARY} embarrassed to be doing that? Everyone can see her {PUSSY}..."
+    ]
+}

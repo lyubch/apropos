@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "I raise my knees together in a vain attempt to stop the monster {PENETRAT}ing me on his entire {BEASTLY} {COCK}.",
+        "The {MONSTER}'s strokes are painful, feeding my poor {PUSSY} the entire length of its {COCK}.",
+        "I can't help but gasp and {SCREAM} as the {ACTIVE} picks up the pace, {FUCK}ing me hard and deep.",
+        "I stare up at the {ACTIVE}, not even looking at me as it {RAP}es me right the way to my core.",
+        "With every colossal thrust I feel my cervix begin to give way, and the {MONSTER}'s heavy {BALLS} on my {ASSHOLE}.",
+        "The {ACTIVE}'s {COCK} {FUCK}s into me in a blur. All I can do is hold on and {ACCEPT} it.",
+        "The sex is {ROUGH}, the {MONSTER} slamming into my {PUSSY} like a battering ram again and again."        
+    ],
+    "2nd Person" :
+    [
+        "You raise your knees together in a vain attempt to stop the monster {PENETRAT}ing you on his entire {BEASTLY} {COCK}.",
+        "The {MONSTER}'s strokes are painful, feeding your poor {PUSSY} the entire length of its {COCK}.",
+        "You can't help but gasp and {SCREAM} as the {ACTIVE} picks up the pace, {FUCK}ing you hard and deep.",
+        "You stare up at the {ACTIVE}, not even looking at you as it {FUCK}s you right the way to your core.",
+        "With every colossal thrust you feel your cervix begin to give way, and the {MONSTER}'s heavy {BALLS} on your {ASSHOLE}.",
+        "The {ACTIVE}'s {COCK} {FUCK}s into you in a blur. All you can do is hold on and {ACCEPT} it.",
+        "The sex is {ROUGH}, the {MONSTER} slamming into your {PUSSY} like a battering ram again and again." 
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} raises her knees together in a vain attempt to stop the monster {PENETRAT}ing her on his entire {BEASTLY} {COCK}.",
+        "{PRIMARY} {SCREAM}s as the {ACTIVE} picks up the pace, {FUCK}ing her hard and deep.",
+        "The sex is {ROUGH}, the {MONSTER} slamming into {PRIMARY}'s {PUSSY} like a battering ram again and again." 
+    ]
+}

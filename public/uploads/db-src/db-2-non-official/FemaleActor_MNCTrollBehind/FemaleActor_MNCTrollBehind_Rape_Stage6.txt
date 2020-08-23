@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "Ahh! I never expected this monster to be such a skilled lover... Had I known, I never would have resisted...",
+        "Mmmm, that's it... {FUCK} me with your {BEASTLY} {COCK}... I want your {CUM}... inside me...",
+        "I lean back into my {ROUGH} lover, fully giving myself over to the guilty pleasure of {FUCK}ing a monster.",
+        "The mixture of the physical sensations and the guilt of loving being {FUCK}ed by a {MONSTER}... I'm gonna cum...",
+        "I ready myself for the now-familiar feeling of its {CUM} blasting forth and coating my insides."
+    ],
+    "2nd Person": [
+        "Ahh! You never expected this monster to be such a skilled lover... Had you known, you never would have resisted...",
+        "({PRIMARY}) Mmmm, that's it... {FUCK} me with your {BEASTLY} {COCK}... I want your {CUM}... inside me...",
+        "You lean back into your {ROUGH} lover, fully giving yourself over to the guilty pleasure of {FUCK}ing a monster.",
+        "The mixture of the physical sensations and the guilt of loving being {FUCK}ed by a {MONSTER}... You're gonna cum...",
+        "You ready yourself for the now-familiar feeling of its {CUM} blasting forth and coating your insides."
+    ],
+    "3rd Person": [
+        "Ahh! {PRIMARY} never expected this monster to be such a skilled lover... Had she known, she never would have resisted...",
+        "({PRIMARY}) Mmmm, that's it... {FUCK} me with your {BEASTLY} {COCK}... I want your {CUM}... inside me...",
+        "{PRIMARY} leans back into her {ROUGH} lover, fully giving herself over to the guilty pleasure of {FUCK}ing a monster.",
+        "The mixture of the physical sensations and the guilt of loving being {FUCK}ed by a {MONSTER}... {PRIMARY} is gonna cum...",
+        "{PRIMARY} readies herself for the now-familiar feeling of its {CUM} blasting forth and coating her insides."
+    ]
+}

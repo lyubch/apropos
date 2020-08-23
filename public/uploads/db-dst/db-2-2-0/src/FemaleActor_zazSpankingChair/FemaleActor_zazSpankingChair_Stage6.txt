@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "({ACTIVE}) Stop your crying, {BITCH}, everyone knows you liked that! Now spread your legs!",
+        "Shame and guilt wash over me... I'm just a {WHORE}, and now I'm going to let him fuck me.",
+        "My ass is burning, tears streaming down my face, but my {PUSSY} is aching, desperate for attention.",
+        "I'm overcome by pain, guilt and arousal, my body still trembling from my orgasm. Oh Gods, I want to...",
+        "Ah... (sob) Please... no more... it's too much... (sob) If you stop, I'll let you... do me..."
+    ],
+    "2nd Person" :
+    [
+        "({ACTIVE}) Stop your crying, {BITCH}, everyone knows you liked that! Now spread your legs!",
+        "Shame and guilt wash over you... You're just a {WHORE}, and now you're going to let him fuck you.",
+        "Your ass is burning, tears streaming down your face, but your {PUSSY} is aching, desperate for attention.",
+        "You're overcome by pain, guilt and arousal, your body still trembling from your orgasm. Oh Gods, you want to...",
+        "({PRIMARY}) Ah... (sob) Please... no more... it's too much... (sob) If you stop, I'll let you... do me..."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} folds his arms and watches {PRIMARY} turn away and sob into her hands, his {COCK} erect and ready.",
+        "({ACTIVE}) Learned your lesson now, {BITCH}? Why don't you spread your legs and show me?",
+        "Is {PRIMARY}'s distress turning {ACTIVE} on? What a bastard...",
+        "({PRIMARY}) Okay... (sob) I'll have sex with you... Just please... Be gentle with me..."
+    ]
+}

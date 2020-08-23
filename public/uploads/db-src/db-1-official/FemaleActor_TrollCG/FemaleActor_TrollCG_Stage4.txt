@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} releases his grip on me as I climb up onto it, and begin riding in long, smooth strokes.",
+        "I lean forward as I begin to fuck the {ACTIVE}, my {BOOBS} dangling in front of its face.",
+        "Already a little tired, I raise up onto my feet, and start riding the {BEAST} {PENIS}",
+        "Bouncing up and down, my mind races. What if it leans forward and takes my {BOOBS} in its mouth? The thought excites me.",
+        "The {ACTIVE} is huge, it feels like its {COCK} is in my stomach.",
+        "I grunt as I am impaled on the {ACTIVE}. I didn't know I could take so much cock."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} releases his grip on you as you climb up onto it, and begin riding in long, smooth strokes.",
+        "You lean forward as you begin to fuck the {ACTIVE}, your {BOOBS} dangling in front of its face.",
+        "Already a little tired, you raise up onto your feet, and start riding the {BEAST} {PENIS}",
+        "Bouncing up and down, your mind races. What if it takes your {BOOBS} in its mouth? The thought excites you.",
+        "The {ACTIVE} is huge, it feels like its {COCK} is in your stomach.",
+        "You grunt as you are impaled on the {ACTIVE}. You didn't know you could take so much cock." 
+    ],
+    "3rd Person" :
+    [
+        "Wearily {PRIMARY} raises up onto her feet, and starts fucking herself on the monster's {BEAST} {PENIS}.",
+        "The {ACTIVE} releases his grip on {PRIMARY} as she climbs up onto it, and begins riding in long, smooth strokes.",
+        "{PRIMARY} leans forward and begins to fuck the {ACTIVE}, her {HEAVING} {BOOBS} dangling in front of its face."
+    ]
+}

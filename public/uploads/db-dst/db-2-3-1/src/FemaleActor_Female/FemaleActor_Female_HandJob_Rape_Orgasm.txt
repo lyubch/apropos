@@ -1,0 +1,12 @@
+{
+    "1st Person": [
+        "Oh! I think I came a little there! I can't believe I'm getting {HORNY} by this..."
+    ],
+    "2nd Person": [
+        "Oh! you think you came a little there! you can't believe you're getting {HORNY} by this..."
+    ],
+    "3rd Person": [
+        "Will the {ACTIVE} be pleased if {PRIMARY} swallows her {CREAM}?",
+        "{PRIMARY} holds her {MOUTH} open, tongue out, {WANK}ing her hard into her face."
+    ]
+}

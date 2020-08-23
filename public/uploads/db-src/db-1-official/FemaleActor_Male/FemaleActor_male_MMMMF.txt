@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "I'm going to enjoy these {COCK}s."
+    ],
+    "2nd Person": [
+        "You are going to enjoy these {COCK}s."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is going to enjoy these {COCK}s."
+    ]
+}

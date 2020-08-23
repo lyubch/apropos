@@ -1,0 +1,44 @@
+{
+    "1st Person" :
+    [
+        "I relax my {ASS}, and with that I feel the gloriously {HUGE} head of {ACTIVE}'s {COCK} press into me.",
+        "{ACTIVE}'s {HUGE} {COCK} stretches me as it enters, and pulls me back as it leaves. I bite my lip.",
+        "I can feel myself stretch around the invader, and it hurts enough that I almost scream out in pain.",
+        "I will myself to relax, my {ASS} is stretched to its limit as {ACTIVE}'s {COCK} pops inside.",
+        "My {ASS} is already so slick from all the sex that it is easy to take {ACTIVE} inside me.",
+        "You want to fuck my {ASS}? So dirty. I like it.",
+        "What? But... but that's my...",
+        "({ACTIVE}) Let me fuck you up the {ASS}, {BITCH}!",
+        "You really want to fuck my {ASS}, don't you? Go slowly then... Nggg!",
+        "You want to stick it up my {ASS}? O...okay...  Be gentle...   AHHH!",
+        "({ACTIVE}) I've heard you let dogs fuck your {PUSSY}, so I'll stick to your {ASS}!",
+        "What the hell are you... OH!",
+        "Just... be gentle... please...",
+        "I pant as {ACTIVE} pushes his {COCK} into my {ASS}."
+    ],
+    "2nd Person" :
+    [
+        "You relax your {ASS}, and feel the gloriously {HUGE} head of {ACTIVE}'s {COCK} press into you.",
+        "{ACTIVE}'s {HUGE} {COCK} stretches you as it enters, and pulls you back as it leaves. You bite your lip.",
+        "You gasp quietly when the tip of {ACTIVE}'s {COCK} begins to push against your {WTANAL} {ASS}.",
+        "You can feel yourself stretch around the invader, and it hurts enough that you almost scream out in pain.",
+        "You will yourself to relax, your {ASS} is stretched to its limit as {ACTIVE}'s {COCK} pops inside.",
+        "Your {ASS} is already so slick from all the sex that it is easy to take {ACTIVE} inside you.",
+        "({PRIMARY}) You want to fuck my {ASS}? I like it dirty.",
+        "({ACTIVE}) Let me fuck you up the {ASS}, {BITCH}!",
+        "({PRIMARY}) You really want to fuck my {ASS}, don't you? Go slowly then... Ng!",
+        "({PRIMARY}) You want to stick it up my {ASS}? O...okay...  Be gentle...   AH!",
+        "({ACTIVE}) I've heard you let dogs fuck your {PUSSY}, so I'll stick to your {ASS}!",
+        "({PRIMARY}) What the hell are you... OH!",
+        "({PRIMARY}) Just... be gentle... please.",
+        "You pant as {ACTIVE} pushes his {COCK} into my {ASS}."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} presses the {HUGE} head of his {COCK} into {PRIMARY}'s {ASS}.",
+        "({ACTIVE}) Spread your {ASS}, {BITCH}.",
+        "{PRIMARY} doesn't stop {ACTIVE} as he begins to probe her {ASS}.",
+        "Is {PRIMARY} really going to take {ACTIVE} in the {ASS}?",
+        "Wow, {PRIMARY}'s taking him in the {ASS}!"
+    ]
+}

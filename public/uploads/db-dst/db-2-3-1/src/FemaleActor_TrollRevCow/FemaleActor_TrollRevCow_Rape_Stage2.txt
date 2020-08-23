@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "Timidly, I climb up, hands on the {ACTIVE}'s muscled stomach, and {SLOW}ly slide down the {BEASTLY} {COCK}.",
+        "My heart jumps into my throat as the troll wraps one hand around my shoulder. I'm terrified, but I begin to {FUCK} it.",
+        "The first time my {ASSHOLE} touches the {MONSTER}'s stomach, I {SCREAM}. By the third time down, I'm {SCREAM}ing.",
+        "I can't believe its {COCK} is so {HUGE}... And I really can't believe I just took the whole thing in my {PUSSY}...",
+        "Slowly I begin to push up and down on the monster's {COCK}, the {MONSTER} seeming to urge me to {ACCEPT} it all.",
+        "After what seemed like an age of {SLOW}ly sliding down the {BEASTLY} {COCK}, my thighs touch its {BALLS}."        
+    ],
+    "2nd Person" :
+    [
+        "Timidly, you climb up, hands on the {ACTIVE}'s muscled stomach, and {SLOW}ly slide down the {BEASTLY} {COCK}.",
+        "Your heart jumps into your throat as the troll wraps one hand around your shoulder. Terrified, you begin to {FUCK} it.",
+        "The first time your ass touches the {MONSTER}'s stomach, you {SCREAM}. By the third time down, you're {SCREAM}ing.",
+        "You can't believe its {COCK} is so {HUGE}... And you really can't believe you just took the whole thing in your {PUSSY}...",
+        "Slowly you begin to push up and down on the monster's {COCK}, the {MONSTER} seeming to urge you to {ACCEPT} it all.",
+        "After what seemed like an age of {SLOW}ly sliding down the {BEASTLY} {COCK}, your thighs touch its {BALLS}." 
+    ],
+    "3rd Person" :
+    [
+        "Timidly, {PRIMARY} climbs up, hands on the {ACTIVE}'s muscled stomach, and {SLOW}ly slides down the {BEASTLY} {COCK}.",
+        "The first time {PRIMARY}'s ass touches the {MONSTER}'s stomach, she {SCREAM}s. By the third time down, she's {SCREAM}ing.",
+        "It's amazing that its {COCK} is so {HUGE}... And unbelievable that {PRIMARY} just took the whole thing in her {PUSSY}!"        
+    ]
+}

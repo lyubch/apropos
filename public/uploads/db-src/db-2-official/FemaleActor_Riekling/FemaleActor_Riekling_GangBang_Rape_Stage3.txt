@@ -1,0 +1,46 @@
+{
+    "1st Person": [
+        "The one in my {PUSSY} is putting his entire weight into it, driving his {COCK} deep.",
+        "My hand is pulled away as I try to stop the {BEAST} {COCK} from entering my {MOUTH}.",
+        "Oh Gods, I'm being fucked in both ends...",
+        "The urge continues to build in a hot sweating pumping tangle of bodies.",
+        "Grabbing my hair roughly, the {ACTIVE} fucks my {MOUTH}.",
+        "Ugh! It must have really been saving up! Its {VILE} {CUM} is filling my stomach.",
+        "These {ACTIVE} dicks have me cumming already! If I keep going like this, I won't be able to stop!",
+        "I start to relish the two cocks invading my body.",
+        "I feel the first shuddering waves of climax building; I know I'm lost and give up to it.",
+        "That I'm being fucked by monsters leaves a guilty pang as I start to take pleasure from the inhuman union.",
+        "Gradually I relinquish the fight and allow the {ACTIVE} to slide his {COCK} in and out of my {MOUTH}.",
+        "The {ACTIVE} lowers his {COCK} to my mouth and starts to shove it in, ignoring my muffled squeals.",
+        "The {COCK} jams it into my lips and against my teeth until I finally open and allow it to violate me.",
+        "As my {MOUTH} fills with {CUM}, I wonder how long it will be until the one deep in my {PUSSY} cums too.",
+        "I'm gasping and panting for breath, and there's no way I can keep my mouth closed.",
+        "The taste is not unpleasant, I realize; slightly salty and almost familiar."
+    ],
+    "2nd Person": [
+        "The one in your {PUSSY} is putting his entire weight into it, driving his {COCK} deep.",
+        "Your hand is pulled away as you try to stop the {BEAST} {COCK} from entering your {MOUTH}.",
+        "Oh Gods, you're being fucked in both ends...",
+        "The urge continues to build in a hot sweating pumping tangle of bodies.",
+        "Grabbing your hair roughly, the {ACTIVE} fucks your {MOUTH}.",
+        "Ugh! It must have really been saving up! Its {VILE} {CUM} is filling your stomach.'",
+        "These {ACTIVE} dicks have me cumming already! If you keep going like this, you won't be able to stop!'",
+        "You start to relish the two cocks invading your body.",
+        "You feel the first shuddering waves of climax building; you know you're lost and give up to it.",
+        "Being fucked by monsters leaves a guilty pang as you start to take pleasure from the inhuman union.",
+        "Gradually you relinquish the fight and allow the {ACTIVE} to slide his {COCK} in and out of your {MOUTH}.",
+        "The {ACTIVE} lowers his {COCK} to your mouth and starts to shove it in, ignoring your muffled squeals.",
+        "The {ACTIVE} jams its {COCK} into your lips and teeth until you finally open and allow it to violate you.",
+        "As your {MOUTH} fills with {CUM}, You wonder how long it will be until the one deep in your {PUSSY} cums too.",
+        "You're gasping and panting for breath, and there's no way you can keep your mouth closed.",
+        "The taste is not unpleasant, you realize; slightly salty and almost familiar."
+    ],
+    "3rd Person": [
+        "The one in {PRIMARY}'s {PUSSY} is putting his entire weight into it, driving his {COCK} deep.",
+        "{PRIMARY}'s hand is pulled away as she tries to stop the {BEAST} {COCK} from entering her {MOUTH}.",
+        "Oh Gods, {PRIMARY}'s being fucked in both ends...",
+        "The urge continues to build in a hot sweating pumping tangle of bodies.",
+        "Grabbing {PRIMARY}'s hair roughly, the {ACTIVE} fucks her {MOUTH}.",
+        "These {ACTIVE} dicks have {PRIMARY} cumming already! If she keeps going like this, she won't be able to stop!"
+    ]
+}

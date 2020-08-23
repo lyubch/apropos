@@ -1,0 +1,34 @@
+{
+    "1st Person" :
+    [
+        "I drop to all fours, raising my ass. {ACTIVE} mounts me, his forelegs over my shoulders, and fucks me.",
+        "I arch my back and raise my {PUSSY}, trembling and panting as {ACTIVE} mounts me.",
+        "AAAH! It's in! It feels so strange, much hotter and bigger than a human {PENIS}.",
+        "I cry out in shock as {ACTIVE} jams its {BEAST} {PENIS} inside my {WTVAGINAL} {PUSSY}.",
+        "{ACTIVE} wastes no time getting on me and thrusting his {PENIS} into my {WTVAGINAL} {PUSSY}.",
+        "Arching my back, I let {ACTIVE} climb onto me and take me hard and deep.",
+        "{ACTIVE} drives every inch of his long, {BEAST} {PENIS} up my {PUSSY}.",
+        "I never knew I was a {BITCH} who'd even do it with a dog!",
+        "His hind legs scrabble at the floor as he thrusts his {BEAST} red {PENIS} into my {FAROUSAL} {PUSSY}.",
+        "{ACTIVE}'s balls feel so heavy as they slap against my thighs."        
+    ],
+    "2nd Person" :
+    [
+        "You drop to all fours, raising your ass. {ACTIVE} mounts you, forelegs over your shoulders, and fucks you.",
+        "You arch your back and raise your {PUSSY}, trembling and panting as {ACTIVE} mounts you.",
+        "AAAH! It's in! It feels so strange, much hotter and bigger than a human {PENIS}.",
+        "You cry out in shock as {ACTIVE} jams its {BEAST} {PENIS} inside your {WTVAGINAL} {PUSSY}.",
+        "{ACTIVE} wastes no time getting on you and thrusting his {PENIS} into your {WTVAGINAL} {PUSSY}.",
+        "Arching your back, you let {ACTIVE} climb onto you and take you hard and deep.",
+        "{ACTIVE} drives every inch of his long, {BEAST} {PENIS} up your {PUSSY}.",
+        "You never knew you were a {BITCH} who'd even do it with a dog!",
+        "His hind legs scrabble at the floor as he thrusts his {BEAST} red {PENIS} into your {FAROUSAL} {PUSSY}.",
+        "{ACTIVE}'s balls feel so heavy as they slap against your thighs."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} leaps up onto {PRIMARY}'s back, and starts to thrust into her steadily.",
+        "Oh Gods, {PRIMARY}'s having sex with a dog!",
+        "{PRIMARY} arches her back as {ACTIVE} enters her, clearly enjoying the animal's {COCK}."
+    ]
+}

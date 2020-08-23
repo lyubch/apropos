@@ -1,0 +1,37 @@
+{
+    "1st Person" :
+    [
+        "I think I'm cumming every time {ACTIVE}'s knot pops inside me...",
+        "The thrusts are deep and slow now, his knot inside me and his {PENIS} filling my womb with {CUM}.",
+        "I lock my knees and clench my thighs around {ACTIVE}, trying to keep him inside me as we both cum.",
+        "My breath catches each time the knot slowly parts my lips, and I cum every time it pulls suddenly out.",
+        "Oh! I cry out when I feel that {THICK} dog-{CUM} splatter into my {WTVAGINAL} {PUSSY}.",
+        "I'm getting off from having {ACTIVE} ejaculate inside me. I'm a nasty, perverted girl...",
+        "I'm writhing on the ground, moaning with a {BEAST} dog {PENIS} up my {PUSSY}, filling me with {CUM}.",
+        "Oh my... I just came... from fucking a dog...",
+        "Again and again {ACTIVE} unloads his cock and balls, growling and panting.",
+        "I grip my thighs together, not wanting to lose even a drop of dog {CUM}...",
+        "Nghh... mmmm... All that {THICK} {CUM}... Making his knot slip in and out of me... Ahhh!"        
+    ],
+    "2nd Person" :
+    [
+        "You're cumming almost every time {ACTIVE}'s knot pops inside you...",
+        "The thrusts are deep and slow now, his knot inside you and his {PENIS} filling your womb with {CUM}.",
+        "You lock your knees and clench your thighs around {ACTIVE}, trying to keep him inside you as you both cum.",
+        "Your breath catches each time the knot slowly parts your lips, and you cum every time it pulls suddenly out.",
+        "Oh! You cry out when you feel that {THICK} dog-{CUM} splatter into your {WTVAGINAL} {PUSSY}.",
+        "You're getting off from having {ACTIVE} ejaculate inside you. You're a nasty, perverted girl...",
+        "You're writhing on the ground, moaning with a {BEAST} dog {PENIS} up your {PUSSY}, filling you with {CUM}.",
+        "Oh my... you just came... from fucking a dog...",
+        "Again and again {ACTIVE} unloads his cock and balls, growling and panting.",
+        "You grip your thighs together, not wanting to lose even a drop of dog {CUM}...",
+        "Nghh... mmmm... All that {THICK} {CUM}... Making his knot slip in and out of you... Ahhh!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} moans and gasps each time {ACTIVE}'s knot pushes inside her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY}'s thighs lock around {ACTIVE} as she wails in orgasm, keeping his {PENIS} inside her.",
+        "Every slow thrust looks so deep, the head of {ACTIVE}'s {COCK} must be all the way in her womb!",
+        "{ACTIVE} continues to thrust slowly, not quite tied to {PRIMARY}, his {CUM} dripping out of her."
+    ]
+}

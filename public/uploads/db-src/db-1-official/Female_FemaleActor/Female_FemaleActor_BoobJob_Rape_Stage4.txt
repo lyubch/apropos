@@ -1,0 +1,18 @@
+{
+    "1st Person" :
+    [
+        "I stare up into {ACTIVE}'s face, looking for any evidence that she won't degrade me further.",
+        "Even though I'm being forced to do this, my fingers pound into my {FAROUSAL} {PUSSY}.",
+        "I hang on to {ACTIVE} as I desperately pump my {BOOBS} around her toy.",
+        "Never breaking eye contact, {ACTIVE} completely dominates me.",
+        "My legs are spread open, my {FAROUSAL} {PUSSY} on display..."
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

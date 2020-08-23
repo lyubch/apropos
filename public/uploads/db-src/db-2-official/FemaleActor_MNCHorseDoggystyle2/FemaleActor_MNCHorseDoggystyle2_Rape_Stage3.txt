@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I brace myself against my knee, and grunt as more horsecock pushes up inside my {WTANAL} {ASS}.",
+        "My toes spread painfully wide, trying to find grip on the ground as my {ASS} is speared.",
+        "The {ACTIVE} looms over me, huge and muscled, pushing more if its {BEAST} {PENIS} up my {ASS}.",
+        "Oh Gods... nghhhhhh! Ughhh... I must have at least a foot of horsecock up my {ASS} now...",
+        "The anticipation of this huge animal {CUMMING} inside me is intense, and I start panting, actually panting."
+    ],
+    "2nd Person" :
+    [
+        "You brace yourself against your knee, and grunt as more horsecock pushes up inside your {WTANAL} {ASS}.",
+        "Your toes spread painfully wide, trying to find grip on the ground as your {ASS} is speared.",
+        "The {ACTIVE} looms over you, huge and muscled, pushing more if its {BEAST} {PENIS} up your {ASS}.",
+        "Oh Gods... nghhhhhh! Ughhh... You must have at least a foot of horsecock up your {ASS} now...",
+        "The anticipation of this huge animal {CUMMING} inside you is intense, and you start panting, actually panting."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} braces herself against her knee, and grunt as more horsecock pushes up inside her {WTANAL} {ASS}.",
+        "{PRIMARY}'s toes spread painfully wide, trying to find grip on the ground as her {ASS} is speared.",
+        "The {ACTIVE} looms over {PRIMARY}, huge and muscled, pushing more if its {BEAST} {PENIS} up her {ASS}.",
+        "Oh Gods... nghhhhhh! Ughhh... {PRIMARY} must have at least a foot of horsecock up her {ASS} now...",
+        "The anticipation of this huge animal {CUMMING} inside {PRIMARY} is intense, and she starts panting, actually panting."
+    ]
+}

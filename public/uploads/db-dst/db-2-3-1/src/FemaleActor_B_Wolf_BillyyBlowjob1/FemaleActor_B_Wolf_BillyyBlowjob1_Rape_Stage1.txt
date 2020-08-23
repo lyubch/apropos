@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I'm nearly paralysed with {FEAR}, the wolf's teeth scratching at my cheeks, but I don't dare stop stroking the wolf's {COCK}...",
+        "I {QUIVER} in disgust as the wolf's tongue {RAP}es my {MOUTH}, already embarrassed enough at what I'm being made to do...",
+        "I freeze in {FEAR} as the wolf locks his muzzle around my {MOUTH}, but a growl is all it takes to prompt me back to work.",
+        "The {ANIMAL}'s {VILE} taste fills my {MOUTH}, but I know the worst has yet to come...",
+        "Fearing for my life, I {SUBMISSIVE}ly stroke the {ACTIVE}'s {COCK}, doing my best to ignore the tongue {RAP}ing my {MOUTH}.",
+        "Eyes wide with {FEAR}, I do everything I can not to provoke the wolf further, {SUBMISSIVE}ly stroking its {BEASTLY} {COCK}."
+    ],
+    "2nd Person": [
+        "You're nearly paralysed with {FEAR}, the wolf's teeth scratching at your cheeks, but you don't dare stop stroking the wolf's {COCK}...",
+        "You {QUIVER} in disgust as the wolf's tongue {RAP}es your {MOUTH}, already embarrassed enough at what you're being made to do...",
+        "You freeze in {FEAR} as the wolf locks his muzzle around your {MOUTH}, but a growl is all it takes to prompt you back to work.",
+        "The {ANIMAL}'s {VILE} taste fills your {MOUTH}, but you know the worst has yet to come...",
+        "Fearing for your life, you {SUBMISSIVE}ly stroke the {ACTIVE}'s {COCK}, doing your best to ignore the tongue {RAP}ing your {MOUTH}.",
+        "Eyes wide with {FEAR}, you do everything you can not to provoke the wolf further, {SUBMISSIVE}ly stroking its {BEASTLY} {COCK}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is nearly paralysed with {FEAR}, the wolf's teeth scratching at her cheeks, but she doesn't dare stop stroking the wolf's {COCK}...",
+        "{PRIMARY} {QUIVER}s in disgust as the wolf's tongue {RAP}es her {MOUTH}, already embarrassed enough at what she's being made to do...",
+        "{PRIMARY} freezes in {FEAR} as the wolf locks his muzzle around her {MOUTH}, but a growl is all it takes to prompt her back to work.",
+        "The {ANIMAL}'s {VILE} taste fills {PRIMARY}'s mouth, but she knows the worst has yet to come...",
+        "Fearing for her life, {PRIMARY} {SUBMISSIVE}ly strokes the {ACTIVE}'s {COCK}, doing her best to ignore the tongue {RAP}ing her {MOUTH}.",
+        "Eyes wide with {FEAR}, {PRIMARY} does everything she can not to provoke the wolf further, {SUBMISSIVE}ly stroking its {BEASTLY} {COCK}."
+    ]
+}

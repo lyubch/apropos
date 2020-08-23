@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "My {PUSSY} gets so wet as {ACTIVE}'s hands grip my throat, and I spread my legs for him.",
+        "It's okay, {ACTIVE}, you can be rough with me! Just take me, use me!",
+        "I'm on my back, legs spread and {ACTIVE}'s hands round my neck. I bite my lip as he starts to fuck me.",
+        "{ACTIVE} grabs me roughly. I must be a really shameless {BITCH} to be getting off on this...",
+        "{ACTIVE}'s strokes make my whole body flush. They're sudden, and oh so deep.",
+        "({ACTIVE}) So, this is the little {BITCH} all the boys been talking about...",
+        "I let out a small moan as {ACTIVE} pushes his {HUGE} {PENIS} into my {WTVAGINAL} {PUSSY}.",
+        "Not a word is spoken as {ACTIVE} penetrates me with a single stroke.",
+        "I spread my legs and accept {ACTIVE}'s {PENIS} into my {FAROUSAL} {PUSSY}.",
+        "Weirdly enough, I want {ACTIVE} to have me. I want him to know what a great fuck I can be."
+    ],
+    "2nd Person": [
+        "Your {PUSSY} gets so wet as {ACTIVE}'s hands grip your throat, and you spread my legs for him.",
+        "({PRIMARY}) It's okay, {ACTIVE}, you can be rough with me! Just take me, use me!",
+        "You're on your back, legs spread and his hands on your neck. You bite your lip as he starts to fuck you.",
+        "{ACTIVE} grabs you roughly. You must be a really shameless {BITCH} to be getting off on this..",
+        "{ACTIVE}'s strokes make your whole body flush. They're sudden, and oh so deep.",
+        "({ACTIVE}) So, this is the little {BITCH} all the boys been talking about...",
+        "You let out a small moan as {ACTIVE} pushes his {HUGE} {PENIS} into your {WTVAGINAL} {PUSSY}.",
+        "Not a word is spoken as {ACTIVE} penetrates you with a single stroke.",
+        "You spread your legs and accept {ACTIVE}'s {PENIS} into your {FAROUSAL} {PUSSY}.",
+        "Weirdly enough, you want {ACTIVE} to have you. You want him to know what a great fuck you can be."
+    ],
+    "3rd Person": [
+        "Oh my! {ACTIVE} looks like he's choking {PRIMARY}, but she's smiling! What a {WHORE}!",
+        "Watching that rough sex is such a turn on... {PRIMARY} certainly seems to be enjoying it!",
+        "Oh my... {ACTIVE} is choking {PRIMARY}, and fucking her really hard...",
+        "Is that what she wants? There are rumours she sneaks out to bandit camps and lets them rape her..."
+    ]
+}

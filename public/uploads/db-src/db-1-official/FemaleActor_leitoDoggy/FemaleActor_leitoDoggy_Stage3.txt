@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "I drop to my hands and knees, but {ACTIVE} doesn't slow down, continuing to pound my {PUSSY} quickly.",
+        "On the ground now, my hands are crossed in front of me to steady myself as {ACTIVE} pounds me from behind.",
+        "({ACTIVE}) Down on your knees, {PRIMARY}, like the {WHORE} you are!",
+        "Oh Gods... We should stop... really... This has gone too far... Nghh...!",
+        "I'm starting to lose myself, his {PENIS} is hitting me really deep... I won't be able to stop him...",
+        "{ACTIVE} pounds his {PENIS} into my {WTVAGINAL} {PUSSY}.",
+        "Perhaps I'm just a foolish, lewd and horny {BITCH} who loves {COCK}.",
+        "{ACTIVE} is fucking me so hard, I find myself growing eager to have this man cum inside me.",
+        "{ACTIVE}'s {PENIS} pounds my most intimate area as I moan."        
+    ],
+    "2nd Person" :
+    [
+        "You drop to your hands and knees, but {ACTIVE} doesn't slow down, continuing to pound your {PUSSY} quickly.",
+        "On the ground now, your hands are crossed in front of you to steady yourself as {ACTIVE} pounds you from behind.",
+        "({ACTIVE}) Down on your knees, {PRIMARY}, like the {WHORE} you are!",
+        "({PRIMARY}) Oh Gods... We should stop... really... This has gone too far... Nghh...!",
+        "You're starting to lose yourself, his {PENIS} is hitting you really deep... You won't be able to stop him...",
+        "{ACTIVE} pounds his {PENIS} into your {WTVAGINAL} {PUSSY}.",
+        "Perhaps you're just a foolish, lewd and horny {BITCH} who loves {COCK}.",
+        "{ACTIVE} is fucking you so hard, you find yourself growing eager to have this man cum inside you.",
+        "{ACTIVE}'s {PENIS} pounds your most intimate area as you moan."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s knees buckle and she drops to all fours, {ACTIVE} continuing to fuck her.",
+        "Oh my, did {PRIMARY} really want it to go this far? Is she going to take his {CUM}?",
+        "Oh Gods, that looks really good... They're both bound to cum soon.",
+        "Arms crossed underneath her, {PRIMARY} looks shyly back at {ACTIVE}. She looks anxious."
+    ]
+}

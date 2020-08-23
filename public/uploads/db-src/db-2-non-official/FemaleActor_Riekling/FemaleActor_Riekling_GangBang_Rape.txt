@@ -1,0 +1,42 @@
+{
+    "1st Person": [
+        "The two {MONSTER}s wrestle me to the ground, grabbing me {ROUGH}ly as one of them tries to {FUCK} me.",
+        "One {MONSTER} restrains me, choking me {ROUGH}ly while his fellow spread my legs.",
+        "Unable to {SCREAM} from the pressure on my throat, I can only {SCREAM} as I feel a {COCK} slap my {PUSSY}.",
+        "The tiny {MONSTER}s gang up to {FUCK} me.",
+        "All I have to do is {FUCK} a couple of {ACTIVE}s... There's no shame in that... Is there?",
+        "I don't understand their strange language, but I know what they want from me.",
+        "I writhe {NUDE} and {DISPLAY}ed before their hungry eyes.",
+        "The {ACTIVE} pauses before {PENETRAT}ing me, his {VILE} hands all over my {HEAVING} hips.",
+        "I should {STRUGGLE}... I could defeat them, surely? Their {ROUGH} hands feel so good though...",
+        "They babble excitedly at the sight of my {WTVAGINAL} {PUSSY}. My mind races, imagining what they're saying.",
+        "As the {ACTIVE} {DISPLAY}s his {MAROUSAL} {COCK}, I get a good idea of what they have in store for me.",
+        "There's too many... Perhaps I should just spread my legs and let them {FUCK} me instead?",
+        "What?!! They want me to {FUCK} them?! {PLEADING}! No way! I can't!"
+    ],
+    "2nd Person": [
+        "The two {MONSTER}s wrestle you to the ground, grabbing you {ROUGH}ly as one of them tries to {FUCK} you.",
+        "One {MONSTER} restrains you, choking you {ROUGH}ly while his fellow spreads you legs.",
+        "Unable to {SCREAM} from the pressure on your throat, you can only {SCREAM} as you feel a {COCK} slap your {PUSSY}.",
+        "The tiny {MONSTER}s gang up to {FUCK} you.",
+        "All you have to do is {FUCK} a couple of {ACTIVE}s... There's no shame in that... Is there?'",
+        "You don't understand their strange language, but you know what they want from you.",
+        "You writhe {NUDE} and {DISPLAY}ed before their hungry eyes.",
+        "The {ACTIVE} pauses before {PENETRAT}ing you, his {VILE} hands all over your {HEAVING} hips.",
+        "You should {STRUGGLE}... you could defeat them, surely? Their {ROUGH} hands feel so good though...",
+        "They babble excitedly at the sight of your {PUSSY}. Your mind races, imagining what they're saying.",
+        "As the {ACTIVE} {DISPLAY}s his {MAROUSAL} {COCK}, you get a good idea of what they have in store for you.",
+        "There's too many... Perhaps you should just spread your legs and let them {FUCK} you instead?",
+        "What?!! They want you to {FUCK} them?! {PLEADING}! No way! you can't!"
+    ],
+    "3rd Person": [
+        "The two {MONSTER}s wrestle {PRIMARY} to the ground, grabbing her {ROUGH}ly as one of them tries to {FUCK} her.",
+        "One {MONSTER} restrains {PRIMARY}, choking her {ROUGH}ly while his fellow spreads her legs.",
+        "Unable to {SCREAM} from the pressure on her throat, {PRIMARY} can only {SCREAM} as a {COCK} slaps her {PUSSY}.",
+        "The tiny {MONSTER}s gang up to {FUCK} {PRIMARY}.",
+        "All {PRIMARY} has to do is {FUCK} a couple of {ACTIVE}s... There's no shame in that... Is there?",
+        "{PRIMARY} doesn't understand their strange language, but it's obvious what they want from her.",
+        "{PRIMARY} writhes {NUDE} and {DISPLAY}ed before their hungry eyes.",
+        "The {ACTIVE} pauses before {PENETRAT}ing {PRIMARY}, his {VILE} hands all over her {HEAVING} hips."
+    ]
+}

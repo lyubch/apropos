@@ -1,0 +1,19 @@
+{
+    "1st Person": [
+        "The {ACTIVE} grabs me with one hand, naked and scared. I struggle against his grip, but it's no use.",
+        "I squirm and twist, trying to escape, to get away from the {ACTIVE}'s {BEAST} {COCK}.",
+        "Oh Gods, it's getting hard! Is it really turned on by me? There's no way I can take that!",
+        "I'm merciless in the grip of this {ACTIVE}. My helplessness starts to make my {PUSSY} and nipples tingle..."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} grabs you with one hand, naked and scared. You struggle against his grip, but it's no use.",
+        "You squirm and twist, trying to escape, to get away from the {ACTIVE}'s {BEAST} {COCK}.",
+        "Oh Gods, it's getting hard! Is it really turned on by you? There's no way you can take that!",
+        "You're merciless in the grip of this {ACTIVE}. Your helplessness starts to make your {PUSSY} and nipples tingle..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} scoops up {PRIMARY}, her tiny naked form dwarfed by the beast.",
+        "{PRIMARY} struggles against the {ACTIVE}'s grip, but it's clear she's going to get fucked.",
+        "Even though she's struggling, {PRIMARY}'s legs are parted slightly. Does that mean...?"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "1st Person": [
+        "I pant into the ground as the huge beast starts to fuck even deeper into me.",
+        "Pinned down on all fours beneath the {ACTIVE}, as it violently fucks my {ASS}. It feels so dirty!",
+        "My whole body shakes as the beast violates my {ASS}.",
+        "My {CREAM} flows over my thighs like a tide because I want him to make me cum so bad.",
+        "I can feel it... the creature is almost there...",
+        "I cry out with joy, knowing that the {ACTIVE} is about to fill my {ASS} with his {CUM}.",
+        "The {ACTIVE} driving into me full bore, I grunt. Uh, uh, uh. Like some wild animal, running for its life.",
+        "The beast's frenzied grunts turn me on, each one accompanied by a powerful thrust into my {ASS}.",
+        "This is what I wanted... A savage, animal fuck...",
+        "He's gonna cum soon... I hope... Nghhh! that he makes me... cum first...",
+        "Ugh! Ugh! Harder! Harder you brute! Nghhhhh! Yes, that's it! Make me squeal!"
+    ],
+    "2nd Person": [
+        "You pant into the ground as the huge beast starts to fuck even deeper into you.",
+        "Pinned down on all fours beneath the {ACTIVE}, as it violently fucks your {ASS}. It feels so dirty!'",
+        "Your whole body shakes as the beast violates your {ASS}.",
+        "Your {CREAM}s flow over your thighs like a tide because you want him to make you cum so bad.",
+        "You can feel it... the creature is almost there...",
+        "You cry out with joy, knowing that the {ACTIVE} is about to fill your {ASS} with his {CUM}.",
+        "The {ACTIVE} driving into you full bore, you grunt. Uh, uh, uh. Like some wild animal, running for its life.",
+        "The beast's frenzied grunts turn you on, each one accompanied by a powerful thrust into your {ASS}.",
+        "This is what you wanted... A savage, animal fuck...",
+        "He's gonna cum soon... you hope... Ugh! that he makes you... cum first...",
+        "({PRIMARY}) Ugh! Ugh! Harder! Harder you brute! Nghhhhh! Yes, that's it! Make me squeal!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} pants into the ground as the huge beast starts to fuck even deeper into her.",
+        "Pinned down on all fours beneath the {ACTIVE}, as it violently fucks {PRIMARY} {ASS}. It looks so dirty!",
+        "{PRIMARY}'s whole body shakes as the beast violates her {ASS}.",
+        "{PRIMARY}'s {CREAM} flows over her thighs like a tide.",
+        "It's obvious... the creature is almost there...",
+        "{PRIMARY} cries out with joy, knowing that the {ACTIVE} is about to fill her {ASS} with his {CUM}."
+    ]
+}

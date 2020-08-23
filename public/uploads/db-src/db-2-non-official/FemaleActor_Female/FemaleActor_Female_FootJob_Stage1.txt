@@ -1,0 +1,18 @@
+{
+    "1st Person" :
+    [
+        "My {FAROUSAL} {PUSSY}... and her {STRAPON}... Can we hold out for a little foreplay before we fuck?",
+        "I saw you looking at my feet... You want me to rub them all over your {STRAPON}?"
+    ],
+    "2nd Person" :
+    [
+        "Your {FAROUSAL} {PUSSY}... and her {STRAPON}... Maybe a little foreplay first?",
+        "({PRIMARY}) Can you hold out for a little foreplay before we fuck?",
+        "({PRIMARY}) I saw you looking at my feet... You want me to rub them all over your {STRAPON}?"
+    ],
+    "3rd Person" :
+    [
+        "Oh wow, {PRIMARY} is going to give {ACTIVE} a footjob! That's so {LEWD}... Is she really into that?",
+        "Oh my, {ACTIVE} is really into feet! Most women would be {FUCK}ing a girl like {PRIMARY} by now..."
+    ]
+}

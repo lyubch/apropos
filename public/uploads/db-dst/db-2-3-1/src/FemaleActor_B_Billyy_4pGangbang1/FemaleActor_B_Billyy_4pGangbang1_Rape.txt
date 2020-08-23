@@ -1,0 +1,14 @@
+{
+    "1st Person": [
+        "So many men ... are going to make me their {BITCH}!",
+        "So many {VILE} {COCK}s prepare to {FUCK} me."
+    ],
+    "2nd Person": [
+        "So many men ... are going to make you their {BITCH}!",
+        "So many {VILE} {COCK}s prepare to {FUCK} you."
+    ],
+    "3rd Person": [
+        "So many men ... are going to make {PRIMARY} their {BITCH}!",
+        "So many {VILE} {COCK}s prepare to {FUCK} {PRIMARY}."
+    ]
+}

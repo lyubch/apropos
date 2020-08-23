@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} knocks me to the ground and I {SCREAM} as he he {PENETRAT}es his {COCK} into my {WTANAL} {ASSHOLE}.",
+        "The weight of the {ACTIVE} pushes my face and {BOOBS} into the dirt as he {ROUGH}ly {PENETRAT}es my {ASSHOLE}.",
+        "I {SCREAM} into the dirt as the {ACTIVE} pins me to the ground and starts to {ROUGH}ly {FUCK} my {ASSHOLE}.",
+        "I'm bent painfully, my face crushed to the ground, the {ACTIVE} holding my wrists and {RAP}ing my {ASSHOLE}.",
+        "I don't even get the opportunity to try to {SUBMIT} to the {ACTIVE}, he just takes what he wants.",
+        "Pain runs up my spine as {ACTIVE} {INSERT}s his {COCK} in my {ASSHOLE}.",
+        "I feel no mercy nor pity as {ACTIVE}'s {HUGE} {COCK} forcibly widens my {ASSHOLE}.",
+        "{PLEADING}... (sob) if you're going to {RAP}e me, {FUCK} my {ASSHOLE}... I don't want to get pregnant...",
+        "He {PENETRAT}es his {COCK} into me while holding me down. He already has half his {COCK} inside of me."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} knocks you to the ground and you {SCREAM} as he he {PENETRAT}es his {COCK} into your {WTANAL} {ASSHOLE}.",
+        "The weight of the {ACTIVE} pushes your face and {BOOBS} into the dirt as he {ROUGH}ly {PENETRAT}es your {ASSHOLE}.",
+        "You {SCREAM} into the dirt as the {ACTIVE} pins you to the ground and starts to {ROUGH}ly {FUCK} your {ASSHOLE}.",
+        "Bent painfully, your face crushed to the ground, the {ACTIVE} holding your wrists and {RAP}ing your {ASSHOLE}.",
+        "You don't even get the opportunity to try to {SUBMIT} to the {ACTIVE}, he just takes what he wants.",
+        "Pain runs up your spine as {ACTIVE} {INSERT}s his {COCK} in your {ASSHOLE}.",
+        "You feel no mercy nor pity as {ACTIVE}'s {HUGE} {COCK} forcibly widens your {ASSHOLE}.",
+        "({PRIMARY}) {PLEADING}... (sob) if you're going to {RAP}e me, {FUCK} my {ASSHOLE}... I don't want to get pregnant...",
+        "He {PENETRAT}es his {COCK} into you while holding you down. He already has half his {COCK} inside of you."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} beats {PRIMARY} to the ground, pulling her {ASSHOLE} up and {PENETRAT}ing it {ROUGH}ly.",
+        "{PRIMARY} is pinned hard to the ground, her face and {BOOBS} crushed while her {ASSHOLE} is punished.",
+        "{PRIMARY} {SCREAM}s and {MOAN}s as the {ACTIVE} hikes up her {ASSHOLE} and starts to pound it hard."
+    ]
+}

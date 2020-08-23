@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "My leg snakes up {ACTIVE}'s shoulders. I'm being {FUCK}ed so deeply and so well, I'm going to climax.",
+        "'Say my name' {ACTIVE} commands me. I try not to, but it comes out of me breathlessly. '{ACTIVE}!', I shout.",
+        "I've not felt this good in a while... {ACTIVE} is the best!",
+        "I'm almost like a curled up ball on the ground for {ACTIVE}. The position, the fierceness, its driving me wild.",
+        "{ACTIVE} pierces inside me deeply. I can't even think straight anymore.",
+        "With one hand keeping him steady, {ACTIVE} begins to quicken the tempo of his thrusts.",
+        "I feel the familiar stirrings of climax aching at me. I {MOAN} in overwhelming desire...",
+        "My beloved {ACTIVE} just knows how to send me over the edge, and I'm loving it!"
+    ],
+    "2nd Person": [
+        "Your leg snakes up {ACTIVE}'s shoulders, as you're {FUCK}ed deep and well. You're going to climax...",
+        "'Say my name' {ACTIVE} commands you. I try not to, but it comes out of you breathlessly. '{ACTIVE}!', You shout.",
+        "You've not felt this good in a while... {ACTIVE} is the best!",
+        "You're almost like a curled up ball on the ground for {ACTIVE}. The position, the fierceness, its driving you wild.",
+        "{ACTIVE} pierces inside you deeply. You can't even think straight anymore.",
+        "With one hand keeping him steady, {ACTIVE} begins to quicken the tempo of his thrusts.",
+        "You feel the familar stirrings of an impending climax. You {MOAN} in overwhelming need and {LUST}...",
+        "Your beloved {ACTIVE} just knows how to send you over the edge... and you are loving it."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s leg snakes up {ACTIVE}'s shoulder as she is {FUCK}ed deep and well. She is going to climax...",
+        "'Say my name' {ACTIVE} commands {PRIMARY}. She tries not to, but it comes out of her breathlessly. '{ACTIVE}!', She shouts.",
+        "{PRIMARY} has not felt this good in a while... {ACTIVE} is the best!",
+        "{PRIMARY} is curled up like a ball, legs up and leaving an opening for {ACTIVE} to pound her well.",
+        "{ACTIVE} pierces inside {PRIMARY} deeply. Can she even think straight positioned like that while taking deep thrusts?",
+        "With one hand keeping him steady, {ACTIVE} begins to quicken the tempo of his thrusts.",
+        "{PRIMARY} looks like she is about to climax, her face is reddening, her breathing quickens, and her toes squeeze together.",
+        "{ACTIVE} knows how to send {PRIMARY} over the edge...and by her expression, she is loving it!"
+    ]
+}

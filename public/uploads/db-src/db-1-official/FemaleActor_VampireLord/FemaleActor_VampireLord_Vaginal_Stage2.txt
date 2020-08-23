@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "My mind fills with perverted thoughts, picturing the beast in all kinds of perverse situations with me.",
+        "Its magic flows through my body, permeating my extremities and filling me with a shivering, shuddering lust.",
+        "I feel a penetrating magical energy flow through me. My whole body is sensitive, and I pant needily.",
+        "I offer a suggestive lick of my lips as I feel the creature pump himself wetly into me.",
+        "I feel pangs of pride as {PRIMARY} is spread and fucked.",
+        "I give myself wholly to such a grotesque monster, it's so erotic...",
+        "My mind fills with perverted thoughts about the {ACTIVE}.",
+        "I picture the demon in all kinds of perverse situations with me as my mind is assaulted.",
+        "I whimper breathlessly as the vampire's {COCK} moves inside me.",
+        "The {ACTIVE} speaks in an unknown tongue, and my clit and nipples are suddenly erect and throbbing.",
+        "I tense up in pleasure each time the {BEAST} {COCK} pushes forward and disappears inside me.",
+        "My nipples bulging painfully erect, as long as I've ever seen them.",
+        "The {ACTIVE} pumps his {COCK} slowly a few times into my {PUSSY}, before it really goes to town.",
+        "The {ACTIVE} stares lustfully at my legs as they shake, all the while pounding between them."
+    ],
+    "2nd Person": [
+        "Your mind fills with perverted thoughts, picturing the beast in all kinds of perverse situations with you.",
+        "Magic flows through your body, permeating your extremities, filling you with a shivering, shuddering lust.",
+        "You feel a penetrating magical energy flow through you. Your whole body is sensitive, and you pant needily.",
+        "You offer a suggestive lick of your lips as you feel the creature pump himself wetly into you.",
+        "You feel pangs of pride as {PRIMARY} is spread and fucked.",
+        "You give yourself wholly to such a grotesque monster, it's so erotic...",
+        "Your mind fills with perverted thoughts about the {ACTIVE}.",
+        "You picture the demon in all kinds of perverse situations with you as your mind is assaulted.",
+        "You whimper breathlessly as the vampire's {COCK} moves inside you.",
+        "The {ACTIVE} speaks in an unknown tongue, and your clit and nipples are suddenly erect and throbbing.",
+        "You tense up in pleasure each time the {BEAST} {COCK} pushes forward and disappears inside you.",
+        "Your nipples bulging painfully erect, as long as you've ever seen them.",
+        "The {ACTIVE} pumps his {COCK} slowly a few times into your {PUSSY}, before it really goes to town.",
+        "The {ACTIVE} stares lustfully at your legs as they shake, all the while pounding between them."
+    ],
+    "3rd Person": [
+        "The mind fills with perverted thoughts, picturing the beast in all kinds of perverse situations.",
+        "A penetrating magical energy flow through the air, and {PRIMARY} pants needily.",
+        "{PRIMARY} offers a suggestive lick of her lips as the creature pumps himself wetly into her.",
+        "{PRIMARY} feels pangs of pride as she is spread and fucked.",
+        "{PRIMARY} gives herself wholly to such a grotesque monster, it's so erotic..."
+    ]
+}

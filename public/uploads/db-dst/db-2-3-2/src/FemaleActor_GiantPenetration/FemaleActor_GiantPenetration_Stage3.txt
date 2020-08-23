@@ -1,0 +1,27 @@
+{
+    "1st Person": [
+        "I'm nothing more than the {ACTIVE}'s cock-sleeve, just a rag to {WANK} off into.",
+        "Being used in this way makes me feel like such a {BITCH}... And part of me likes it!",
+        "The {ACTIVE} stops pumping his hips, now just {WANK}ing me on top of his {BEASTLY} {COCK} {ROUGH}ly.",
+        "I {MOAN} in {LUST} as the {COCKHEAD} of his {COCK} slips into my womb, {FUCK}ing both my {PUSSY} and my cervix.",
+        "{SWEARING}! Shoot your {CUM} straight into my womb!",
+        "My {PUSSY} is sore and being {FUCK}ed raw. It still hurts bad and I'm not sure how much more I can take...",
+        "Using me like a human cock-sleeve, the {ACTIVE} simply holds me by the torso, pumping me up and down.",
+        "I let out a long, {LEWD} {SCREAM}, driven to a thunderous orgasm on a {COCK} like a tree stump."
+    ],
+    "2nd Person": [
+        "You're nothing more than the {ACTIVE}'s cock-sleeve, just a rag to {WANK} off into.",
+        "Being used in this way makes you feel like such a {BITCH}... And part of you likes it!",
+        "The {ACTIVE} stops pumping his hips, now just {WANK}ing you on top of his {BEASTLY} {COCK} {ROUGH}ly.",
+        "You {MOAN} in {LUST} as the {COCKHEAD} of his {COCK} slips into your womb, {FUCK}ing both your {PUSSY} and your cervix.",
+        "({PRIMARY}) {SWEARING}! Shoot your {CUM} straight into my womb!",
+        "Your {PUSSY} is sore and being {FUCK}ed raw. It still hurts bad and you're not sure how much more you can take...",
+        "Using you like a human cock-sleeve, the {ACTIVE} simply holds you by the torso, pumping you up and down.",
+        "You let out a long, {LEWD} {SCREAM}, driven to a thunderous orgasm on a {COCK} like a tree stump."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} is just using {PRIMARY} like a cum rag, {FUCK}ing her body with abandon.",
+        "{PRIMARY} is {FUCK}ed up and down on the {ACTIVE}'s {COCK}. It's hard to tell if her {MOAN}s are {PAIN} or pleasure.",
+        "{PRIMARY}'s insides must be raw by now! How is she taking that?"
+    ]
+}

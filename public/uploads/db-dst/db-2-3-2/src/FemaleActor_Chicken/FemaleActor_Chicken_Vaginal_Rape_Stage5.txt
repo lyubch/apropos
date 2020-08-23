@@ -1,0 +1,16 @@
+{
+    "1st Person": [
+        "There's a part of me that no longer wants to escape.",
+        "{SWEARING}, I'm not sure I can take this pace for much longer...",
+        "It takes quite a bit of force, but eventually {ACTIVE} gets his entire head in me."
+    ],
+    "2nd Person": [
+        "There's a part of you that no longer wants to escape.",
+        "{SWEARING}, you're not sure you can take this pace for much longer...",
+        "It takes quite a bit of force, but eventually {ACTIVE} gets his entire head in you."
+    ],
+    "3rd Person": [
+        "{ACTIVE}'s stamina is impressive. {PRIMARY} looks like she's about to faint any moment.",
+        "{ACTIVE} continues to {FUCK} {LEWD}ly into {PRIMARY}."
+    ]
+}

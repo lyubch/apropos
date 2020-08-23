@@ -1,0 +1,55 @@
+{
+    "1st Person" :
+    [
+        "The feeling is intense, my whole body feels like it's on fire, and I curl up, screaming into the ground.",
+        "I squeal as the {ACTIVE} ties with me, red hot {CUM} filling me up inside.",
+        "Once the knot plugs me shut, the beast stops his pumping, squatting over me as he fills me with {CUM}.",
+        "I can't believe how good it feels, tied to this beast as he inseminates me. So hot and wicked and taboo.",
+        "I cum violently and shudder for one long minute before collapsing, still tied to the {ACTIVE}'s {PENIS}.",
+        "The beast cums for more than a minute, filling my uterus beyond capacity.",
+        "I smile as I hang wearily from my lover's knotted {COCK}, enjoying the endless spurting inside me.",
+        "I settle back, panting and contended, and enjoy the feeling of being filled up with {THICK} wolf-{CUM}.",
+        "I relax my muscles after the vigorous fuck, basking in the feeling of being inseminated.",
+        "Freshly fucked and dripping with sweat, I still moan and convulse at each spurt of {CUM}.",
+        "I'm so satisfied, wolf-cock stuck up my {PUSSY} and filling me with {CUM}.",
+        "We are locked together, {CUM} pumping into my most intimate place.",
+        "We climax together as we tie.",
+        "Oh Gods, his entire knot went into me! It's in my {PUSSY}!",
+        "{ACTIVE}'s knot grows in me, forcing his {PENIS} deeper into my cervix until my toes cramp from curling.",
+        "The ring of my cervix settles in right around his frenulum, rubbing the sensitive head of his {COCK}.",
+        "The knot is {BEAST}, wide enough for me to touch through my belly and marvel at the size.",
+        "He forces the last of his {PENIS} into me until my {PUSSY} clamps around the base, the knot fully inside me.",
+        "I whimper as I feel his {PENIS} throb inside me, the knot swelling up and locking us together.",
+        "Can a human get pregnant by a werewolf? I shiver... Probably a little late to worry about that..."        
+    ],
+    "2nd Person" :
+    [
+        "The feeling is intense, your whole body feels like it's on fire, and you curl up, screaming into the ground.",
+        "You squeal as the {ACTIVE} ties with you, red hot {CUM} filling you up inside.",
+        "Once the knot plugs you shut, the beast stops his pumping, squatting over you as he fills you with {CUM}.",
+        "You can't believe how good it feels, tied to this beast as he inseminates you. So hot and wicked and taboo.",
+        "You cum violently and shudder for one long minute before collapsing, still tied to the {ACTIVE}'s {PENIS}.",
+        "The beast cums for more than a minute, filling your uterus beyond capacity.",
+        "You smile as you hang wearily from your lover's knotted {COCK}, enjoying the endless spurting inside you.",
+        "You settle back, panting and contended, and enjoy the feeling of being filled up with {THICK} wolf-{CUM}.",
+        "You relax your muscles after the vigorous fuck, basking in the feeling of being inseminated.",
+        "Freshly fucked and dripping with sweat, you still moan and convulse at each spurt of {CUM}.",
+        "You're so satisfied, wolf-cock stuck up your {PUSSY} and filling you with {CUM}.",
+        "You are locked together, {CUM} pumping into your most intimate place.",
+        "You climax together as you tie.",
+        "Oh Gods, his entire knot went into you! It's in your {PUSSY}!",
+        "{ACTIVE}'s knot grows in you, forcing his {PENIS} deeper into your cervix until your toes cramp from curling.",
+        "The ring of your cervix settles in right around his frenulum, rubbing the sensitive head of his {COCK}.",
+        "The knot is {BEAST}, wide enough for you to touch through your belly and marvel at the size.",
+        "He forces the last of his {PENIS} into you until your {PUSSY} clamps around the base, the knot fully inside you.",
+        "You whimper as you feel his {PENIS} throb inside you, the knot swelling up and locking you together.",
+        "Can a human get pregnant by a werewolf? You shiver... Probably a little late to worry about that..."
+    ],
+    "3rd Person" :
+    [
+        "Oh Gods, she took the whole knot! She must feel so full right now...",
+        "It's amazing that the entire {BEAST} {PENIS} is buried in {PRIMARY}'s raised backside right now...",
+        "Oh my... Can a human get pregnant from a werewolf? Is that what {PRIMARY} wants?",
+        "The way she's twitching and moaning into the ground, it's clear that {PRIMARY} is climaxing hard."
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "All of a sudden, I feel a hard, sharp spank on my ass. I jump in shock, flushed with embarrassment.",
+        "My body burns with embarrassment as this bastard starts to spank me, and I kick and struggle to escape.",
+        "Even though I knew it was coming, {ACTIVE}'s first smack makes me jump in surprise and shock.",
+        "My ass stings at {ACTIVE}'s hard slaps, and I feel tears start to well up in my eyes.",
+        "OW! What are you doing? You can't do this to... OW! Please, this is too much... AHH!",
+        "As my body jerks at {ACTIVE}'s slap, I feel his {PENIS} poke into my belly. He's getting off on this...",
+        "Oh Gods, he's actually spanking me, like a naughty child! I flush with humiliation.",
+        "After a few hard slaps, my hip is starting to really hurt, my leg twitching with every strike."        
+    ],
+    "2nd Person" :
+    [
+        "All of a sudden, you feel a hard, sharp spank on your ass. You jump in shock, flushed with embarrassment.",
+        "Your body burns with embarrassment as this bastard starts to spank you, and you kick and struggle to escape.",
+        "Even though you knew it was coming, {ACTIVE}'s first smack makes you jump in surprise and shock.",
+        "Your ass stings at {ACTIVE}'s hard slaps, and you feel tears start to well up in your eyes.",
+        "({PRIMARY}) OW! What are you doing? You can't do this to... OW! Please, this is too much... AHH!",
+        "As your body jerks at {ACTIVE}'s slap, you feel his {PENIS} poke into your belly. He's getting off on this...",
+        "Oh Gods, he's actually spanking you, like a naughty child! You flush with humiliation.",
+        "After a few hard slaps, your hip is starting to really hurt, your leg twitching with every strike."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} yelps in surprise at the first spank. It doesn't seem to deter {ACTIVE}.",
+        "Oh my goodness, is this really happening? It seems like such a lewd punishment...",
+        "Oh, those spanks look like they really hurt... Isn't that too hard? Aren't they just playing?",
+        "{PRIMARY}'s backside starts to flush a rosy pink as {ACTIVE} strikes her."
+    ]
+}

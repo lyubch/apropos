@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "The {MONSTER}'s huge, rough tongue slathers my thighs in {THICK} {SLIME}.",
+        "Feeling the huge tongue all over my {PUSSY} and {ASSHOLE}, I {MOAN}. What if it wants to... {FUCK} me with it?",
+        "Giving myself to it, I {MOAN} as the {MONSTER}'s skillful tongue {SUCK}s the {CREAM} from me.",
+        "My stomach and thighs are tongued {ROUGH}ly, coating me in a {THICK} wet sheen.",
+        "The {MONSTER}'s tongue slavers over my {PUSSY} and {ASSHOLE}, making me {QUIVER} at the touch.",
+        "The tongue pushes up between my legs hard enough to lift my {FLESH}. Should I let it... In?",
+        "{SWEARING}... I'm being eaten out... By a dragon... This is amazing...",
+        "I try to squeeze my thighs shut, enjoying the feeling of the slippery tongue parting me.",
+        "The {MONSTER}'s {THICK}, {SALTY} drool is sliding down my legs, dripping from my toes.",
+        "I'm so {HORNY}... My chest is flushed red, and my nipples are standing painfully erect."
+    ],
+    "2nd Person": [
+        "The {MONSTER}'s huge, rough tongue slathers your thighs in {THICK} {SLIME}.",
+        "Feeling the huge tongue all over your {PUSSY} and {ASSHOLE}, you gasp. What if it wants to... {FUCK} you with it?",
+        "Giving yourself to it, you {MOAN} as the {MONSTER}'s skillful tongue {SUCK}s the {CREAM} from you.",
+        "Your stomach and thighs are tongued {ROUGH}ly, coating you in a {THICK} wet sheen.",
+        "The {MONSTER}'s tongue slavers over your {PUSSY} and {ASSHOLE}, making you {QUIVER} at the touch.",
+        "The tongue pushes up between your legs hard enough to lift your {FLESH}. Should you let it... In?",
+        "{SWEARING}... You're being eaten out... By a dragon... This is amazing...",
+        "You try to squeeze your thighs shut, enjoying the feeling of the slippery tongue parting you.",
+        "The {MONSTER}'s {THICK}, {SALTY} drool is sliding down your legs, dripping from your toes.",
+        "You're so {HORNY}... Your chest is flushed red, and your nipples are standing painfully erect."
+    ],
+    "3rd Person": [
+        "The {MONSTER}'s huge, rough tongue slathers {PRIMARY}'s thighs in {THICK} {SLIME}.",
+        "The huge tongue rubbing all over her {PUSSY} and {ASSHOLE}, she {MOAN}s. What if it wants to... {FUCK} her with it?",
+        "Giving herself to it, {PRIMARY} {MOAN}s as the {MONSTER}'s skillful tongue {SUCK}s the {CREAM} from her.",
+        "{PRIMARY}'s stomach and thighs are tongued {ROUGH}ly, coating her in a {THICK} wet sheen.",
+        "The {MONSTER}'s tongue slavers over {PRIMARY}'s {PUSSY} and {ASSHOLE}, making her {QUIVER} at the touch.",
+        "The tongue pushes up between her legs hard enough to lift her {FLESH}. Should {PRIMARY} let it... In?",
+        "{SWEARING}... {PRIMARY}'s being eaten out... By a dragon... This is amazing...",
+        "{PRIMARY} tries to squeeze her thighs shut, enjoying the feeling of the slippery tongue parting her.",
+        "The {MONSTER}'s {THICK}, {SALTY} drool is sliding down {PRIMARY}'s legs, dripping from her toes.",
+        "{PRIMARY}'s so {HORNY}... Her chest is flushed red, and her nipples are standing painfully erect."
+    ]
+}

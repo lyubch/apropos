@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "My cries for help are muted by the {ACTIVE}'s hand returning to my bruised neck.",
+        "My leg is pushed even further back, the {ACTIVE} fucking me harder and deeper than I can take.",
+        "I fight back tears as the brutal rape continues, struggling for air and my {PUSSY} in agony.",
+        "I try to pull his hand from my throat, but he's too strong.",
+        "He holds me down, helpless on the floor beneath him as he pounds away at my little body...",
+        "Tears stream down my face, {ACTIVE} laughing as I take his {PENIS}.",
+        "One thought runs through my mind over and over again; why won't anyone help me?",
+        "He's in me, he's raping me. He's going to cum inside me and there is nothing I can do about it.",
+        "I feel battered and beaten, as my {PUSSY} is fucked while I lie in a puddle of my own {CUM}.",
+        "No... please... (sob) I'll take it in my {MOUTH}, I'll even swallow! Please, just not inside!",
+        "({ACTIVE}) The way you just rolled over and spread your legs, I bet you wanted this!"
+    ],
+    "2nd Person": [
+        "Your cries for help are muted by the {ACTIVE}'s hand returning to your bruised neck.",
+        "Your leg is pushed even further back, the {ACTIVE} fucking you harder and deeper than you can take.",
+        "You fight back tears as the brutal rape continues, struggling for air and your {PUSSY} in agony.",
+        "You try to pull his hand from your throat, but he's too strong.",
+        "He holds you down, helpless on the floor beneath him as he pounds away at your little body...",
+        "Tears stream down your face, {ACTIVE} laughing as you take his {PENIS}.",
+        "One thought runs through your mind over and over again; why won't anyone help you?",
+        "He's in you, he's raping you. He's going to cum inside you and there is nothing you can do about it.",
+        "You feel battered and beaten, as your {PUSSY} is fucked while you lie in a puddle of your own {CUM}.",
+        "({PRIMARY}) No... please... (sob) I'll take it in my {MOUTH}, I'll even swallow! Please, just not inside!",
+        "({ACTIVE}) The way you just rolled over and spread your legs, I bet you wanted this!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} struggles to pry away the {ACTIVE}'s hand, as her face turns red and tears stream from her eyes.",
+        "The {ACTIVE} starts piledriving into {PRIMARY}, hard and fast. Her eyes start to roll back.",
+        "It's hard to watch this violence, poor {PRIMARY} being brutally dominated and raped.",
+        "({PRIMARY}) You're mine now, {BITCH}, your boyfriend's not here to protect you!"
+    ]
+}

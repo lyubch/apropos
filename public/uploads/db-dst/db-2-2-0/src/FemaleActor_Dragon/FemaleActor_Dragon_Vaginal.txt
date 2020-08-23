@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "Straddling the beast's tail, I cling on for dear life as the {BEAST} {COCK} penetrates me.",
+        "I can't believe I'm going to try to take a dragon between my legs...",
+        "I think I'm going to tame this dragon by taking him in my {FAROUSAL} {PUSSY}!",
+        "I pant raggedly, I can't believe I'm about do something so extreme.",
+        "My poor {PUSSY} will be gaping and sore after this, but I want it so bad...",
+        "I can barely stretch my legs around the beast's {BEAST} {COCK}, let alone my {PUSSY}... No! I can do this!",
+        "You're not worthy to fight me, {ACTIVE}. Perhaps you can submit to me some other way?",
+        "My head snaps back violently at the first thrust. Ugh... I think I've changed my mind...",
+        "My entire back end feels like it's being pulled apart as my {FAROUSAL} {PUSSY} engulfs the {BEAST} {COCK}.",
+        "My {WTVAGINAL} {PUSSY} strains around the tip of {ACTIVE}'s {BEAST} {COCK}, with more to follow."
+    ],
+    "2nd Person": [
+        "Straddling the beast's tail, you cling on for dear life as the {BEAST} {COCK} penetrates you.",
+        "You can't believe you're going to try to take a dragon between your legs...",
+        "You think you're going to tame this dragon by taking him in your {FAROUSAL} {PUSSY}!",
+        "You pant raggedly, you can't believe you're about do something so extreme.",
+        "Your poor {PUSSY} will be gaping and sore after this, but you want it so bad...",
+        "You can barely stretch your legs around the beast's {BEAST} {COCK}, let alone your {PUSSY}.",
+        "({PRIMARY}) You're not worthy to fight me, {ACTIVE}. Perhaps you can submit to me some other way?",
+        "Your head snaps back violently at the first thrust. Ugh... you've changed your mind...",
+        "Your back end feels like it's being pulled apart as your {FAROUSAL} {PUSSY} engulfs the {BEAST} {COCK}.",
+        "Your {WTVAGINAL} {PUSSY} strains around the tip of {ACTIVE}'s {BEAST} {COCK}, with more to follow."
+    ],
+    "3rd Person": [
+        "Straddling the beast's tail, {PRIMARY} clings on for dear life as the {BEAST} {COCK} penetrates her.",
+        "Oh Gods, is {PRIMARY} going to try to take a dragon between her legs?",
+        "{PRIMARY} thinks she's going to tame this dragon by taking him in her {FAROUSAL} {PUSSY}?",
+        "{PRIMARY} pants raggedly, it's unbelievable that she's about do something so extreme.",
+        "Her poor {PUSSY} will be gaping and sore after this, but {PRIMARY} seems to want it badly...",
+        "{PRIMARY} can barely stretch her legs around the beast's {BEAST} {COCK}, let alone her {PUSSY}...",
+        "({PRIMARY}) You're not worthy to fight me, {ACTIVE}. Perhaps you can submit to me some other way?",
+        "{PRIMARY}'s head snaps back violently at the first thrust. Looks like she's changed her mind...",
+        "{PRIMARY}'s back end looks like it's being pulled apart as her {FAROUSAL} {PUSSY} engulfs the {BEAST} {COCK}.",
+        "{PRIMARY}'s {WTVAGINAL} {PUSSY} strains around the tip of {ACTIVE}'s {BEAST} {COCK}, with more to follow."
+    ]
+}

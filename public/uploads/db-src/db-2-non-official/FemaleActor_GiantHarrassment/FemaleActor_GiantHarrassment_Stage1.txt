@@ -1,0 +1,46 @@
+{
+    "1st Person" :
+    [
+        "Ah... {PLEADING}! I've changed my mind! Ughh! {SWEARING}, please stop! It's too {HUGE}!",
+        "Nghhh... Slow down... Not so fast... Ow! You {MONSTER}, you're going to rip me apart!",
+        "The {ACTIVE} is trying to go too deep, too fast, and I {STRUGGLE} as he pushes almost a foot of {COCK} into me.",
+        "As the {COCKHEAD} of the {ACTIVE}'s {BEASTLY} {COCK} enters me, I begin to have second thoughts...",
+        "I try to slow the penetration, I need to give myself some time to {ACCEPT} such a {BEASTLY} {COCK}.",
+        "Even though I want this, I {MOAN} and push back as my {WTVAGINAL} {PUSSY} starts to strain.",
+        "My nose is immediately assaulted by a {SALTY} musk that I instantly recognize; the smell of {CUM}. {SWEARING}...",
+        "I have no idea how I'm gonna {ACCEPT} this behemoth, but it's gonna be one hell of a ride to find out!",
+        "Despite the potential {PAIN}, I want it. I want to impale myself on it, and {FUCK} it.",
+        "I want this stinking, smelly {COCK} inside my {FAROUSAL} {PUSSY}.",
+        "{SWEARING}... is... is that his... {COCK}?! {SWEARING}, that IS his {COCK}! I'm not sure I can do this...",
+        "{SWEARING}, is it wrong that I'm really looking forward to this?",
+        "I just want to {SUCK} that {BEASTLY} {COCK} until it's {MAROUSAL} so I can sit on it and ride it all night!",
+        "This unclean {MONSTER} stinks of sweat and {SCUM}... to think I'm going to {ACCEPTING}ly have sex with it...",
+        "I {QUIVER} with {LUST} as I spread my legs for the {ACTIVE}, ready for a deep fucking.",
+        "Please, just the {COCKHEAD}... I'm sorry but this is too much for me..."        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Ah... {PLEADING}! I've changed my mind! Ughh! {SWEARING}, please stop! It's too {HUGE}!",
+        "({PRIMARY}) Nghhh... Slow down... Not so fast... Ow! You {MONSTER}, you're going to rip me apart!",
+        "The {ACTIVE} is trying to go too deep, too fast, and you struggle as he pushes almost a foot of {COCK} into you.",
+        "As the {COCKHEAD} of the {ACTIVE}'s {BEASTLY} {COCK} enters you, you begin to have second thoughts...",
+        "You try to slow the penetration, you need to give yourself some time to {ACCEPT} such a {BEASTLY} {COCK}.",
+        "Even though you want this, you {MOAN} and push back as your {WTVAGINAL} {PUSSY} starts to strain.",
+        "Your nose is immediately assaulted by a {SALTY} musk that you instantly recognize; the smell of {CUM}. {SWEARING}...",
+        "You have no idea how you're gonna {ACCEPT} this behemoth, but it's gonna be one hell of a ride to find out!",
+        "Despite the potential {PAIN}, you want it. You want to impale yourself on it, and {FUCK} it.",
+        "You want this stinking, smelly {COCK} inside your {FAROUSAL} {PUSSY}.",
+        "{SWEARING}... is... is that his... {COCK}?! Oh me {SWEARING}, that IS his {COCK}! You're not sure you can do this...",
+        "{SWEARING}, is it wrong that you're really looking forward to this?",
+        "You just want to {SUCK} that {BEASTLY} {COCK} until it's {MAROUSAL} so you can sit on it and ride it all night!",
+        "This unclean {MONSTER} stinks of sweat and {SCUM}... to think you're going to {ACCEPTING}ly have sex with it...",
+        "You {QUIVER} with {LUST} as you spread your legs for the {ACTIVE}, ready for a deep fucking.",
+        "({PRIMARY}) Please, just the {COCKHEAD}... I'm sorry but this is too much for me..."
+    ],
+    "3rd Person" :
+    [
+        "Has {PRIMARY} changed her mind? It looks like she's struggling. Does she need help?",
+        "The {ACTIVE} must be going too fast for {PRIMARY}, and she tries to slow it down.",
+        "It's mesmerising, watching such a {BEASTLY} {COCK} try to fit inside a {NUDE} human girl..."
+    ]
+}

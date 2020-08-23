@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} pulls me over his lap, my arms pinned behind my back. A {LEWD} thrill shoots through me.",
+        "I'm bent over, my {BUTTOCKS} {NUDE} to the world. I hope no one sees how wet I'm getting...",
+        "As {ACTIVE} holds me firmly over his knee, I can feel his {COCK} sticking into my belly...",
+        "({ACTIVE}) You've been a {BITCH}, {PRIMARY}, a really {LEWD} {BITCH}. You need to be punished...",
+        "{ACTIVE} pins my arms firmly, his other hand stroking and groping my {ASSHOLE}. I wriggle as he does.",
+        "{SWEARING}, what are you doing? No, I didn't say... Ah! Let me up, please! Don't you want me {SUCK}ing your {COCK}?",
+        "{SWEARING}, this is humiliating! I {STRUGGLE} and kick, but {ACTIVE} is too strong."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} pulls you over his lap, your arms pinned behind your back. A {LEWD} thrill shoots through you.",
+        "You're bent over, your {BUTTOCKS} {NUDE} to the world. You hope no one sees how wet you're getting...",
+        "As {ACTIVE} holds you firmly over his knee, you can feel his {COCK} sticking into your belly...",
+        "({ACTIVE}) You've been a {BITCH}, {PRIMARY}, a really {LEWD} {BITCH}. You need to be punished...",
+        "{ACTIVE} pins your arms firmly, his other hand stroking and groping your {ASSHOLE}. You wriggle as he does.",
+        "({PRIMARY}) What are you doing? I didn't say... Ah! Let me up, please! Don't you want me {SUCK}ing your {COCK}?",
+        "{SWEARING}, this is humiliating! You {STRUGGLE} and kick, but {ACTIVE} is too strong."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} pulls {PRIMARY} over his knee, {DISPLAY}ing her {ASSHOLE} to the world.",
+        "{PRIMARY} struggles feebly on top of {ACTIVE}'s lap. Is she just playing?",
+        "({ACTIVE}) Watch carefully, {BITCH}. This is what you'll get too if you don't please everyone here.",
+        "{PRIMARY} is a grown woman, but {ACTIVE} has her bent over his knee like she was a {LEWD} child..."
+    ]
+}

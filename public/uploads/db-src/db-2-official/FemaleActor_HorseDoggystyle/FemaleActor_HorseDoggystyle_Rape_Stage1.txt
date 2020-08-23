@@ -1,0 +1,37 @@
+{
+    "1st Person" :
+    [
+        "The huge animal knocks me to the ground, before ramming his {BEAST} {PENIS} into me.",
+        "Afraid to fight back against such a huge creature, I drop to my knees and let the {ACTIVE} fuck me.",
+        "The {ACTIVE} immediately starts to fuck me hard and deep, and I can't help but cum straight away.",
+        "I arch my back and buck my hips, trying to ease the pain of the beast's {PENIS} inside me.",
+        "I try to hold myself up, grabbing onto the beast's leg in fear, afraid of how far it will go.",
+        "I arch my back and shriek, as the {ACTIVE} fucks a foot of {BEAST} {PENIS} right into my {PUSSY}.",
+        "I scream in pain as I accept the {ACTIVE}'s first thrust. The first of many.",
+        "My organs feel like they're being rearranged as I am truly impaled by this {BEAST} {PENIS}.",
+        "The beast is enraged, and knocks me to the ground. Before I can recover, it lines itself up with my {PUSSY}.",
+        "I cry out in pain as {ACTIVE} inserts its {PENIS} inside my {FAROUSAL} {PUSSY}.",
+        "I wasn't ready to take him completely, but the {ACTIVE} thrusts his entire length into me."        
+    ],
+    "2nd Person" :
+    [
+        "The huge animal knocks you to the ground, before ramming his {BEAST} {PENIS} into you.",
+        "Afraid to fight back against such a huge creature, you drop to your knees and let the {ACTIVE} fuck you.",
+        "The {ACTIVE} immediately starts to fuck you hard and deep, and you can't help but cum straight away.",
+        "You arch your back and buck your hips, trying to ease the pain of the beast's {PENIS} inside you.",
+        "You try to hold yourself up, grabbing onto the beast's leg in fear, afraid of how far it will go.",
+        "You arch your back and shriek, as the {ACTIVE} fucks a foot of {BEAST} {PENIS} right into your {PUSSY}.",
+        "You scream in pain as you accept the {ACTIVE}'s first thrust. The first of many.",
+        "Your organs feel like they're being rearranged as you are truly impaled by this {BEAST} {PENIS}.",
+        "The beast is enraged, and knocks you to the ground. Before you can recover, it lines up with your {PUSSY}.",
+        "You cry out in pain as {ACTIVE} inserts its {PENIS} inside your {FAROUSAL} {PUSSY}.",
+        "You weren't ready to take him completely, but the {ACTIVE} thrusts his entire length into you."
+    ],
+    "3rd Person" :
+    [
+        "The huge animal knocks {PRIMARY} to the ground, and immediately starts fucking hard into her.",
+        "Raising her ass to the {ACTIVE}, {PRIMARY} shrieks as it begins to thrust into her.",
+        "{PRIMARY} screams as over a foot of horse-{COCK} is rammed straight into her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} arches her back as the {ACTIVE} begins to rape her. It looks like it hurts."
+    ]
+}

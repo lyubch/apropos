@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "Right now, it's not your ego I'm interested in stroking...",
+        "{ACTIVE}'s {PENIS} is just plain intimidating! It has to be at least 8 inches long, and it's quite thick...",
+        "Fascinated by {ACTIVE}'s {PENIS}, I wrap my fingers around it and gave a gentle squeeze.",
+        "I start slow, getting a feel of the {HUGE} {PENIS} in my hand. It's hot and heavy...",
+        "I start wanking {ACTIVE} slowly, spitting on it every so often to keep it wet."
+    ],
+    "2nd Person" :
+    [
+        "Right now, it's not his ego you're interested in stroking...",
+       "{ACTIVE}'s {PENIS} is just plain intimidating! It has to be at least 8 inches long, and it's quite thick...",
+        "Fascinated by {ACTIVE}'s {PENIS}, you wrap your fingers around it and give a gentle squeeze.",
+        "You start slow, getting a feel of the {HUGE} {PENIS} in your hand. It's hot and heavy...",
+        "You start wanking {ACTIVE} slowly, spitting on it every so often to keep it wet."
+    ],
+    "3rd Person" :
+    [
+        "({PRIMARY}) Let me touch you, baby. Let me feel how big and hard you are, you sexy bastard.",
+        "{PRIMARY} looks so comfortable with a {COCK} in her hand, like it's her calling in life to service men."        
+    ]
+}

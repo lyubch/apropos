@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I plant my hands on the {ACTIVE}'s chest, feeling my body react with every deep thrust between my legs.",
+        "The {ACTIVE} starts to fuck me, it's {BEAST} {PENIS} thrusting slowly into me, but gloriously deep.",
+        "Even though its {PENIS} is inside me, it's the monster's terrifying maw that turns me on the most.",
+        "I spread my legs and my {PUSSY} opens up like a flower in bloom, ready to be despoiled by this brute.",
+        "I want this, eager to make love to this huge muscled beast, desperate to have my brains fucked out.",
+        "A delighted squeal escapes my lips as the {ACTIVE} roughly spreads me and fucks its {COCK} into me."        
+    ],
+    "2nd Person" :
+    [
+        "You plant your hands on the {ACTIVE}'s chest, feeling your body react with every deep thrust between your legs.",
+        "The {ACTIVE} starts to fuck you, it's {BEAST} {PENIS} thrusting slowly into you, but gloriously deep.",
+        "Even though its {PENIS} is inside you, it's the monster's terrifying maw that turns you on the most.",
+        "You spread your legs and your {PUSSY} opens up like a flower in bloom, ready to be despoiled by this brute.",
+        "You want this, eager to make love to this huge muscled beast, desperate to have your brains fucked out.",
+        "A delighted squeal escapes your lips as the {ACTIVE} roughly spreads you and fucks its {COCK} into you."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} starts to fuck {PRIMARY}, it's {BEAST} {PENIS} thrusting slowly into her, but terrifyingly deep.",
+        "{PRIMARY} lets out a primal grunt as her {WTVAGINAL} {PUSSY} is impaled on the creature's {PENIS}.",
+        "The {ACTIVE} roughly forces {PRIMARY}'s legs apart and thrusts its {COCK} into her {PUSSY}."
+    ]
+}

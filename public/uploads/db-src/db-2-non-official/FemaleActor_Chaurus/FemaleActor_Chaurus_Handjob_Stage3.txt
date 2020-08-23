@@ -1,0 +1,16 @@
+{
+    "1st Person": [
+        "I {WANK} the {BUGCOCK} only inches from my face, and prepare to catch a faceful of {CUM} and eggs.",
+	"I hope he's not satisfied by this. I hope he bends me over and {FUCK}s me afterwards.",
+	"My hands are a blur of motion on the {BUGCOCK}, {WET} in {SLIME}."
+    ],
+    "2nd Person": [
+        "You {WANK} the {BUGCOCK} only inches from your face, and prepare to catch a faceful of {CUM} and eggs.",
+	"You hope he's not satisfied by this. You hope he bends you over and {FUCK}s you afterwards.",
+	"Your hands are a blur of motion on the {BUGCOCK}, {WET} in {SLIME}."
+    ],
+    "3rd Person": [
+        "She {WANK}s the {BUGCOCK} only inches from her face, and prepare to catch a faceful of {CUM} and eggs.",
+	"Her hands are a blur of motion on the {BUGCOCK}, {WET} in {SLIME}."
+    ]
+}

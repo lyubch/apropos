@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "I'm relieved as the monster accepts my surrender, and begins to pump steadily into my {PUSSY}.",
+        "I bend over more, my {BOOBS} shaking as the {ACTIVE} starts to fuck me. Gods, please let it be gentle...",
+        "I brace myself on my knees as the beast takes control, holding me in place and starting to thrust steadily into me.",
+        "Oh my... Gods...! I groan, the {BEAST} {COCK} sinking into my tight body as I stretch around its girth.",
+        "Being fucked by a monster feels disturbingly natural. Maybe I'm some kind of {WHORE}?"        
+    ],
+    "2nd Person" :
+    [
+        "You're relieved as the monster accepts your surrender, and begins to pump steadily into your {PUSSY}.",
+        "You bend over more, your {BOOBS} shaking as the {ACTIVE} starts to fuck you. Gods, please let it be gentle...",
+        "You brace yourself on your knees as the beast takes control, holding you in place and starting to thrust steadily into you.",
+        "Oh my... Gods...! You groan, the {BEAST} {COCK} sinking into your tight body as you stretch around its girth.",
+        "Being fucked by a monster feels disturbingly natural. Maybe you're some kind of {WHORE}?" 
+    ],
+    "3rd Person" :
+    [
+        "Accepting her surrender, the {ACTIVE} starts to fuck her {PUSSY} in steady, strong strokes.",
+        "Despite the situation, {PRIMARY} really seems to be enjoying that troll's {COCK}...",
+        "Just watching {PRIMARY}'s {HEAVING} {BOOBS} as the brute thrusts into her is erotic..."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I kneel down on the {MONSTER}'s muscled stomach, and start to {FUCK} it a little faster.",
+        "The {MONSTER} {SCREAM}s in ragged {SCREAM}s as we fuck, and I feel its warm breath on my {HEAVING} {BOOBS}.",
+        "I suppress my disgust at the {MONSTER}'s stench, and try to concentrate on pumping my {WTVAGINAL} {PUSSY} up and down.",
+        "The intensity and rhythm of its breath is echoed by the {MAROUSAL} {MONSTER} lodged between my legs.",
+        "The {ACTIVE} grunts as I try to {FUCK} his whole {COCK} into me, pounding against my cervix.",
+        "I can't hold back a {SCREAM} at the intense {LUST} at being filled with the {MONSTER}'s {BEASTLY} {COCK}."
+    ],
+    "2nd Person": [
+        "You kneel down on the {MONSTER}'s muscled stomach, and start to {FUCK} it a little faster.",
+        "The {MONSTER} {SCREAM}s in ragged {SCREAM}s as you fuck, and you feel its warm breath on your {HEAVING} {BOOBS}.",
+        "You suppress your disgust at the {MONSTER}'s stench, and try to concentrate on pumping your {WTVAGINAL} {PUSSY} up and down.",
+        "The intensity and rhythm of its breath is echoed by the {MAROUSAL} {MONSTER} lodged between your legs.",
+        "The {ACTIVE} grunts as you try to {FUCK} his whole {COCK} into you, pounding against your cervix.",
+        "You can't hold back a {SCREAM} at the intense {LUST} at being filled with the {MONSTER}'s {BEASTLY} {COCK}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} kneels down on the {MONSTER}'s muscled stomach, and start to {FUCK} it a little faster.",
+        "The {MONSTER} {SCREAM}s in ragged {SCREAM}s as {PRIMARY} {FUCK}s, and she feels its warm breath on her {HEAVING} {BOOBS}.",
+        "{PRIMARY} suppresses her disgust at the {MONSTER}'s stench, and try to concentrate on pumping her {WTVAGINAL} {PUSSY} up and down.",
+        "The intensity and rhythm of its breath is echoed by the {MAROUSAL} {MONSTER} lodged between {PRIMARY}'s legs.",
+        "The {ACTIVE} grunts as {PRIMARY} tries to {FUCK} his whole {COCK} into herself, pounding against her cervix.",
+        "{PRIMARY} can't hold back a {SCREAM} at the intense {LUST} at being filled with the {MONSTER}'s {BEASTLY} {COCK}."
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "I {MOAN} slightly as I feel {ACTIVE}'s mouth on my nipple and his fingers at my {PUSSY}.",
+        "I part my legs slightly, giving {ACTIVE}'s roaming hand access between my legs while he sucks my nipple.",
+        "My nipple is incredibly sensitive, my head falling back as I let out each low {MOAN}.",
+        "{ACTIVE} squeezes my boob {ROUGH}ly into his mouth. The sensation is amazing, and I pull him closer.",
+        "{ACTIVE} starts to grope me {ROUGH}ly, and I can't help but be {HORNY}.",
+        "You... you want to suck my {BOOBS}? I, um, I guess that would be okay..."
+    ],
+    "2nd Person" :
+    [
+        "You {MOAN} slightly as you feel {ACTIVE}'s mouth on your nipple and his fingers at your {PUSSY}.",
+        "You part your legs slightly, giving {ACTIVE}'s roaming hand access between your legs while he sucks your nipple.",
+        "Your nipple is incredibly sensitive, your head falling back as you let out each low {MOAN}.",
+        "{ACTIVE} squeezes your boob {ROUGH}ly into his mouth. The sensation is amazing, and you pull him closer.",
+        "{ACTIVE} starts to grope you {ROUGH}ly, and you can't help but be {HORNY}.",
+        "({PRIMARY}) You... you want to suck my {BOOBS}? I, um, I guess that would be okay..."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} stoops over, taking {PRIMARY}'s boob in his mouth as his hand heads between her legs.",
+        "{PRIMARY} just stands there, letting {ACTIVE} grope and manhandle her.",
+        "The way her head is thrown back, {PRIMARY} must have really sensitive nipples...",
+        "({PRIMARY}) You love my {BOOBS}, don't you? Better than that little {BITCH}'s {BOOBS}!"
+    ]
+}

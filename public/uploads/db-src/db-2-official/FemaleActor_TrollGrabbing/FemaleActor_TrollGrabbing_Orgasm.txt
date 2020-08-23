@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "Watching between my own legs, I'm amazed as I see the sheer volume of {THICK} {CUM} spill to the ground.",
+        "It's over, it's finally over... I pant hard, face in the dirt as the {ACTIVE} fills my {ASS} with {THICK} {CUM}.",
+        "I didn't intend to take this brute in the {ASS}, but as it cums I realise I'm glad it gave me such an intense experience.",
+        "All my energy is spent from the exhausting fuck, all I can do is moan as the {ACTIVE} cums.",
+        "With no more energy left in me, I can only gasp as I feel {THICK} {CUM} fill my {ASS}.",
+        "My body is racked by the throws of an incredibly guilty orgasm..."        
+    ],
+    "2nd Person" :
+    [
+        "Watching between your own legs, you're amazed as you see the sheer volume of {THICK} {CUM} spill to the ground.",
+        "It's over, it's finally over... You pant hard, face in the dirt as the {ACTIVE} fills your {ASS} with {THICK} {CUM}.",
+        "You didn't intend to take this brute in the {ASS}, but as it cums you're glad it gave you such an intense experience.",
+        "All your energy is spent from the exhausting fuck, all you can do is moan as the {ACTIVE} cums.",
+        "With no more energy left in you, you can only gasp as you feel {THICK} {CUM} fill your {ASS}.",
+        "Your body is racked by the throws of an incredibly guilty orgasm..."    
+    ],
+    "3rd Person" :
+    [
+        "There's a puddle of {CUM} beneath them, and the {CUM} from {PRIMARY}'s {ASS} is now running down her legs and belly.",
+        "All {PRIMARY}'s energy is spent from the exhausting fuck, all she can manage is to moan as the {ACTIVE} cums.",
+        "{PRIMARY} looks relieved as the {ACTIVE} seems to cum inside her. She must be exhausted."
+    ]
+}

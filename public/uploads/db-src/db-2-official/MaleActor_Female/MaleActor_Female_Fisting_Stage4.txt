@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "{PRIMARY} starts moaning with pleasure as I fistfuck her brutally. What a {BITCH}...",
+        "({PRIMARY}) You're there...Nghhh... Now... Push your fingers... into my womb...",
+        "I'm amazed, most of my arm is up inside {PRIMARY}, and she's still enthusiastically fucking back!"
+    ],
+    "2nd Person": [
+        "{PRIMARY} starts moaning with pleasure as you fistfuck her brutally. What a {BITCH}...",
+        "({PRIMARY}) You're there...Nghhh... Now... Push your fingers... into my womb...",
+        "You're amazed, most of your arm is up inside {PRIMARY}, and she's still enthusiastically fucking back!"
+    ],
+    "3rd Person": [
+        "His hand is pumping into {PRIMARY} vigorously, to the point where he's actually fistfucking her.",
+        "{PRIMARY} gasps and cums almost every time {ACTIVE}'s knuckles slip past her {PUSSY} lips.",
+        "His hand is pumping in and out of {PRIMARY} with such ease... her {PUSSY} must be ruined...",
+        "({PRIMARY}) Ugh... (sob) my insides feel battered...",
+        "({PRIMARY}) Ohh yeah, that's it! Drive it in all the way!",
+        "({PRIMARY}) Yes! Do me hard!"
+    ]
+}

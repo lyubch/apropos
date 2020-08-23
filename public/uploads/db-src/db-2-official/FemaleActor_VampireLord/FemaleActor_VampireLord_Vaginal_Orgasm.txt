@@ -1,0 +1,45 @@
+{
+    "1st Person": [
+        "As my {WTVAGINAL} {PUSSY} is filled, my head clears. Oh Gods, what have I done?",
+        "I willingly give myself to the beast, and let it cum inside me...",
+        "The beast's {THICK} {CUM} drips from my {FAROUSAL} {PUSSY} as it continues to thrust into me.",
+        "As the demon cums, my head clears. Fear suddenly washes over me as I realise what I have let happen.",
+        "As my {PUSSY} fills, so does my mind. Horrible, erotic nightmare assault me, and I cum impossibly hard.",
+        "I offer a suggestive lick of my lips as I feel the creature pump his {CUM} deep inside me.",
+        "I glance up from under heavy eyelids, my mouth open and panting as I feel the creature pump {CUM} into me.",
+        "My body tenses up, and I cling tightly to my master as he blesses me with his {CUM}.",
+        "My legs tense, my {PUSSY} tightening around the monster's {COCK} as it inseminates me.",
+        "I buck and squeal. Oh my, it's {CUMMING} inside me...",
+        "As my {WTVAGINAL} {PUSSY} is filled, I scream in anguish and arousal.",
+        "After what seems like hours of forceful penetration, I finally climax, my {PUSSY} spasming wildly as I cum.",
+        "My toes curl as I feel more pulses of demon-cum work their way up the shaft and into my swollen belly.",
+        "My eyes bulge and I let out a cry as I feel it pump load after load of demonic {CUM} into me.",
+        "Tears stream down my face from the strain of my own earth-shattering climax."
+    ],
+    "2nd Person": [
+        "As your {WTVAGINAL} {PUSSY} is filled, your head clears. Oh Gods, what have you done?",
+        "You willingly give yourself to the beast, and let it cum inside you...",
+        "The beast's {THICK} {CUM} drips from your {FAROUSAL} {PUSSY} as it continues to thrust into you.",
+        "As the demon cums, your head clears. Fear suddenly washes over you as you realise what you have let happen.",
+        "As your {PUSSY} fills, so does your mind. Horrible, erotic nightmares assault you, and you cum hard.",
+        "You offer a suggestive lick of your lips as you feel the creature pump his {CUM} deep inside you.",
+        "You glance up from under heavy eyelids, panting as you feel the creature pump {CUM} into you.",
+        "Your body tenses up, and you cling tightly to your master as he blesses you with his {CUM}.",
+        "Your legs tense, your {PUSSY} tightening around the monster's {COCK} as it inseminates you.",
+        "You buck and squeal. Oh my, it's {CUMMING} inside you...",
+        "As your {WTVAGINAL} {PUSSY} is filled, you scream in anguish and arousal.",
+        "After what seems like hours of forceful penetration, you finally climax, your {PUSSY} spasming wildly.",
+        "Your toes curl as you feel more pulses of demon-cum work their way up the shaft and into your swollen belly.",
+        "Your eyes bulge and you let out a cry as you feel it pump load after load of demonic {CUM} into you.",
+        "Tears stream down your face from the strain of your own earth-shattering climax."
+    ],
+    "3rd Person": [
+        "{PRIMARY} willingly gives herself to the beast, and lets it cum inside her...",
+        "The beast's {THICK} {CUM} drips from {PRIMARY}'s {FAROUSAL} {PUSSY} as it continues to thrust into her.",
+        "Horrible, erotic nightmare assault her, and {PRIMARY} cums impossibly hard.",
+        "{PRIMARY} offers a suggestive lick of her lips as the creature pumps his {CUM} deep inside her.",
+        "{PRIMARY} glances up from under heavy eyelids, her mouth open as the creature pumps {CUM} into her.",
+        "Her body tenses up, and {PRIMARY} clings tightly to her master as he blesses her with his {CUM}.",
+        "{PRIMARY}'s legs tense, her {PUSSY} tightening around the monster's {COCK} as it inseminates her."
+    ]
+}

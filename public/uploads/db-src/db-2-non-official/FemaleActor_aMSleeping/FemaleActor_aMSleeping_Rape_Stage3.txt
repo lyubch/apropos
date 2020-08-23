@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "It takes all my self control not to {SCREAM} as his {HUGE} {COCK} {PENETRAT}es into me.",
+        "I stifle a {SCREAM} as he {INSERT}s into me, making him pause. I freeze, my heart thundering, before he resumes.",
+        "{SWEARING}, he's {FUCK}ing me, he's actually {FUCK}ing me! I can't believe someone would do this...",
+        "Cold sweat breaks out all over me as the {JERK} starts to {RAP}e me, {SLOW}ly pushing his {COCK} in and out.",
+        "It's hard to stay silent as he begins to pump {SLOW}ly into me. I can't let him know I'm awake...",
+        "He stops {FUCK}ing me every so often, as if unsure whether I'm conscious or not. I'm scared, but I don't move.",
+        "{SWEARING}, I can't believe this happens! Have I been {FUCK}ed when I was asleep, while unconscious, and not known?"
+    ],
+    "2nd Person" :
+    [
+        "It takes all your self control not to {SCREAM} as his {HUGE} {COCK} {PENETRAT}es into you.",
+        "You stifle a {SCREAM} as he thrusts in, making him pause. You freeze, your heart thundering, before he resumes.",
+        "{SWEARING}, he's {FUCK}ing you, he's actually {FUCK}ing you! You can't believe someone would do this...",
+        "Cold sweat breaks out all over you as the {JERK} starts to {RAP}e you, {SLOW}ly pushing his {COCK} in and out.",
+        "It's hard to stay silent as he begins to pump {SLOW}ly into you. You can't let him know you're awake...",
+        "He stops {FUCK}ing every so often, as if unsure whether you're conscious or not. You're scared, but you don't move.",
+        "{SWEARING}, you can't believe this happens! Have you been {FUCK}ed while asleep, while unconscious, and not known?"
+    ],
+    "3rd Person" :
+    [
+        "{SWEARING}, he's having sex with her! If she wasn't awake before, she will be soon!",
+        "{SWEARING}, does this happen a lot? Do men just {FUCK} unconscious girls without them ever knowing?",
+        "Eyes still closed, {PRIMARY}'s brow furrows and she {SCREAM}s as the {ACTIVE} {PENETRAT}es his {COCK} inside her."
+    ]
+}

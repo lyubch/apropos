@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I look up at my {ROUGH} lover, {HORNY} for the sound of its roar and the feeling of its climax.",
+        "The monster bellows as it slams into me, impossibly deep, eager to push its {THICK} {CUM} far enough to get me pregnant.",
+        "I fondle myself as the {MONSTER} cums, hoping that it's not over yet, and its {BEASTLY} {COCK} can go another round!",
+        "Oohhh! So much {CUM}! That's got to have done it!",
+        "(gasp) {SWEARING}... that's a lot of {CUM}... guess there's no turning back now...",
+        "I {SCREAM} in {LUST} as {LARGELOAD} quantities of {THICK} {CUM} escape my {WTVAGINAL} {PUSSY}."        
+    ],
+    "2nd Person" :
+    [
+        "You look up at your {ROUGH} lover, {HORNY} for the sound of its roar and the feeling of its climax.",
+        "The monster bellows as it slams into you, impossibly deep, eager to push its {THICK} {CUM} far enough to get you pregnant.",
+        "You fondle yourself as the {MONSTER} cums, hoping that it's not over yet, and its {BEASTLY} {COCK} can go another round!",
+        "Oohhh! So much {CUM}! That's got to have done it!",
+        "(gasp) {SWEARING}... that's a lot of {CUM}... guess there's no turning back now...",
+        "You {SCREAM} in {LUST} as {LARGELOAD} quantities of {THICK} {CUM} escape your {WTVAGINAL} {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "The {MONSTER} roars as it {EJACULATE}s, {PRIMARY} just staring up at its {FEAR}some maw between ragged {MOAN}s.",
+        "The {ACTIVE} is {EJACULATE}ing inside {PRIMARY} now, and some {THICK} {CUM} starts to slide down her leg.",
+        "The monster bellows as it slams into {PRIMARY}, its {COCK} pushing deep inside her, determined to get her pregnant."
+    ]
+}

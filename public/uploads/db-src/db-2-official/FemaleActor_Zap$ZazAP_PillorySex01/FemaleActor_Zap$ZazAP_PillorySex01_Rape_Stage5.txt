@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I'm already exhausted... The guy in me must be too, his strokes are much slower now, but still so deep.",
+        "My body is shaking, sweat dripping down my back. I can't take much more, but he keeps on fucking me.",
+        "I hang limply in the stocks, my body rocking painfully into them with every hard thrust.",
+        "My mind is in disarray, ashamed at having cum a few times from such brutal treatment...",
+        "Strong hands grab my waist, driving the {PENIS} right into and through my cervix.",
+        "I think I blacked out for a moment... Am I still being fucked by the same guy? Or someone new?",
+        "Oh Gods... he's got to be close now... But how many are still to take their turn in me?"
+    ],
+    "2nd Person": [
+        "You're already exhausted... The guy in you must be too, his strokes are much slower now, but still so deep.",
+        "Your body is shaking, sweat dripping down your back. You can't take much more, but he keeps on fucking you.",
+        "You hang limply in the stocks, your body rocking painfully into them with every hard thrust.",
+        "Your mind is in disarray, ashamed at having cum a few times from such brutal treatment...",
+        "Strong hands grab your waist, driving the {PENIS} right into and through your cervix.",
+        "You think you blacked out for a moment... Are you still being fucked by the same guy? Or someone new?",
+        "Oh Gods... he's got to be close now... But how many are still to take their turn in you?"
+    ],
+    "3rd Person": [
+        "The {ACTIVE} takes a firm hold of {PRIMARY}'s waist, and starts to pound really deep into her.",
+        "The {ACTIVE}'s stamina is amazing. He's obviously tired, but he keeps on thrusting into her.",
+        "His {COCK} is so deep inside {PRIMARY}... It must be right up to her cervix by now... Maybe even through it?",
+        "{PRIMARY} hangs in her bonds, clearly exhausted. The {ACTIVE} doesn't give her any rest."
+    ]
+}

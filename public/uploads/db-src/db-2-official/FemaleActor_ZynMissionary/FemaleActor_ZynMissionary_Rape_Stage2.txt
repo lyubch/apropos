@@ -1,0 +1,28 @@
+{
+    "1st Person": [
+        "Too scared to fight back, I just gasp as he penetrates me, shocked when I feel his tongue in my mouth.",
+        "The {ACTIVE} starts to fuck me slowly, and I hold on tight, sobbing as I'm raped.",
+        "I throw my head back as the {ACTIVE}'s {HUGE} {PENIS} forces its way into me.",
+        "I start to cry as the {ACTIVE} begins raping me, and I kiss him back, too afraid to resist.",
+        "{ACTIVE} guides his {PENIS} up against my {PUSSY} and with one thrust he's completely inside me.",
+        "I am completely under {ACTIVE}'s power, I can't stop him from taking me.",
+        "I beg you {ACTIVE}, pull it out!",
+        "I'm not able to put up much resistance, considering I'm being raped."
+    ],
+    "2nd Person": [
+        "Too scared to fight back, you gasp as he penetrates you, shocked when you feel his tongue in your mouth.",
+        "The {ACTIVE} starts to fuck you slowly, and you hold on tight, sobbing as you're raped.",
+        "You throw your head back as the {ACTIVE}'s {HUGE} {PENIS} forces its way into you.",
+        "You start to cry as the {ACTIVE} begins raping you, and you kiss him back, too afraid to resist.",
+        "{ACTIVE} guides his {PENIS} up against your {PUSSY} and with one thrust he's completely inside you.",
+        "You're completely under {ACTIVE}'s power, you can't stop him from taking you.",
+        "({PRIMARY}) I beg you {ACTIVE}, pull it out!",
+        "You're not able to put up much resistance, considering you're being raped."
+    ],
+    "3rd Person": [
+        "{PRIMARY} shrieks as the {ACTIVE} pushes into her {PUSSY}, her scream cut off as he assaults her mouth.",
+        "{PRIMARY} sobs into the {ACTIVE}'s shoulder as he mounts her, fucking her slowly.",
+        "{PRIMARY} clings on to her attacker, her body rocking as he pumps into her.",
+        "{PRIMARY} trembles as the {ACTIVE} takes her, and reluctantly accepts his tongue into her mouth."
+    ]
+}

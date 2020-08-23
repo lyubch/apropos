@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "I obediently start to suck {ACTIVE}'s {COCK}.",
+        "I strain to accommodate {ACTIVE}'s {COCK} in my {MOUTH}.",
+        "I take {ACTIVE} happily between my lips, and suck him to full strength.",
+        "I take {ACTIVE}'s {HUGE} {COCK} between my lips.",
+        "I don't recall ever being so turned on as I feel my lips part and slide along his {COCK}.",
+        "I tongue {ACTIVE}'s swollen head, then engulf him in my {MOUTH}."        
+    ],
+    "2nd Person" :
+    [
+        "You obediently start to suck {ACTIVE}'s {COCK}.",
+        "You strain to accommodate {ACTIVE}'s {COCK} in your {MOUTH}.",
+        "You take {ACTIVE} happily between your lips, and suck him to full strength.",
+        "You take {ACTIVE}'s {HUGE} {COCK} between your lips.",
+        "You don't recall ever being so turned on as you feel your lips part and slide along his {COCK}.",
+        "You tongue {ACTIVE}'s swollen head, then engulf him in your {MOUTH}."        
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} obediently starts to sucks {ACTIVE}'s {COCK}.",
+        "{PRIMARY} strains to accommodate {ACTIVE}'s {COCK} in her {MOUTH}.",
+        "{PRIMARY} takes {ACTIVE} happily between her lips, and sucks him to full strength.",
+        "{PRIMARY} takes {ACTIVE}'s {HUGE} {COCK} between her lips."        
+    ]
+}

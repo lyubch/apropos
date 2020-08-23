@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "No, he can't be trying to... OWW! Oh Gods, he's trying to push his knot into my {ASS}!",
+        "I clench my teeth and stifle my sobs, bracing myself. This is going to hurt...",
+        "I burn with pain as my sphincter gives way, and the {BEAST} knot pops loudly into me.",
+        "Ugh!!! The knot pops into my {ASS} painfully... It won't come out now until it's slick with {CUM}.",
+        "My backend heaves as I fuck my {ASS} up and down on his {PENIS} in the animal position.",
+        "I frantically thrust back into the beast's {BEAST} {PENIS}, desperate to finish before someone sees me...",
+        "My eyes screw shut, my fists clench and I scream into the dirt as {ACTIVE} fucks me."        
+    ],
+    "2nd Person" :
+    [
+        "No, he can't be trying to... OWW! Oh Gods, he's trying to push his knot into your {ASS}!",
+        "You clench your teeth and stifle your sobs, bracing yourself. This is going to hurt...",
+        "You burn with pain as your sphincter gives way, and the {BEAST} knot pops loudly into you.",
+        "Ugh!!! The knot pops into your {ASS} painfully... It won't come out now until it's slick with {CUM}.",
+        "Your backend heaves as you fuck your {ASS} up and down on his {PENIS} in the animal position.",
+        "You frantically thrust back into the beast's {BEAST} {PENIS}, desperate to finish before someone sees you...",
+        "Your eyes screw shut, your fists clench and you scream into the dirt as {ACTIVE} fucks you."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} pounds {PRIMARY}'s {ASS} slowly now, but hard and sudden. He must be trying to push the knot in...",
+        "If that {BEAST} knot goes into her {ASS}... {PRIMARY} is going to be in so much pain..."
+    ]
+}

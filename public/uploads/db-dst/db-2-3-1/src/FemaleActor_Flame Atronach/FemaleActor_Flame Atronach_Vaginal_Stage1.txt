@@ -1,0 +1,14 @@
+{
+    "1st Person" :
+    [
+        "Her {PUSSY} is so hot!"
+    ],
+    "2nd Person" :
+    [
+        "Her {PUSSY} is so hot!"
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

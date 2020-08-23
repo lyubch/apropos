@@ -1,0 +1,22 @@
+{
+    "1st Person": [
+        "My eyes widen in {FEAR} as {CUM} fills my {MOUTH} for the first time.",
+        "The {COCK} slides loose from my {MOUTH} and then he punches me in the face and spits on me. My first time.",
+	"My lips, face, and {BOOBS} are {WET} in {CUM} droplets for the first time. They are joined by my tears.",
+	"Disgraced for the first time, I cry deeply.",
+	"({ACTIVE}) That blowjob was fucking terrible! You should be thanking *me*, fucking {BITCH}!"
+    ],
+    "2nd Person": [
+        "Your eyes widen in {FEAR} as {CUM} fills your {MOUTH} for the first time.",
+        "The {COCK} slides loose from your {MOUTH} and then he punches you in the face and spits on you. My first time.",
+	"Your lips, face, and {BOOBS} are {WET} in {CUM} droplets for the first time. They are joined by your tears.",
+	"Disgraced for the first time, you cry deeply.",
+	"({ACTIVE}) That blowjob was fucking terrible! You should be thanking *me*, fucking {BITCH}!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} chokes and splutters, obviously repulsed. Hasn't she tasted {CUM} before?",
+        "The {COCK} slides loose from her {MOUTH} and then he punches her in the face and spits on her. My first time.",
+	"Disgraced for the first time, she cries deeply.",
+	"({ACTIVE}) That blowjob was fucking terrible! You should be thanking *me*, fucking {BITCH}!"
+    ]
+}

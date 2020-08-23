@@ -1,0 +1,25 @@
+{
+    "1st Person": [
+        "The {ACTIVE} continues to {FUCK} me in {SLOW}, sharp strokes, its {COCK} so {HUGE} I think I'm going to die.",
+        "I dare not look up at the monster {RAP}ing me, urging my mind to go somewhere else as my body endures.",
+        "My legs spread maddeningly wide with every deep, painful stroke of the {MONSTER}'s {COCK}.",
+        "I can't help but squeeze my breast a little with every thrust as my body betrays me.",
+        "It's perverse, the sensation of my stomach bulging every time the {BEASTLY} {COCK} fills me...",
+        "The {ACTIVE}'s {COCK} pulls most of the way out before the next deep stroke {PENETRAT}es back into me.",
+        "It's so {HUGE}... And hot... And thick... {SWEARING}, what am I thinking?"
+    ],
+    "2nd Person": [
+        "The {ACTIVE} continues to {FUCK} you in {SLOW}, sharp strokes, its {COCK} so {HUGE} you think you're going to die.",
+        "You dare not look up at the monster {RAP}ing you, urging your mind to go somewhere else as your body endures.",
+        "Your legs spread maddeningly wide with every deep, painful stroke of the {MONSTER}'s {COCK}.",
+        "You can't help but squeeze your breast a little with every thrust as your body betrays you.",
+        "It's perverse, the sensation of your stomach bulging every time the {BEASTLY} {COCK} fills you...",
+        "The {ACTIVE}'s {COCK} pulls most of the way out before the next deep stroke {PENETRAT}es back into you.",
+        "It's so {HUGE}... And hot... And thick... {SWEARING}, what are you thinking?"
+    ],
+    "3rd Person": [
+        "The {ACTIVE}'s {COCK} pulls most of the way out of {PRIMARY} before the next deep stroke {PENETRAT}es back in.",
+        "The {ACTIVE} continues to {FUCK} {PRIMARY} in {SLOW}, sharp strokes, its {COCK} so {HUGE} that it's a wonder she can {ACCEPT} it...",
+        "{PRIMARY}'s legs spread wide with every deep, painful-looking stroke of the {MONSTER}'s {COCK}."
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "Wait! That {HUGE} {COCK} won't go in! What should I do?",
+        "Ah! This isn't real! I'm being {PENETRAT}ed by a {MONSTER}'s {COCK}...",
+        "My {SCREAM}s go ignored, as the werewolf {PENETRAT}es his {BEASTLY} {COCK} into my {WTVAGINAL} {PUSSY}.",
+        "The {MONSTER} is upon me and begins to thrust the full length of it into my womb.",
+        "({PRIMARY}) Please don't kill me... I'll {ACCEPT} your knot all the way if you let me live...",
+        "({PRIMARY}) I give up, don't hurt me! I'll... I'll let you {BREED} me if you don't hurt me anymore!",
+        "Once the knot batters inside me, I won't be able to escape until I've been inseminated...",
+        "The {ACTIVE} yanks my legs apart and {RAP}es me.",
+        "({PRIMARY}) Please! Not like this! (sob) No... {PLEADING}...",
+        "Knocked to the ground, I don't even have time to catch my breath before the {MONSTER}'s {COCK} {FUCK}s into me.",
+        "I can only watch in {LUST} and {FEAR} as the {BEASTLY} {COCK} aligns with my {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} slides me wide open and plugs me fully with its {BEASTLY} {GIRTH}.",
+        "Insistently, {ROUGH}ly, the first few inches of its impossibly {BEASTLY} {COCK} {PENETRAT}e up inside of me."
+    ],
+    "2nd Person": [
+        "Wait! That {HUGE} {COCK} won't go in! What should you do?",
+        "Ah! This isn't real! You're being {PENETRAT}ed by a {MONSTER}'s {COCK}...",
+        "Your {SCREAM}s go ignored, as the werewolf {PENETRAT}es his {BEASTLY} {COCK} into your {WTVAGINAL} {PUSSY}.",
+        "The {MONSTER} is upon you and begins to thrust the full length of it into your womb.",
+        "({PRIMARY}) Please don't kill me... I'll {ACCEPT} your knot all the way if you let me live.",
+        "({PRIMARY}) I give up, don't hurt me! I'll... I'll let you {BREED} me if you don't hurt me anymore!",
+        "Once the knot batters inside you, you won't be able to escape until you've been inseminated...",
+        "The {ACTIVE} yanks your legs apart and {FUCK}s you.",
+        "({PRIMARY}) Please! Not like this! No... {PLEADING}...",
+        "Knocked to the ground, you can't even catch your breath before the {MONSTER}'s {COCK} {FUCK}s into you.",
+        "You can only watch in {LUST} and {FEAR} as the {BEASTLY} {COCK} aligns with your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} slides you wide open and plugs you fully with its {BEASTLY} {GIRTH}.",
+        "Insistently, {ROUGH}ly, the first few inches of its impossibly {BEASTLY} {COCK} {PENETRAT}e up inside of you."
+    ],
+    "3rd Person": [
+        "That {HUGE} {COCK} won't go in! What should {PRIMARY} do?",
+        "Ah! This isn't real! {PRIMARY}'s being {PENETRAT}ed by a {MONSTER}'s {COCK}...",
+        "{PRIMARY}'s {SCREAM}s go ignored, as the werewolf {PENETRAT}es his {BEASTLY} {COCK} into her {WTVAGINAL} {PUSSY}.",
+        "The {MONSTER} is upon {PRIMARY} and begins to thrust the full length of it into her womb.",
+        "({PRIMARY}) Please don't kill me... I'll {ACCEPT} your knot all the way if you let me live...",
+        "({PRIMARY}) I give up, don't hurt me! I'll... I'll let you {BREED} me if you don't hurt me anymore!",
+        "Once the knot batters inside her, {PRIMARY} won't be able to escape until she's been inseminated..."
+    ]
+}

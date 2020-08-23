@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I completely lose it, bucking and thrashing as the brute pounds my {PUSSY}, fucking a monster orgasm out of me.",
+        "At last, the {ACTIVE} loses it, erratically thrusting into me as it cums, bellowing above me in triumph.",
+        "The {ACTIVE} climaxes into me painfully, but with him inside me I can only thrash along his length.",
+        "My body is racked by the throws of an incredibly guilty orgasm...",
+        "The {ACTIVE}'s aggressive fucking pushes me over the edge, and I explode into orgasm.",
+        "The {ACTIVE} keep slamming my {PUSSY}, which prolongs my orgasm for a ridiculous length of time."
+    ],
+    "2nd Person" :
+    [
+        "You completely lose it, bucking and thrashing as the brute pounds your {PUSSY}, fucking a monster orgasm out of you.",
+        "At last, the {ACTIVE} loses it, erratically thrusting into you as it cums, bellowing above you in triumph.",
+        "The {ACTIVE} climaxes into you painfully, but with him inside you you can only thrash along his length.",
+        "Your body is racked by the throws of an incredibly guilty orgasm...",
+        "The {ACTIVE}'s aggressive fucking pushes you over the edge, and you explode into orgasm.",
+        "The {ACTIVE} keep slamming your {PUSSY}, which prolongs your orgasm for a ridiculous length of time."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} brays and moans like an animal as the brute drives into her, clearly filling her with {CUM}.",
+        "{PRIMARY} thrashes and moans, reaching between her legs desperately as she climaxes.",
+        "{PRIMARY} cums loudly, but the {ACTIVE} keeps pounding into her, prolonging her orgasm for a terrifying length of time."
+    ]
+}

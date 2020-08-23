@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I completely lose it, {JIGGL}ing and thrashing as the {ANIMAL} {FUCK}s my {PUSSY}, {FUCK}ing a monster orgasm out of me.",
+        "At last, the {ACTIVE} loses it, erratically {INSERT}ing into me as it {EJACULATE}s, bellowing above me in domination.",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes me over the edge, and I explode into orgasm.",
+        "Ugh... {SWEARING}... I'm being {FUCK}ed too hard, and I cum.",
+        "The {ACTIVE} climaxes into me painfully, but with him inside me I can only thrash along his length.",
+        "(gasp) Fuck... that's a lot of {CUM}... guess there's no turning back now..."        
+    ],
+    "2nd Person" :
+    [
+        "You completely lose it, {JIGGL}ing and thrashing as the {ANIMAL} {FUCK}s your {PUSSY}, {FUCK}ing a monster orgasm out of you.",
+        "At last, the {ACTIVE} loses it, erratically {INSERT}ing into you as it {EJACULATE}s, bellowing above you in domination.",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes you over the edge, and you explode into orgasm.",
+        "Ugh... {SWEARING}... you're being {FUCK}ed too hard, and you cum.",
+        "The {ACTIVE} climaxes into you painfully, but with him inside you you can only thrash along his length.",
+        "Fuck... that's a lot of {CUM}... guess there's no turning back now..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} brays and {MOAN}s like a {ANIMAL} as the {ANIMAL} drives into her, clearly filling her with {CUM}.",
+        "{PRIMARY} thrashes and {MOAN}s, reaching between her legs desperately as she climaxes.",
+        "{PRIMARY} cums {LEWD}ly, but the {ACTIVE} keeps {FUCK}ing into her, prolonging her orgasm for an inspiring length of time."
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "1st Person" :
+    [
+        "I can smell {ACTIVE}'s {FAROUSAL} {PUSSY}...",
+        "Breathing in {ACTIVE}'s heady scent, I want to throw away the {STRAPON} and plunge my tongue into her.",
+        "I think I want these lovely legs wrapped around my head..."
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

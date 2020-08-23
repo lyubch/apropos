@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "I hold my body up on my hands, and just stare straight up, trying to ready my body for this ordeal.",
+        "I don't even look at {ACTIVE}, I just stare into space as his hand begins to part my {WTVAGINAL} {PUSSY}.",
+        "My legs are spread wide, hoping this will make it easier to take, but it still hurts.",
+        "I can't believe what {ACTIVE} wants to do, and I gasp as he tries to force his whole hand inside me.",
+        "I timidly thrust back myself as he begins, trying to take control rather than let him force me.",
+        "Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "I moan as {ACTIVE} pushes his fingers inside me, before trying to push his entire hand inside me.",
+        "{ACTIVE} presses harder and harder,  until I feel my {PUSSY} give way and he slides inside.",
+        "The first few fingers enter me, and I already feel my {WTVAGINAL} {PUSSY} straining.",
+        "I want to get really kinky... I want you to hurt me... really hurt me..."
+    ],
+    "2nd Person": [
+        "You hold your body up on your hands, and just stare straight up, trying to ready your body for this ordeal.",
+        "You don't look at {ACTIVE}, you just stare into space as his hand begins to part your {WTVAGINAL} {PUSSY}.",
+        "Your legs are spread wide, hoping this will make it easier to take, but it still hurts.",
+        "You can't believe what {ACTIVE} wants to do, and you gasp as he tries to force his whole hand inside you.",
+        "You timidly thrust back yourself as he begins, trying to take control rather than let him force you.",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "You moan as {ACTIVE} pushes his fingers inside you, before trying to push his entire hand inside you.",
+        "{ACTIVE} presses harder and harder,  until you feel your {PUSSY} give way and he slides inside.",
+        "The first few fingers enter you, and you already feel your {WTVAGINAL} {PUSSY} straining.",
+        "({PRIMARY}) I want to get really kinky... I want you to hurt me... really hurt me..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} holds her body up on her hands, staring straight up, trying to ready her body for this ordeal.",
+        "{PRIMARY} doesn't even look at {ACTIVE}, staring into space as his hand parts her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY}'s legs are spread wide, hoping this will make it easier to take, but it still hurts.",
+        "{PRIMARY} gasps as {ACTIVE} tries to force his whole hand inside her.",
+        "{PRIMARY} timidly thrusts back herself as he begins, trying to take control rather than let him force her.",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!"
+    ]
+}

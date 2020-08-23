@@ -1,0 +1,34 @@
+{
+    "1st Person" :
+    [
+        "I... I want you to... fuck me!",
+        "It's too much, I need to feel this {HUGE} {PENIS} inside me!",
+        "({ACTIVE}) I can see it in your eyes, {BITCH}, you want to get fucked!",
+        "({ACTIVE}) I know you want it. Because now I know what a {CUM}-hungry {BITCH} you are.",
+        "I'm wet as fuck right now just imagining it shooting on me... or... mmmmm... in me!",
+        "I'm beside myself with lust now, desperate to climb onto {ACTIVE}'s {PENIS}, and he knows it.",
+        "{ACTIVE}'s {PENIS} feels hot and hard in my hand, and my {CREAM} drips down my legs as I think about it.",
+        "({ACTIVE}) Hah, this {BITCH} is panting! Guess she wants to get fucked...",
+        "Where do you want to cum? In my {MOUTH} or across my {BOOBS}? Or maybe... right up my {PUSSY}?",
+        "Whatever you want to do next, I won't say no...",
+        "Enough. Fuck me now. Please."
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) I... I want you to... fuck me!",
+        "It's too much, you need to feel this {HUGE} {PENIS} inside you!",
+        "({ACTIVE}) I can see it in your eyes, {BITCH}, you want to get fucked!",
+        "You're wet as fuck right now just imagining it shooting on you... or... mmmmm... in you!",
+        "You're beside yourself with lust now, desperate to climb onto {ACTIVE}'s {PENIS}, and he knows it.",
+        "{ACTIVE}'s {PENIS} feels hot and hard in your hand, and your {CREAM} drips down your legs as you think about it.",
+        "({ACTIVE}) Hah, this {BITCH} is panting! Guess she wants to get fucked...",
+        "({PRIMARY}) Where do you want to cum? In my {MOUTH} or across my {BOOBS}? Or maybe... right up my {PUSSY}?",
+        "({PRIMARY}) Whatever you want to do next, I won't say no...",
+        "({PRIMARY}) Enough. Fuck me now. Please."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} breathlessly pants 'yes'. Oh my, what did {PRIMARY} say to him?",
+        "Surely {PRIMARY}'s not just going give him a handjob? That would be sort of mean after all that..."
+    ]
+}

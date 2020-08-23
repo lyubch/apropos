@@ -1,0 +1,45 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} humps desperately at my back end, his {BEAST} {PENIS} eagerly thrusting into my ass and thighs.",
+        "Every time {ACTIVE}'s {PENIS} touches my {PUSSY}, it sends thrills racing through me.",
+        "It's maddening waiting for {ACTIVE} to find my {PUSSY}, the anticipation is killing me!",
+        "I hold on to {ACTIVE}'s leg and push myself backwards, trying to help him enter me.",
+        "{ACTIVE}'s foreleg pulls back on my knee as he thrusts at my backside, trying to find my {PUSSY}.",
+        "His hot breath blows over my shoulder, his breathing already quick before he's even in me.",
+        "I hump and buck quickly, trying to line {ACTIVE} up, eager to feel his {PENIS} slide inside.",
+        "I spread my legs wide and lower my ass, beckoning the animal to mount me and stick his {PENIS} into me.",
+        "Arching my back, I make sure that when {ACTIVE} climbs onto me, he's lined up with my {PUSSY}.",
+        "I can't believe I'm actually gonna do this...",
+        "I spread my legs wide and spread my {PUSSY}, beckoning the animal to mount me and stick his {PENIS} into me.",
+        "I have a really naughty idea... this doggie seems really into me... so I'm gonna let him fuck me.",
+        "Listen {ACTIVE}. When I let you inside, I want you to fuck me hard and fast, okay?",
+        "{ACTIVE} thrusts his {PENIS} desperately, eager to mate with me.",
+        "Oh my goodness, I can't believe this is happening. This is so wrong."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} humps desperately at your back end, his {BEAST} {PENIS} eagerly thrusting into your ass and thighs.",
+        "Every time {ACTIVE}'s {PENIS} touches your {PUSSY}, it sends thrills racing through you.",
+        "It's maddening waiting for {ACTIVE} to find your {PUSSY}, the anticipation is killing you!",
+        "You hold on to {ACTIVE}'s leg and push yourself backwards, trying to help him enter you.",
+        "{ACTIVE}'s foreleg pulls back on your knee as he thrusts at your backside, trying to find your {PUSSY}.",
+        "His hot breath blows over your shoulder, his breathing already quick before he's even in you.",
+        "You hump and buck quickly, trying to line {ACTIVE} up, eager to feel his {PENIS} slide inside.",
+        "You spread your legs wide and lower your ass, beckoning him to mount you and stick his {PENIS} into you.",
+        "Arching your back, you make sure that when {ACTIVE} climbs onto you, he's lined up with your {PUSSY}.",
+        "You can't believe you're actually gonna do this...",
+        "You spread your legs and {PUSSY} wide, beckoning the animal to mount you and stick his {PENIS} into you.",
+        "You have a really naughty idea... this doggie seems really into you... so you're gonna let him fuck you.",
+        "({PRIMARY}) Listen {ACTIVE}. When I let you inside, I want you to fuck me hard and fast, okay?",
+        "{ACTIVE} thrusts his {PENIS} desperately, eager to mate with you.",
+        "Oh my goodness, you can't believe this is happening. This is so wrong."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} thrusts eagerly at {PRIMARY}'s backside, desperate to find her {PUSSY}.",
+        "{PRIMARY}'s {PUSSY} is dripping wet and wide open, waiting for {ACTIVE} to hit the mark.",
+        "The anticipation of waiting for {ACTIVE} to slide inside {PRIMARY} is maddening...",
+        "Is she serious? Is {PRIMARY} really going to let a dog have sex with her?"
+    ]
+}

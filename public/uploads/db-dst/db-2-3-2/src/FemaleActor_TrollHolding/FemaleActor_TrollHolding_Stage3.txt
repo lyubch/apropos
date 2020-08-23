@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "{SWEARING}, it's faster now... I stare blankly and {MOAN}, letting my body enjoy the {ROUGH} fucking.",
+        "I feel the {ACTIVE}'s claws dig into me a little, and I know it's going to cum soon.",
+        "The huge, muscled body of the troll {ROUGH}ly {FUCK}ing my {SMALL}, {HEAVING} {FLESH} so hard...",
+        "It's {FUCK}ing me so hard, so fast... It's so sexy...",
+        "The {MONSTER} {FUCK}s me {ROUGH}ly. My heart races, I know that soon I will be carrying the {MONSTER}'s child."
+    ],
+    "2nd Person": [
+        "{SWEARING}, it's faster now... You stare blankly and {MOAN}, letting your body enjoy the {ROUGH} fucking.",
+        "You feel the {ACTIVE}'s claws dig into you a little, and you know it's going to cum soon.",
+        "The huge, muscled body of the troll {ROUGH}ly {FUCK}ing your {SMALL}, {HEAVING} {FLESH} so hard...",
+        "It's {FUCK}ing you so hard, so fast... It's so sexy...",
+        "The {MONSTER} {FUCK}s you {ROUGH}ly. Your heart races, you know that soon you will be carrying the {MONSTER}'s child."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s legs flail limply as her {FLESH} is rocked back and forth.",
+        "The sex is {ROUGH}, it slams into {PRIMARY} like a battering ram again and again.",
+        "The hulking {MONSTER} {ROUGH}ly {FUCK}s {PRIMARY}'s {WTVAGINAL} {PUSSY}."
+    ]
+}

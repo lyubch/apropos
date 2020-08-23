@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "I {MOAN} in surprise and {LUST} as the {MONSTER} drops down on top of me, pinning me to the ground and {FUCK}ing me deeper.",
+        "My legs spread apart again, I {MOAN} as I feel the {MONSTER} get balls deep inside me with fast, long strokes.",
+        "{SWEARING}! Ah! Tears stream down my face as the {MONSTER} on top of me {FUCK}s right into my womb.",
+        "My foot curls around the {MONSTER}'s flank and I {MOAN} and {MOAN}, knowing I'm about to cum.",
+        "I {QUIVER} at the rough grasp as a massive hand comes down on my breast. What if it wants more? What if it kisses me?!",
+        "This is what I wanted... A {ROUGH}, {LEWD} fuck...",
+        "I clench my teeth and feel my building orgasm. Almost there...",
+        "The {MONSTER} begins to growl with each thrust, {PENETRAT}ing itself {ROUGH}ly into me now.",
+        "I feel the {MONSTER}'s thrusts become more {QUICK}. I'm gonna accept it, I'm gonna take a troll's {CUM}!"
+    ],
+    "2nd Person" :
+    [
+        "You {MOAN} in surprise and {LUST} as the {MONSTER} drops down on top of you, pinning you to the ground and {FUCK}ing you deeper.",
+        "Your legs spread apart again, you {MOAN} as you feel the {MONSTER} get balls deep inside you with fast, long strokes.",
+        "{SWEARING}! Ah! Tears stream down your face as the {MONSTER} on top of you {FUCK}s right into your womb.",
+        "Your foot curls around the {MONSTER}'s flank and you gasp and {MOAN}, knowing you're about to cum.",
+        "You {QUIVER} at the rough grasp as a massive hand comes down on your breast. What if it wants more? What if it kisses me?!",
+        "This is what you wanted... A {ROUGH}, {LEWD} fuck...",
+        "You clench your teeth and feel your building orgasm. Almost there...",
+        "The {MONSTER} begins to growl with each thrust, {PENETRAT}ing itself {ROUGH}ly into you now.",
+        "You feel the {MONSTER}'s thrusts become more {QUICK}. You're gonna accept it, you're gonna take a troll's {CUM}!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s foot curls around the {MONSTER}'s flank and she {MOAN}s, obviously about to {EJACULATE}.",
+        "{PRIMARY}'s totally immobilised by the {MONSTER}'s weight, and can do nothing but {SCREAM} and beg it to stop.",
+        "The {MONSTER} quickens its strokes, {FUCK}ing balls deep. It's clear what's about to happen."
+    ]
+}

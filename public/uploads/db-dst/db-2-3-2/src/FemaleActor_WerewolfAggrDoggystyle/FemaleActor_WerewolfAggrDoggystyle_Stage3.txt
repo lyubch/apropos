@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "My face is pushed into the ground, my cheek in the dirt, the {ACTIVE} still gripping my neck.",
+        "Face in the dirt, {BUTTOCKS} in the air, and a monster's {COCK} in my {PUSSY}... I'm such a {BITCH}...",
+        "The {QUICK} pace is making a wet squelching noise as the knot slaps against my {FAROUSAL} {PUSSY}.",
+        "I feel my {WTVAGINAL} {PUSSY} give way a little every time, and I wait for the knot to penetrate me.",
+        "My heart thunders in my chest. I'm about to be inseminated by a monster...",
+        "You like {FUCK}ing {NUDE} human girls? Do you like to hear us {MOAN} and {SCREAM} on your {BEASTLY} {COCK}?",
+        "Uhhh... Uhhhh... Don't stop, I can take it!",
+        "Oh my, Mr Wolf, what a big... Ugh... Knot... You have...",
+        "Ohhh! Yes! Whatever you want!!! Fuck me... {EJACULATE} in me... {BREED} me! Please!",
+        "{SWEARING}! Tie with me, make me your bitch! Ugh!",
+        "That's it, {FUCK} your {BEASTLY} knot into my {WTVAGINAL} {PUSSY}, and pump me full of your {THICK} {CUM}!",
+        "Could I get pregnant? My mind races, {FEAR} and {LUST} at such a taboo idea driving me to climax.",
+        "I can see now why some wives urge their {MFAMILY}s to become werewolves..."
+    ],
+    "2nd Person": [
+        "Your face is pushed into the ground, your cheek in the dirt, the {ACTIVE} still gripping your neck.",
+        "Face in the dirt, {BUTTOCKS} in the air, and a monster's {COCK} in your {PUSSY}... You're such a {BITCH}...",
+        "The {QUICK} pace is making a wet squelching noise as the knot slaps against your {FAROUSAL} {PUSSY}.",
+        "You feel your {WTVAGINAL} {PUSSY} give way a little every time, and you wait for the knot to penetrate you.",
+        "Your heart thunders in your chest. You're about to be inseminated by a monster...",
+        "({PRIMARY}) You like {FUCK}ing {NUDE} human girls? Do you like to hear us {MOAN} and {SCREAM} on your {BEASTLY} {COCK}?",
+        "({PRIMARY}) Uhhh... Uhhhh... Don't stop, I can take it!",
+        "({PRIMARY}) Oh my, Mr Wolf, what a big... Ugh... Knot... You have...",
+        "({PRIMARY}) Ohhh! Yes! Whatever you want!!! Fuck me... {EJACULATE} in me... {BREED} me! Please!",
+        "({PRIMARY}) {SWEARING}! Tie with me, make me your bitch! Ugh!",
+        "({PRIMARY}) That's it, {FUCK} your {BEASTLY} knot into my {WTVAGINAL} {PUSSY}, and pump me full of your {THICK} {CUM}!",
+        "Could you get pregnant? Your mind races, {FEAR} and {LUST} at such a taboo idea driving you to climax.",
+        "You can see now why some wives urge their {MFAMILY}s to become werewolves..."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s face is pushed into the ground, her cheek in the dirt, the {ACTIVE} still gripping her neck.",
+        "Face in the dirt, {BUTTOCKS} in the air, and a monster's {COCK} in her {PUSSY}... {PRIMARY}'s such a {BITCH}...",
+        "The {QUICK} pace is making a wet squelching noise as the knot slaps against {PRIMARY}'s {FAROUSAL} {PUSSY}.",
+        "Watching that huge {MONSTER} on top of {PRIMARY}, {RAP}ing her, is kind'a hot..."
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "{ACTIVE} begins to {FUCK} me hard, really hard, all the way to the knot. He's trying to get it in...",
+        "I hunch my shoulders and kick my feet up, focusing on the deep hard {FUCK}ing that's going to make me cum.",
+        "The frantic {FUCK}ing is making my {BOOBS} {JIGGL}e, slapping the ground and coating me in dirt.",
+        "The pace is amazing, and from the sounds of {ACTIVE}'s breathing, he's going to {EJACULATE} inside me soon...",
+        "{SWEARING}, I shouldn't be letting a dog {BREED} me, but he sure knows how to hit it...",
+        "He's going so fast... he's being too {ROUGH}...",
+        "My {PUSSY} is being {FUCK}ed hard with a load of iron-hard, {BEASTLY} doggy-{COCK}.",
+        "I imagine how much {CUM} he's about to put into my {FAROUSAL} {PUSSY}."
+    ],
+    "2nd Person": [
+        "{ACTIVE} begins to {FUCK} you hard, really hard, all the way to the knot. He's trying to get it in...",
+        "You hunch your shoulders and kick your feet up, focusing on the deep {FUCK}ing that's going to make you cum.",
+        "The frantic {FUCK}ing is making your {BOOBS} {JIGGL}e, slapping the ground and coating you in dirt.",
+        "The pace is amazing, and from the sounds of {ACTIVE}'s breathing, he's going to cum inside you soon...",
+        "{SWEARING}, you shouldn't be letting a dog {BREED} you, but he sure knows how to hit it...",
+        "He's going so fast... he's being too {ROUGH}...",
+        "Your {PUSSY} is being {FUCK}ed hard with a load of iron-hard, {BEASTLY} doggy-{COCK}.",
+        "You imagine how much {CUM} he's about to put into your {FAROUSAL} {PUSSY}."
+    ],
+    "3rd Person": [
+        "{ACTIVE} begins to {FUCK} {PRIMARY} hard, really hard, all the way to the knot. He's trying to get it in...",
+        "{PRIMARY} hunches her shoulders and kicks her feet up, focusing on the deep {FUCK}ing that's going to make her cum.",
+        "The frantic {FUCK}ing is making {PRIMARY}'s {BOOBS} {JIGGL}e, slapping the ground and coating her in dirt.",
+        "The pace is amazing, and from the sounds of {ACTIVE}'s breathing, he's going to cum inside {PRIMARY} soon...",
+        "{SWEARING}, {PRIMARY} shouldn't be letting a dog {BREED} her, but he sure knows how to hit it...",
+        "He's going so fast... he's being too {ROUGH}...",
+        "{PRIMARY}'s {PUSSY} is being {FUCK}ed hard with a load of iron-hard, {BEASTLY} doggy-{COCK}.",
+        "{PRIMARY} imagines how much {CUM} he's about to put into her {FAROUSAL} {PUSSY}."
+    ]
+}

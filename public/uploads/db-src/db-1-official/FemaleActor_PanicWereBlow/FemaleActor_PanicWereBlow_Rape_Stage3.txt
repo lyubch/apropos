@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "I close my eyes and open my lips, choking back tears as I feel its {PENIS} fill my {MOUTH}.",
+        "My head held firmly, I can do nothing but gag and splutter as the beast steadily pumps into my {MOUTH}.",
+        "My lips are forced apart by the {BEAST} {PENIS}, and it begins to thrust into my {MOUTH}.",
+        "Even as tears stream down my face, the pungent stench of the {BEAST} {PENIS} makes my body flush.",
+        "I strain to open my mouth wide enough to accommodate the {BEAST} {PENIS}, hoping the beast doesn't want more.",
+        "The {BEAST} {PENIS} feels hot and slimy on my lips and tongue. I'm repulsed by it, and yet...",
+        "Mmmphh! Oh Gods, it's too big! If it pushes any more {COCK} down my throat, I'll choke!"
+    ],
+    "2nd Person" :
+    [
+        "You close your eyes and open your lips, choking back tears as you feel its {PENIS} fill your {MOUTH}.",
+        "Your head held firmly, you can do nothing but gag and splutter as the beast steadily pumps into your {MOUTH}.",
+        "Your lips are forced apart by the {BEAST} {PENIS}, and it begins to thrust into your {MOUTH}.",
+        "Even as tears stream down your face, the pungent stench of the {BEAST} {PENIS} makes your body flush.",
+        "You strain to open your mouth wide enough to accommodate the {BEAST} {PENIS}, hoping the beast doesn't want more.",
+        "The {BEAST} {PENIS} feels hot and slimy on your lips and tongue. You're repulsed by it, and yet...",
+        "Mmmphh! Oh Gods, it's too big! If it pushes any more {COCK} down your throat, you'll choke!"
+    ],
+    "3rd Person" :
+    [
+        "Tears streaming down her cheeks, {PRIMARY} opens her lips and accepts the {ACTIVE}'s {BEAST} {PENIS}.",
+        "The {ACTIVE} holds {PRIMARY}'s head still, and begins to vigorously pump into her {MOUTH}.",
+        "{PRIMARY} looks to be struggling with the {BEAST} {PENIS}, and she's barely taken the tip...",
+        "Spluttering and choking sounds fill the air as the creature fucks {PRIMARY}'s {WTORAL} {MOUTH}."
+    ]
+}

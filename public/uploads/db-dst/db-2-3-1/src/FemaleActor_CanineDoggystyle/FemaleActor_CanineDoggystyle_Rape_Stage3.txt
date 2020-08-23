@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "{SWEARING}... It's starting to feel good... really good... Am I really such a {BITCH}?",
+        "I can't believe how good {ACTIVE} is making me feel, can't believe I'm that kind of {BITCH}...",
+        "Each time he pulls back, the anxiety of the next thrust is overwhelming.",
+        "{SWEARING}... I'm... I'm almost there... already... Just a little bit more...",
+        "I {LEWD}ly thrust back into the {ANIMAL}'s {BEASTLY} {COCK}, desperate to finish before someone sees me...",
+        "{ACTIVE} {RAP}es me with more frenzy and vigor than any man ever has.",
+        "I burn with shame and {LUST}, I can't believe I'm being {FUCK}ed this hard by a dog.",
+        "I {LEWD}ly thrust back into the {ANIMAL}'s {BEASTLY} {COCK}, desperate to finish before someone sees me...",
+        "{ACTIVE} {PENETRAT}es his {COCK} into me. I arch my back and raise my hips, relishing the intruder...",
+        "I start to get lost in {LUST}, and for the next ten minutes {ACTIVE} {RAP}es me to two orgasms."        
+    ],
+    "2nd Person" :
+    [
+        "{SWEARING}... It's starting to feel good... really good... Are you really such a {BITCH}?",
+        "You can't believe how good {ACTIVE} is making you feel, can't believe you're that kind of {BITCH}...",
+        "Each time he pulls back, the anxiety of the next thrust is overwhelming.",
+        "{SWEARING}... You're... you're almost there... already... Just a little bit more...",
+        "You {LEWD}ly thrust back into the {ANIMAL}'s {BEASTLY} {COCK}, desperate to finish before someone sees you...",
+        "{ACTIVE} {FUCK}s you with more frenzy and vigor than any man ever has.",
+        "You burn with shame and {LUST}, you can't believe you're being {FUCK}ed this hard by a dog.",
+        "{ACTIVE} {PENETRAT}es his {COCK} into you. You arch your back and raise your hips, relishing the intruder...",
+        "You start to get lost in {LUST}, and for the next ten minutes {ACTIVE} {FUCK}s you to two orgasms."
+    ],
+    "3rd Person" :
+    [
+        "{SWEARING}, is she getting off on that?!",
+        "{PRIMARY} starts to thrust her hips backwards against {ACTIVE}'s strokes. Is it... good?"
+    ]
+}

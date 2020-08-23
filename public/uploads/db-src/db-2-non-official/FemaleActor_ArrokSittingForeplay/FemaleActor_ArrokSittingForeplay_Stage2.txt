@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "I turn around and kneel over {ACTIVE}, watching excitedly as his {COCK} {QUIVER}s.",
+        "I lean over {ACTIVE}, my {HEAVING} {BOOBS} hanging in front of him, my nipples rock hard.",
+        "I gaze down at {ACTIVE}'s {HUGE} {COCK}, before leaning in to kiss him with {LOVE}.",
+        "I'm aware that this position leaves me kind of {DISPLAY}ed, and it excites me a bit...",
+        "I arch my back and raise my {ASSHOLE}, my hand resting on my cheek, {GENTLE}ly spreading myself."
+    ],
+    "2nd Person" :
+    [
+        "You turn around and kneel over {ACTIVE}, watching excitedly as his {COCK} {QUIVER}s.",
+        "You lean over {ACTIVE}, your {HEAVING} {BOOBS} hanging in front of him, your nipples rock hard.",
+        "You gaze down at {ACTIVE}'s {HUGE} {COCK}, before leaning in to kiss him with {LOVE}.",
+        "You're aware that this position leaves you kind of {DISPLAY}ed, and it excites you a bit...",
+        "You arch your back and raise your {ASSHOLE}, your hand resting on your cheek, {GENTLE}ly spreading yourself."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} bends over {ACTIVE}, one hand spreading her {ASSHOLE} to let everyone see.",
+        "{PRIMARY} seems to be enjoying the reaction of {ACTIVE}'s {COCK} when she kisses him..."
+    ]
+}

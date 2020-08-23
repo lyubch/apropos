@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "I hungrily watch {ACTIVE}'s {PENIS} as he cums, my mouth hanging open and eager.",
+        "I open my mouth, hoping to taste his {JUICY} {CUM}, but he shoots all over my {HEAVING} {BOOBS} instead.",
+        "I look up into his eyes as stream after {JUICY} stream shoots out of his {HUGE} {PENIS} into my open mouth.",
+        "Oh! I think I came a little there! All this {CUM} is making me hornier!",
+        "His {PENIS} pumps {SLOPPY} {CUM} out across my face as I hold my mouth open, tongue out, jerking him hard.",
+        "I smile as I aim the tip of his {PENIS} at my chests, pumping {SLOPPY} {CUM} all over my {BOOBS}.",
+        "Huge globs of his {SLOPPY} load spews all across my cheeks, landing in my hair, and across my chest.",
+        "A {SLOPPY} rain of {CUM} covers my soft lips, and splashes against my chin and neck.",
+        "His pulse is racing, and I feel his {PENIS} pump. Hot {CUM} splatters my {BOOBS}.",
+        "{ACTIVE} cums suddenly, {THICK} {CUM} spraying across my face and chest, and into my hair.",
+        "I watch the {ACTIVE}'s {PENIS} as he cums, my mouth open. Will he be pleased if I swallow his {CUM}?",
+        "I open my mouth, hesitant to taste his {SALTY} {CUM}, but he shoots all over my {HEAVING} {BOOBS} instead.",
+        "I grimace as I aim the tip of his {PENIS} at my cheeks, pumping {SLOPPY} {CUM} all over my face."
+    ],
+    "2nd Person" :
+    [
+        "You hungrily watch {ACTIVE}'s {PENIS} as he cums, your mouth hanging open and eager.",
+        "You open your mouth, hoping to taste his {CUM}, but he shoots all over your {HEAVING} {BOOBS} instead.",
+        "You look up into his eyes as stream after {JUICY} stream shoots out of his {PENIS} into your open mouth.",
+        "Oh! you think you came a little there! All this {CUM} is making you hornier!",
+        "He pumps {SLOPPY} {CUM} out across your face as you hold your mouth open, tongue out, jerking him hard.",
+        "You smile as you aim the tip of his {PENIS} at your chest, pumping {SLOPPY} {CUM} all over your {BOOBS}.",
+        "Huge globs of his {SLOPPY} load spew all across your cheeks, landing in your hair, and across your chest.",
+        "A {SLOPPY} rain of {CUM} covers your soft lips, and splashes against your chin and neck.",
+        "His pulse is racing, and you feel his {PENIS} pump. Hot {CUM} splatters your {BOOBS}.",
+        "{ACTIVE} cums suddenly, {THICK} {CUM} spraying across your face and chest, and into your hair.",
+        "You watch {ACTIVE}'s {PENIS} as he cums, your mouth open. Will he be pleased if you swallow his {CUM}?",
+        "You open your mouth, hesitant to taste his {CUM}, but he shoots all over your {HEAVING} {BOOBS} instead.",
+        "You grimace as you aim the tip of his {COCK} at your cheeks, pumping {SLOPPY} {CUM} all over your face."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s mouth hangs open, hungry for {ACTIVE}'s {CUM} as it sprays across her {BOOBS}.",
+        "{ACTIVE} grunts and begins to cum, his {SLOPPY} {CUM} drenching {PRIMARY}.",
+        "{PRIMARY} is covered in {SLOPPY} {CUM}. It's all across her face and chest, and in her hair."
+    ]
+}

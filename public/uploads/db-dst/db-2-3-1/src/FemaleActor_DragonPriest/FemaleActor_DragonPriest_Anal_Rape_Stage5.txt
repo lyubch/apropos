@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "The {ACTIVE} never lets up the {ROUGH} pace, and my {FLESH} slumps forward, limp and in {PAIN}.",
+        "Head hanging low, I stare in {FEAR} between my legs, {SLIMY} {SCUM} dripping down my {PUSSY} and thighs.",
+        "I {SCREAM} and whine, my {FLESH} in {PAIN}. It doesn't seem like the {ACTIVE} is going to finish soon...",
+        "The {ACTIVE} continues to thrust its {VILE}, {DEAD} {COCK} hard into me, making me feel sick to my stomach.",
+        "I... can't... do this any more... It's just... just too much...",
+        "The {PAIN} in my {ASSHOLE} makes me double over, my shoulders aching with strain."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} never lets up the {ROUGH} pace, and your {FLESH} slumps forward, limp and in {PAIN}.",
+        "You stare in {FEAR} between your legs, {SLIMY} {SCUM} dripping down your {PUSSY} and thighs.",
+        "You {SCREAM} and whine, your {FLESH} in {PAIN}. It doesn't seem like the {ACTIVE} is going to finish soon...",
+        "The {ACTIVE} continues to thrust its {VILE}, {DEAD} {COCK} hard into you, making you feel sick.",
+        "You... can't... do this any more... It's just... just too much...",
+        "The {PAIN} in your {ASSHOLE} makes you double over, your shoulders aching with strain."
+    ],
+    "3rd Person": [
+        "{PRIMARY} slumps forward, broken and {SCREAM}ing, while the {ACTIVE} continues its assault on her {ASSHOLE}.",
+        "{PRIMARY} is now kneeling in a {SLIMY} pool of {SCUM}, her thighs coated with the stuff.",
+        "The {DEAD} {MONSTER} continues to {FUCK} {PRIMARY} {ROUGH}ly. Has she passed out?"
+    ]
+}

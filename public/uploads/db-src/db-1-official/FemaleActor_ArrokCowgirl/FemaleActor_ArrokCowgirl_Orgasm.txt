@@ -1,0 +1,48 @@
+{
+    "1st Person" :
+    [
+        "Oh Gods, yes! I'm there! I'm cumming!",
+        "I buck every time {ACTIVE} rams his {PENIS} up me to the base, feeling his {THICK} {CUM} filling me.",
+        "Oh Gods, yes! Don't worry, I won't tell your wife!",
+        "With pleasure out-weighing my concerns, I clench my hips around {ACTIVE}'s {PENIS} as he cums.",
+        "As {ACTIVE} cums I pull him deeper inside of me. I hold him tight as I feel his orgasm.",
+        "I feel his {CUM} shoot up inside of me in {THICK} bursts.",
+        "He keeps squirting his {THICK} {CUM} way up in my {PUSSY}.",
+        "As I pant in exhaustion, {ACTIVE} cums inside me.",
+        "{ACTIVE} makes one last thrust and I bite my lip. He's {CUMMING} inside me!",
+        "Relief washes over me as {ACTIVE} finally starts to unload in my {PUSSY}.",
+        "My {PUSSY} is {WTVAGINAL}, and I actually feel joy when {ACTIVE}'s first shots hit my insides.",
+        "I'm tired and sore, and can barely move as {ACTIVE} finishes inside me.",
+        "I don't mind {ACTIVE} fucking me for a little while. Then he shoots his stuff way up in me.",
+        "He fills me up with so much {CUM} that it pours out of my {PUSSY}, there's nowhere else for it go.",
+        "{ACTIVE} grunts, and I feel his {CUM} shooting up into me."
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Oh Gods, yes! I'm there! I'm cumming!",
+        "You buck every time {ACTIVE} rams his {PENIS} up you to the base, feeling his {THICK} {CUM} filling you.",
+        "({PRIMARY}) Oh Gods, yes! Don't worry, I won't tell your wife!",
+        "With pleasure out-weighing your concerns, you clench your hips around {ACTIVE}'s {PENIS} as he cums.",
+        "As {ACTIVE} cums you pull him deeper inside of you. You hold him tight as you feel his orgasm.",
+        "You feel his {CUM} shoot up inside of you in {THICK} bursts.",
+        "He keeps squirting his {THICK} {CUM} way up in your {PUSSY}.",
+        "As you pant in exhaustion, {ACTIVE} cums inside you.",
+        "{ACTIVE} makes one last thrust and you bite your lip. He's {CUMMING} inside you!",
+        "Relief washes over you as {ACTIVE} finally starts to unload in your {PUSSY}.",
+        "Your {PUSSY} is {WTVAGINAL}, and you actually feel joy when {ACTIVE}'s first shots hit your insides.",
+        "You're tired and sore, and can barely move as {ACTIVE} finishes inside you.",
+        "You don't mind {ACTIVE} fucking you for a little while. Then he shoots his stuff way up in you.",
+        "He fills you up with so much {CUM} that it pours out of your {PUSSY}, there's nowhere else for it go.",
+        "{ACTIVE} grunts, and you feel his {CUM} shooting up into you."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} barely moves, only a shudder and a gasp each time {ACTIVE} thrusts up into her.",
+        "{ACTIVE} thrusts his hips up, driving his {PENIS} into {PRIMARY}'s {WTVAGINAL} {PUSSY}.",
+        "{ACTIVE}'s thrusts are so slow and deep, it's obvious he's {CUMMING}.",
+        "{PRIMARY}'s {ASS} is opening... Does she want to be assfucked next?",
+        "{ACTIVE} bucks his hips up, his legs straining as he sticks his {PENIS} as far up {PRIMARY} as he can.",
+        "{ACTIVE} grunts aggressively as he thrusts deeply up {PRIMARY}.",
+        "({ACTIVE}) I don't see how any guy can stick his {COCK} up you and not cum!"
+    ]
+}

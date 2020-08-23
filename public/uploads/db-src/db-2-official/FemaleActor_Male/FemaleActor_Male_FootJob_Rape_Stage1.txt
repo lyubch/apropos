@@ -1,0 +1,18 @@
+{
+    "1st Person" :
+    [
+        "I feel my attacker's {PENIS} twitch as my foot lightly touches the base.",
+        "I saw you looking at my feet... You want me to rub them all over your {PENIS}?"
+    ],
+    "2nd Person" :
+    [
+        "You feel your attacker's {PENIS} twitch as your foot lightly touches the base.",
+        "({PRIMARY}) I saw you looking at my feet... You want me to rub them all over your {PENIS}?"
+    ],
+    "3rd Person" :
+    [
+        "That brute's {MAROUSAL} {PENIS} twitches each time {PRIMARY}'s foot brushes the base.",
+        "Oh wow, {PRIMARY} is going to give her rapist a footjob! That's so kinky... Is he really into that?",
+        "Oh my, that brute is really into feet! Most men would be banging a girl like {PRIMARY} by now..."
+    ]
+}

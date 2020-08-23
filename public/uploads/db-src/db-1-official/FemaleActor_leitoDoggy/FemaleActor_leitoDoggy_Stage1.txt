@@ -1,0 +1,38 @@
+{
+    "1st Person" :
+    [
+        "I'm nervous as {ACTIVE} wraps his arms around me, his {HUGE} {PENIS} pressing against my thigh.",
+        "{ACTIVE} firmly presses my stomach, stopping me from moving away as he fingers me from behind.",
+        "I feel {ACTIVE}'s fingers reach underneath me, stroking sensually along my {FAROUSAL} {PUSSY}.",
+        "My breathing is already ragged as I feel {ACTIVE}'s lewd touch between my legs.",
+        "Um... Is it really okay to do this? I'm not sure... ahhhh! Oh Gods... We shouldn't...",
+        "({ACTIVE}) It's okay, {PRIMARY}, just relax and let me make you feel good...",
+        "I raise my arms defensively, but my hip cocks and I spread my legs automatically at {ACTIVE}'s touch.",
+        "I'm a little frightened, but I widen my legs a little to give {ACTIVE} access to my {PUSSY}.",
+        "({ACTIVE}) How can you say you don't want to, when you're this wet?",
+        "I'm shocked as {ACTIVE} reaches between my legs, his fingers going up inside me.",
+        "Just the thought of {ACTIVE} seeing me naked makes me embarrassed but also a little giddy."       
+    ],
+    "2nd Person" :
+    [
+        "You're nervous as {ACTIVE} wraps his arms around you, his {HUGE} {PENIS} pressing against your thigh.",
+        "{ACTIVE} firmly presses your stomach, stopping you from moving away as he fingers you from behind.",
+        "You feel {ACTIVE}'s fingers reach underneath you, stroking sensually along your {FAROUSAL} {PUSSY}.",
+        "Your breathing is already ragged as you feel {ACTIVE}'s lewd touch between your legs.",
+        "({PRIMARY}) Um... Is it really okay to do this? I'm not sure... ahhhh! Oh Gods... We shouldn't...",
+        "({ACTIVE}) It's okay, {PRIMARY}, just relax and let me make you feel good...",
+        "You raise your arms defensively, but your hip cocks and you spread your legs automatically at {ACTIVE}'s touch.",
+        "You're a little frightened, but you widen your legs a little to give {ACTIVE} access to your {PUSSY}.",
+        "({ACTIVE}) How can you say you don't want to, when you're this wet?",
+        "You're shocked as {ACTIVE} reaches between your legs, his fingers going up inside you.",
+        "Just the thought of {ACTIVE} seeing you naked makes you embarrassed but also a little giddy."
+    ],
+    "3rd Person" :
+    [
+        "It doesn't look like {PRIMARY} really wants to have sex with {ACTIVE}...",
+        "{PRIMARY} looks nervous as {ACTIVE} gropes her, one hand disappearing between her legs.",
+        "Even though {PRIMARY} is trying to fend {ACTIVE} off, she's still opened her legs for him...",
+        "{PRIMARY} says no, but her resolve seems to wane as {ACTIVE} starts to finger her.",
+        "What is {ACTIVE} whispering to {PRIMARY}? Whatever it is, it's made her spread her legs..."
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "1st Person": [
+        "This {ANIMAL}'s {COCK}... feels so incredible... {FUCK}ing me with such force.",
+        "I'm soon pressed down on my chest in a pool of our juices.",
+        "I feel tiny hooks scraping at my insides, preventing me from pulling off the {ANIMAL}'s {COCK}.",
+        "No amount of shame from the act of submitting to a {ANIMAL} can overpower the {LUST} raging in my {PUSSY}.",
+        "I learn quickly what it's like to {FUCK} a cat, its hook covered {COCK} raking my insides.",
+        "The {ACTIVE}'s {COCK} is insanely large, and its head is covered in dozens of tiny barbs.",
+        "Here I am {NUDE}, face down in the dirt, {BUTTOCKS} in the air, with an {ANIMAL}'s {COCK} in my {PUSSY}.",
+        "The {ACTIVE} stands over me, {FUCK}ing its {COCK} into my {PUSSY}.",
+        "Fucking with an animal is {LEWD}, I know, but it's all the more exciting because of that!",
+        "I can't believe I'm on my hands and knees, completely {NUDE} while a {ACTIVE} is {ROUGH}ly {FUCK}ing me.",
+        "Perhaps I've grown addicted to this {LEWD} conduct of mine."
+    ],
+    "2nd Person": [
+        "This {ANIMAL}'s {COCK}... feels so incredible... {FUCK}ing you with such force.",
+        "You're soon pressed down on your chest in a pool of your juices.",
+        "You feel tiny hooks scraping at your insides, preventing you from pulling off the {ANIMAL}'s {COCK}.",
+        "No amount of shame from the act of submitting to a {ANIMAL} can overpower the {LUST} raging in your {PUSSY}.",
+        "You learn quickly what it's like to {FUCK} a cat, its hook covered {COCK} raking your insides.",
+        "The {ACTIVE}'s {COCK} is insanely large, and its head is covered in dozens of tiny barbs.",
+        "Here you are {NUDE}, face down in the dirt, {BUTTOCKS} in the air, with an {ANIMAL}'s {COCK} in your {PUSSY}.",
+        "The {ACTIVE} stands over you, {FUCK}ing its {COCK} into your {PUSSY}.",
+        "Fucking with an animal is {LEWD}, you know, but it's all the more exciting because of that!",
+        "You can't believe you're on your knees, completely {NUDE} while a {ACTIVE} is {ROUGH}ly {FUCK}ing you.",
+        "Perhaps you've grown addicted to this {LEWD} conduct of yours."
+    ],
+    "3rd Person": [
+        "{PRIMARY} leans in to lick the {COCKHEAD} of {ACTIVE}'s {COCK}. She's surprised by the pleasant, {SALTY} flavour.",
+        "The pleasant, {SALTY} flavour of {ACTIVE}'s pre-cum surprises {PRIMARY} and she starts {SUCK}ing his {COCK} with gusto.",
+        "{ACTIVE}'s {SALTY} pre-cum tastes quite pleasant, and {PRIMARY} {SUCK}s his {COCK} quite happily."
+    ]
+}

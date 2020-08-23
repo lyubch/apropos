@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "UA7 They begin their assault on my {FLESH} using their {COCK}s."
+    ],
+    "2nd Person": [
+        "UA7 They begin their assault on your {FLESH} using their {COCK}s."
+    ],
+    "3rd Person": [
+        "UA7 They begin their assault on {PRIMARY}'s {FLESH} using their {COCK}s."
+    ]
+}

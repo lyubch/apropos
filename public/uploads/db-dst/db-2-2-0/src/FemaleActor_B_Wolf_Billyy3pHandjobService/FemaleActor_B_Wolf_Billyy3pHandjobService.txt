@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "What's this? Two horny wolves and they're all mine to play with? I guess I do have Hircine's favour.",
+        "I step back in fright as the two wolves approach me, only then noticing that both of them have raging hard-ons.",
+        "My hand instinctively moves to my sheath as two wolves approach, but then I see that both have visibly throbbing erections..."
+    ],
+    "2nd Person": [
+        "What's this? Two horny wolves and they're all yours to play with? You guess you do have Hircine's favour.",
+        "You step back in fright as the two wolves approach you, only then noticing that both of them have raging hard-ons.",
+        "Your hand instinctively moves to your sheath as two wolves approach, but then you see that both have visibly throbbing erections..."
+    ],
+    "3rd Person": [
+        "What's this? Two horny wolves and they're all {PRIMARY}'s to play with? She guesses she does have Hircine's favour.",
+        "{PRIMARY} steps back in fright as the two wolves approach her, only then noticing that both of them have raging hard-ons.",
+        "{PRIMARY}'s hand instinctively moves to her sheath as two wolves approach, but then she sees that both have visibly throbbing erections..."
+    ]
+}

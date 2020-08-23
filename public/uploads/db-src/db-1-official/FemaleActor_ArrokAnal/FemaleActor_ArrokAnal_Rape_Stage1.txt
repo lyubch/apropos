@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "Reluctantly I lean forward, and I gasp in surprise as the {ACTIVE} starts to lick my {ASS}.",
+        "The {ACTIVE} roughly tongues my {ASS}, and I feel his {HUGE} {PENIS} graze the backs of my legs.",
+        "Ahh! What is he... Why's he doing that? Oh Gods, he's not going to fuck my {ASS}... is he?",
+        "I'm naked and vulnerable, and the {ACTIVE} has his tongue right up my {ASS}...",
+        "I squirm as the {ACTIVE} rims me, a little bit scared as I think of what will happen next.",
+        "{ACTIVE}'s {COCK} brushes against my legs. A shudder shoots through my body, as I realise his intent.",
+        "I lean over reluctantly and lift my shapely rump towards my attacker, hoping he accepts my surrender.",
+        "I feel something moist and hard push insistently against my {ASS}. What is...?",
+        "My heart pounds in my chest and I will my body to relax, preparing myself for a hard anal riding."       
+    ],
+    "2nd Person" :
+    [
+        "Reluctantly you lean forward, and you gasp in surprise as the {ACTIVE} starts to lick your {ASS}.",
+        "The {ACTIVE} roughly tongues your {ASS}, and you feel his {HUGE} {PENIS} graze the backs of your legs.",
+        "Ahh! What is he... Why's he doing that? Oh Gods, he's not going to fuck your {ASS}... is he?",
+        "You're naked and vulnerable, and the {ACTIVE} has his tongue right up your {ASS}...",
+        "You squirm as the {ACTIVE} rims you, a little bit scared as you think of what will happen next.",
+        "{ACTIVE}'s {COCK} brushes against your legs. A shudder shoots through your body, as you realise his intent.",
+        "You lean over reluctantly and lift your shapely rump towards your attacker, hoping he accepts your surrender.",
+        "You feel something moist and hard push insistently against your {ASS}. What is...?",
+        "Your heart pounds in your chest and you will your body to relax, preparing yourself for a hard anal riding."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} shivers in fear as the {ACTIVE} kneels down and spreads her cheeks.",
+        "The {ACTIVE}'s {PENIS} looks so big and thick... He can't be about to fuck her {ASS}... Can he?",
+        "Despite her fear, {PRIMARY} is clearly getting turned on.",
+        "Why is the {ACTIVE} doing that? Is he getting {PRIMARY} ready to be assfucked?"
+    ]
+}

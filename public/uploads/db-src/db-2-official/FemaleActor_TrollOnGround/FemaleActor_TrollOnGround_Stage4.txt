@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "My legs are spread, giving the brute a clear line into my {PUSSY}, letting it fuck me quickly and deeply.",
+        "My fingers go to my breast and my pussy, the deep fucking taking my breath away, making me cum.",
+        "The entire length of the {BEAST} {COCK} is sliding in and out of me now, and I feel my own heat rising.",
+        "I'm shocked by what's running through my head; to be taken with such violence, it's so hot.",
+        "At least 18 inches of troll {COCK} is sliding into me, and still I want more, I want it to fuck right up inside my womb!",
+        "I almost pass out as a sense of euphoria washes over me, the troll still hammering my {PUSSY}."        
+    ],
+    "2nd Person" :
+    [
+        "Your legs are spread, giving the brute a clear line into your {PUSSY}, letting it fuck you quickly and deeply.",
+        "Your fingers go to your breast and your pussy, the deep fucking taking your breath away, making you cum.",
+        "The entire length of the {BEAST} {COCK} is sliding in and out of you now, and you feel your own heat rising.",
+        "You're shocked by what's running through your head; to be taken with such violence, it's so hot.",
+        "At least 18 inches of troll {COCK} is sliding into you, and still you want it to fuck right up inside your womb!",
+        "You almost pass out as a sense of euphoria washes over you, the troll still hammering your {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s legs are spread, giving the brute a clear line into her {PUSSY}, letting it fuck her quickly and deeply.",
+        "{PRIMARY}'s fingers go to her breast and pussy, the deep fucking obviously feeling really good.",
+        "The entire length of the {BEAST} {COCK} is sliding in and out of {PRIMARY} now, and she's starting to touch herself." 
+    ]
+}

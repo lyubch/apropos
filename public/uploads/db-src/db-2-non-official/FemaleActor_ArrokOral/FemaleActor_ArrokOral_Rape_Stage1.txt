@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} pulls me down onto his face. I {MOAN} in {FEAR} as his tongue parts my lips.",
+        "{SWEARING}! Ah! I have no idea why the {ACTIVE} needed to force me to do this, but I can't complain!",
+        "Oh, wow! Ah! Surprise and arousal wash over me, I never expected this to happen...",
+        "Considering all the degrading things the {ACTIVE} could be making me do, this is quite a nice surprise..."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} pulls you down onto his face. You {MOAN} in {FEAR} as his tongue parts your lips.",
+        "{SWEARING}! Ah! You have no idea why the {ACTIVE} needed to force you to do this, but you can't complain!",
+        "Oh, wow! Ah! Surprise and arousal wash over you, you never expected this to happen...",
+        "Considering all the degrading things the {ACTIVE} could be making you do, this is quite a nice surprise..."
+    ],
+    "3rd Person" :
+    [
+        "Huh? Why is the {ACTIVE} forcing {PRIMARY} to straddle his face?",
+        "Pulled down on top of the {ACTIVE}, {PRIMARY} {SCREAM}s in shocked surprise.",
+        "{PRIMARY} looks surprised as the {ACTIVE} pulls her down and starts to eat her out."
+    ]
+}

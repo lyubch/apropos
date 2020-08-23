@@ -1,0 +1,13 @@
+{
+    "1st Person": [
+        "As I finally catch sight of the {ACTIVE}'s swinging {COCK}, I understand why he's so aggressive. Maybe...",
+        "Oh Gods, look at the size of that {COCK}... Is that why he's after me? If I... Would he leave me alone after?"
+    ],
+    "2nd Person": [
+        "As you finally catch sight of the {ACTIVE}'s swinging {COCK}, you understand why he's so aggressive. Maybe...",
+        "Oh Gods, look at the size of that {COCK}... Is that why he's after you? If you... Would he leave you alone after?"
+    ],
+    "3rd Person": [
+        "{PRIMARY} knows she can't outrun the horse, but maybe that {MAROUSAL} {COCK} will give her another way out..."
+    ]
+}

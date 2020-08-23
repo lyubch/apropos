@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "Oh Gods, that's not the right... nghhh! I struggle to hold myself up as {ACTIVE} fucks my {ASS}.",
+        "My arms give way and I collapse, shocked as {ACTIVE} pushes himself into my {WTANAL} {ASS}.",
+        "{ACTIVE} grips me tightly around the waist, pumping steadily into my {ASS}, quicker than I'd like...",
+        "I prop myself up on one elbow, struggling to rise as {ACTIVE} briskly fucks my {ASS}.",
+        "I can't believe I'm letting a dog fuck my {ASS}, but I'm excited!",
+        "Just a bit lower... AH! No! Not there... Nghhhh!!! That's the wrong...OWWW!",
+        "There's no way I should take doggy-{CUM} in my {PUSSY}, but maybe in the {ASS} would be okay?",
+        "Having sex with a dog is depraved, but taking one in the {ASS}? I have to try it!",
+        "If it's just in the {ASS}, that's okay, right? It doesn't count...",
+        "{ACTIVE} clearly wants to fuck me. I don't see any harm in it if it's just my {ASS}...",
+        "I have a really naughty idea... this doggie seems really into me... so I'm gonna let him fuck my {ASS}.", 
+        "Ah! Ugh...  ugh... he's in me... he's in my {ASS}... and he's huge...",
+        "I briefly feel {ACTIVE} at my {ASS}. My eyes widen in shock as he plunges in, spreading my {ASS}."        
+    ],
+    "2nd Person" :
+    [
+        "Oh Gods, that's not the right... nghhh! You struggle to hold yourself up as {ACTIVE} fucks your {ASS}.",
+        "Your arms give way and you collapse, shocked as {ACTIVE} pushes himself into your {WTANAL} {ASS}.",
+        "{ACTIVE} grips you tightly around the waist, pumping steadily into your {ASS}, quicker than you'd like...",
+        "You prop yourself up on one elbow, struggling to rise as {ACTIVE} briskly fucks your {ASS}.",
+        "You can't believe you're letting a dog fuck your {ASS}, but you're excited!",
+        "({PRIMARY}) Just a bit lower... AH! No! Not there... Nghhhh!!! That's the wrong...OWWW!",
+        "There's no way you should take doggy-{CUM} in your {PUSSY}, but maybe in the {ASS} would be okay?",
+        "Having sex with a dog is depraved, but taking one in the {ASS}? You have to try it!",
+        "If it's just in the {ASS}, that's okay, right? It doesn't count...",
+        "{ACTIVE} clearly wants to fuck you. You don't see any harm in it if it's just your {ASS}...",
+        "You have a really naughty idea; this doggie seems really into you, so you're gonna let him fuck your {ASS}.", 
+        "Ah! Ugh...  ugh... he's in you... he's in your {ASS}... and he's huge...",
+        "You briefly feel {ACTIVE} at your {ASS}. Your eyes widen in shock as he plunges in, spreading your {ASS}."
+    ],
+    "3rd Person" :
+    [
+        "Wait... Is {PRIMARY} letting a dog fuck her {ASS}?!",
+        "{PRIMARY} struggles to hold herself up, grunting with every thrust.",
+        "That looks sore... Did {PRIMARY} really mean to let {ACTIVE} into her {ASS}?",
+        "That's so dirty, being fucked in the {ASS} by an animal..."
+    ]
+}

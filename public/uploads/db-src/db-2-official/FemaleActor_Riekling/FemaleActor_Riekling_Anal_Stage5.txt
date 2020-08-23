@@ -1,0 +1,46 @@
+{
+    "1st Person": [
+        "The diminutive creature is putting his whole body into it now, fucking me hard and deep.",
+        "My leg is pushed back up to my chest hard each time the {ACTIVE} thrusts, my bare foot waving in the air.",
+        "I long to feel its {CUM} fill my body, as I lay back and pant with lust for the strange creature.",
+        "I lie back, relishing each new thrust and sensation, waiting for the explosion of {CUM}.",
+        "Head back and relishing the fuck, I begin to anticipate the flood of {CUM} I'll soon have inside me.",
+        "I can feel that the creature is almost there...",
+        "I long to feel its {CUM} fill my body, laying back and panting with lust for the strange creature.",
+        "My foot waves wildly in the air as the {ACTIVE} starts to get really deep in me.",
+        "Do it! Knock me up if you can!",
+        "I can feel its thrusts becoming more violent and urgent...",
+        "The thrusting inside me becomes more urgent and I realise that it's about to cum.",
+        "Each thrust pushes me closer towards what I know is going to be an earth shattering climax.",
+        "The {ACTIVE} pistons in and out, pumping the full length of his {COCK} into me over and over again.",
+        "I let out a long cry of ecstasy as I cum with the {ACTIVE} still pumping away inside me.",
+        "The {ACTIVE} clutches my slender leg in his strong hands, opening my legs as he slams his pelvis into mine."
+    ],
+    "2nd Person": [
+        "The diminutive creature is putting his whole body into it now, fucking you hard and deep.",
+        "Your leg is pushed back up to your chest hard each time, your bare foot waving in the air.",
+        "You long to feel its {CUM} fill your body, as you lay back and pant with lust for the strange creature.",
+        "You lie back, relishing each new thrust and sensation, waiting for the explosion of {CUM}.",
+        "Head back and relishing the fuck, you begin to anticipate the flood of {CUM} you'll soon have inside you.",
+        "You can feel that the creature is almost there...",
+        "You long to feel its {CUM} fill your body, laying back and panting with lust for the strange creature.",
+        "Your foot waves wildly in the air as the {ACTIVE} starts to get really deep in you.",
+        "({PRIMARY}) Do it! Knock me up if you can!",
+        "You can feel its thrusts becoming more violent and urgent...",
+        "The thrusting inside you becomes more urgent and you realise that it's about to cum.",
+        "Each thrust pushes you closer towards what you know is going to be an earth shattering climax.",
+        "The {ACTIVE} pistons in and out, pumping the full length of his {COCK} into you over and over again.",
+        "You let out a long cry of ecstasy as you cum with the {ACTIVE} still pumping away inside you.",
+        "The {ACTIVE} clutches your slender leg in his hands, opening your legs as he slams his pelvis into yours."
+    ],
+    "3rd Person": [
+        "The diminutive creature is putting his whole body into it now, fucking {PRIMARY} hard and deep.",
+        "{PRIMARY}'s leg is pushed back up to her chest hard each time the {ACTIVE} thrusts.",
+        "{PRIMARY} lies back and pants with lust for the strange creature.",
+        "{PRIMARY} lies back, relishing each new thrust and sensation, waiting for the explosion of {CUM}.",
+        "It's clear that the creature is almost there...",
+        "{PRIMARY}'s foot waves wildly in the air as the {ACTIVE} starts to get really deep in her.",
+        "({PRIMARY}) Do it! Knock me up if you can!",
+        "The thrusting inside her becomes more urgent and it's clear that it's about to cum."
+    ]
+}

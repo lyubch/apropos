@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "I'm almost there... I'm gonna cum...",
+        "Open your {MOUTH} baby! Here it comes!",
+        "{PRIMARY}'s panting as well now. I bet she wouldn't say not to a hard {FUCK} after this."
+    ],
+    "2nd Person": [
+        "You're almost there... You're gonna cum...",
+        "({ACTIVE}) Open your {MOUTH} baby! Here it comes!",
+        "{PRIMARY}'s panting as well now. You bet she wouldn't say not to a hard {FUCK} after this."
+    ],
+    "3rd Person": [
+        "{ACTIVE} looks down into {PRIMARY}'s eyes again, he's almost there.",
+        "{PRIMARY}'s nimble fingers cause him to tip his head back and {MOAN}.",
+        "({PRIMARY}) Where do you want to {EJACULATE}? In my {MOUTH} or across my {BOOBS}? Or maybe... right up my {PUSSY}?",
+        "({PRIMARY}) I like you, you're cute. After this, you can do anything you want to me. And I do mean anything!",
+        "Wow, {ACTIVE}'s {COCK} is still hard! Does he have what it takes to satisfy {PRIMARY}?",
+        "({ACTIVE}) I know you want it. Because now I know what a {CUM} hungry {BITCH} you are.",
+        "{ACTIVE}'s {COCK} is getting bigger, harder and throbbing with power."
+    ]
+}

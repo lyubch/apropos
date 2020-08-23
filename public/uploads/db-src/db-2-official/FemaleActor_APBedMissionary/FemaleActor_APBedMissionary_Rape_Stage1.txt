@@ -1,0 +1,38 @@
+{
+    "1st Person" :
+    [
+        "I reluctantly part my legs, hesitant to let the {ACTIVE} get too deep inside me.",
+        "The {ACTIVE} is so eager to get inside me that he doesn't wait for me to spread out for him.",
+        "I just lie back and let the {ACTIVE} take me, do whatever he wants to me.",
+        "{ACTIVE} roughly parts my thighs, exposing my {WTVAGINAL} {PUSSY}.",
+        "If I want out of this alive, I'm going to have to let him fuck me...",
+        "The {ACTIVE} doesn't even get me wet first, he just rams his {PENIS} straight in...",
+        "I surrender myself. I want to fuck, I want to be raped, I want to be impregnated.",
+        "({ACTIVE}) We don't want your gold, but you're going to spread your legs for the boys!",
+        "Beaten and exhausted, I meekly surrender to my attacker, and he unceremoniously spears me on his {PENIS}.",
+        "{ACTIVE} takes one look at my naked {PUSSY} and immediately jumps on top of me.",
+        "Too exhausted to fight, there's nothing to do but lie here and accept it."
+    ],
+    "2nd Person" :
+    [
+        "You reluctantly part your legs, hesitant to let the {ACTIVE} get too deep inside you.",
+        "The {ACTIVE} is so eager to get inside you that he doesn't wait for you to spread out for him.",
+        "You just lie back and let the {ACTIVE} take you, do whatever he wants to you.",
+        "{ACTIVE} roughly parts your thighs, exposing your {WTVAGINAL} {PUSSY}.",
+        "If you want out of this alive, you're going to have to let him fuck you...",
+        "The {ACTIVE} doesn't even get you wet first, he just rams his {PENIS} straight in...",
+        "You surrender yourself. You want to fuck, you want to be raped, you want to be impregnated.",
+        "({ACTIVE}) We don't want your gold, but you're going to spread your legs for the boys!",
+        "Beaten and exhausted, you meekly surrender to your attacker, and he unceremoniously spears you on his {PENIS}.",
+        "{ACTIVE} takes one look at your naked {PUSSY} and immediately jumps on top of you.",
+        "Too exhausted to fight, there's nothing to do but lie here and accept it."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} descends on {PRIMARY}, her legs timidly parting as he starts to fuck her.",
+        "{PRIMARY} doesn't resist as the {ACTIVE} mounts her, starting to fuck her {PUSSY} slowly.",
+        "The {ACTIVE} seems impatient, struggling to get a good angle to fuck into {PRIMARY}.",
+        "({ACTIVE}) Don't worry, {BITCH}, you're next.",
+        "It obviously hurts, {PRIMARY} is trying to keep her legs closed, to stop him going deep so soon."
+    ]
+}

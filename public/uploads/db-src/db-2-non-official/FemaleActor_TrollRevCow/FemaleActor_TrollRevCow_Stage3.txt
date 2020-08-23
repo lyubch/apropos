@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I'm startled when the {MONSTER} takes me by the legs, before pumping me powerfully up and down its {BEASTLY} {BEASTCOCK}.",
+        "As the {MONSTER} takes control, I slump forward. The sheer {GIRTH} of the {MONSTER}'s {COCK} has me exhausted already.",
+        "Perhaps unsatisfied with my efforts, the {MONSTER} grabs my legs and {ROUGH}ly pulls me up and down his {BEASTLY} {COCK}.",
+        "More! I can take more! Give me it all, I want it all!",
+        "This {MONSTER} knows exactly what to do, where to hit inside me... How many girls has it {FUCK}ed before?",
+        "The {ACTIVE} is so {HUGE} and strong. Being {RAP}ed like this is such a turn on!"
+    ],
+    "2nd Person" :
+    [
+        "You're startled when the {MONSTER} takes you by the legs, before pumping you powerfully up and down its {BEASTLY} {BEASTCOCK}.",
+        "As the {MONSTER} takes control, you slump forward. The sheer {GIRTH} of the {MONSTER}'s {COCK} has you exhausted already.",
+        "Perhaps unsatisfied with your efforts, the {MONSTER} grabs your legs and {ROUGH}ly pulls you up and down his {BEASTLY} {COCK}.",
+        "({PRIMARY}) More! I can take more! Give me it all, I want it all!",
+        "This {MONSTER} knows exactly what to do, where to hit inside you... How many girls has it {FUCK}ed before?",
+        "The {ACTIVE} is so {HUGE} and strong. Being {RAP}ed like this is such a turn on!"
+    ],
+    "3rd Person" :
+    [
+        "As the {MONSTER} takes control, {PRIMARY} slumps forward. The sheer {GIRTH} of the {MONSTER}'s {COCK} has her exhausted already.",
+        "Perhaps unsatisfied with her efforts, the {MONSTER} grabs {PRIMARY}'s legs and {ROUGH}ly pulls her up and down his {BEASTLY} {COCK}.",
+        "The {ACTIVE} is so {HUGE} and strong, it's such a turn on seeing a girl being taken this way."
+    ]
+}

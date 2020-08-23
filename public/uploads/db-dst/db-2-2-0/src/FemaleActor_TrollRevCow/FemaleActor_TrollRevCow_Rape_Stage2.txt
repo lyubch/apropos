@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "Timidly, I climb up, hands on the {ACTIVE}'s muscled stomach, and slowly slide down the {BEAST} {PENIS}.",
+        "My heart jumps into my throat as the troll wraps one hand around my shoulder. I'm terrified, but I begin to fuck it.",
+        "The first time my ass touches the brute's stomach, I scream. By the third time down, I'm moaning.",
+        "I can't believe its {PENIS} is so big... And I really can't believe I just took the whole thing in my {PUSSY}...",
+        "Slowly I begin to push up and down on the monster's {PENIS}, the brute seeming to urge me to take it all.",
+        "After what seemed like an age of slowly sliding down the {BEAST} {COCK}, my thighs touch its balls."        
+    ],
+    "2nd Person" :
+    [
+        "Timidly, you climb up, hands on the {ACTIVE}'s muscled stomach, and slowly slide down the {BEAST} {PENIS}.",
+        "Your heart jumps into your throat as the troll wraps one hand around your shoulder. Terrified, you begin to fuck it.",
+        "The first time your ass touches the brute's stomach, you scream. By the third time down, you're moaning.",
+        "You can't believe its {PENIS} is so big... And you really can't believe you just took the whole thing in your {PUSSY}...",
+        "Slowly you begin to push up and down on the monster's {PENIS}, the brute seeming to urge you to take it all.",
+        "After what seemed like an age of slowly sliding down the {BEAST} {COCK}, your thighs touch its balls." 
+    ],
+    "3rd Person" :
+    [
+        "Timidly, {PRIMARY} climbs up, hands on the {ACTIVE}'s muscled stomach, and slowly slides down the {BEAST} {PENIS}.",
+        "The first time {PRIMARY}'s ass touches the brute's stomach, she screams. By the third time down, she's moaning.",
+        "It's amazing that its {PENIS} is so big... And unbelievable that {PRIMARY} just took the whole thing in her {PUSSY}!"        
+    ]
+}

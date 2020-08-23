@@ -1,0 +1,45 @@
+{
+    "1st Person": [
+        "{SWEARING}, I can't believe this is happening. This is so wrong.",
+        "I've grown addicted to this {LEWD} conduct of mine, eagerly opening my legs for any {COCK} I can find.",
+        "Ahhhh... I'm actually having sex... Mmmmm... With a chaurus...",
+        "Having sex with a massive {BUG} is so {LEWD}, so different... So erotic...",
+        "The {ACTIVE}'s {BEASTLY} {COCK} is in my {ASSHOLE}... It's moving... Inside me...",
+        "The {ACTIVE}'s {BUGCOCK} {INSERT}s in and out of me. It feels so good...",
+        "Taking a {SLOW}, {LEWD} {FUCK} from the {ACTIVE}, I stare blankly and smile, mouth hanging open.",
+        "The {SLIME} covering the tentacle acts like a lubricant, allowing the invader to {EXPLOR}e deeper inside of me.",
+        "My {FLESH} throbs with an odd {LUST}, and my head feels light and fuzzy. Has their poison done this to me?",
+        "I {MOAN} deeply as the {ACTIVE} {SLOW}ly {INSERT}s into my {BUTTOCKS}.",
+        "I {MOAN} into the ground, my painfully erect nipples brushing across the rough stones.",
+        "Eyes clenched shut and a pleasured {MOAN} escaping from my lips, I've submitted completely.",
+        "My {ASSHOLE} moistens, easing the {BEASTLY} {BUGCOCK}'s passage.",
+        "It {INSERT}s into my {ASSHOLE}, {FUCK}ing me {SLOW}ly."
+    ],
+    "2nd Person": [
+        "{SWEARING}, you can't believe this is happening. This is so wrong!",
+        "You've grown addicted to this {LEWD} conduct of yours, eagerly opening your legs for any {COCK} you can find.",
+        "Ahhhh... You're actually having sex... Mmmmm... With a chaurus...",
+        "Having sex with a massive {BUG} is so {LEWD}, so different... So erotic...",
+        "The {ACTIVE}'s {BEASTLY} {COCK} is in your {ASSHOLE}... It's moving... Inside you...",
+        "The {ACTIVE}'s {BUGCOCK} {INSERT}s in and out of you. It feels so good...",
+        "Taking a {SLOW}, {LEWD} {FUCK} from the {ACTIVE}, you stare blankly and smile, mouth hanging open.",
+        "The {SLIME} covering the tentacle acts like a lubricant, allowing the invader to {EXPLOR}e deeper inside of you.",
+        "Your {FLESH} throbs with an odd {LUST}, and your head feels light and fuzzy. Has their poison done this to you?",
+        "You {MOAN} deeply as the {ACTIVE} {SLOW}ly {INSERT}s into your {BUTTOCKS}.",
+        "You {MOAN} into the ground, your painfully erect nipples brushing across the rough stones.",
+        "Eyes clenched shut and a pleasured {MOAN} escaping from your lips, you've submitted completely.",
+        "Your {ASSHOLE} moistens, easing the {BEASTLY} {BUGCOCK}'s passage.",
+        "It {INSERT}s into your {ASSHOLE}, {FUCK}ing you {SLOW}ly."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s grown addicted to this {LEWD} conduct, eagerly opening her legs for any {COCK} she can find.",
+        "Ahhhh... {PRIMARY}'s actually having sex... Mmmmm... With a chaurus...",
+        "Having sex with a massive {BUG} is so {LEWD}, so different... So erotic...",
+        "The {ACTIVE}'s {BEASTLY} {COCK} is in {PRIMARY}'s {ASSHOLE}... It's moving... Inside her...",
+        "The {ACTIVE}'s {BUGCOCK} {INSERT}s in and out of {PRIMARY}. It looks so good...",
+        "Taking a {SLOW}, {LEWD} {FUCK} from the {ACTIVE}, {PRIMARY} stares blankly and smiles, mouth hanging open.",
+        "The huge {BUG}'s {BUGCOCK} pulses inside {PRIMARY}'s {ASSHOLE} as it works its way in.",
+        "With short thrusts and dripping {SLIME}, the {BUGCOCK} is worked further into {PRIMARY}'s {ASSHOLE}.",
+        "Having found a suitable brood mother, the {BUG} begins thrusting it's {BUGCOCK} further into {PRIMARY}'s {ASSHOLE}."
+    ]
+}

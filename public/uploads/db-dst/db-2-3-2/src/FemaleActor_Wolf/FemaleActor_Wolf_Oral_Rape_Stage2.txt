@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "Trembling, I lean down underneath {ACTIVE}, staring in {FEAR} at his angry red {COCK}.",
+        "The {SALTY} smell of {ACTIVE}'s {COCK} is overpowering... I can't do this...",
+        "Only the {COCKHEAD} of his {COCK} touches my lips, and I recoil. I can't put this {BEASTLY} {COCK} in my {MOUTH}!",
+        "{ACTIVE}'s already dribbling pre-cum, smearing my lips and fingers."
+    ],
+    "2nd Person": [
+        "Trembling, you lean down underneath {ACTIVE}, staring in {FEAR} at his angry red {COCK}.",
+        "The {SALTY} smell of {ACTIVE}'s {COCK} is overpowering... You can't do this...",
+        "Only the {COCKHEAD} of his {COCK} touches your lips, and you recoil. You can't put this thing in your {MOUTH}!",
+        "{ACTIVE}'s already dribbling pre-cum, smearing your lips and fingers."
+    ],
+    "3rd Person": [
+        "{SWEARING}, she's {SUCK}ing that wolf's {COCK}?!",
+        "Does {PRIMARY} really need to do... That? How far is she willing to go to save herself?"
+    ]
+}

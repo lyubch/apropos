@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "I get my hand on its {BEASTLY} {COCK} and start moving it through. {ACTIVE} makes a pleased sound.",
+        "My fingers made it harder than it was, perhaps I can feel its {MAROUSAL} {COCK} in my hand.",
+        "{ACTIVE} is obviously enjoying my touch, lets see what happens when I caress its entire {COCK}.",
+        "Size and stiffness of this {BEASTLY} {COCK} are making me {FAROUSAL}, I want to touch all of it.",
+        "So smooth, hard and long. I love seeing it in my hands. I wonder if it tastes good.",
+        "So you like my hand huh?, I guess I can try to {ACCEPT} your {MAROUSAL} {COCK} in my {MOUTH} too. Would you like that?"
+    ],
+    "2nd Person": [
+        "You get your hand on its {BEASTLY} {COCK} and start moving it through. {ACTIVE} makes a pleased sound.",
+        "Your fingers made it harder than it was, perhaps you can feel its {COCK} in your hand.",
+        "{ACTIVE} is obviously enjoying your touch, lets see what happens when you caress its entire {COCK}.",
+        "Size and stiffness of this {BEASTLY} {COCK} are making you {FAROUSAL}, you want to touch all of it.",
+        "So smooth, hard and long. You love seeing it in my hands. You wonder if it tastes good."
+    ],
+    "3rd Person": [
+        "{PRIMARY} starts stroking {ACTIVE}'s {BEASTLY} {COCK} {SLOW}ly, and looking at it with a drooling mouth.",
+        "{ACTIVE} feels the pleasure of having {PRIMARY} stroke its {COCK}."
+    ]
+}

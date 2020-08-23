@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} is {FUCK}ing my {ASSHOLE} even harder and even faster now, and I genuinely {FEAR} for my life.",
+        "Tears are flowing freely now, but I can feel the {ANIMAL}'s {COCK} {QUIVER}ing and throbbing. It's almost over...",
+        "Pinned down on all fours beneath the {ACTIVE}, as it {ROUGH}ly {FUCK}s my {ASSHOLE}. Why me?",
+        "My whole {FLESH} {JIGGL}es as the {ANIMAL} {RAP}es my {ASSHOLE}.",
+        "When I think I can take no more and am just about to pass out, the {ACTIVE} starts to {FUCK} me even harder.",
+        "The {ANIMAL}'s frenzied grunts are terrifying, each one accompanied by a powerful thrust into my {ASSHOLE}.",
+        "The {ACTIVE} {PENETRAT}ing into me full bore, I {MOAN}. Uh, uh, uh. Like some wild {ANIMAL}, running for its life.",
+        "Rapid thrusts pound into me with long powerful strokes, each filling me with over a foot of {BEASTLY} {COCK}."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} is {FUCK}ing your {ASSHOLE} even harder and even faster now, and you genuinely {FEAR} for your life.",
+        "Tears are flowing freely now, but you can feel the {ANIMAL}'s {COCK} {QUIVER}ing and throbbing. It's almost over...",
+        "Pinned down on all fours beneath the {ACTIVE}, as it {ROUGH}ly {FUCK}s your {ASSHOLE}. Why you?",
+        "Your whole {FLESH} {JIGGL}es as the {ANIMAL} {RAP}es your {ASSHOLE}.",
+        "When you think you can take no more and are just about to pass out, the {ACTIVE} starts to {FUCK} you even harder.",
+        "The {ANIMAL}'s frenzied grunts are terrifying, each one accompanied by a powerful thrust into your {ASSHOLE}.",
+        "The {ACTIVE} {PENETRAT}ing into you full bore, you {MOAN}. Uh, uh, uh. Like some wild {ANIMAL}, running for its life.",
+        "Rapid thrusts pound into you with long powerful strokes, each filling you with over a foot of {BEASTLY} {COCK}." 
+
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s whole {FLESH} {JIGGL}es as the {ANIMAL} {RAP}es her {ASSHOLE}.",
+        "The {ANIMAL}'s frenzied grunts are terrifying, each one accompanied by a powerful thrust into {PRIMARY}'s {ASSHOLE}.",
+        "Rapid thrusts pound into {PRIMARY} with long powerful strokes, each filling her with over a foot of {BEASTLY} {COCK}."
+    ]
+}

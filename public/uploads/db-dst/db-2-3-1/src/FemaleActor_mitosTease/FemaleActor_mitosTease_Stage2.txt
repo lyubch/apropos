@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "I reach backwards with my leg, feeling for {ACTIVE}'s {HUGE} {COCK}...",
+        "{ACTIVE}'s {HUGE} {COCK} feels red hot against the tender sole of my foot, matching the heat between my legs.",
+        "Unable to see what I'm doing, I gingerly cup and stroke {ACTIVE}'s {COCK} with my foot.",
+        "Oh my, this position is so lewd! What would people think if they saw me like this?"
+    ],
+    "2nd Person" :
+    [
+        "You reach backwards with your leg, feeling for {ACTIVE}'s {HUGE} {COCK}...",
+        "{ACTIVE}'s {HUGE} {COCK} feels red hot against the tender sole of your foot, matching the heat between your legs.",
+        "Unable to see what you're doing, you gingerly cup and stroke {ACTIVE}'s {COCK} with your foot.",
+        "Oh my, this position is so lewd! What would people think if they saw you like this?"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} looks like he's in a trance... Is {PRIMARY} really that good with her feet?",
+        "{PRIMARY} looks like she's done this before... She's not even looking at what she's doing...",
+        "{PRIMARY} reaches back with one toned leg, and starts to steadily pump {ACTIVE}'s {COCK}."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I {SCREAM} into the ground as the {ANIMAL} {RAP}es me, deep and fast into my {WTVAGINAL} {PUSSY}.",
+        "I {MOAN} and {SCREAM} into the dirt, overwhelmed by the monster's {ROUGH} assault. At this rate I'm gonna cum...",
+        "Nghhh! I can already feel the {BEASTLY} {COCK} {FUCK}ing at my womb, but I'm more scared of my own building orgasm...",
+        "I {MOAN} into the ground as the huge {ANIMAL} starts to {FUCK} even deeper into me.",
+        "The {ANIMAL} drives into me while pulling me to him, its huge muscled body engulfing my {SMALL}, {HEAVING} {FLESH}.",
+        "It feels like my cervix is being pushed up into my guts, the penetration is so deep."
+    ],
+    "2nd Person": [
+        "You {SCREAM} into the ground as the {ANIMAL} {FUCK}s you, deep and fast into your {WTVAGINAL} {PUSSY}.",
+        "You {MOAN} and {SCREAM} into the dirt, overwhelmed by the monster's {ROUGH} assault. At this rate you're gonna cum...",
+        "Nghhh! You can already feel the {BEASTLY} {COCK} {FUCK}ing at your womb, but you're more scared of your own building orgasm...",
+        "You {MOAN} into the ground as the huge {ANIMAL} starts to {FUCK} even deeper into you.",
+        "The {ANIMAL} drives into you while pulling you to him, its huge muscled body engulfing your {HEAVING} {FLESH}.",
+        "It feels like your cervix is being pushed up into your guts, the penetration is so deep."
+    ],
+    "3rd Person": [
+        "{PRIMARY} {SCREAM}s into the ground as the {ANIMAL} {FUCK}s her, deep and fast into her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} {SCREAM}s and {MOAN}s into the dirt, overwhelmed by the monster's {ROUGH} assault. At this rate she's gonna cum...",
+        "Nghhh! {PRIMARY} can already feel the {BEASTLY} {COCK} {FUCK}ing at her womb, but she's more scared of her own building orgasm...",
+        "{PRIMARY} {SCREAM}s into the ground as the huge {ANIMAL} starts to {FUCK} even deeper into her.",
+        "The {ANIMAL} drives into {PRIMARY} while pulling her to him, its huge muscled body engulfing her {HEAVING} {FLESH}.",
+        "It feels like {PRIMARY}'s cervix is being pushed up into her guts, the penetration is so deep."
+    ]
+}

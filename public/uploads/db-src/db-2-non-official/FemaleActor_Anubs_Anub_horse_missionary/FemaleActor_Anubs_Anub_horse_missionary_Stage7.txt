@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "My entire body is racked with {LUST} as the {ACTIVE} speeds up, {FUCK}ing me harder and harder as he gets ready to fill me up with {CUM}.",
+        "I {SCREAM} out my orgasm as the {ACTIVE} {FUCK}s me even harder, and I can tell by the {BEASTLY} {COCKHEAD} thumping my cervix that he's close too...",
+        "{SWEARING}... this is it, he's about to {EJACULATE}... and I am too!",
+        "Every thrust takes my breath away, my {WTVAGINAL} {PUSSY} is being stretched to the absolute limit and I'm loving it!",
+        "My {PUSSY} {QUIVER}s in orgasm, molding my {HOLE} around his {COCK}, clinging and clutching to every hard inch.",
+        "Every thrust feels like an orgasm, this {ACTIVE} {FUCK}ing my {QUIVER}ing {PUSSY} harder than ever before."
+    ],
+    "2nd Person": [
+        "The {LUST} overwhelms you as the {ACTIVE} speeds up, {FUCK}ing you harder and harder as he gets ready to fill you up with {CUM}.",
+        "You {SCREAM} out in orgasm as the {ACTIVE} {FUCK}s you even harder, and you can tell by the {COCKHEAD} flaring inside you that he's close too...",
+        "{SWEARING}... this is it, he's about to {EJACULATE}... and you are too!",
+        "Every thrust takes your breath away, your {WTVAGINAL} {PUSSY} is being stretched to the absolute limit and you are loving it!",
+        "Your {PUSSY} {QUIVER}s in orgasm, molding your {HOLE} around his {COCK}, clinging and clutching to every hard inch.",
+        "Every thrust feels like an orgasm, this {ACTIVE} {FUCK}ing your {QUIVER}ing {PUSSY} harder than ever before."
+    ],
+    "3rd Person": [
+        "The {LUST} overwhelms {PRIMARY} as the {ACTIVE} speeds up, {FUCK}ing her harder and harder as he gets ready to fill her up with {CUM}.",
+        "{PRIMARY} {SCREAM}s out in orgasm as the {ACTIVE} {FUCK}s her even harder, and she can tell by the {COCKHEAD} flaring inside you that he's close too...",
+        "{SWEARING}... this is it, he's about to {EJACULATE}... and {PRIMARY} is too!",
+        "Every thrust takes {PRIMARY}'s breath away, her {WTVAGINAL} {PUSSY} is being stretched to the absolute limit and she is loving it!",
+        "{PRIMARY}'s {PUSSY} {QUIVER}s in orgasm, molding her {HOLE} around his {COCK}, clinging and clutching to every hard inch.",
+        "Every thrust feels like an orgasm, this {ACTIVE} {FUCK}ing {PRIMARY}'s {QUIVER}ing {PUSSY} harder than ever before."
+    ]
+}

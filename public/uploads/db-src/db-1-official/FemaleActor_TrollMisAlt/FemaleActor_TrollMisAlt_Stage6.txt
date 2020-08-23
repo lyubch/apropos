@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "I moan in surprise and lust as the beast drops down on top of me, pinning me to the ground and fucking me deeper.",
+        "My legs spread apart again, I gasp as I feel the beast get balls deep inside me with fast, long strokes.",
+        "Oh Gods! Ah! Tears stream down my face as the brute on top of me fucks right into my womb.",
+        "My foot curls around the beast's flank and I gasp and pant, knowing I'm about to cum.",
+        "I shudder at the rough grasp as a massive hand comes down on my breast. What if it wants more? What if it kisses me?!",
+        "This is what I wanted... A savage, animal fuck...",
+        "I clench my teeth and feel my building orgasm. Almost there...",
+        "The thing begins to growl with each thrust, plunging itself forcefully into me now.",
+        "I feel the creature's thrusts become more urgent. I'm gonna take it, I'm gonna take a troll's {CUM}!"
+    ],
+    "2nd Person" :
+    [
+        "You moan in surprise and lust as the beast drops down on top of you, pinning you to the ground and fucking you deeper.",
+        "Your legs spread apart again, you gasp as you feel the beast get balls deep inside you with fast, long strokes.",
+        "Oh Gods! Ah! Tears stream down your face as the brute on top of you fucks right into your womb.",
+        "Your foot curls around the beast's flank and you gasp and pant, knowing you're about to cum.",
+        "You shudder at the rough grasp as a massive hand comes down on your breast. What if it wants more? What if it kisses me?!",
+        "This is what you wanted... A savage, animal fuck...",
+        "You clench your teeth and feel your building orgasm. Almost there...",
+        "The thing begins to growl with each thrust, plunging itself forcefully into you now.",
+        "You feel the creature's thrusts become more urgent. You're gonna take it, you're gonna take a troll's {CUM}!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s foot curls around the beast's flank and she gasps and pants, obviously about to cum.",
+        "{PRIMARY}'s totally immobilised by the beast's weight, and can do nothing but scream and beg it to stop.",
+        "The beast quickens its strokes, fucking balls deep. It's clear what's about to happen."
+    ]
+}

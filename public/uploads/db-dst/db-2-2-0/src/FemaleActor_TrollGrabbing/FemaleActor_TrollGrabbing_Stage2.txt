@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "The feeling is too intense, and I hang in the beast's grip as it pounds my {WTANAL} {ASS} with its {BEAST} {PENIS}.",
+        "I slump forward, exhausted and sore already. I watch its hips pound into me, and feel a slight thrill at the savagery...",
+        "Oh Gods, I'm going crazy!",
+        "Ugh... So deep... I feel his {COCK} in places no man has been...",
+        "I grunt with every thrust that takes the creature deeper into my {WTANAL} {ASS}.",
+        "I've heard stories of country girls who had been caught in the woods by trolls... I can't believe it's true!",
+        "I pant into the ground as the huge beast starts to fuck even deeper into me."        
+    ],
+    "2nd Person" :
+    [
+        "The feeling is too intense, and you hang in the beast's grip as it pounds your {WTANAL} {ASS} with its {BEAST} {PENIS}.",
+        "You slump forward, exhausted and sore already. You watch its hips pound into you, and feel a slight thrill at the savagery...",
+        "Oh Gods, you're going crazy!",
+        "Ugh... So deep... You feel his {COCK} in places no man has been...",
+        "You grunt with every thrust that takes the creature deeper into your {WTANAL} {ASS}.",
+        "You've heard stories of country girls who had been caught in the woods by trolls... You can't believe it's true!",
+        "You pant into the ground as the huge beast starts to fuck even deeper into you."
+    ],
+    "3rd Person" :
+    [
+        "The {BEAST} continues to drive itself deep inside {PRIMARY}'s exhausted body.",
+        "{PRIMARY} grunts with every thrust that takes the creature deeper into her {WTANAL} {ASS}.",
+        "{PRIMARY} seems to be taking it more comfortably now, slumped over as the {ACTIVE} continues to pound into her {ASS}."
+    ]
+}

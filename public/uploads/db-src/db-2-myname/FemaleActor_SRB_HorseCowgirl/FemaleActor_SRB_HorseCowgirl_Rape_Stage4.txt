@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "As the pain finally fades to a manageable level, I press down, focusing on getting this over with as soon as possible...",
+        "How much of it have I taken? How much will be enough? Hnng... I hope he cums soon...",
+        "Gah... Gods... I need to take it slow... This {BEAST} {COCK} is stretching me further than I've ever gone before...",
+        "I gasp as the {BEAST} {COCK} bottoms out inside me, desperately hoping I can get away without hilting him..."
+    ],
+    "2nd Person": [
+        "As the pain finally fades to a manageable level, you press down, focusing on getting this over with as soon as possible...",
+        "How much of it have you taken? How much will be enough? Hnng... You hope he cums soon...",
+        "Oh Gods... You'd better take it slow... This {BEAST} {COCK} is stretching you further than you've ever gone before.",
+        "You gasp as the {BEAST} {COCK} bottoms out inside you, desperately hoping you can get away without hilting him..."
+    ],
+    "3rd Person": [
+        "Desperatly holding back her tears, {PRIMARY} works her {WTVAGINAL} {PUSSY} up and down the horse's {MAROUSAL} {COCK}.",
+        "Though whimpering from the pain, {PRIMARY} soldiers on, fucking herself on a portion of the horse's {COCK}."
+    ]
+}

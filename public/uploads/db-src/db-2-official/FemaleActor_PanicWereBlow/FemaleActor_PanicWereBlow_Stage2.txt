@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "I drop to my knees, ready to take the {ACTIVE}'s {BEAST} {PENIS} in my {MOUTH}...",
+        "Oh my goodness! The sheer size of the {BEAST} {PENIS} scares me a little. I'm not sure I can do this...",
+        "The {ACTIVE}'s breath at my ear, panting and ragged, is turning me on, and I feel my {PUSSY} dripping.",
+        "I reach out to the brute's solid, muscled stomach, and my chest flushes, nipples standing erect.",
+        "I stare at the {BEAST} {PENIS} before me, trying to summon the courage to take it in my {MOUTH}.",
+        "The {ACTIVE} pushes me to my knees, and I comply. I guess he wants me to suck his {PENIS}?",
+        "You like to fuck human girls? You mean bestiality? (giggle) Who's into that sick stuff?",
+        "I can see some women's fascination with werewolves... Just look at the size of his {PENIS}!"        
+    ],
+    "2nd Person" :
+    [
+        "You drop to your knees, ready to take the {ACTIVE}'s {BEAST} {PENIS} in your {MOUTH}...",
+        "Oh my goodness! The sheer size of the {BEAST} {PENIS} scares you a little. You're not sure you can do this...",
+        "The {ACTIVE}'s breath at your ear, panting and ragged, is turning you on, and you feel your {PUSSY} dripping.",
+        "You reach out to the brute's solid, muscled stomach, and your chest flushes, nipples standing erect.",
+        "You stare at the {BEAST} {PENIS} before you, trying to summon the courage to take it in your {MOUTH}.",
+        "The {ACTIVE} pushes you to your knees, and you comply. You guess he wants you to suck his {PENIS}?",
+        "({PRIMARY}) You like to fuck human girls? You mean bestiality? (giggle) Who's into that sick stuff?",
+        "You can see some women's fascination with werewolves... Just look at the size of his {PENIS}!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} drops to her knees, staring at the {BEAST} {PENIS} in front of her.",
+        "There's no way {PRIMARY} can take something like that in her {MOUTH}, is there?",
+        "The fascination some women have with werewolves is obvious... Just look at the size of his {PENIS}!",
+        "{PRIMARY}'s knees are apart, {CREAM} dripping down her inner thighs."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "The {PENIS} starts to throb inside me as the brute grabs my head. Here it cums!",
+        "Fear threatens to overtake me as the creature holds me down, only making the orgasm building inside me stronger.",
+        "Oh Gods, it's almost there! I start to pump my {PUSSY} faster, eager to accept this muscled brute's {CUM}.",
+        "My nipples are stiff as my {BOOBS} are crushed against the {ACTIVE}'s filthy fur.",
+        "I feel the creature's {COCK} throb and pulse. I'm gonna take it, I'm gonna take a troll's {CUM}!",
+        "I pound the {ACTIVE}'s {COCK} relentlessly. My heart races, I know that soon I will be carrying the monster's child."
+    ],
+    "2nd Person" :
+    [
+        "The {PENIS} starts to throb inside you as the brute grabs your head. Here it cums!",
+        "Fear threatens to overtake you as the creature holds you down, only making the orgasm building inside you stronger.",
+        "Oh Gods, it's almost there! You start to pump your {PUSSY} faster, eager to accept this muscled brute's {CUM}.",
+        "Your nipples are stiff as your {BOOBS} are crushed against the {ACTIVE}'s filthy fur.",
+        "You feel the creature's {COCK} throb and pulse. You're gonna take it, you're gonna take a troll's {CUM}!",
+        "You pound the {ACTIVE}'s {COCK} relentlessly. Your heart races, you know that soon you will be carrying the monster's child."
+    ],
+    "3rd Person" :
+    [
+        "The brute holds {PRIMARY}'s head down. She squeals, backside now bouncing faster at the troll's prompt.",
+        "Oh Gods, what's it doing? {PRIMARY} fucks the beast even faster, clearly hoping to make it cum soon.",
+        "{PRIMARY}'s muffled cries sound out from the brute's filthy chest. Is that beast's {COCK} really so good?"
+    ]
+}

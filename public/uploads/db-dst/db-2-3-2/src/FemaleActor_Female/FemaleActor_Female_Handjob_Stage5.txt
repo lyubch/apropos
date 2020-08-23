@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "I'm beside myself with {LUST} now, desperate to climb onto {ACTIVE}'s {STRAPON}, and she knows it.",
+        "Mmmm... {SWEARING}... Could you... {FUCK} me? Please...? You can do it in any {HOLE}...",
+        "{ACTIVE}'s {STRAPON} feels hard in my hand, and my {CREAM} drips down my legs as I think about it.",
+        "({ACTIVE}) Hah, this {BITCH} is {MOAN}ing! Guess she wants to get {FUCK}ed...",
+        "I like you, you're cute. You can do anything you want to me. And I do mean anything!",
+        "No fair... You're getting me way too {HORNY}..."
+    ],
+    "2nd Person": [
+        "You're beside yourself with {LUST} now, desperate to climb onto {ACTIVE}'s {STRAPON}, and she knows it.",
+        "({PRIMARY}) Mmmm... {SWEARING}... Could you... {FUCK} me? Please...? You can do it in any {HOLE}...",
+        "{ACTIVE}'s {STRAPON} feels hard in your hand, and your {CREAM} drips down your legs as you think about it.",
+        "({ACTIVE}) Hah, this {BITCH} is {MOAN}ing! Guess she wants to get {FUCK}ed...",
+        "({PRIMARY}) I like you, you're cute. You can do anything you want to me. And I do mean anything!",
+        "({PRIMARY}) No fair... You're getting me way too {HORNY}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} looks even more {HORNY} than {ACTIVE} does...",
+        "{PRIMARY}'s mouth is hanging open and she's {MOAN}ing. Well, that does look like a really nice {STRAPON}...",
+        "The look on {PRIMARY}'s face is clear, and in a moment she's going to take {ACTIVE} inside her."
+    ]
+}

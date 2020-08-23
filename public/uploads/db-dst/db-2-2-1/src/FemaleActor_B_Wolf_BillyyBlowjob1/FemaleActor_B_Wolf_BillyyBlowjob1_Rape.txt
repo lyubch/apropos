@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "I fall to my knees in defeat, desperately trying to catch my breath as the wolf eyes me hungrily... lustfully...",
+        "I whimper and squeeze my eyes shut as the {ACTIVE}'s sharp jaws loom over me...",
+        "The {ACTIVE} circles around me a few times as I struggle to catch my breath, as if deciding what to do with me."
+    ],
+    "2nd Person": [
+        "You fall to your knees in defeat, desperately trying to catch your breath as the wolf eyes you hungrily... lustfully...",
+        "You whimper and squeeze your eyes shut as the {ACTIVE}'s sharp jaws loom over you...",
+        "The {ACTIVE} circles around you a few times as you struggle to catch your breath, as if deciding what to do with you."
+    ],
+    "3rd Person": [
+        "{PRIMARY} falls to her knees in defeat, desperately trying to catch her breath as the wolf eyes her hungrily... lustfully...",
+        "{PRIMARY} whimpers and squeezes her eyes shut as the {ACTIVE}'s sharp jaws loom over you...",
+        "The {ACTIVE} circles around {PRIMARY} a few times as she struggles to catch her breath, as if deciding what to do with her."
+    ]
+}

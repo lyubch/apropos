@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} holds me aloft, pumping me quickly onto his {BEAST} {PENIS}. I gaze up at it, awestruck.",
+        "My whole body goes completely limp as I'm impaled on the {ACTIVE}'s {BEAST} {PENIS}.",
+        "I let out a primal grunt as I am impaled on the creature's {COCK}.",
+        "I give a delighted squeal as the brute roughly spreads my legs and fucks its {BEAST} {COCK} into me.",
+        "A delighted squeal escapes my lips as the {ACTIVE} roughly spreads me and fucks its {COCK} into me."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} holds you aloft, pumping you quickly onto his {BEAST} {PENIS}. You gaze up at it, awestruck.",
+        "Your whole body goes completely limp as you're impaled on the {ACTIVE}'s {BEAST} {PENIS}.",
+        "You let out a primal grunt as you are impaled on the creature's {COCK}.",
+        "You give a delighted squeal as the brute roughly spreads your legs and fucks its {BEAST} {COCK} into you.",
+        "A delighted squeal escapes your lips as the {ACTIVE} roughly spreads you and fucks its {COCK} into you."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} holds {PRIMARY} aloft, pumping her quickly onto his {BEAST} {PENIS}.",
+        "{PRIMARY}'s whole body goes completely limp as she's impaled on the {ACTIVE}'s {BEAST} {PENIS}.",
+        "{PRIMARY} lets out a primal grunt as she's impaled on the creature's {COCK}."  
+    ]
+}

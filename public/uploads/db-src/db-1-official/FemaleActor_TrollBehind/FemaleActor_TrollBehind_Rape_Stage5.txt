@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I can't help but start to fuck back, the {BEAST} {COCK} buried completely inside me feeling amazing...",
+        "I'm completely aloft now, held up by monster's {BEAST} {COCK}, my full weight pushing me down onto it.",
+        "I arch my back, pushing out my {HEAVING} {BOOBS} as the brute gives me a hard, deep fuck.",
+        "I feel adrenaline rush through me. If a beast is going to fuck me, then I'm going to fuck right back!",
+        "The rough fucking becomes more pleasurable and I begin thrusting back, wanting to take it deeper.",
+        "This beast's {COCK}... feels so incredible... hammering me with such force."        
+    ],
+    "2nd Person" :
+    [
+        "You can't help but start to fuck back, the {BEAST} {COCK} buried completely inside you feeling amazing...",
+        "You're completely aloft now, held up by monster's {BEAST} {COCK}, your full weight pushing you down onto it.",
+        "You arch your back, pushing out your {HEAVING} {BOOBS} as the brute gives you a hard, deep fuck.",
+        "You feel adrenaline rush through you. If a beast is going to fuck you, then you're going to fuck right back!",
+        "The rough fucking becomes more pleasurable and you begin thrusting back, wanting to take it deeper.",
+        "This beast's {COCK}... feels so incredible... hammering you with such force." 
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s back arches, thrusting out her {HEAVING} {BOOBS} as she bounces on the monster's {COCK}.",
+        "Completely off the ground now, {PRIMARY} rides the creature's {COCK} vigorously, clearly enjoying it.",
+        "Oh Gods, this fuck looks so good! Once it's done with {PRIMARY}, will the {ACTIVE} be looking for another lay?"
+    ]
+}

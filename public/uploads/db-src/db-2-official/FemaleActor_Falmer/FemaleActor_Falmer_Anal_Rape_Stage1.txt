@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "I'm roughly bent over, with my arms held painfully above me, before the monster spears my {ASS}.",
+        "The {ACTIVE} throws me to the ground. He's quite rough and forceful, which really turns me on.",
+        "I feel the {ACTIVE}'s large hands grab my cheeks and pull them apart.",
+        "I could stop him, but I don't... I'm awash with the strange sensation of giving up control...",
+        "As the {ACTIVE} presses harder and harder, I feel my {ASS} give and he slides inside.",
+        "Slowly parting my cheeks, the {ACTIVE} pushes forward, sliding inside my {WTANAL} {ASS}.",
+        "The fat head of its organ lines up with the entrance to my {ASS}. I whimper as it enters.",
+        "My eyes fly open and I gasp as the {ACTIVE} works his way into my {WTANAL} {ASS}.",
+        "Beaten, I submit to the {ACTIVE}, exposing my {ASS} and spreading my cheeks, looking away in shame.",
+        "Bent over and restrained painfully, I can't stop the {ACTIVE} roughly penetrating my {ASS}."
+    ],
+    "2nd Person" :
+    [
+        "You're roughly bent over, with your arms held painfully above you, before the monster spears your {ASS}.",
+        "The {ACTIVE} throws you to the ground. He's quite rough and forceful, which really turns you on.",
+        "You feel the {ACTIVE}'s large hands grab your cheeks and pull them apart.",
+        "You could stop him, but you don't... You're awash with the strange sensation of giving up control...",
+        "As the {ACTIVE} presses harder and harder, you feel your {ASS} give and he slides inside.",
+        "Slowly parting your cheeks, the {ACTIVE} pushes forward, sliding inside your {WTANAL} {ASS}.",
+        "The fat head of its organ lines up with the entrance to your {ASS}. You whimper as it enters.",
+        "Your eyes fly open and you gasp as the {ACTIVE} works his way into your {WTANAL} {ASS}.",
+        "Beaten, you submit to the {ACTIVE}, exposing your {ASS} and spreading your cheeks, looking away in shame.",
+        "Bent over and restrained painfully, you can't stop the {ACTIVE} roughly penetrating your {ASS}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s roughly bent over, with her arms held painfully above her, before the monster spears her {ASS}.",
+        "The {ACTIVE} throws her to the ground. He's quite rough and forceful, which is a real turn on.",
+        "The {ACTIVE}'s large hands grab {PRIMARY}'s cheeks and pull them apart.",
+        "{PRIMARY} could stop him, but she doesn't... is she willingly giving up?",
+        "As the {ACTIVE} presses harder and harder, {PRIMARY}'s {ASS} gives way and he slides inside.",
+        "Slowly parting her cheeks, the {ACTIVE} pushes forward, sliding inside her {WTANAL} {ASS}.",
+        "The fat head of its organ lines up with the entrance to her {ASS}. {PRIMARY} whimpers as it enters.",
+        "{PRIMARY}'s eyes fly open and she gasps as the {ACTIVE} works his way into her {WTANAL} {ASS}.",
+        "Beaten, {PRIMARY} submits, exposing her {ASS} and spreading her cheeks, looking away in shame.",
+        "Bent over and restrained painfully, {PRIMARY} can't stop the {ACTIVE} roughly penetrating her {ASS}."
+    ]
+}

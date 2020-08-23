@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} lifts me up by the waist, unceremoniously {PENETRAT}ing me on his {BEASTLY} {COCK}.",
+        "My {SMALL} waist is dwarfed by the {MONSTER}'s huge claws. It's kind of a turn on...",
+        "I wanted to touch the {MONSTER}'s muscular chest, but the first thrust knocks every bit of energy from me.",
+        "The {ACTIVE} wastes no time in {FUCK}ing into my {WTVAGINAL} {PUSSY} in {QUICK}, {ROUGH} strokes.",
+        "I look into the monstrous face of my lover, feeling shame and {LUST} wash over me.",
+        "You look as if you'd give me the kind of {FUCK}ing I'd feel for days...",
+        "The {ACTIVE} yanks my legs apart and {FUCK}s me.",
+        "(giggle) Stay as the monster! I've had stranger than you, I've {FUCK}ed real monsters!"        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} lifts you up by the waist, unceremoniously {PENETRAT}ing you on his {BEASTLY} {COCK}.",
+        "Your {SMALL} waist is dwarfed by the {MONSTER}'s huge claws. It's kind of a turn on...",
+        "You wanted to touch the {MONSTER}'s muscular chest, but the first thrust knocks every bit of energy from you.",
+        "The {ACTIVE} wastes no time in {FUCK}ing into your {WTVAGINAL} {PUSSY} in {QUICK}, {ROUGH} strokes.",
+        "You look into the monstrous face of your lover, feeling shame and {LUST} wash over you.",
+        "({PRIMARY}) You look as if you'd give me the kind of {FUCK}ing I'd feel for days...",
+        "The {ACTIVE} yanks your legs apart and {FUCK}s you.",
+        "({PRIMARY}) (giggle) Stay as the monster! I've had stranger than you, I've {FUCK}ed real monsters!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} allows the {MONSTER} to lift her, spreading her legs and letting it penetrate her.",
+        "{PRIMARY} is already panting as the {MONSTER} lifts her by the waist, even before it starts to {FUCK} her.",
+        "{PRIMARY} stares up at the {ACTIVE}'s monstrous visage, a look of {LUST} and hunger on her face.",
+        "{SWEARING}! It sounded like {PRIMARY} came just from the {ACTIVE} pushing its {COCK} inside her!"
+    ]
+}

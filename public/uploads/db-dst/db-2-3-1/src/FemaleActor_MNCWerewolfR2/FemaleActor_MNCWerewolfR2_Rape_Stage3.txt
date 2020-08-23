@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "I close my eyes and open my lips, choking back tears as I feel its {COCK} fill my {MOUTH}.",
+        "My head held firmly, I can do nothing but gag and splutter as the {MONSTER} steadily pumps into my {MOUTH}.",
+        "My lips are forced apart by the {BEASTLY} {COCK}, and it begins to thrust into my {MOUTH}.",
+        "Even as tears stream down my face, the {SALTY} stench of the {BEASTLY} {COCK} makes my {FLESH} flush.",
+        "I strain to open my {MOUTH} wide enough to accommodate the {BEASTLY} {COCK}, hoping the {MONSTER} doesn't want more.",
+        "The {BEASTLY} {COCK} feels {MAROUSAL} and {SLIMY} on my lips and tongue. I'm repulsed by it, and yet...",
+        "Mmmphh! {SWEARING}, it's too {HUGE}! If it pushes any more {COCK} down my throat, I'll choke!"
+    ],
+    "2nd Person": [
+        "You close your eyes and open your lips, choking back tears as you feel its {COCK} fill your {MOUTH}.",
+        "Your head held firmly, you can do nothing but gag and splutter as the {MONSTER} steadily pumps into your {MOUTH}.",
+        "Your lips are forced apart by the {BEASTLY} {COCK}, and it begins to thrust into your {MOUTH}.",
+        "Even as tears stream down your face, the {SALTY} stench of the {BEASTLY} {COCK} makes your {FLESH} flush.",
+        "You strain to open your {MOUTH} wide enough to accommodate the {BEASTLY} {COCK}, hoping the {MONSTER} doesn't want more.",
+        "The {BEASTLY} {COCK} feels {MAROUSAL} and {SLIMY} on your lips and tongue. You're repulsed by it, and yet...",
+        "Mmmphh! {SWEARING}, it's too {HUGE}! If it pushes any more {COCK} down your throat, you'll choke!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} closes her eyes and opens her lips, choking back tears as she feels its {COCK} fill her {MOUTH}.",
+        "{PRIMARY}'s head held firmly, she can do nothing but gag and splutter as the {MONSTER} steadily pumps into her {MOUTH}.",
+        "{PRIMARY}'s lips are forced apart by the {BEASTLY} {COCK}, and it begins to thrust into her {MOUTH}.",
+        "Even as tears stream down {PRIMARY}'s face, the {SALTY} stench of the {BEASTLY} {COCK} makes her {FLESH} flush.",
+        "{PRIMARY} strains to open her {MOUTH} wide enough to accommodate the {BEASTLY} {COCK}, hoping the {MONSTER} doesn't want more.",
+        "The {BEASTLY} {COCK} feels {MAROUSAL} and {SLIMY} on {PRIMARY}'s lips and tongue. She's repulsed by it, and yet...",
+        "Mmmphh! {SWEARING}, it's too {HUGE}! If it pushes any more {COCK} down {PRIMARY}'s throat, she'll choke!"
+    ]
+}

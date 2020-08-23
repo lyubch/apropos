@@ -1,0 +1,48 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} drops down to the ground. I feel his fur against my back and his {COCK} thrust deeper into me.",
+        "I'm pushed a bit lower as {ACTIVE}'s forelegs drop from my shoulders. Is he trying to get a better grip?",
+        "After {ACTIVE} opens me up with a few deep pushes I'm able to take him more easily and I begin to enjoy it.",
+        "I could get used to this.",
+        "Aah... ahhh... what am I doing? What would my {MFAMILY} think of me, if he saw me like this?",
+        "I've never felt so {LEWD} before, and I like it. I want more.",
+        "I can feel the dog's matted fur between my {BUTTOCKS} while he {INSERT}s in and out of me.",
+        "I'm committing bestiality... Am I really into that sick stuff?",
+        "To be desired by this {ANIMAL}... For my body to elicit such an urge, for an animal to {FUCK} a human...",
+        "My cheeks burn red with embarrassment, I don't want to be seen like this, with a dog up my {PUSSY}...",
+        "This is so wrong... I'm a good girl, I shouldn't be fucking a dog...",
+        "Are you watching me? Watch me debase myself with an animal, letting him {FUCK} my {PUSSY}.",
+        "It's hot and {BEASTLY}, filling my {WTVAGINAL} {PUSSY} completely.",
+        "I never knew you were a {BITCH} who'd even do it with a dog! The voices fill me with shame and {LUST}.",
+        "Mmmmm...! I should get a dog to guard my bed... And to share it!",
+        "I wonder... do other girls {FUCK} dogs? And keep it a secret? Maybe I'm a freak..."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} drops down, and you feel his fur against your back and his {COCK} thrust deeper into you.",
+        "You're pushed a bit lower as {ACTIVE}'s forelegs drop down. Is he trying to get a better grip?",
+        "After {ACTIVE} opens you up with a few deep pushes you take him more easily and begin to enjoy it.",
+        "You could get used to this.",
+        "Aah... ahhh... what are you doing? What would your friends think of you, if they saw you like this?",
+        "You've never felt so {LEWD} before, and you like it. You want more.",
+        "You can feel the dog's matted fur between your {BUTTOCKS} while he {INSERT}s in and out of you.",
+        "You're committing bestiality... Are you really into that sick stuff?",
+        "To be desired by this {ANIMAL}... For your body to elicit such an urge, for an animal to {FUCK} a human...",
+        "Your cheeks burn red with embarrassment, you don't want to be seen like this, with a dog up your {PUSSY}...",
+        "This is so wrong... You're a good girl, you shouldn't be fucking a dog...",
+        "({PRIMARY}) Are you watching me? Watch me debase myself with an animal, letting him {FUCK} my {PUSSY}.",
+        "It's hot and {BEASTLY}, filling your {WTVAGINAL} {PUSSY} completely.",
+        "You never knew you were a {BITCH} who'd even do it with a dog! The voices fill you with shame and {LUST}.",
+        "Mmmmm...! You should get a dog to guard your bed... And to share it!",
+        "You wonder... do other girls {FUCK} dogs? And keep it a secret? Maybe you're a freak..."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} drops down onto {PRIMARY}, but never stops humping her.",
+        "Is {PRIMARY} really into bestiality? What a {BITCH}...",
+        "This can't be normal, can it? A woman letting a dog have sex with her...?",
+        "{ACTIVE}'s fur rubs against {PRIMARY}'s back. That must feel so strange...",
+        "({PRIMARY}) Are you watching me? Watch me debase myself with an animal, letting him {FUCK} my {PUSSY}."
+    ]
+}

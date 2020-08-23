@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I can't help but start to fuck back, the {BEASTLY} {COCK} {INSERT}ed completely inside me feeling amazing...",
+        "I'm completely aloft now, held up by monster's {BEASTLY} {COCK}, my full weight pushing me down onto it.",
+        "I arch my back, pushing out my {HEAVING} {BOOBS} as the {MONSTER} gives me a hard, deep fuck.",
+        "I feel adrenaline rush through me. If a {MONSTER} is going to {FUCK} me, then I'm going to {FUCK} right back!",
+        "The rough {FUCK}ing becomes more pleasurable and I begin thrusting back, wanting to {ACCEPT} it deeper.",
+        "This {MONSTER}'s {COCK}... Feels so incredible... {FUCK}ing me with such force."
+    ],
+    "2nd Person": [
+        "You can't help but start to fuck back, the {BEASTLY} {COCK} {INSERT}ed completely inside you feeling amazing...",
+        "You're completely aloft now, held up by monster's {BEASTLY} {COCK}, your full weight pushing you down onto it.",
+        "You arch your back, pushing out your {HEAVING} {BOOBS} as the {MONSTER} gives you a hard, deep fuck.",
+        "You feel adrenaline rush through you. If a {MONSTER} is going to {FUCK} you, then you're going to {FUCK} right back!",
+        "The rough {FUCK}ing becomes more pleasurable and you begin thrusting back, wanting to {ACCEPT} it deeper.",
+        "This {MONSTER}'s {COCK}... Feels so incredible... {FUCK}ing you with such force."
+    ],
+    "3rd Person": [
+        "{PRIMARY} can't help but start to fuck back, the {BEASTLY} {COCK} {INSERT}ed completely inside her feeling amazing...",
+        "{PRIMARY} is completely aloft now, held up by monster's {BEASTLY} {COCK}, her full weight pushing her down onto it.",
+        "{PRIMARY} arches her back, pushing out her {HEAVING} {BOOBS} as the {MONSTER} gives her a hard, deep fuck.",
+        "{PRIMARY} feels adrenaline rush through her. If a {MONSTER} is going to {FUCK} her, then she's going to {FUCK} right back!",
+        "The rough {FUCK}ing becomes more pleasurable and {PRIMARY} begins thrusting back, wanting to {ACCEPT} it deeper.",
+        "This {MONSTER}'s {COCK}... Feels so incredible... {FUCK}ing {PRIMARY} with such force."
+    ]
+}

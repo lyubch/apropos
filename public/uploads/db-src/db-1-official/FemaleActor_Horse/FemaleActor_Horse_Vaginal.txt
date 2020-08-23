@@ -1,0 +1,48 @@
+{
+    "1st Person": [
+        "I guide the {ACTIVE}'s flared head into my {PUSSY}, shaking with fear and anticipation.",
+        "I scream in pain as I accept the {ACTIVE}'s first thrust. The first of many.",
+        "I gulp and put my head down, clenching my teeth for the inevitable.",
+        "I can't believe I'm actually gonna do this...",
+        "I think I want to go for a horse ride, I giggle.",
+        "I see his {BEAST}, leaking, length of hard flesh, and I'm lost, my {PUSSY} burning with lust.",
+        "I have no other thought than having that {BEAST} piece of meat shoved right up into me.",
+        "Ugh... ngh... AH! It's in...",
+        "My {WTVAGINAL} {PUSSY} is dripping wet and steaming, and the {BEAST} {COCK} slides wetly into me.",
+        "I'm ready to be fucked full of that {BEAST} {COCK} and filled with another load of horse-{CUM}.",
+        "Poor thing, I know what it's like to be ridden hard. Why don't you ride me for a change?",
+        "I just adore that {BEAST} horse-{COCK}, the sight causing me to tremble.",
+        "That horse looks like it'd give me the kind of fucking I'd feel for days...",
+        "Looks like somebody wants to go for a horse ride (giggle).",
+        "I cry out in pain as {ACTIVE} inserts its {COCK} inside my {FAROUSAL} {PUSSY}.",
+        "My {FAROUSAL} {PUSSY} ripples and the tip of the {ACTIVE}'s {COCK} slips into my {PUSSY}."
+    ],
+    "2nd Person": [
+        "You guide the {ACTIVE}'s flared head into your {PUSSY}, shaking with fear and anticipation.",
+        "You scream in pain as you accept the {ACTIVE}'s first thrust. The first of many.",
+        "You gulp and put your head down, clenching your teeth for the inevitable.",
+        "You can't believe you're actually gonna do this...",
+        "{PRIMARY}) I think I want to go for a horse ride! (giggle)",
+        "You see his {BEAST}, leaking, length of hard flesh, and you're lost, your {PUSSY} burning with lust.",
+        "You have no other thought than having that {BEAST} piece of meat shoved right up into you.",
+        "Ugh... ngh... AH! It's in...",
+        "Your {WTVAGINAL} {PUSSY} is dripping wet and steaming, and the {BEAST} {COCK} slides wetly into you.",
+        "You're ready to be fucked full of that {BEAST} {COCK} and filled with another load of horse-{CUM}.",
+        "({PRIMARY}) Poor thing, I know what it's like to be ridden hard. Why don't you ride me for a change?'",
+        "You just adore that {BEAST} horse-prick, the sight causing you to tremble.",
+        "That horse looks like it'd give you the kind of fucking you'd feel for days...",
+        "({PRIMARY}) Looks like somebody wants to go for a horse ride'",
+        "You cry out in pain as {ACTIVE} inserts its {COCK} inside your {FAROUSAL} {PUSSY}.",
+        "Your {FAROUSAL} {PUSSY} ripples as the tip of the {ACTIVE}'s {COCK} slips into it."
+    ],
+    "3rd Person": [
+        "{PRIMARY} guides the {ACTIVE}'s flared head into her {PUSSY}, shaking with fear and anticipation.",
+        "{PRIMARY} screams in pain as she accepts the {ACTIVE}'s first thrust. The first of many.",
+        "{PRIMARY} gulps and puts her head down, clenching her teeth for the inevitable.",
+        "({PRIMARY}) Ugh... ngh... AH! It's in...",
+        "{PRIMARY}'s {WTVAGINAL} {PUSSY} is dripping wet and steaming, and the {BEAST} {COCK} slides wetly into her.",
+        "({PRIMARY}) Poor thing, I know what it's like to be ridden hard. Why don't you ride me for a change?",
+        "That horse looks like it'd give her the kind of fucking I'd feel for days...",
+        "{PRIMARY} cries out in pain as {ACTIVE} inserts its {COCK} inside her {FAROUSAL} {PUSSY}."
+    ]
+}

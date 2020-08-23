@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "I can feel it now, so intensely. Both the monster and myself are almost there, about to reach a thunderous climax.",
+        "I stare up in wonder at the horrifying monster hanging over me, the monster that's fucking me to orgasm.",
+        "Its {COCK} is deeper now, deeper than I thought was possible, certainly deeper than I thought would feel good...",
+        "Oh Gods... Madness threatens to overtake me, and I fight the urge to lean up and kiss the brute as we both near climax.",
+        "My legs flail limply as my body is rocked back and forth.",
+        "I look up into the face of the beast as it fucks me, seeing only bestial lust.",
+        "The beast fucks me relentlessly. My heart races, I know that soon I will be carrying the monster's child.",
+        "I watch aghast as the beast's {COCK} bulges my stomach again and again."
+    ],
+    "2nd Person" :
+    [
+        "You can feel it now, so intensely. Both the monster and yourself are almost there, about to reach a thunderous climax.",
+        "You stare up in wonder at the horrifying monster hanging over you, the monster that's fucking you to orgasm.",
+        "Its {COCK} is deeper now, deeper than you thought was possible, certainly deeper than you thought would feel good...",
+        "Oh Gods... Madness threatens to overtake you, and you fight the urge to lean up and kiss the brute as you both near climax.",
+        "Your legs flail limply as your body is rocked back and forth.",
+        "You look up into the face of the beast as it fucks you, seeing only bestial lust.",
+        "The beast fucks you relentlessly. Your heart races, you know that soon you will be carrying the monster's child.",
+        "You watch aghast as the beast's {COCK} bulges your stomach again and again."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s legs flail limply as her body is rocked back and forth.",
+        "{PRIMARY} stares up at the beast as it fucks her, it's face a mask of bestial lust.",
+        "The beast's {COCK} bulges {PRIMARY}'s stomach again and again. That should be agony, but her moans tell a different story."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "1st Person": [
+        "I run my hand along the length of his {COCK}, marvelling at the {GIRTH} of it. I wonder... could I {ACCEPT} it all?",
+        "I {QUIVER} with barely suppressed {LUST} as the {ACTIVE}'s {COCK} gets {MAROUSAL} in my hand... I want it inside me...",
+        "{SWEARING}! The smell just makes me want to go wild! Maybe I'll decide after I fondle him a little...",
+        "I feel my {PUSSY} {QUIVER}ing as the {ACTIVE}'s {COCK} throbs in my hand, {SLOW}ly extending to a dizzying length...",
+        "I can't even get my hand all the way around it... will this even fit in my {PUSSY}?",
+        "My heart flutters with {LUST} as I {WANK} the {ACTIVE} to full hardness... I can't wait to take him inside me...",
+        "I feel some {CREAM} trickle down my thigh as I pump my hand up and down his {COCK}... it's so {HUGE}..."
+    ],
+    "2nd Person": [
+        "You run your hand along the length of his {COCK}, marvelling at the {GIRTH} of it. You wonder... could you {ACCEPT} it all?",
+        "You {QUIVER} with barely suppressed {LUST} as the {ACTIVE}'s {COCK} gets {MAROUSAL} in your hand... You want it inside you...",
+        "{SWEARING}! The smell just makes you want to go wild! Maybe you'll decide after you fondle him a little...",
+        "You feel your {PUSSY} {QUIVER}ing as the {ACTIVE}'s {COCK} throbs in your hand, {SLOW}ly extending to a dizzying length...",
+        "You can't even get your hand all the way around it... will this even fit in your {PUSSY}?",
+        "Your heart flutters with {LUST} as you {WANK} the {ACTIVE} to full hardness... You can't wait to take him inside you...",
+        "You feel some {CREAM} trickle down your thigh as you pump your hand up and down his {COCK}... it's so {HUGE}..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} easily coaxes the {ACTIVE}'s {COCK} from its sheath, stroking it to it's full, throbbing length.",
+        "With the {ACTIVE} on its side, the full length of its {BEASTLY} {COCK} is {NUDE} to {PRIMARY} hands."
+    ]
+}

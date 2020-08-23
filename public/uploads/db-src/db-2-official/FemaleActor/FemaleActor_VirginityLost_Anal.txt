@@ -1,0 +1,13 @@
+{
+    "1st Person": [
+        "Warmth starts to fill me as I feel the strange sensation of {CUM} in my {ASS}.",
+        "Oh my Gods! I've never had anyone there. And it was so damn big. How? How did it even fit?"
+    ],
+    "2nd Person": [
+        "Warmth starts to fill you as you feel the strange sensation of {CUM} in your {ASS}.",
+        "Oh my Gods! You've never had anyone there. And it was so damn big. How? How did it even fit?"
+    ],
+    "3rd Person": [
+        "{PRIMARY} looks strained and exhausted, even a little hurt. Was that her first time in the {ASS}?"
+    ]
+}

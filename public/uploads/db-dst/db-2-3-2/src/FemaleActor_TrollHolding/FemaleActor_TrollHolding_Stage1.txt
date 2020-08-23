@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "The {ACTIVE} holds me aloft, pumping me quickly onto his {BEASTLY} {COCK}. I gaze up at it, awestruck.",
+        "My {FLESH} goes completely {SUBMISSIVE} as I'm impaled on the {ACTIVE}'s {BEASTLY} {COCK}.",
+        "I let out a {LEWD} {SCREAM} as I am {RAP}ed on the {MONSTER}'s {COCK}.",
+        "I give a delighted {SCREAM} as the {MONSTER} {ROUGH}ly spreads my legs and {FUCK}s its {BEASTLY} {COCK} into me.",
+        "A delighted {SCREAM} escapes my lips as the {ACTIVE} {ROUGH}ly spreads me and {FUCK}s its {COCK} into me."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} holds you aloft, pumping you quickly onto his {BEASTLY} {COCK}. You gaze up at it, awestruck.",
+        "Your {FLESH} goes completely {SUBMISSIVE} as you're impaled on the {ACTIVE}'s {BEASTLY} {COCK}.",
+        "You let out a {LEWD} {SCREAM} as you are {RAP}ed on the {MONSTER}'s {COCK}.",
+        "You give a delighted {SCREAM} as the {MONSTER} {ROUGH}ly spreads your legs and {FUCK}s its {BEASTLY} {COCK} into you.",
+        "A delighted {SCREAM} escapes your lips as the {ACTIVE} {ROUGH}ly spreads you and {FUCK}s its {COCK} into you."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} holds {PRIMARY} aloft, pumping her quickly onto his {BEASTLY} {COCK}.",
+        "{PRIMARY}'s {FLESH} goes completely {SUBMISSIVE} as she's impaled on the {ACTIVE}'s {BEASTLY} {COCK}.",
+        "{PRIMARY} lets out a {LEWD} {SCREAM} as she's {RAP}ed on the {MONSTER}'s {COCK}."
+    ]
+}

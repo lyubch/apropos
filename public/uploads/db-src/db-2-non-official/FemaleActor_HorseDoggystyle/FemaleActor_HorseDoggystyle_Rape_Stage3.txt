@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "Panic overcomes me, and I pump back {ROUGH}ly, desperate to make the {ACTIVE} cum before it kills me.",
+        "I lose myself, revelling in the pain, and I start to fuck back, pushing my hips back as far as I can.",
+        "I {SCREAM} with every impact into my cervix, and I feel it starting to open. This is going to hurt...",
+        "{SWEARING}... Uhhh! Nghh! He's going to open me... This {ACTIVE} is about to {FUCK} me all the way to the base...",
+        "I lose control and start to fuck back against the {BEASTLY} {COCK}.",
+        "I feel my cervix {ACCEPT} the impact and I almost cum straight away.",
+        "I can't take it, this {ACTIVE} is driving me to orgasm!"        
+    ],
+    "2nd Person" :
+    [
+        "Panic overcomes you, and you pump back {ROUGH}ly, desperate to make the {ACTIVE} cum before it kills you.",
+        "You lose yourself, revelling in the pain, and start to fuck back, pushing your hips back as far as you can.",
+        "You {SCREAM} with every impact into your cervix, and you feel it starting to open. This is going to hurt...",
+        "{SWEARING}... Uhhh! Nghh! He's going to open you... This {ACTIVE} is about to {FUCK} you all the way to the base...",
+        "You lose control and start to fuck back against the {BEASTLY} {COCK}.",
+        "You feel your cervix {ACCEPT} the impact and you almost cum straight away.",
+        "You can't take it, this {ACTIVE} is driving you to orgasm!"
+    ],
+    "3rd Person" :
+    [
+        "{SWEARING}, {PRIMARY}'s actually {FUCK}ing back! Has she lost her mind?",
+        "It's not going to be long now, {PRIMARY}'s about to have an animal cum inside her...",
+        "How is {PRIMARY} taking such a pounding? How is such a {BEASTLY} {COCK} even fitting insider her?",
+        "Tears are streaming down {PRIMARY}'s face, but there's no mistaking the sight of a woman cumming.",
+        "Does a {COCK} that {BEASTLY} feel... good? Even though she's being forced, {PRIMARY} looks {HORNY}..."
+    ]
+}

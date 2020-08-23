@@ -1,0 +1,37 @@
+{
+    "1st Person" :
+    [
+        "My head rocks back and all breath is knocked from me as the {BEAST} knot buries itself in my {PUSSY}.",
+        "The {ACTIVE} roars above me as it cums, terror driving my own shameful orgasm.",
+        "The {ACTIVE} drives me all the way down onto his {PENIS}, impaling me fully. The pain is absolute.",
+        "The beast's {BEAST} {PENIS} thunders up inside me, piercing my cervix to unload straight into my womb.",
+        "An uncomfortably hot sensation grows in me as more and more of its fiery {CUM} is pumped into my body.",
+        "The beast howls and I feel its incredibly hot {CUM} pour into me. I moan as my insides begin to heat up.",
+        "My stomach begins to round out from the sheer amount of wolf-{CUM} being pumped into my belly.",
+        "I shake and quiver in orgasm as copious quantities of {THICK} {CUM} escape my {WTVAGINAL} {PUSSY}.",
+        "The flow of {CUM} is never-ending, filling my womb completely with his {CUM}.",
+        "The {ACTIVE} tenses, and I feel the first shot fire through and splash against the back of my uterus.",
+        "Its {BEAST} {PENIS} is buried to the hilt in me, the beast howling as it cums."
+    ],
+    "2nd Person" :
+    [
+        "Your head rocks back and all breath is knocked from you as the {BEAST} knot buries itself in your {PUSSY}.",
+        "The {ACTIVE} roars above you as it cums, terror driving your own shameful orgasm.",
+        "The {ACTIVE} drives you all the way down onto his {PENIS}, impaling you fully. The pain is absolute.",
+        "The beast's {BEAST} {PENIS} thunders up inside you, piercing your cervix to unload straight into your womb.",
+        "An uncomfortably hot sensation grows in you as more and more of its fiery {CUM} is pumped into your body.",
+        "The beast howls and you feel its incredibly hot {CUM} pour into you. You moan as your insides begin to heat up.",
+        "Your stomach begins to round out from the sheer amount of wolf-{CUM} being pumped into your belly.",
+        "You shake and quiver in orgasm as copious quantities of {THICK} {CUM} escape your {WTVAGINAL} {PUSSY}.",
+        "The flow of {CUM} is never-ending, filling your womb completely with his {CUM}.",
+        "The {ACTIVE} tenses, and you feel the first shot fire through and splash against the back of your uterus.",
+        "Its {BEAST} {PENIS} is buried to the hilt in you, the beast howling as it cums."
+    ],
+    "3rd Person" :
+    [
+        "The creature's angry roar drowns out {PRIMARY}'s own reluctant moans as she climaxes on the monster's {COCK}.",
+        "{PRIMARY}'s head falls back, a painful look on her face as the beast buries its entire {COCK} inside her.",
+        "The {ACTIVE}'s tight grip on {PRIMARY}'s waist draws a little blood as it holds her all the way down.",
+        "Oh my, it's doing it! The {ACTIVE} is inseminating {PRIMARY} right now!"
+    ]
+}

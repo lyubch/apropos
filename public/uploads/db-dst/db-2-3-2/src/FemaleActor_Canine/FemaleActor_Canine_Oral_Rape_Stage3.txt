@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "Mustering my courage, I push my head forward and take a few inches of dog-{COCK} in my {MOUTH}.",
+        "I suppress a gag, opening my {MOUTH} and taking {ACTIVE}'s {SALTY} {COCK} inside.",
+        "{ACTIVE}'s {COCK} tastes {VILE}, but something about it is turning me on...",
+        "As {ACTIVE}'s {COCK} slips into my {MOUTH}, I have no choice but to gulp down his pre-cum."
+    ],
+    "2nd Person": [
+        "Mustering your courage, you push your head forward and take a few inches of dog-{COCK} in your {MOUTH}.",
+        "You suppress a gag, opening your {MOUTH} and taking {ACTIVE}'s {SALTY} {COCK} inside.",
+        "{ACTIVE}'s {COCK} tastes {VILE}, but something about it is turning you on...",
+        "As {ACTIVE}'s {COCK} slips into your {MOUTH}, you have no choice but to gulp down his pre-cum."
+    ],
+    "3rd Person": [
+        "It's obvious from {PRIMARY}'s furrowed brow that what she's doing is {VILE}...",
+        "{PRIMARY} clenches her eyes, before taking {ACTIVE}'s {COCK} into her {MOUTH}."
+    ]
+}

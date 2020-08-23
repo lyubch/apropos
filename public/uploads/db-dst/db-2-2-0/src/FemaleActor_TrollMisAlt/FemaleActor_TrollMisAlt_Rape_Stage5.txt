@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "I raise my knees together in a vain attempt to stop the monster spearing me on his entire {BEAST} {PENIS}.",
+        "The beast's strokes are painful, feeding my poor {PUSSY} the entire length of its {COCK}.",
+        "I can't help but gasp and moan as the {ACTIVE} picks up the pace, fucking me hard and deep.",
+        "I stare up at the {ACTIVE}, not even looking at me as it fucks me right the way to my core.",
+        "With every colossal thrust I feel my cervix begin to give way, and the brute's heavy balls on my ass.",
+        "The {ACTIVE}'s {COCK} pounds into me in a blur. All I can do is hold on and take it.",
+        "The sex is brutal, the beast slamming into my {PUSSY} like a battering ram again and again."        
+    ],
+    "2nd Person" :
+    [
+        "You raise your knees together in a vain attempt to stop the monster spearing you on his entire {BEAST} {PENIS}.",
+        "The beast's strokes are painful, feeding your poor {PUSSY} the entire length of its {COCK}.",
+        "You can't help but gasp and moan as the {ACTIVE} picks up the pace, fucking you hard and deep.",
+        "You stare up at the {ACTIVE}, not even looking at you as it fucks you right the way to your core.",
+        "With every colossal thrust you feel your cervix begin to give way, and the brute's heavy balls on your ass.",
+        "The {ACTIVE}'s {COCK} pounds into you in a blur. All you can do is hold on and take it.",
+        "The sex is brutal, the beast slamming into your {PUSSY} like a battering ram again and again." 
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} raises her knees together in a vain attempt to stop the monster spearing her on his entire {BEAST} {PENIS}.",
+        "{PRIMARY} gasps and moans as the {ACTIVE} picks up the pace, fucking her hard and deep.",
+        "The sex is brutal, the beast slamming into {PRIMARY}'s {PUSSY} like a battering ram again and again." 
+    ]
+}

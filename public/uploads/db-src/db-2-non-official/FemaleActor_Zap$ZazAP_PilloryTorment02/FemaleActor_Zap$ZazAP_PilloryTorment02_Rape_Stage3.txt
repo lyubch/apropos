@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "Fear crashes over me as I feel something cold and hard push inside my {WTVAGINAL} {PUSSY} and start to {FUCK} me.",
+        "I'm paralyzed with {FEAR}, not daring to move as inch after inch of something hard begins to pump into me.",
+        "{SWEARING}, what is that?! Ahhh! You {JERK}, stop this! You can't do this to me! Nghhh!",
+        "My mind races, even as my {PUSSY} is {RAP}ed with something hard and coarse. What the hell is he {FUCK}ing me with?",
+        "({ACTIVE}) Only good girls get {COCK}, a bad little {BITCH} like you will have to make do with this!",
+        "({ACTIVE}) I bet everyone would love to see just how many inches you can take, {BITCH}.",
+        "My hips {QUIVER} as inch after inch of whatever this is pushes up inside me.",
+        "There's nothing I can do, no way to escape, and I {SCREAM} as something is pushed inside me.",
+        "Ngh... It's so deep... Uhhh... I feel it...AHH! hitting my cervix with every... mmmmm.... stroke..."        
+    ],
+    "2nd Person" :
+    [
+        "Fear crashes over you as something cold and hard {PENETRAT}es inside your {WTVAGINAL} {PUSSY} and start to {FUCK} you.",
+        "You're paralyzed with {FEAR}, not daring to move as inch after inch of something hard begins to pump into you.",
+        "({PRIMARY}) {SWEARING}, what is that?! Ahhh! You {JERK}, stop this! You can't do this to me! Nghhh!",
+        "Your mind races as your {PUSSY} is {RAP}ed with something hard and coarse. What the hell is he {FUCK}ing you with?",
+        "({ACTIVE}) Only good girls get {COCK}, a bad little {BITCH} like you will have to make do with this!",
+        "({ACTIVE}) I bet everyone would love to see just how many inches you can take, {BITCH}.",
+        "Your hips {QUIVER} as inch after inch of whatever this is pushes up inside you.",
+        "There's nothing you can do, no way to escape, and you {SCREAM} as something is pushed inside you.",
+        "Ngh... It's so deep... Uhhh... you feel it...AHH! hitting your cervix with every... mmmmm.... stroke..."
+    ],
+    "3rd Person" :
+    [
+        "{SWEARING}, he's {FUCK}ing her with a broom handle!",
+        "{PRIMARY} {SCREAM}s and {MOAN}s in {PAIN} as {ACTIVE} starts to ram the handle of a broom up her {PUSSY}.",
+        "Is this really a fitting punishment? To abuse and degrade a {SUBMISSIVE} woman this way?",
+        "Oh my, that's too much... It would be less cruel for {ACTIVE} to {FUCK} her with his {COCK}..."
+    ]
+}

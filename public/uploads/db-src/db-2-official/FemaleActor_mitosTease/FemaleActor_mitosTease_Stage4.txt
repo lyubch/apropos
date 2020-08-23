@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "I look up at {ACTIVE}, panting and spreading myself open for him. I want him to fuck me so bad...",
+        "Don't cum yet... Don't you want to fuck me? Look, I'm so wet for you...",
+        "{ACTIVE} pumps his {PENIS}, and I see the hunger in his gaze. He's going to take me, right now...",
+        "We stare into each other's eyes hungrily, playing with ourselves. Oh Gods, this is going to happen...",
+        "I'll let you cum anywhere you want. In my {PUSSY}... Even in my {ASS}...",
+        "I'm wet as fuck right now just imagining it shooting on me... or... mmmmm... in me!",
+        "Wouldn't you like to stick your {PENIS} way up in my {PUSSY} and squirt your {CUM}?",
+        "He's going to try to fuck me... And I'm going to let him...",
+        "Whatever you want to do next, I won't say no..."
+    ],
+    "2nd Person" :
+    [
+        "You look up at {ACTIVE}, panting and spreading yourself open for him. You want him to fuck you so bad...",
+        "({PRIMARY}) Don't cum yet... Don't you want to fuck me? Look, I'm so wet for you...",
+        "{ACTIVE} pumps his {PENIS}, and you see the hunger in his gaze. He's going to take you, right now...",
+        "You stare into each other's eyes hungrily, playing with yourselves. Oh Gods, this is going to happen...",
+        "({PRIMARY}) I'll let you cum anywhere you want. In my {PUSSY}... Even in my {ASS}...",
+        "You're wet as fuck right now just imagining it shooting on you... or... mmmmm... in you!",
+        "({PRIMARY}) Wouldn't you like to stick your {PENIS} way up in my {PUSSY} and squirt your {CUM}?",
+        "He's going to try to fuck you... And you're going to let him...",
+        "({PRIMARY}) Whatever you want to do next, I won't say no..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} props herself up, spreading herself for {ACTIVE}. She's ready to be fucked now!",
+        "{ACTIVE} keeps pumping his {PENIS}, staring at the beautiful {BITCH} lying spread for him.",
+        "They're both staring hungrily at each other, playing with themselves... They're going to do it!"
+    ]
+}

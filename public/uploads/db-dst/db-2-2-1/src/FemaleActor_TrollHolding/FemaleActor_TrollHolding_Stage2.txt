@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "Unable to move, much less join in, I hang limply in the monster's grasp as it ravishes me.",
+        "Ah! Yes! This is what I wanted! Fuck me, use me, I'm just your {WHORE}!",
+        "The {ACTIVE} is huge, it feels like its {COCK} is in my stomach.",
+        "Consumed by lust, I submit, and the {ACTIVE} fucks me mercilessly.",
+        "The beast howls as my {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEAST} {COCK}."        
+    ],
+    "2nd Person" :
+    [
+        "Unable to move, much less join in, you hang limply in the monster's grasp as it ravishes you.",
+        "({PRIMARY}) Ah! Yes! This is what I wanted! Fuck me, use me, I'm just your {WHORE}!",
+        "The {ACTIVE} is huge, it feels like its {COCK} is in your stomach.",
+        "Consumed by lust, you submit, and the {ACTIVE} fucks you mercilessly.",
+        "The beast howls as your {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEAST} {COCK}."
+    ],
+    "3rd Person" :
+    [
+        "Still too terrified to move or fight back, {PRIMARY} hangs in the monster's grasp as it fucks her.",
+        "{PRIMARY} grunts with passion each time the beast thrusts itself inside her.",
+        "The creature starts to roughly fuck {PRIMARY}, like a wild animal taking a mate." 
+    ]
+}

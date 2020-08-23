@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "My heart thundering in my chest, I hold the beast's {COCK} still as I sink down onto it.",
+        "The power I feel as the {ACTIVE} stares up hungrily at me is intoxicating, driving me wild as I sink onto its {PENIS}.",
+        "Oh wow, this {ACTIVE} has such a huge {COCK}! I'm going to fuck myself silly on this!",
+        "You don't mind if I do this, do you Mr {ACTIVE}? Mmmm... ah! I think I'm going to enjoy this even more than you will!",
+        "I grunt as I impale myself on the {ACTIVE}. I didn't know I could take so much {COCK}.",
+        "The beast's {BEAST} {COCK} freely leaks a steady stream of pre-cum as I slide down it, easing its passage.",
+        "I know wanting to fuck a troll is pretty sick, but here I am, {PUSSY} spread and stuffed with troll-{COCK}.",
+        "This place smells of sex, musky and thick. How many other young girls come here to be fucked by this beast?"
+    ],
+    "2nd Person" :
+    [
+        "Your heart thundering in your chest, you hold the beast's {COCK} still as you sink down onto it.",
+        "The power you feel as the {ACTIVE} stares up hungrily at you is intoxicating, driving you wild as you sink onto its {PENIS}.",
+        "Oh wow, this {ACTIVE} has such a huge {COCK}! You're going to fuck yourself silly on this!",
+        "({PRIMARY}) You don't mind if I do this, do you Mr {ACTIVE}? Mmmm... I think I'm going to enjoy this even more than you!",
+        "You grunt as you impale yourself on the {ACTIVE}. You didn't know you could take so much {COCK}.",
+        "The beast's {BEAST} {COCK} freely leaks a steady stream of pre-cum as you slide down it, easing its passage.",
+        "You know wanting to fuck a troll is pretty sick, but here you are, {PUSSY} spread and stuffed with troll-{COCK}.",
+        "This place smells of sex, musky and thick. How many other young girls come here to be fucked by this beast?"
+    ],
+    "3rd Person" :
+    [
+        "It's clear that {PRIMARY} is a little intimidated, even as she does her best to appear sexy for this monster.",
+        "Oh wow, look at that brute's {COCK}! {PRIMARY} takes one look at it, before parting her legs and sinking down onto it.",
+        "{PRIMARY} is putting on such a sexy show that the {ACTIVE} just lays there as she slides down its {COCK}."
+    ]
+}

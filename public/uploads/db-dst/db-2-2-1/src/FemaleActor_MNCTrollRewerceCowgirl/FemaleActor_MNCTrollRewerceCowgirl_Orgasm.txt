@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "It's only me that's moving now, desperate to finally cum, even as the brute empties its balls inside me.",
+        "Possessed, I pump my {FAROUSAL} {PUSSY} onto the creature's ejaculating {PENIS}, wanting its {THICK} {CUM} as deep as possible.",
+        "No! You can't cum now, I'm not there yet! Please, I want more, I beg you!",
+        "My muscles burning, I jerk my ass hard, fighting exhaustion to finally reach my climax.",
+        "Its {COCK} throbs, every vein bulging, balls engorged as they churn up a load of {CUM} into my waiting womb.",
+        "There's a puddle of {CUM} beneath me, and the {CUM} in my {PUSSY} is now running down my legs and ass."
+    ],
+    "2nd Person": [
+        "It's only you that's moving now, desperate to finally cum, even as the brute empties its balls inside you.",
+        "Possessed, you pump your {FAROUSAL} {PUSSY} onto the creature's ejaculating {PENIS}, wanting its {THICK} {CUM} as deep as possible.",
+        "({PRIMARY}) No! You can't cum now, I'm not there yet! Please, I want more, I beg you!",
+        "Your muscles burning, you jerk your ass hard, fighting exhaustion to finally reach your climax.",
+        "Its {COCK} throbs, every vein bulging, balls engorged as they churn up a load of {CUM} into your waiting womb.",
+        "There's a puddle of {CUM} beneath you, and the {CUM} in your {PUSSY} is now running down your legs and ass."
+    ],
+    "3rd Person": [
+        "It's only {PRIMARY} that's moving now, desperate to finally cum, even as the brute empties its balls inside her.",
+        "Possessed, {PRIMARY} pumps her {FAROUSAL} {PUSSY} onto the creature's ejaculating {PENIS}, wanting its {THICK} {CUM} as deep as possible.",
+        "({PRIMARY}) No! You can't cum now, I'm not there yet! Please, I want more, I beg you!",
+        "{PRIMARY}'s muscles burning, she jerks her ass hard, fighting exhaustion to finally reach her climax.",
+        "Its {COCK} throbs, every vein bulging, balls engorged as they churn up a load of {CUM} into {PRIMARY}'s waiting womb.",
+        "There's a puddle of {CUM} beneath {PRIMARY}, and the {CUM} in her {PUSSY} is now running down her legs and ass."
+    ]
+}

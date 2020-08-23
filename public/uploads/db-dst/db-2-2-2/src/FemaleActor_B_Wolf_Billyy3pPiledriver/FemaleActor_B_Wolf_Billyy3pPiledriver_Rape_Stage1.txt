@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I gasp as I feel a tongue behind the {COCK} in my {PUSSY}. Please don't tell me they want to fuck my ass too!",
+        "My vision blocked by the {COCK} sliding into my {PUSSY}, I lose track of the other wolf until he slips his tongue into my {ASS}!",
+        "Ugh, why is it licking me there... It's bad enough that I've been forced to spread my legs for a wolf...",
+        "I'm forced to watch every second as the wolf's {BEAST} {COCK} parts my lower lips, all the while the other laps at my {ASS}.",
+        "{SWEARING}, is that why they pulled my rear up like this? So they can {FUCK} my {PUSSY} and {ASS} at the same time?",
+        "I gasp as something warm and slimy runs over my {WTANAL} {ASS}, but I can't see what's happening behind the other's {COCK}."
+    ],
+    "2nd Person": [
+        "You gasp as you feel a tongue behind the {COCK} in your {PUSSY}. Oh Gods, do they want to fuck your ass too!?",
+        "Your vision blocked by the {COCK} fucking your {PUSSY}, you lose track of the other wolf until he slips his tongue into your {ASS}!",
+        "Ugh, why is it licking you there... It's bad enough that you've been forced to spread your legs for a wolf...",
+        "You're forced to watch every second as the wolf's {BEAST} {COCK} parts your lower lips, all the while the other laps at your {ASS}.",
+        "{SWEARING}, is that why they pulled your rear up like this? So they can {FUCK} your {PUSSY} and {ASS} at the same time?",
+        "You gasp as something warm and slimy runs over your {ASS}, but you can't see what's happening behind the other's {COCK}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} gasps as she feels a tongue behind the {COCK} in her {PUSSY}. Oh Gods, do they want to fuck her ass too!?",
+        "{PRIMARY}'s vision blocked by the {COCK} fucking her {PUSSY}, she loses track of the other wolf until he slips his tongue into her {ASS}!",
+        "Ugh, why is it licking {PRIMARY} there... It's bad enough that she's been forced to spread your legs for a wolf...",
+        "{PRIMARY} is forced to watch every second as the wolf's {BEAST} {COCK} parts her lower lips, all the while the other laps at her {ASS}.",
+        "{SWEARING}, is that why they pulled {PRIMARY}'s rear up like this? So they can {FUCK} her {PUSSY} and {ASS} at the same time?",
+        "{PRIMARY} gasps as something warm and slimy runs over her {ASS}, but she can't see what's happening behind the other's {COCK}."
+    ]
+}

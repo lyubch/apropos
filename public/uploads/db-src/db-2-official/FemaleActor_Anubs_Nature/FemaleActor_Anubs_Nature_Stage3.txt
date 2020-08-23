@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "{SWEARING}! It's already down my throat, I don't think I can take it all, so warm and long.",
+        "After defying all my fear and worries, I take {ACTIVE} in my {MOUTH}, so deep and hard!",
+        "{ACTIVE} discovers my {PUSSY} as I gulp down its massive {COCK}, taking it deep in my {MOUTH}.",
+        "I love how your {BEAST} {COCK} fills and coats my {MOUTH} with thick precum, makes me want to suck it deeper.",
+        "My hand wasn't lying, {ACTIVE} is hard as wood, yet warm as my {PUSSY}. It's {MAROUSAL} {COCK} already leaks precum.",
+        "I take it in my {MOUTH} and bury its {COCK} inside me. I get a thick taste of its precum moving its way down my throat to my stomach.",
+	"I shove its {BEAST} {COCK} deep in my {MOUTH}, suck it and taste it with my tongue. {ACTIVE} replies by licking my {PUSSY}."
+    ],
+    "2nd Person" :
+    [
+        "It's already down your throat, you don't think you can take it all, so warm and long.",
+        "After defying all your fear and worries, you take {ACTIVE} in your {MOUTH}, so deep and hard!",
+        "{ACTIVE} discovers your {PUSSY} as you gulp down its massive {COCK}, taking it deep in your {MOUTH}.",
+        "You love how its {BEAST} {COCK} fills and coats your {MOUTH} with thick precum, makes you want to suck it deeper.",
+        "Your hand wasn't lying, {ACTIVE} is hard as wood, yet warm as your {PUSSY}. It's {COCK} already leaks precum.",
+        "You take it in your {MOUTH} and bury its {COCK} inside you. You get a thick taste of its precum moving its way down your throat to your stomach.",
+	"You shove its {BEAST} {COCK} deep in your {MOUTH}, suck it and taste it with your tongue. {ACTIVE} replies by licking your {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} can't hold herself anymore and swallows {ACTIVE}'s {BEAST} {COCK} deep in her {MOUTH}.",
+	"{PRIMARY} shoves {ACTIVE}'s {COCK} in her {MOUTH}. {ACTIVE} sees and starts licking {PRIMARY}'s {PUSSY} Both are in bliss."
+    ]
+}

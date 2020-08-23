@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "{ACTIVE} is not intimidated at all by my presence... in fact he seems quite happy to see me. I greet him with a light touch.",
+        "{ACTIVE}'s fur is so soft and warm, I lean back into it as I begin caressing its {BEAST} {COCK}... so long, and hard as wood...",
+        "{ACTIVE} welcomes me with his warm fur, I thank his kindness by starting to tease it's {PENIS} lightly.",
+        "Hello there, what a wonderful creature you are! Oh! Looks like you have a gift for me... Let me feel it.",
+        "Hmm, seems like someone is happy to see me... My, its very long and hard. Can I handle it?",
+        "And they say the wildlife of Skyrim is dangerous and untameable, all I see is a {BEAST} {COCK} in need of some care!"
+    ],
+    "2nd Person": [
+        "{ACTIVE} is not intimidated at all by your presence... in fact he seems quite happy to see you. You greet him with a light touch.",
+        "{ACTIVE}'s fur is so soft and warm, you lean back into it as you begin caressing its {BEAST} {COCK}... so long, and hard as wood...",
+        "{ACTIVE} welcomes you with his warm fur, you thank his kindness by starting to tease it's {PENIS} lightly.",
+        "({PRIMARY}) Hello there, what a wonderful creature you are! Oh! Looks like you have a gift for me... Let me feel it.",
+        "Hmm, seems like someone is happy to see you... My, it looks very long and hard. Can you handle it?",
+        "And they say the wildlife of Skyrim is dangerous and untameable, all you see is a {BEAST} {COCK} in need of some care!"
+    ],
+    "3rd Person": [
+        "{ACTIVE} is not intimidated at all by {PRIMARY}'s presence... in fact he seems quite happy to see her. She greets him with a light touch.",
+        "{ACTIVE}'s fur is so soft and warm, {PRIMARY} leans back into it as she begins caressing its {BEAST} {COCK}... so long, and hard as wood...",
+        "{ACTIVE} welcomes {PRIMARY} with his warm fur, she thanks his kindness by starting to tease it's {PENIS} lightly.",
+        "({PRIMARY}) Hello there, what a wonderful creature you are! Oh! Looks like you have a gift for me... Let me feel it.",
+        "Hmm, seems like someone is happy to see {PRIMARY}... My, it looks very long and hard. Can she handle it?",
+        "And they say the wildlife of Skyrim is dangerous and untameable, all {PRIMARY} sees is a {BEAST} {COCK} in need of some care!"
+    ]
+}

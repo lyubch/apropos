@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "Trembling, I lean down underneath {ACTIVE}, staring in fear at his angry red {PENIS}.",
+        "The musty smell of {ACTIVE}'s {PENIS} is overpowering... I can't do this...",
+        "Only the tip of his {PENIS} touches my lips, and I recoil. I can't put this {BEAST} thing in my mouth!",
+        "{ACTIVE}'s already dribbling pre-cum, smearing my lips and fingers."
+    ],
+    "2nd Person": [
+        "Trembling, you lean down underneath {ACTIVE}, staring in fear at his angry red {PENIS}.",
+        "The musty smell of {ACTIVE}'s {PENIS} is overpowering... You can't do this...",
+        "Only the tip of his {PENIS} touches your lips, and you recoil. You can't put this thing in your mouth!",
+        "{ACTIVE}'s already dribbling pre-cum, smearing your lips and fingers."
+    ],
+    "3rd Person": [
+        "Trembling, {PRIMARY} leans down underneath {ACTIVE}, staring in fear at his angry red {PENIS}.",
+        "The musty smell of {ACTIVE}'s {PENIS} is overpowering... {PRIMARY} can't do this...",
+        "Only the tip of his {PENIS} touches {PRIMARY}'s lips, and she recoils. She can't put this thing in her mouth!",
+        "{ACTIVE}'s already dribbling pre-cum, smearing {PRIMARY}'s lips and fingers."
+    ]
+}

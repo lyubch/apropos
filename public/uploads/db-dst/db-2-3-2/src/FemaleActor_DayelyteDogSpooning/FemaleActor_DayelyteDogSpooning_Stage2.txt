@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "{ACTIVE} starts to pump his {BEASTLY} {COCK} more quickly into me. It feels good...",
+        "I don't care who sees me like this, and let my head hang back as I enjoy the feeling of {ACTIVE}'s {COCK}.",
+        "I lean back, hearing and feeling the hot panting of my animal lover at my ear.",
+        "Aah... Ahhh... What am I doing? What would my {MFAMILY} think of me, if he saw me like this?",
+        "My cheeks burn red with {LUST}, I want to be seen like this.",
+        "{SWEARING}... That's so good... I'm gonna cum... I'm gonna cum... Just a little more...",
+        "I'm joined together with {ACTIVE}, and I feel a connection, as if with any other lover.",
+        "I can't believe how {BEASTLY} {ACTIVE}'s {COCK} is. I'll need to do this more often!",
+        "I think I love dog {COCK} a lot.",
+        "It's turning me on to be getting {FUCK}ed by a dog."
+    ],
+    "2nd Person": [
+        "{ACTIVE} starts to pump his {BEASTLY} {COCK} more quickly into you. It feels good...",
+        "You don't care who sees you, your head hanging back as you enjoy the feeling of {ACTIVE}'s {COCK}.",
+        "You lean back, hearing and feeling the hot panting of your animal lover at your ear.",
+        "Aah... Ahhh... What are you doing? What would your friends think of you, if they saw you like this?",
+        "Your cheeks burn red with {LUST}, you want to be seen like this.",
+        "({PRIMARY}) {SWEARING}... That's so good... I'm gonna cum... I'm gonna cum... Just a little more...",
+        "You're joined together with {ACTIVE}, and you feel a connection, as if with any other lover.",
+        "You can't believe how {BEASTLY} {ACTIVE}'s {COCK} is. You'll need to do this more often!",
+        "You think you love dog {COCK} a lot.",
+        "It's turning you on to be getting {FUCK}ed by a dog."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is clearly lost to {LUST}. Who would have thought a dog could do that to a woman?",
+        "{PRIMARY} doesn't look like she cares who sees her in such a {LEWD} position...",
+        "{SWEARING}, is {PRIMARY} about to {EJACULATE} already? Is {ACTIVE}'s {COCK} really that good?",
+        "{PRIMARY} leans back into {ACTIVE}, and he begins to {FUCK} her harder and faster."
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "If I pretend to be dead, he'll leave me alone... {SWEARING}, he's not going away!",
+        "Consciousness starts to return {SLOW}ly, and I'm aware that someone is on top of me, feeling my {ASSHOLE}.",
+        "As I come to, I feel hands all over my {HEAVING} {FLESH}, and I'm too scared to move.",
+        "{SWEARING}, he thinks I'm out cold, and he's still going to {RAP}e me...",
+        "As my senses return to me, I feel something poking between my legs. Should I just... let him?",
+        "The first thing I'm aware of is my {BOOBS} crushed into the dirt. The second is between my legs...",
+        "My vision starts to clear, and I'm shocked to realise I'm being groped by someone!"
+    ],
+    "2nd Person" :
+    [
+        "If you pretend to be dead, he'll leave you alone... {SWEARING}, he's not going away!",
+        "Consciousness starts to return {SLOW}ly, and you're aware that someone is on top of you, feeling your {ASSHOLE}.",
+        "As you come to, you feel hands all over your {HEAVING} {FLESH}, and you're too scared to move.",
+        "{SWEARING}, he thinks you're out cold, and he's still going to {RAP}e you...",
+        "As your senses return to you, you feel something poking between your legs. Should you just... let him?",
+        "The first thing you're aware of is your {BOOBS} crushed into the dirt. The second is between your legs...",
+        "Your vision starts to clear, and you're shocked to realise you're being groped by someone!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} looks out cold, and the {ACTIVE} starts to grope her {ASSHOLE}.",
+        "{SWEARING}, what a {JERK}! Is the {ACTIVE} really going to {RAP}e an unconscious girl?!",
+        "{PRIMARY} is face down, her {BOOBS} crushed into the dirt, and her eyes are closed. She's helpless..."
+    ]
+}

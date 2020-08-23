@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "{SWEARING}, it's too hard, too fast! I can't take this, it'll rip me apart!",
+        "Pain thunders through me as the {ANIMAL} picks up speed, {FUCK}ing my {WTANAL} {ASSHOLE}.",
+        "The {ANIMAL} is plowing my {WTANAL} {ASSHOLE} {ROUGH}ly, not caring about my pained {SCREAM}s.",
+        "I {JIGGL}e my hips a bit, trying to {ACCEPT} the {GIRTH} of the {HUGE} {COCK} {INSERT}ed inside my {ASSHOLE}.",
+        "The huge filthy {ANIMAL} continues to {FUCK} into my {ASSHOLE}, my body {QUIVER}ing with every hit.",
+        "I have no idea how long the {ANIMAL} will continue to {RAP}e me like this...",
+        "I pray for this to end, but still the assault continues.",
+        "{SWEARING}, is it going to drag me back to its lair after this?"
+    ],
+    "2nd Person" :
+    [
+        "{SWEARING}, it's too hard, too fast! You can't take this, it'll rip you apart!",
+        "Pain thunders through you as the {ANIMAL} picks up speed, {FUCK}ing your {WTANAL} {ASSHOLE}.",
+        "The {ANIMAL} is plowing your {WTANAL} {ASSHOLE} {ROUGH}ly, not caring about your pained {SCREAM}s.",
+        "You {JIGGL}e your hips a bit, trying to {ACCEPT} the {GIRTH} of the {HUGE} {COCK} {INSERT}ed inside your {ASSHOLE}.",
+        "The huge filthy {ANIMAL} continues to {FUCK} into your {ASSHOLE}, your body {QUIVER}ing with every hit.",
+        "You have no idea how long the {ANIMAL} will continue to {RAP}e you like this...",
+        "You pray for this to end, but still the assault continues.",
+        "{SWEARING}, is it going to drag you back to its lair after this?"
+    ],
+    "3rd Person" :
+    [
+        "The {ANIMAL} is plowing {PRIMARY}'s poor {ASSHOLE} {ROUGH}ly, not caring about her pained {SCREAM}s.",
+        "The huge filthy {ANIMAL} continues to {FUCK} into {PRIMARY}'s {ASSHOLE}, her body {QUIVER}ing with every hit.",
+        "{SWEARING}, how is {PRIMARY} taking a {ROUGH} {FUCK} like that? And in the {ASSHOLE}, too!"
+    ]
+}

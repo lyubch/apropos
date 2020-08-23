@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I don't know if it was intentional, but I'm startled when its {COCK} slips up inside me in the struggle.",
+        "In a fit of desperation, I jump into the {ACTIVE}'s arms and onto its {BEASTLY} {COCK}.",
+        "I'm jerked up into the air with every sharp thrust from the {ACTIVE}'s {BEASTLY} {COCK}.",
+        "So it's true... Trolls like to abduct human girls to {FUCK}...",
+        "I {SCREAM} as I am impaled on the {ACTIVE}. I didn't know I could take so much {COCK}.",
+        "I've heard rumours that some {HEAVING} {NUDE} girls sneak out to troll lairs just to get {FUCK}ed... Ngh... I can tell why!"
+    ],
+    "2nd Person": [
+        "You don't know if it was intentional, but you're startled when its {COCK} slips up inside you in the struggle.",
+        "In a fit of desperation, you jump into the {ACTIVE}'s arms and onto its {BEASTLY} {COCK}.",
+        "You're jerked up into the air with every sharp thrust from the {ACTIVE}'s {BEASTLY} {COCK}.",
+        "So it's true... Trolls like to abduct human girls to {FUCK}...",
+        "You {SCREAM} as you are impaled on the {ACTIVE}. You didn't know you could take so much {COCK}.",
+        "You've heard rumours that some {HEAVING} {NUDE} girls sneak out to troll lairs just to get {FUCK}ed... Ngh... You can tell why!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} doesn't know if it was intentional, but she's startled when its {COCK} slips up inside her in the struggle.",
+        "In a fit of desperation, {PRIMARY} jumps into the {ACTIVE}'s arms and onto its {BEASTLY} {COCK}.",
+        "{PRIMARY} is jerked up into the air with every sharp thrust from the {ACTIVE}'s {BEASTLY} {COCK}.",
+        "So it's true... Trolls like to abduct human girls to {FUCK}...",
+        "{PRIMARY} {MOAN}s as she is impaled on the {ACTIVE}. She didn't know she could take so much {COCK}.",
+        "{PRIMARY} heard rumours that some {HEAVING} {NUDE} girls sneak out to troll lairs just to get {FUCK}ed... Ngh... She can tell why!"
+    ]
+}

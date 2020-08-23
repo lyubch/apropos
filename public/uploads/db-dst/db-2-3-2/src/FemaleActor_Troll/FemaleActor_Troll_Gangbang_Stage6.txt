@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "I've heard about {ACTIVE} gangbangs before... Does anyone actually survive this?",
+        "Their {HUGE}, {BEASTLY} {COCK}s {FUCK} {ROUGH}ly in and out of my {HOLE}s.",
+        "Their {BALLS} sway as they {FUCK} me; Soon I'll be covered in their {CUM}."
+    ],
+    "2nd Person": [
+        "You've heard about {ACTIVE} gangbangs before... Does anyone actually survive this?",
+        "Their {HUGE}, {BEASTLY} {COCK}s {FUCK} {ROUGH}ly in and out of your {HOLE}s.",
+        "Their {BALLS} sway as they {FUCK} you; Soon you'll be covered in their {CUM}."
+    ],
+    "3rd Person": [
+        "I've heard about {ACTIVE} gangbangs before... Does anyone actually survive this?",
+        "Their {HUGE}, {BEASTLY} {COCK}s {FUCK} {ROUGH}ly in and out of her {HOLE}s.",
+        "Their {BALLS} sway as they {FUCK} her; Soon she'll be covered in their {CUM}."
+    ]
+}

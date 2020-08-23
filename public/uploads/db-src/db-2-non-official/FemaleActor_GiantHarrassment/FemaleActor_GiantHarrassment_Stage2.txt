@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "Ughh... No, wait.... AAHHH! It's too much! I can't take it!",
+        "Both hands grasp the {ACTIVE}'s muscled chest as more and more of his {COCK} {INSERT}s inside me.",
+        "My mouth hangs open and I {MOAN} wordlessly as the {ACTIVE}'s {BEASTLY} {COCK} {FUCK}s me steadily.",
+        "The {ACTIVE} begins to {FUCK} me, steady and deep. I'm surprised I can take something so {HUGE}...",
+        "Slowly, agonisingly, I watch my {FLESH} {ACCEPT} his, his {HUGE} {GIRTH} bulging my flat tummy.",
+        "I've had never had such an {HUGE} one before, the sensation almost giving me an orgasm right away.",
+        "Does it turn you on to {FUCK} {NUDE} human girls? To stick your {HUGE} {COCK} way up inside us?",
+        "Are you gonna {FUCK} your {HUGE} {COCK} right up me, all the way to my throat? I can't wait!",
+        "{SWEARING}, I can't do this... his {COCK} is really too {HUGE}... AAAHHHHH!",
+        "How much have I taken? It feels like there's so much inside of me...",
+        "Ugh! Ahhhhhhh! The {ACTIVE}'s {COCK} makes me feel like a virgin again as it stretches my {PUSSY}..."        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Ughh... No, wait.... AAHHH! It's too much! I can't take it!",
+        "Both hands grasp the {ACTIVE}'s muscled chest as more and more of his {COCK} {INSERT}s inside you.",
+        "Your mouth hangs open and you gasp wordlessly as the {ACTIVE}'s {BEASTLY} {COCK} {FUCK}s you steadily.",
+        "The {ACTIVE} begins to {FUCK} you, steady and deep. You're surprised you can take something so {HUGE}...",
+        "Slowly, agonisingly, you watch your {FLESH} {ACCEPT} his, his {HUGE} {GIRTH} bulging your flat tummy.",
+        "You've had never had such an {HUGE} one before, the sensation almost giving you an orgasm right away.",
+        "({PRIMARY}) Does it turn you on to {FUCK} {NUDE} human girls? To stick your {HUGE} {COCK} way up inside us?",
+        "({PRIMARY}) Are you gonna {FUCK} your {HUGE} {COCK} right up me, all the way to my throat? I can't wait!",
+        "{SWEARING}, you can't do this... his {COCK} is really too {HUGE}... AAAHHHHH!",
+        "How much have you taken? It feels like there's so much inside of you...",
+        "Ugh! Ahhhhhhh! The {ACTIVE}'s {COCK} makes you feel like a virgin again as it stretches your {PUSSY}..."
+    ],
+    "3rd Person" :
+    [
+        "{SWEARING}, that must feel so intense... ",
+        "{PRIMARY} holds on to the {ACTIVE}'s chest, letting the {MONSTER} stick more of his {COCK} up inside her.",
+        "It's amazing that {PRIMARY} can take something so {HUGE}..."
+    ]
+}

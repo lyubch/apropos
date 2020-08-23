@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "This beast's {COCK}... feels so incredible... hammering me with such force.",
+        "I'm soon pressed down on my chest in a pool of our juices.",
+        "I feel tiny hooks scraping at my insides, preventing me from pulling off the beast's {COCK}.",
+        "No amount of shame from the act of submitting to a beast can overpower the need raging in my loins.",
+        "I learn quickly what it's like to fuck a cat, its hook covered {COCK} raking my insides.",
+        "The {ACTIVE}'s {COCK} is insanely large, and its head is covered in dozens of tiny barbs.",
+        "Here I am naked, face down in the dirt, ass in the air, with an animal's {COCK} in my {PUSSY}.",
+        "The {ACTIVE} stands over me, pounding its {COCK} into my {PUSSY}.",
+        "Fucking with an animal is depraved, I know, but it's all the more exciting because of that!",
+        "I can't believe I'm on my hands and knees, completely naked while a {ACTIVE} is ferociously fucking me.",
+        "Perhaps I've grown addicted to this dirty conduct of mine."
+    ],
+    "2nd Person": [
+        "This beast's {COCK}... feels so incredible... hammering you with such force.",
+        "You're soon pressed down on your chest in a pool of your juices.",
+        "You feel tiny hooks scraping at your insides, preventing you from pulling off the beast's {COCK}.",
+        "No amount of shame from the act of submitting to a beast can overpower the need raging in your loins.",
+        "You learn quickly what it's like to fuck a cat, its hook covered {COCK} raking your insides.",
+        "The {ACTIVE}'s {COCK} is insanely large, and its head is covered in dozens of tiny barbs.",
+        "Here you are naked, face down in the dirt, ass in the air, with an animal's {COCK} in your {PUSSY}.",
+        "The {ACTIVE} stands over you, pounding its {COCK} into your {PUSSY}.",
+        "Fucking with an animal is depraved, you know, but it's all the more exciting because of that!",
+        "You can't believe you're on your knees, completely naked while a {ACTIVE} is ferociously fucking you.",
+        "Perhaps you've grown addicted to this dirty conduct of yours."
+    ],
+    "3rd Person": [
+        "This beast's {COCK}... looks so incredible... hammering {PRIMARY} with such force.",
+        "{PRIMARY}'s soon pressed down on her chest in a pool of their juices.",
+        "{PRIMARY} can't seem to pull off the beast's {COCK}. Is she being held there somehow?",
+        "No amount of shame from the act of submitting to a beast can overpower the need raging in {PRIMARY}'s loins.",
+        "{PRIMARY} squeals as she's fucked by a cat, its hook covered {COCK} raking her insides.",
+        "The {ACTIVE}'s {COCK} is insanely large, and its head is covered in dozens of tiny barbs.",
+        "Here she is naked, face down in the dirt, ass in the air, with an animal's {COCK} in her {PUSSY}.",
+        "The {ACTIVE} stands over {PRIMARY}, pounding its {COCK} into her {PUSSY}.",
+        "Fucking with an animal is depraved, {PRIMARY} knows, but it's all the more exciting because of that!",
+        "{PRIMARY}'s on her knees, completely naked while a {ACTIVE} is ferociously fucking her.",
+        "Perhaps {PRIMARY}'s grown addicted to this dirty conduct of hers."
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "Его {MAROUSAL}ый {BUGCOCK} слишком большой, я не могу принять его. Он разрывает мою {FAROUSAL}ую {PUSSY}у!"
+    ],
+    "2nd Person": [
+        "Его {HUGELOAD}ый {BUGCOCK} слишком большой, вы не можете принять его. Он разрывает вашу {FAROUSAL}ую {PUSSY}у!"
+    ],
+    "3rd Person": [
+        "Его {MAROUSAL}ый {BUGCOCK} слишком большой, она не может принять его. Он разрывает её {FAROUSAL}ую {PUSSY}у!"
+    ]
+}

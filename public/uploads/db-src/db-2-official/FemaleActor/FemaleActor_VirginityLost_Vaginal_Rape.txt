@@ -1,0 +1,15 @@
+{
+    "1st Person": [
+        "I feel sick and my heart stops as {ACTIVE} fills my {PUSSY} with {CUM} for the first time.",
+        "They say you can't get pregnant the first time... I hope that's true...",
+        "Oh Gods, that hurt, that really hurt..."
+    ],
+    "2nd Person": [
+        "You feel sick and your heart stops as {ACTIVE} fills your {PUSSY} with {CUM} for the first time.",
+        "They say you can't get pregnant the first time... you hope that's true...",
+        "Oh Gods, that hurt, that really hurt..."
+    ],
+    "3rd Person": [
+        "Blood and {CUM} stream from between {PRIMARY}'s legs. What a horrible first time..."
+    ]
+}

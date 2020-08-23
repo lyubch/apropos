@@ -1,0 +1,12 @@
+{
+	"Skooma": 25,
+	"Redwater Skooma": 40,
+	"Double-Distilled Skooma": 50,
+	"Cyrodilic Brandy": 25,
+	"Balmora Blue": 25,
+	"White-Gold Tower": 25,
+	"Velvet LeChance": 25,
+	"Cliff Racer": 25,
+	"Spider Egg": 15,
+	"Chaurus Eggs": 15
+}

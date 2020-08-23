@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "I drop down and lift my {ASSHOLE}, {ACTIVE} immediately slobbering at my {PUSSY}. It feels so strange...",
+        "{SWEARING}! Dogs are so good at this...",
+        "On all fours, and hiding my face out of shame, I {MOAN} softly as {ACTIVE} starts to lick my {BUTTOCKS}.",
+        "{ACTIVE}'s thick, wide tongue licks me, hard and rough enough to get me really close to cumming.",
+        "{ACTIVE} slobbers and sniffs at my {WTVAGINAL} {PUSSY}. Maybe I should let him...?",
+        "{ACTIVE} slobbers at my {PUSSY}. {SWEARING}, you really want in there don't you? All right, go for it!",
+        "My heart races as I drop to the ground, signalling my submission to {ACTIVE}. I feel like a {BITCH}.",
+        "I can't believe I'm about to fuck a dog, but I'm {HORNY} at the prospect.",
+        "The {ACTIVE} slobbers and sniffs at my {FAROUSAL} {PUSSY}. Maybe I should let him...?",
+        "You wanna {FUCK} me, don'cha boy? I grin as I drop my clothes to the ground.",
+        "I curl up, {BUTTOCKS} in the air, not moving, just waiting for the dog to bury his bone."
+    ],
+    "2nd Person": [
+        "You drop down and lift your {ASSHOLE}, {ACTIVE} immediately slobbering at your {PUSSY}. It feels so strange...",
+        "{SWEARING}! Dogs are so good at this...",
+        "On all fours, and hiding your face out of shame, you {MOAN} softly as {ACTIVE} starts to lick your {BUTTOCKS}.",
+        "{ACTIVE}'s thick, wide tongue licks you, hard and rough enough to get you really close to cumming.",
+        "{ACTIVE} slobbers and sniffs at your {WTVAGINAL} {PUSSY}. Maybe you should let him...?",
+        "{ACTIVE} slobbers at your {PUSSY}. {SWEARING}, you really want in there don't you? All right, go for it!",
+        "Your heart races as you drop to the ground, signalling your submission to {ACTIVE}. You feel like a {BITCH}.",
+        "You can't believe you're about to fuck a dog, but you're {HORNY} at the prospect.",
+        "The {ACTIVE} slobbers and sniffs at your {FAROUSAL} {PUSSY}. Maybe you should let him...?",
+        "({PRIMARY}) You wanna {FUCK} you, don'cha boy?",
+        "You curl up, {BUTTOCKS} in the air, not moving, just waiting for the dog to bury his bone."
+    ],
+    "3rd Person": [
+        "{PRIMARY} drops down and lifts her {ASSHOLE}, {ACTIVE} immediately slobbering at her {PUSSY}. It feels so strange...",
+        "{SWEARING}! Dogs are so good at this...",
+        "On all fours, and hiding her face out of shame, {PRIMARY} {MOAN}s softly as {ACTIVE} starts to lick her {BUTTOCKS}.",
+        "{ACTIVE}'s thick, wide tongue licks {PRIMARY}, hard and rough enough to get her really close to cumming.",
+        "{ACTIVE} slobbers and sniffs at {PRIMARY}'s {FAROUSAL} {PUSSY}. Maybe she should let him...?",
+        "{ACTIVE} slobbers at {PRIMARY}'s {PUSSY}. ({PRIMARY}) {SWEARING}, you really want in there don't you? All right, go for it!",
+        "{PRIMARY}'s heart races as she drops to the ground, signalling her submission to {ACTIVE}. She feels like a {BITCH}.",
+        "{PRIMARY} can't believe she's about to fuck a dog, but she's {HORNY} at the prospect.",
+        "The {ACTIVE} slobbers and sniffs at {PRIMARY}'s {FAROUSAL} {PUSSY}. Maybe she should let him...?",
+        "({PRIMARY}) You wanna {FUCK} you, don'cha boy?",
+        "{PRIMARY} curls up, {BUTTOCKS} in the air, not moving, just waiting for the dog to bury his bone."
+    ]
+}

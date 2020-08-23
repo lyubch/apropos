@@ -1,0 +1,46 @@
+{
+    "1st Person" :
+    [
+        "Oh wow! The head of his {COCK} is huge! I enjoy the feeling of it stretching my {PUSSY}.",
+        "I can see desperation in {ACTIVE}'s eyes. I start to feel the same, eager to feel his entire length.",
+        "Uhhhh... Ah! I'm not sure I can take any more than the tip...",
+        "My {PUSSY} is starting to drip now, but the size of his {COCK} makes me kind'a scared to do more.",
+        "His {PENIS} presses against my {FAROUSAL} {PUSSY}, just the tip inside me. I ache, desperate to be filled.",
+        "I grind my pussy lips around {ACTIVE}'s {COCK} and give him everything I have.",
+        "I didn't know {ACTIVE} had such a nice, {HUGE} {PENIS}. I grin from ear to ear.",
+        "Drops of my {CREAM} are dribbling down {ACTIVE}'s shaft. I'm dripping wet.",
+        "If you can make me cum as well, I'll let you fuck my {ASS} all you want.",
+        "({ACTIVE}) Come on, {BITCH}, stop stalling! Perhaps you'd rather fuck my dog?",
+        "Ughhh... you're too big... I can't take any more...",
+        "I swing my hips around, trying to make myself wetter before I start to fuck him.",
+        "They eye my nude form hungrily. I'm shamefully wet by this point, and my knees are ready to buckle.",
+        "({ACTIVE}) {SWEARING} {BITCH}, you sure are wet! I guess you want this!"
+    ],
+    "2nd Person" :
+    [
+        "Oh wow! The head of his {COCK} is huge! You enjoy the feeling of it stretching your {PUSSY}.",
+        "You can see desperation in {ACTIVE}'s eyes. You start to feel the same, eager to feel his entire length.",
+        "Uhhhh... Ah! You're not sure you can take any more than the tip...",
+        "Your {PUSSY} is starting to drip now, but the size of his {COCK} makes you kind'a scared to do more.",
+        "His {PENIS} presses against your {FAROUSAL} {PUSSY}, just the tip inside. You ache, desperate to be filled.",
+        "You grind your pussy lips around {ACTIVE}'s {COCK} and give him everything you have.",
+        "You didn't know {ACTIVE} had such a nice, {HUGE} {PENIS}. You grin from ear to ear.",
+        "Drops of your {CREAM} are dribbling down {ACTIVE}'s shaft. You're dripping wet.",
+        "({PRIMARY}) If you can make me cum as well, I'll let you fuck my {ASS} all you want.",
+        "({ACTIVE}) Come on, {BITCH}, stop stalling! Perhaps you'd rather fuck my dog?",
+        "({PRIMARY}) Ughhh... you're too big... I can't take any more...",
+        "You swing your hips around, trying to make yourself wetter before you start to fuck him.",
+        "They eye your nude form hungrily. You're shamefully wet by this point, and your knees are ready to buckle.",
+        "({ACTIVE}) {SWEARING} {BITCH}, you sure are wet! I guess you want this!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} continues her teasing, {ACTIVE}'s breath starting to become ragged.",
+        "{PRIMARY}'s {CREAM} is starting to drip down {ACTIVE}'s {PENIS}. She won't be able to hold out long now!",
+        "It's so hot to see a woman enjoy a {COCK} like that...",
+        "({PRIMARY}) Oh fuck, slow down... gimme a second to get it in... You're thicker than dad...",
+        "{PRIMARY} seems to paralysed, unable to go any further. She's shaking and sweating with nerves.",
+        "({ACTIVE}) No more stalling, {BITCH}, I want to see you all the way to the base!",
+        "{PRIMARY} looks nervous, her whole body is trembling. Sooner or later her knees are going to give out."
+    ]
+}

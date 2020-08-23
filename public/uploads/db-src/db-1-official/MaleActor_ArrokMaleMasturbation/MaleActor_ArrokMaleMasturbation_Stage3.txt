@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "I pound my {PENIS} faster, sweat pouring off me as I near climax.",
+        "I'm almost there... Just a little more...",
+        "I wish that stuck-up little {BITCH} was here right now, so I could cum all over her smug little face.",
+        "I'm start to imagine I'm fucking that little {BITCH}'s {ASS}... It's getting me close!",
+        "See something you like, {BITCH}?  You better get your lips around this fast!",
+        "I might need to find some willing little {BITCH}. Or maybe not-so-willing..."
+    ],
+    "2nd Person" :
+    [
+        "You pound your {PENIS} faster, sweat pouring off you as I near climax.",
+        "You're almost there... Just a little more...",
+        "You wish that stuck-up little {BITCH} was here right now, so you could cum all over her smug little face.",
+        "You start to imagine you're fucking that little {BITCH}'s {ASS}... It's getting you close!",
+        "({PRIMARY}) See something you like, {BITCH}?  You better get your lips around this fast!",
+        "You might need to find some willing little {BITCH}. Or maybe not-so-willing..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} pounds faster and faster, the sweat pouring off him.",
+        "Oh Gods, {PRIMARY} must be nearly there...",
+        "({PRIMARY}) See something you like, {BITCH}?  You better get your lips around this fast!",
+        "Veins bulge from his neck and he grunts in strain. Imagine what he'd do to a {PUSSY}..."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I fight the urge to break into tears as I feel {THICK} {CUM} {EJACULATE} into me.",
+        "{SWEARING}, he's {EJACULATE}ing inside me! Is he going to leave me alone now? Or do something worse?",
+        "I feel his hands press down on his back and his {COCK} push deep inside, {EJACULATE}ing his {CUM}.",
+        "The thrill of being inseminated while he doesn't even know I'm awake is somehow exciting...",
+        "Even though he's {EJACULATE}ing right in my {PUSSY}, he hasn't stopped thrusting.",
+        "{SWEARING}! Has this happened before? Have I woken up full of {CUM} and not even known it?"
+    ],
+    "2nd Person" :
+    [
+        "You fight the urge to break into tears as you feel {THICK} {CUM} {EJACULATE} into you.",
+        "{SWEARING}, he's {EJACULATE}ing inside you! Is he going to leave you alone now? Or do something worse?",
+        "You feel his hands press down on his back and his {COCK} push deep inside, {EJACULATE}ing his {CUM}.",
+        "The thrill of being inseminated while he doesn't even know you're awake is somehow exciting...",
+        "Even though he's {EJACULATE}ing right in your {PUSSY}, he hasn't stopped thrusting.",
+        "{SWEARING}! Has this happened before? Have you woken up full of {CUM} and not even known it?"
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} grunts, and there's no mistake what's happening. He's {EJACULATE}ing right inside {PRIMARY}!",
+        "{SWEARING}, that's horrible! How many women have woken up full of {CUM} and never even realised?",
+        "{PRIMARY}'s tear-filled eyes open. {SWEARING}, she knows! She knows she's being {RAP}ed!"
+    ]
+}

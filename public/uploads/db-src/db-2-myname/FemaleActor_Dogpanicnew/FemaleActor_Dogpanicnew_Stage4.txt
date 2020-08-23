@@ -1,0 +1,43 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE}'s legs are back around my hips, and he starts to pull me back, further onto his {PENIS}.",
+        "It's too fast, and I drop my cheek to the ground, content to let {ACTIVE} do all the work.",
+        "{ACTIVE} starts to fuck me even faster now, and I can feel the start of my orgasm stirring.",
+        "I burn with shame and arousal, I can't believe I'm being fucked this hard by a dog.",
+        "Oh Gods! Ahh! Yes! {ACTIVE} is fucking me with more frenzy and vigor than any man ever has.",
+        "{ACTIVE} starts to pound my {PUSSY} like no man has before, he's going to claim me as his bitch.",
+        "I wonder what it would feel like in my {ASS}? I'll need to try that sometime.",
+        "Aah... ahhh... what am I doing? What would my friends think of me, if they saw me like this?",
+        "I'm just a dirty little {BITCH}...",
+        "{ACTIVE} and I fuck together, both panting and eager to please the other.",
+        "Fucking with an animal is depraved, I know, but it's all the more exciting because of that!",
+        "If I stay down, will he knot me?",
+        "I'm bucking to meet every thrust of the animal as he rapidly pounds my {PUSSY}.",
+        "A woman losing herself fucking an animal, the feeling drives me wild."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE}'s legs are back around your hips, and he starts to pull you back, further onto his {PENIS}.",
+        "It's too fast, and you drop your cheek to the ground, content to let {ACTIVE} do all the work.",
+        "{ACTIVE} starts to fuck you even faster now, and you can feel the start of your orgasm stirring.",
+        "You burn with shame and arousal, you can't believe you're being fucked this hard by a dog.",
+        "Oh Gods! Ahh! Yes! {ACTIVE} is fucking you with more frenzy and vigor than any man ever has.",
+        "{ACTIVE} starts to pound your {PUSSY} like no man has before, he's going to claim you as his bitch.",
+        "You wonder what it would feel like in your {ASS}? You'll need to try that sometime.",
+        "Aah... ahhh... what are you doing? What would your friends think of you, if they saw you like this?",
+        "You're just a dirty little {BITCH}...",
+        "{ACTIVE} and you fuck together, both panting and eager to please the other.",
+        "Fucking with an animal is depraved, you know, but it's all the more exciting because of that!",
+        "If you stay down, will he knot you?",
+        "You're bucking to meet every thrust of the animal as he rapidly pounds your {PUSSY}.",
+        "A woman losing herself fucking an animal, the feeling drives you wild."
+    ],
+    "3rd Person" :
+    [
+        "A woman losing herself fucking an animal, the sight of it is so wild.",
+        "{ACTIVE} is thrusting into her so hard, is he going to knot her?",
+        "It's so arousing to watch {ACTIVE} fuck her. He's doing so fast, and for so long...",
+        "{ACTIVE}'s stamina is impressive, can all dogs last so long?"
+    ]
+}

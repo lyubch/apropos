@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "We're only just getting started, and already I know I want to be screwed by this man.",
+        "I sit back, pushing my {BOOBS} out, and enjoy the feeling of {ACTIVE} squeezing and sucking them.",
+        "I could get used to this! I lean back and smile as {ACTIVE} makes me {MOAN}.",
+        "I close my legs and cross my ankles, pushing {ACTIVE} to concentrate on my {BOOBS}. He'll have my {PUSSY} later.",
+        "My heart is racing. I'm hot and frisky and feeling good.",
+        "No fair... You're getting me way too {HORNY}...",
+        "{ACTIVE} is being so {ROUGH} with my nipple, sucking and biting it, it's driving me wild!"        
+    ],
+    "2nd Person" :
+    [
+        "Your're only just getting started, and already you know you want to be screwed by this man.",
+        "You sit back, pushing your {BOOBS} out, and enjoy the feeling of {ACTIVE} squeezing and sucking them.",
+        "You could get used to this! You lean back and smile as {ACTIVE} makes you {MOAN}.",
+        "You close your legs, pushing {ACTIVE} to concentrate on your {BOOBS}. He'll have your {PUSSY} later.",
+        "Your heart is racing. You're hot and frisky and feeling good.",
+        "({PRIMARY}) No fair... You're getting me way too {HORNY}...",
+        "{ACTIVE} is being so {ROUGH} with your nipple, sucking and biting it, it's driving you wild!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} looks so hot, leaning back and pushing her {HEAVING} {BOOBS} out like that.",
+        "{ACTIVE} gets to work, sucking on one of {PRIMARY}'s {BOOBS} while groping the other.",
+        "{ACTIVE} is being pretty rough with {PRIMARY}'s {BOOBS}, but she doesn't seem to object.",
+        "({PRIMARY}) Do you like what you see? Well, these {BOOBS} don't come cheap!"
+    ]
+}

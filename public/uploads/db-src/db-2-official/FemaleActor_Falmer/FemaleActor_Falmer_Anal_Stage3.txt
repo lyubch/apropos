@@ -1,0 +1,47 @@
+{
+    "1st Person": [
+        "The creature's sharp nails dig into my hip. He must be about to cum...",
+        "Ugh... I can feel... that the creature's... almost there...",
+        "Oh! Oh! Oh! Fuck me! Oh no please stop it you're going to... make... me cummmmm ohhh oh please stop...",
+        "I start to pant and the {ACTIVE} rocks even harder as it goes deeper and deeper in me.",
+        "He starts to fuck me harder and deeper, filling every inch of my {WTANAL} {ASS}.",
+        "Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "Oh Gods!! More! Harder! Faster! Treat me like your personal {WHORE}, do what you want with me!!! Yes!",
+        "Yes! Stuff my {ASS} with your {BEAST} {COCK}! You're making me cum so hard!",
+        "The rhythmic pounding in my hips starts to increase.",
+        "The thrusting inside me becomes more urgent and I realise that it's about to cum...",
+        "It begins to piston in and out, pumping the full length into me over and over again.",
+        "The {ACTIVE} is driving hard into my gasping body...",
+        "I feel myself near climax from the intense thrusting..."
+    ],
+    "2nd Person": [
+        "The creature's sharp nails dig into your hip. He must be about to cum...",
+        "Ugh... You can feel... that the creature's... almost there...",
+        "({PRIMARY}) Oh! Oh! Fuck me! Oh no please stop it you're going to... make... me cummmmm ohhh please stop...'",
+        "You start to pant and the {ACTIVE} rock even harder as it goes deeper and deeper in you.",
+        "He starts to fuck you harder and deeper, filling every inch of your {WTANAL} {ASS}.",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "({PRIMARY}) Oh Gods!! More! Harder! Treat me like your personal {WHORE}, do what you want with me!!! Yes!",
+        "({PRIMARY}) Yes! Stuff my {ASS} with your {BEAST} {COCK}! You're making me cum so hard!",
+        "The rhythmic pounding in your hips starts to increase.",
+        "The thrusting inside you becomes more urgent and you realise that it's about to cum...",
+        "It begins to piston in and out, pumping the full length into you over and over again.",
+        "The {ACTIVE} is driving hard into your gasping body...",
+        "You feel yourself near climax from the intense thrusting..."
+    ],
+    "3rd Person": [
+        "The creature's sharp nails dig into {PRIMARY}'s hip. He must be about to cum...",
+        "Ugh... It's clear... that the creature's... almost there...",
+        "({PRIMARY}) Oh! Oh! Fuck me! Oh no please stop it you're going to... make... me cummmmm!",
+        "{PRIMARY} starts to pant and the {ACTIVE} rocks even harder as it goes deeper and deeper in her.",
+        "He starts to fuck {PRIMARY} harder and deeper, filling every inch of her {WTANAL} {ASS}.",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!",
+        "({PRIMARY}) Oh Gods!! More! Harder! Treat me like your personal {WHORE}, do what you want with me!!! Yes!",
+        "({PRIMARY}) Yes! Stuff my {ASS} with your {BEAST} {COCK}! You're making me cum so hard!",
+        "The rhythmic pounding in {PRIMARY}'s hips starts to increase.",
+        "The thrusting inside her becomes more urgent, it's about to cum...",
+        "It begins to piston in and out, pumping the full length into {PRIMARY} over and over again.",
+        "The {ACTIVE} is driving hard into {PRIMARY}'s gasping body...",
+        "{PRIMARY} is clearly near climax from the intense thrusting..."
+    ]
+}

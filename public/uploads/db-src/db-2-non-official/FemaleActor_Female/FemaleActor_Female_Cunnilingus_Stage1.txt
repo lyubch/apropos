@@ -1,0 +1,38 @@
+{
+	"1st Person" :
+	[
+		"I let {ACTIVE} slip her fingers into me. That seems okay...",
+		"I know they want me to show off and be their {LEWD} {BITCH}, so I let {ACTIVE} {FUCK} me just a little bit.",
+		"As I'm pulled down onto her lap, {ACTIVE} {INSERT}s her long fingers all the way up my {PUSSY}.",
+		"I'm openly gazing at {ACTIVE}'s body, particularly her {PUSSY}. I blush a little before continuing.",
+		"{ACTIVE} is clearly {HORNY} for the {LEWD} {BITCH} in front of her.",
+		"I'm mesmerized by {ACTIVE}'s {FAROUSAL} {PUSSY}. I love this moment, just before ...",
+		"I give {ACTIVE} the most inviting look I could muster.",
+		"I decide to give her what she wants. What we both want, if I'm really honest with myself.",
+		"({ACTIVE}) I bet you have the nicest {PUSSY} in the world! Why don't you show us how nice it is?",
+		"My fingers part the lips of her {PUSSY} which are {WET} with {LUST}.",
+		"Maybe just a kiss. That doesn't count, does it?",
+		"{ACTIVE}, {FUCK} me like you wanted to when you first saw me."
+	],
+	"2nd Person" :
+	[
+		"You let {ACTIVE} slip her fingers into you. That seems okay...",
+		"You know they want you to show off and be their {LEWD} {BITCH}, so you let {ACTIVE} {FUCK} you just a little bit.",
+		"As you're pulled down onto her lap, {ACTIVE} {INSERT}s her long fingers all the way up your {PUSSY}.",
+		"You're openly gazing at {ACTIVE}'s body, particularly her {PUSSY}. You blush a little before continuing.",
+		"{ACTIVE} is clearly {HORNY} for the {LEWD} {BITCH} in front of her.",
+		"You're mesmerized by {ACTIVE}'s {FAROUSAL} {PUSSY}. You love this moment, just before ...",
+		"You give {ACTIVE} the most inviting look you could muster.",
+		"You decide to give her what she wants. What you both want, if you're really honest with yourself.",
+		"({ACTIVE}) I bet you have the nicest {PUSSY} in the world! Why don't you show us how nice it is?",
+		"Your fingers part the lips of her {PUSSY} which are {WET} with {LUST}.",
+		"Maybe just a kiss. That doesn't count, does it?",
+		"{ACTIVE}, {FUCK} her like you wanted to when you first saw her."
+	],
+	"3rd Person" :
+	[
+		"My eyes trail up {PRIMARY}'s long, sexy legs, lingering on her {HEAVING} {BUTTOCKS}.",
+		"I'm captivated by her long, toned legs. I wonder what it would be like to suck her toes.",
+		"I see that she wasn't just giving her an ego boost, her {PUSSY} is so sexy!"
+	]
+}

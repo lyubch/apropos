@@ -1,0 +1,36 @@
+{
+    "1st Person": [
+        "The {ACTIVE} roughly pins my wrists, spreading me wide before him as he fucks in deep.",
+        "The {ACTIVE} is forceful, spreading my legs and taking me hard. I start to get a little turned on.",
+        "({ACTIVE}) Enough games, {BITCH}! Spread your legs! I'm gonna show you how a real man fucks!",
+        "The {ACTIVE} looms over me, his face angry and frightening. I spread my legs wider for him.",
+        "Ugh! His {PENIS} is {HUGE}... More and more of it pushes steadily inside me, and I let out a moan.",
+        "He's much larger than me, and thrusts in and out of me with shocking confidence.",
+        "({ACTIVE}) Relax {BITCH}. You're going to get it hard.",
+        "({ACTIVE}) I have never wanted to spread a pair of legs and mount a {BITCH} so much.",
+        "With his hugeness finding its home deep up inside of me, I'm pinned down, struggling to escape.",
+        "Fuck me, cum inside me, just get it over with...",
+        "I know that I should go to scream for help, but fear and arousal hold me back."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} roughly pins your wrists, spreading you wide before him as he fucks in deep.",
+        "The {ACTIVE} is forceful, spreading your legs and taking you hard. You start to get a little turned on.",
+        "({ACTIVE}) Enough games, {BITCH}! Spread your legs! I'm gonna show you how a real man fucks!",
+        "The {ACTIVE} looms over you, his face angry and frightening. You spread your legs wider for him.",
+        "Ugh! His {PENIS} is {HUGE}... More and more of it pushes steadily inside you, and you let out a moan.",
+        "He's much larger than you, and thrusts in and out of you with shocking confidence.",
+        "({ACTIVE}) Relax {BITCH}. You're going to get it hard.",
+        "({ACTIVE}) I have never wanted to spread a pair of legs and mount a {BITCH} so much.",
+        "With his hugeness finding its home deep up inside of you, you're pinned down, struggling to escape.",
+        "({PRIMARY}) Fuck me, cum inside me, just get it over with...",
+        "You know that you should go to scream for help, but fear and arousal hold you back."
+    ],
+    "3rd Person": [
+        "Frustrated with {PRIMARY}'s reluctance, the {ACTIVE} roughly pins her and fucks deep into her.",
+        "The {ACTIVE} forcefully spreads {PRIMARY} wide, pinning her beneath him and pushing in more of his {PENIS}.",
+        "{PRIMARY} stares up into the {ACTIVE}'s face in fear, a low gasp escaping her lips as he pushes further in.",
+        "Shouldn't someone intervene? Although... That deep, hard pounding is starting to look pretty good...",
+        "It's terrifying how powerful the {ACTIVE} seems, pinning {PRIMARY}'s struggling body down and taking her.",
+        "{PRIMARY}'s teeth are clenched and she's obviously in discomfort as the full length is pounded into her."
+    ]
+}

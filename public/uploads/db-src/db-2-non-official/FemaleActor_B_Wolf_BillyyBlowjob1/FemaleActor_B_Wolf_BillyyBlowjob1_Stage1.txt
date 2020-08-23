@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Rearing up to {BREED} me, I expect him to stuff his {COCK} straight into my {MOUTH}, but instead his tongue finds me first!",
+        "Taking his {COCK} in both hands, I try to bring it to my {MOUTH} but his muzzle finds my lips first, his tongue tasting me as I {WANK} him off.",
+        "I {MOAN} in suprise as his tongue suddenly fills my {MOUTH}, {EXPLOR}ing into me before I get the chance at {SUCK}ing him.",
+        "I {WANK} him off {SUBMISSIVE}ly as his tongue wirthes against mine, unsure who's really in control here.",
+        "My eyes fly open as he presses his tongue between my lips, his {COCK} the only thing I was expecting to suck on today!",
+        "The wolf's jaws lash forward suddenly, making me {SCREAM} in {FEAR}. But instead of sharp teeth I find a warm tongue, filling my {MOUTH}..."
+    ],
+    "2nd Person": [
+        "Rearing up to {BREED} you, you expect him to stuff his {COCK} straight into your {MOUTH}, but instead his tongue finds you first!",
+        "Taking his {COCK} in both hands, you try to bring it to your {MOUTH} but his muzzle finds your lips first, sliding his tongue between them.",
+        "You {MOAN} in suprise as his tongue suddenly fills your {MOUTH}, {EXPLOR}ing into you before you get the chance at {SUCK}ing him.",
+        "You {WANK} him off {SUBMISSIVE}ly as his tongue wirthes against yours, unsure who's really in control here.",
+        "Your eyes fly open as he presses his tongue between your lips, his {COCK} the only thing you were expecting to suck on today!",
+        "The wolf's jaws lash forward suddenly, making you {SCREAM} in {FEAR}. But instead of sharp teeth you find a warm tongue, filling your {MOUTH}..."
+    ],
+    "3rd Person": [
+        "Rearing up to {BREED} her, {PRIMARY} expects him to stuff his {COCK} straight into her {MOUTH}, but instead his tongue finds her first!",
+        "Taking his {COCK} in both hands, {PRIMARY} tries to bring it to her {MOUTH} but his muzzle finds her lips first, sliding his tongue between them.",
+        "{PRIMARY} {MOAN}s in suprise as his tongue suddenly fills her {MOUTH}, {EXPLOR}ing into her before she gets the chance at {SUCK}ing him.",
+        "{PRIMARY} {WANKS} him off {SUBMISSIVE}ly as his tongue wirthes against hers, unsure who's really in control here.",
+        "{PRIMARY}'s eyes fly open as he presses his tongue between her lips, his {COCK} the only thing she was expecting to suck on today!",
+        "The wolf's jaws lash forward suddenly, making {PRIMARY} {SCREAM} in {FEAR}. But instead of sharp teeth she finds a warm tongue, filling her {MOUTH}..."
+    ]
+}

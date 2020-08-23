@@ -1,0 +1,42 @@
+{
+    "1st Person" :
+    [
+        "My nipples are hard, and scrape {ROUGH}ly across the ground as I'm {FUCK}ed harder and harder.",
+        "I'm face down in gods-only-know-what, with a big guy {FUCK}ing my {ASSHOLE} hard. I'm just a {BITCH}...",
+        "{ACTIVE} puts his entire weight into {FUCK}ing my {WTANAL} {ASSHOLE}, driving me harder into the dirt.",
+        "{ACTIVE} makes {SLOW}ly deeper thrusts into my {ASSHOLE}. I {SCREAM}; Yes, keep going, all the way!",
+        "I try to spread my legs to make the anal penetration easier.",
+        "I want it deep in my {ASSHOLE}. I want you to make me {SCREAM}.",
+        "That's it you {JERK}, open up my {ASSHOLE}!",
+        "Even sweet girls enjoy a little {LEWD} sex every once in awhile!",
+        "I breathe in and my breath wavers, which means tears are only seconds away.",
+        "({ACTIVE}) A {BITCH} should make some noise! Let everyone know you're getting your {ASSHOLE} {FUCK}ed!",
+        "I blush and stifle a {SCREAM} as my {ASSHOLE} is {FUCK}ed. I feel a swell of humiliation being {FUCK}ed like this.",
+        "I'm naked in the dirt, {BUTTOCKS} spread apart with a {COCK} in my {ASSHOLE}. This place smells of {SCUM} and urine.",
+        "I spread my legs further apart hoping his {COCK} would go up my {ASSHOLE} further.",
+        "Uhhh... Uhhhh.... Don't stop, I can take it!"        
+    ],
+    "2nd Person" :
+    [
+        "Your nipples are hard, and scrape {ROUGH}ly across the ground as you're {FUCK}ed harder and harder.",
+        "You're face down in gods-only-know-what, with a big guy {FUCK}ing your {ASSHOLE} hard. You're just a {BITCH}...",
+        "{ACTIVE} puts his entire weight into {FUCK}ing your {WTANAL} {ASSHOLE}, driving you harder into the dirt.",
+        "{ACTIVE} makes {SLOW}ly deeper thrusts into your {ASSHOLE}. You {SCREAM}; Yes, keep going, all the way!",
+        "You try to spread your legs to make the anal penetration easier.",
+        "({PRIMARY}) I want it deep in my {ASSHOLE}. I want you to make me {SCREAM}.",
+        "({PRIMARY}) That's it you {JERK}, open up my {ASSHOLE}!",
+        "Even sweet girls enjoy a little {LEWD} sex every once in awhile!",
+        "You breathe in and your breath wavers, which means tears are only seconds away.",
+        "({ACTIVE}) A {BITCH} should make some noise! Let everyone know you're getting your {ASSHOLE} {FUCK}ed!",
+        "You blush and stifle a {SCREAM} as your {ASSHOLE} is {FUCK}ed. You feel a swell of humiliation being {FUCK}ed like this.",
+        "You're naked in the dirt, {BUTTOCKS} spread with a {COCK} in your {ASSHOLE}. This place smells of {SCUM} and urine.",
+        "You spread your legs further apart hoping his {COCK} would go up your {ASSHOLE} further.",
+        "({PRIMARY}) Uhhh... Uhhhh.... Don't stop, I can take it!"
+    ],
+    "3rd Person" :
+    [
+        "It's so hot to see a {BITCH} treated that way. So rough and primal...",
+        "{ACTIVE} is leaning forward, his {COCK} driving all the way into {PRIMARY}'s {ASSHOLE}.",
+        "{PRIMARY}'s stiff nipples can be seen scraping across the ground, covered in dirt and {SCUM}."
+    ]
+}

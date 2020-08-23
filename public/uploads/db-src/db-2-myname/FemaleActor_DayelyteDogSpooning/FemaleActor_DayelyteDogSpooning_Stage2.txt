@@ -1,0 +1,35 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} starts to pump his {BEAST} {PENIS} more quickly into me. It feels good...",
+        "I don't care who sees me like this, and let my head hang back as I enjoy the feeling of {ACTIVE}'s {PENIS}.",
+        "I lean back, hearing and feeling the hot panting of my animal lover at my ear.",
+        "Aah... ahhh... what am I doing? What would my friends think of me, if they saw me like this?",
+        "My cheeks burn red with arousal, I want to be seen like this.",
+        "Oh Gods... oh Gods... that's so good... I'm gonna cum... I'm gonna cum... just a little more...",
+        "I'm joined together with {ACTIVE}, and I feel a connection, as if with any other lover.",
+        "I can't believe how {BEAST} {ACTIVE}'s {PENIS} is. I'll need to do this more often!",
+        "I think I love dog cock a lot.",
+        "It's turning me on to be getting fucked by a dog."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} starts to pump his {BEAST} {PENIS} more quickly into you. It feels good...",
+        "You don't care who sees you, your head hanging back as you enjoy the feeling of {ACTIVE}'s {PENIS}.",
+        "You lean back, hearing and feeling the hot panting of your animal lover at your ear.",
+        "Aah... ahhh... what are you doing? What would your friends think of you, if they saw you like this?",
+        "Your cheeks burn red with arousal, you want to be seen like this.",
+        "({PRIMARY}) Oh Gods... oh Gods... that's so good... I'm gonna cum... I'm gonna cum... just a little more...",
+        "You're joined together with {ACTIVE}, and you feel a connection, as if with any other lover.",
+        "You can't believe how {BEAST} {ACTIVE}'s {PENIS} is. You'll need to do this more often!",
+        "You think you love dog cock a lot.",
+        "It's turning you on to be getting fucked by a dog."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is clearly lost to passion. Who would have thought a dog could do that to a woman?",
+        "{PRIMARY} doesn't look like she cares who sees her in such a lewd position...",
+        "Oh Gods, is {PRIMARY} about to cum already? Is {ACTIVE}'s {PENIS} really that good?",
+        "{PRIMARY} leans back into {ACTIVE}, and he begins to fuck her harder and faster."
+    ]
+}

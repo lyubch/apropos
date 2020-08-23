@@ -1,0 +1,52 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} rolls his head back, clearly please with my ministrations.",
+        "That's it, it's good, isn't it? I love the feel of your {PENIS}...",
+        "It's so hot and hard, I can feel it throbbing in my hand.",
+        "Umm... do you think I'm a {WHORE}?",
+        "Don't worry, I'll make sure your balls are empty before I go...",
+        "Wouldn't you like to stick your {PENIS} way up in my {PUSSY} and squirt your {CUM}?",
+        "Everyone can see how naughty I am... They can see how much I love {COCK}...",
+        "Do you really think I'm pretty?",
+        "My heart is racing. I'm hot and frisky and feeling good.",
+        "I'm gonna be fucking him before the night's over...",
+        "His {PENIS} vibrates with life, and I feel his pulse as I stroke him, the beat increasing.",
+        "I'm starting to get into it now, enjoying the feeling of power I have over {ACTIVE}.",
+        "His {PENIS} feels so hot in my hand, as if it would burst into flames at any moment...",
+        "({ACTIVE}) You're such a {WHORE}, I bet you've even fucked your own dad!",
+        "I'll let you cum anywhere you want.",
+        "Is... is this okay? Do you want me to keep doing it this way?",
+        "I hope this is all he wants... Oh Gods, what if he wants to fuck me?",
+        "Everyone can see how submissive I am... They can see that anyone can make me their {WHORE}...",
+        "My heart is racing. I'm hot and scared, nervous at what might happen next."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} rolls his head back, clearly pleased with your ministrations.",
+        "({PRIMARY}) That's it, it's good, isn't it? I love the feel of your {PENIS}.",
+        "It's so hot and hard, you can feel it throbbing in your hand.",
+        "({PRIMARY}) Umm... do you think I'm a {WHORE}?",
+        "({PRIMARY}) Don't worry, I'll make sure your balls are empty before you go.",
+        "({PRIMARY}) Wouldn't you like to stick your {PENIS} way up in my {PUSSY} and squirt your {CUM}?",
+        "Everyone can see how naughty you are... They can see how much you love {COCK}...",
+        "({PRIMARY}) Do you really think I'm pretty?",
+        "Your heart is racing. You're hot and frisky and feeling good.",
+        "You're gonna be fucking him before the night's over...",
+        "His {PENIS} vibrates with life, and you feel his pulse as you stroke him, the beat increasing.",
+        "You're starting to get into it now, enjoying the feeling of power you have over {ACTIVE}.",
+        "His {PENIS} feels so hot in your hand, as if it would burst into flames at any moment...",
+        "({ACTIVE}) You're such a {WHORE}, I bet you've even fucked your own dad!",
+        "({PRIMARY}) I'll let you cum anywhere you want.",
+        "({PRIMARY}) Is... is this okay? Do you want me to keep doing it this way?",
+        "You hope this is all he wants... Oh Gods, what if he wants to fuck you?",
+        "Everyone can see how submissive you are... They can see that anyone can make you their {WHORE}...",
+        "Your heart is racing. You're hot and scared, nervous at what might happen next."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE}'s head rolls back. He must be close. Is {PRIMARY} going to let him cum on her chest?",
+        "{ACTIVE} is obviously getting closer. {PRIMARY}'s hand must feel so good...",
+        "{PRIMARY} looks like she's really talented, like she's pleased a lot of men..."
+    ]
+}

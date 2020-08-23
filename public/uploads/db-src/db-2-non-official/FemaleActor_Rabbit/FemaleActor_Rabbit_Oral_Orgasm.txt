@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "I gulp down every {TASTY} spurt of {ACTIVE}'s {CUM}, feeling dribbles of it stream down my chest.",
+        "I feel {ACTIVE}'s knot {QUIVER} in my hand, sending {TASTY} {CUM} down my throat.",
+        "{ACTIVE}'s {CUM} is different to a man's... It's not as {THICK}, but it's hot, really hot...",
+        "I'm ashamed of what I'm doing, even as I {SUBMISSIVE}ly gulp down load after load of dog-{CUM}.",
+        "He's {EJACULATE}ing so much... What would this feel like... inside me?"
+    ],
+    "2nd Person" :
+    [
+        "You gulp down every {TASTY} spurt of {ACTIVE}'s {CUM}, feeling dribbles of it stream down your chest.",
+        "You feel {ACTIVE}'s knot {QUIVER} in your hand, sending {TASTY} {CUM} down your throat.",
+        "{ACTIVE}'s {CUM} is different to a man's... It's not as {THICK}, but it's hot, really hot...",
+        "You're ashamed of what you're doing, even as you {SUBMISSIVE}ly gulp down load after load of dog-{CUM}.",
+        "He's {EJACULATE}ing so much... What would this feel like... inside you?"
+    ],
+    "3rd Person" :
+    [
+        "It looks like {PRIMARY} is squeezing {ACTIVE}'s {COCK}, milking his {THICK} {CUM}.",
+        "{PRIMARY} doesn't seem to stop drinking, even as {THICK} {CUM} runs down her chest."
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "1st Person": [
+        "That {ACTIVE}'s {COCK} is completly exposed... Gods... it's so big...",
+        "I blush as the {ACTIVE} watches me, his {BEAST} {COCK} hanging out for all to see...",
+        "Gods... look at the size of that {COCK}... I wonder if he'd let me touch it..."
+    ],
+    "2nd Person": [
+        "That {ACTIVE}'s {COCK} is completly exposed... Gods... it's so big...",
+        "You blush as the {ACTIVE} watches you, his {BEAST} {COCK} hanging out for all to see...",
+        "Gods... look at the size of that {COCK}... You wonder if he'd let you touch it..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE}'s {COCK} looks painfully hard... perhaps {PRIMARY} can do something to fix that... ",
+        "{PRIMARY} can't seem to take her eyes off that {ACTIVE}'s {COCK}..."
+    ]
+}

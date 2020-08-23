@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "My eyes roll back into my head at this strange sensation, the flared head scraping every inch of my core.",
+        "My legs slip around his barrel, gravity doing all the work to push his {COCK} right into the depths of my womb...",
+        "I pause for a moment as an unwanted orgasm rocks through me, the feeling of finally taking all of him inside me just too intense.",
+        "My legs are like jelly, too weak to lift me up, so I have to make do with short thrusts, just wishing for this to finally be over."
+    ],
+    "2nd Person": [
+        "Your eyes roll back into your head at this strange sensation, the flared head scraping every inch of your core.",
+        "Your legs slip around his barrel, gravity doing all the work to push his {COCK} right into the depths of your womb...",
+        "You pause for a moment as an unwanted orgasm rocks through you, the feeling of finally taking all of him inside you just too intense.",
+        "Your legs are like jelly, too weak to lift you up, so you have to make do with short thrusts, just wishing for this to finally be over."
+    ],
+    "3rd Person": [
+        "{PRIMARY} convulses atop the horse's barrel as she finally bottoms out on it's cock, but it's unclear if it's in pleasure or pain...",
+        "So much {COCK}... {PRIMARY}'s {PUSSY} may never be the same once she gets out of this... IF she gets out of this..."
+    ]
+}

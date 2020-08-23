@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "I'm on my hands and knees like a dog, while this huge {ACTIVE} starts to pound steadily into my {PUSSY}.",
+        "Feeling the {MONSTER}'s hand wrapped around my waist is such a turn on, even as he {INSERT}s into my {PUSSY}.",
+        "My head hangs low as the steady strokes of the {ACTIVE}'s {COCK} go deep into my {WTVAGINAL} {PUSSY}.",
+        "One hand on my shoulder and the other around my waist, the {ACTIVE} pulls me all the way back onto his {COCK}.",
+        "I clench my fists in {PAIN}, but still I find myself pushing back against the {ACTIVE}'s {COCK}.",
+        "The {ACTIVE} holds me firmly by the waist, and guides his {BEASTLY} {COCK} into my {PUSSY}.",
+        "My {BUTTOCKS} juts upwards, round, {HEAVING} and flawless, and {NUDE} and {DISPLAY}ed for my monstrous lover.",
+        "I tense, feeling immense pressure at my {PUSSY}, followed by a sharp {PAIN} as the bulge forces its way inside.",
+        "I press my {HEAVING} {FLESH} back against the {ACTIVE}'s {COCK}. I whisper back, 'I want some dog-{COCK}'.",
+        "The {MONSTER} is upon me and begins to thrust the full length of it into my womb.",
+        "I want you to {FUCK} me as hard as you can, as {ROUGH} as you can. Don't worry about me, just {FUCK} me.",
+        "I want you to show this {NUDE} human {BITCH} just how much of an {ANIMAL} you can be..."
+    ],
+    "2nd Person" :
+    [
+        "You're on your hands and knees like a dog, while this huge {ACTIVE} starts to pound steadily into your {PUSSY}.",
+        "Feeling the {MONSTER}'s hand wrapped around your waist is such a turn on, even as he {INSERT}s into your {PUSSY}.",
+        "Your head hangs low as the steady strokes of the {ACTIVE}'s {COCK} go deep into your {WTVAGINAL} {PUSSY}.",
+        "One hand on your shoulder and the other around your waist, the {ACTIVE} pulls you  back onto his {COCK}.",
+        "You clench your fists in {PAIN}, but still you find yourself pushing back against the {ACTIVE}'s {COCK}.",
+        "The {ACTIVE} holds you firmly by the waist, and guides his {BEASTLY} {COCK} into your {PUSSY}.",
+        "Your {BUTTOCKS} juts upwards, round, {HEAVING} and flawless, and {NUDE} and {DISPLAY}ed for your monstrous lover.",
+        "You tense, feeling immense pressure at your {PUSSY}, followed by a sharp {PAIN} as the bulge forces its way inside.",
+        "You press your {HEAVING} {FLESH} back against the {ACTIVE}'s {COCK}. You whisper back, 'I want some dog-{COCK}'.",
+        "The {MONSTER} is upon you and begins to thrust the full length of it into your womb.",
+        "({PRIMARY}) I want you to {FUCK} me as hard as you can, as {ROUGH} as you can. Don't worry about me, just {FUCK} me.",
+        "({PRIMARY}) I want you to show this {NUDE} human {BITCH} just how much of an {ANIMAL} you can be..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is on her hands and knees like a dog, letting that monstrous {MONSTER} {FUCK} her.",
+        "The {ACTIVE} holds {PRIMARY} firmly by the waist and shoulder, pulling her steadily onto his {COCK}.",
+        "Do werewolves get off on {FUCK}ing human girls? And is {PRIMARY} getting off on being {FUCK}ed by a monster?",
+        "Oh my! It's true! There are women who give themselves to werewolves!",
+        "{PRIMARY}'s knuckles look white with strain as her {PUSSY} is spread by the {BEASTLY} {COCK}."
+    ]
+}

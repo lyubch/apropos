@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "I'm starting to find it difficult to breathe, the {ACTIVE}'s deep thrusts knocking the wind from me.",
+        "I'm trapped under the {ACTIVE}'s weight, unable to escape as his {COCK} gets steadily deeper.",
+        "My nipples become stiff, betraying my arousal. I don't want this {JERK} to know he's turning me on!",
+        "{PLEADING}... Please... Ah! {SWEARING}... I'm not even sure what I'm begging for...",
+        "You think you have what it takes to tame me, you {JERK}?",
+        "As the {ACTIVE} {FUCK}s into me, I can feel my orgasm building, and gods help me I don't want him to stop.",
+        "{SWEARING}, stop {FUCK}ing me like that! It's too deep, I can feel it in my stomach!",
+        "({ACTIVE}) I'm gonna show you how a real man {FUCK}s a {BITCH}'s {PUSSY}!",
+        "({ACTIVE}) Your {PUSSY} was made for fucking! I bet that's why you came here, to get {FUCK}ed!",
+        "I don't... Care any more... So ah! Fuck me... Hard...",
+        "I stifle a {SCREAM}, struggling to take the {ACTIVE}'s {HUGE} {COCK}."
+    ],
+    "2nd Person": [
+        "You're starting to find it difficult to breathe, the {ACTIVE}'s deep thrusts knocking the wind from you.",
+        "You're trapped under the {ACTIVE}'s weight, unable to escape as his {COCK} gets steadily deeper.",
+        "Your nipples become stiff, betraying your arousal. You don't want this {JERK} to know he's turning you on!",
+        "{PLEADING}... Please... Ah! {SWEARING}... You're not even sure what you're begging for...",
+        "({PRIMARY}) You think you have what it takes to tame me, you {JERK}?",
+        "As the {ACTIVE} {FUCK}s into you, you feel your orgasm building, and gods help me you don't want him to stop.",
+        "({PRIMARY}) {SWEARING}, stop {FUCK}ing me like that! It's too deep, I can feel it in my stomach!",
+        "({ACTIVE}) I'm gonna show you how a real man {FUCK}s a {BITCH}'s {PUSSY}!",
+        "({ACTIVE}) Your {PUSSY} was made for fucking! I bet that's why you came here, to get {FUCK}ed!",
+        "({PRIMARY}) I don't... Care any more... So ah! Fuck me... Hard...",
+        "You stifle a {SCREAM}, struggling to take the {ACTIVE}'s {HUGE} {COCK}."
+    ],
+    "3rd Person": [
+        "It's such a powerful sight, for {PRIMARY} to be getting {RAP}ed in such a dominant manner.",
+        "{PRIMARY} starts to strain underneath the {ACTIVE}, his {COCK} getting steadily deeper.",
+        "It's not a fast fuck, but he's getting so deep, each stroke clearly having a huge effect on {PRIMARY}.",
+        "{PRIMARY} is breathing erratically now, as she struggles to take the {ROUGH} pounding.",
+        "{PRIMARY}'s legs are spread wide, her thighs {QUIVER}ing with every hard thrust."
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "1st Person": [
+        "He starts pounding into my {MOUTH} so hard that my {HEAVING} {BOOBS} shake.",
+        "{ACTIVE}'s {COCK} batters my throat mercilessly. All I can do is sob.",
+        "I don't care what happens any more, I want it inside me so bad.",
+        "I gasp for breath between {ACTIVE}'s thrusts, his head hitting the back of my {MOUTH}.",
+        "Tears streak down my cheeks from closed eyes as my {WTORAL} {MOUTH} is raped.",
+        "I do my best to suppress my gag reflex and shove forwards, ramming his {COCK} as deeply as I can.",
+        "I still struggle, but the reality is that I'm hungry for his cumshot.",
+        "They eye my nude form hungrily. I'm shamefully wet by this point, and my {CREAM} soaks the ground.",
+        "Ugh... Nghhhh... He's fucking my face as hard and violently as he would a tight {PUSSY}.",
+        "({ACTIVE}) You're gonna drink my {CUM}, {BITCH}.",
+        "({ACTIVE}) You're coming back to my place once we're done, and we're not gonna let you sleep!",
+        "I try to make {ACTIVE} cum as fast as I can, so that this degrading act is over with.",
+        "I can't help it, but I'm turned on by being used as a {WHORE} by this man.",
+        "({ACTIVE}) Are you going to swallow my {CUM} like a good little {BITCH}?",
+        "It's brutal, but I can't help but become aroused..."
+    ],
+    "2nd Person": [
+        "He starts pounding into your {MOUTH} so hard that your {HEAVING} {BOOBS} shake.",
+        "{ACTIVE}'s {COCK} batters your {MOUTH} mercilessly. All you can do is sob.",
+        "You don't care what happens any more, you want it inside you so bad.",
+        "You gasp for breath between {ACTIVE}'s thrusts, his head hitting the back of your {MOUTH}.",
+        "Tears streak down your cheeks from closed eyes as your {WTORAL} {MOUTH} is raped.",
+        "You do your best to suppress your gag reflex and shove forwards, ramming his {COCK} as deeply as you can.",
+        "You still struggle, but the reality is that you're hungry for his {CUM}.",
+        "They eye your nude form hungrily. You're shamefully wet by this point, and your {CREAM} soaks the ground.",
+        "He's fucking your face as hard and violently as he would a tight {PUSSY}.",
+        "({ACTIVE}) You're gonna drink my {CUM}, {BITCH}.",
+        "({ACTIVE}) You're coming back to my place once we're done and we're not gonna let you sleep!",
+        "You try to make {ACTIVE} cum as fast as you can, so that this degrading act is over with.",
+        "You can't help it, but you're turned on by being used as a little {WHORE} by this man.",
+        "({ACTIVE}) 'Are you going to swallow my {CUM} like a good little {BITCH}?'",
+        "It's brutal, but you can't help but become aroused..."
+    ],
+    "3rd Person": [
+        "He starts pounding into {PRIMARY}'s {MOUTH} so hard that her {HEAVING} {BOOBS} shake.",
+        "{ACTIVE}'s {COCK} batters {PRIMARY}'s throat mercilessly. All she can do is sob.",
+        "{PRIMARY} gasps for breath between {ACTIVE}'s thrusts, his head hitting the back of her {MOUTH}.",
+        "Tears streak down {PRIMARY}'s cheeks from closed eyes as her {WTORAL} {MOUTH} is raped.",
+        "{PRIMARY} does her best to suppress her gag reflex, ramming his {COCK} as deeply as she can.",
+        "{PRIMARY} still struggles, but the reality is that she's hungry for his cumshot.",
+        "They eye {PRIMARY}'s nude form hungrily. She's shamefully wet, and her {CREAM} soaks the ground.",
+        "He's fucking {PRIMARY}'s face as hard and violently as he would a tight {PUSSY}.",
+        "({ACTIVE}) You're gonna drink my {CUM}, {BITCH}."
+    ]
+}

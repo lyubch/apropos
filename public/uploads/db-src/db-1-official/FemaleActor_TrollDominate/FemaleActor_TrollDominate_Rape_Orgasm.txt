@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} roars as is sinks all the way into my womb with every thrust, {CUMMING} deep inside me.",
+        "I didn't think I could take any more of its {COCK}, but I wail in climax as it fucks all the way inside me.",
+        "I sob and whimper as the monster fucks me slow and deep, {THICK} {CUM} pulsing into me.",
+        "{SWEARING}! Ngghhhh! Ahhh! Ahhh...!",
+        "Ugh... ahhh... no.... at this rate... it's gonna make me... oh Gods... nnnnnnnnnnnnn... AAAAHHHH!",
+        "There's so much {CUM}, running down my belly to my {BOOBS}, dripping from my {ASS}."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} roars as is sinks all the way into your womb with every thrust, {CUMMING} deep inside you.",
+        "You didn't think you could take any more of its {COCK}, but you wail in climax as it fucks all the way inside you.",
+        "You sob and whimper as the monster fucks you slow and deep, {THICK} {CUM} pulsing into you.",
+        "({PRIMARY}) {SWEARING}! Ngghhhh! Ahhh! Ahhh...!",
+        "Ugh... ahhh... no.... at this rate... it's gonna make you... oh Gods... nnnnnnnnnnnnn... AAAAHHHH!",
+        "There's so much {CUM}, running down your belly to your {BOOBS}, dripping from your {ASS}." 
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} sobs and whimpers as the monster fucks her slow and deep, {THICK} {CUM} spilling out of her {PUSSY}.",
+        "There's so much {CUM}, running down her belly to her {BOOBS}, dripping from her {ASS}!",
+        "That beast is fucking so deep inside of {PRIMARY} that it must be ejaculating straight into her womb..."
+    ]
+}

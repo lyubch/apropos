@@ -1,0 +1,25 @@
+{
+    "1st Person": [
+        "Maintaining eye contact, I position myself closer to her {STRAPON}, trying to please her.",
+        "I'm scared by the way Oh my. {LEWD}ly at my {BOOBS} while I {WANK} him, I feel like a piece of meat.",
+        "My nipples are standing out already? Is this lewdness really affecting me so much?",
+        "This is so demeaning, I hope nobody finds out about this...",
+        "O-oh no... What am I doing? I... I'm really behaving like a {BITCH} right now!",
+        "The humid air strikes my nostrils with the smell of {CREAM}...",
+        "({ACTIVE}) How many times have you got out of a beating this way, {BITCH}?"
+    ],
+    "2nd Person": [
+        "Maintaining eye contact, you position yourself closer to her {STRAPON}, trying to please her.",
+        "You're scared by {ACTIVE} staring {LEWD}ly at your {BOOBS} while you {WANK} him, you feel like a piece of meat.",
+        "Your nipples are standing out already? Is this lewdness really affecting you so much?",
+        "This is so demeaning, you hope nobody finds out about this...",
+        "YOu can't believe what you're doing... You're really behaving like a {BITCH} right now!",
+        "The humid air strikes your nostrils with the smell of {CREAM}...",
+        "({ACTIVE}) How many times have you got out of a beating this way, {BITCH}?"
+    ],
+    "3rd Person": [
+        "Maintaining eye contact, {PRIMARY} positions herself closer to her {STRAPON}, trying to please her.",
+        "The {ACTIVE} stares {LEWD}ly at {PRIMARY}'s {BOOBS} while she {WANK}s her.",
+        "{PRIMARY}'s nipples are standing out already? Is this lewdness really affecting her so much?"
+    ]
+}

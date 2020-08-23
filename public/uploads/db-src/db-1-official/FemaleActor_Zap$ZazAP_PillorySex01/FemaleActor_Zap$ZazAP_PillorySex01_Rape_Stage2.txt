@@ -1,0 +1,30 @@
+{
+    "1st Person": [
+        "Oh Gods, here it comes! I strain as a {HUGE} {PENIS} starts to pump into me.",
+        "Strong arms wrap around my waist, and I shriek as his {HUGE} {PENIS} pushes forcefully into my {PUSSY}.",
+        "My whole body tenses as I feel a {COCK} at my {PUSSY}. My toes dig into the ground as he starts to fuck me.",
+        "I'm terrified, but the thrill of not knowing who it is starts to overcome me.",
+        "I grunt and moan as I'm violated by deep, steady thrusts.",
+        "There's nothing I can do, no way to escape, and I sob as a {COCK} is pushed inside me.",
+        "No! You can't do this to me! AAAH! Somebody, help! Please, stop this!",
+        "My {PUSSY} drips with several loads, and another {COCK} is now between my {WTVAGINAL} lips.",
+        "No! Not this! Nghhhh!"
+    ],
+    "2nd Person": [
+        "Oh Gods, here it comes! You strain as a {HUGE} {PENIS} starts to pump into you.",
+        "Strong arms wrap around your waist, and you shriek as his {HUGE} {COCK} pushes forcefully into your {PUSSY}.",
+        "Your body tenses as you feel a {COCK} at your {PUSSY}. Your toes dig into the ground as he fucks you.",
+        "You're terrified, but the thrill of not knowing who it is starts to overcome you.",
+        "You grunt and moan as you're violated by deep, steady thrusts.",
+        "There's nothing you can do, no way to escape, and you sob as a {COCK} is pushed inside you.",
+        "({PRIMARY}) No! You can't do this to me! AAAH! Somebody, help! Please, stop this!",
+        "Your {PUSSY} drips with several loads, and another {COCK} is now between your {WTVAGINAL} lips.",
+        "({PRIMARY}) No! Not this! Nghhhh!"
+    ],
+    "3rd Person": [
+        "{ACTIVE} grabs {PRIMARY}'s waist with both arms, and starts to fuck her with slow, deep strokes.",
+        "Oh Gods, he can't really be doing that, can he? Isn't anyone going to stop this?!",
+        "{PRIMARY}'s whole body tenses and she sobs as {ACTIVE} starts to fuck her helpless body.",
+        "They're fucking her, they're really fucking her! They're such bastards..."
+    ]
+}

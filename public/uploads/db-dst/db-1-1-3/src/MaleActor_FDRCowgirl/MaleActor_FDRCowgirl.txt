@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "Я облизываю её {FAROUSAL}ую {PUSSY}у в то время, как она сосет мой {SALTY}ый {COCK}."
+    ],
+    "2nd Person": [
+        "Вы облизываете её {FAROUSAL}ую {PUSSY}у в то время, как она сосет ваш {MAROUSAL}ый {COCK}."
+    ],
+    "3rd Person": [
+        "Он облизывает её {FAROUSAL}ую {PUSSY}у, в то время, как она сосет его {HUGE}ый {COCK}."
+    ]
+}

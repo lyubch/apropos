@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} pulls my backend up, my legs flailing wildly in the air as I scream and cum.",
+        "Now upside down, the blood rushes to my head, making me worry I'll pass out when I cum.",
+        "{ACTIVE} grasps me tightly, both hands pressing down on my stomach, preventing any leeway I had.",
+        "This is such an embarrassing position... Somehow the humiliation makes me cum even harder...",
+        "This position makes me light headed and uncomfortable, but I'm so close to cumming again that I don't care.",
+        "{ACTIVE} messily slurps at my {WTVAGINAL} {PUSSY}, my {CREAM} streaking down my belly.",
+        "Oh Gods... I can feel it... This next orgasm... It's going to be... ahh... huge... Mmmm.... Nghhh!",
+        "I feel {ACTIVE}'s {PENIS} poking angrily into my back... I'm going to have to suck him really hard after this!",
+        "I thrash about, pinned under {ACTIVE}'s legs, my body driven into a frenzy and my thoughts scattered."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} pulls your backend up, your legs flailing wildly in the air as you scream and cum.",
+        "Now upside down, the blood rushes to your head, making you worry you'll pass out when you cum.",
+        "{ACTIVE} grasps you tightly, both hands pressing down on your stomach, preventing any leeway you had.",
+        "This is such an embarrassing position... Somehow the humiliation makes you cum even harder...",
+        "This position makes you light headed and uncomfortable, but you're so close to cumming again that you don't care.",
+        "{ACTIVE} messily slurps at your {WTVAGINAL} {PUSSY}, your {CREAM} streaking down your belly.",
+        "Oh Gods... you can feel it... This next orgasm... It's going to be... ahh... huge... Mmmm.... Nghhh!",
+        "{ACTIVE}'s {PENIS} pokes angrily into your back... You're going to have to suck him really hard after this!",
+        "You thrash about, pinned under {ACTIVE}'s legs, your body driven into a frenzy and your thoughts scattered."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} thrashes about, held down by {ACTIVE}. That looks so intense...",
+        "Oh my! Isn't {PRIMARY} embarrassed to be seen in such a position? Does that make it even more of a rush?",
+        "{PRIMARY}'s {CREAM} is all over {ACTIVE}'s face, and streaming down her belly."
+    ]
+}

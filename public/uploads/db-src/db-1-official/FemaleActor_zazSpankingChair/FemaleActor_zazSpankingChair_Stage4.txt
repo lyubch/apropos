@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "There's no use trying to hold back, {ACTIVE} must be aware by now of how wet this is making me...",
+        "My cheeks feel like they're on fire, and {ACTIVE} slows his pace. Part of me doesn't want him to.",
+        "I can feel my {CREAM} dripping down my thighs now, and {ACTIVE}'s {COCK} is rock hard and poking into me.",
+        "Something has changed in me now. The wait is glorious, and every hard slap sends waves of pleasure through me.",
+        "({ACTIVE}) What a {WHORE} you are, {PRIMARY}! Your backside spanked raw, and you're this wet!",
+        "The blinding flash of pain that shoots through me with every slap, it's almost like cumming...",
+        "Ow! Ow! My hip is beaten raw, and I flinch every time he strikes me."        
+    ],
+    "2nd Person" :
+    [
+        "There's no use trying to hold back, {ACTIVE} must be aware by now of how wet this is making you...",
+        "Your cheeks feel like they're on fire, and {ACTIVE} slows his pace. Part of you doesn't want him to.",
+        "You can feel your {CREAM} dripping down your thighs now, and {ACTIVE}'s {COCK} is rock hard and poking into you.",
+        "Something has changed in you now. The wait is glorious, and every hard slap sends waves of pleasure through you.",
+        "({ACTIVE}) What a {WHORE} you are, {PRIMARY}! Your backside spanked raw, and you're this wet!",
+        "The blinding flash of pain that shoots through you with every slap, it's almost like cumming...",
+        "Ow! Ow! Your hip is beaten raw, and you flinch every time he strikes you."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} slows down, almost as if giving {PRIMARY}'s backside a chance to recover.",
+        "{PRIMARY}'s nipples look rock hard, and she almost seems to moan every time {ACTIVE}'s hand comes down.",
+        "Between each hard spank, {PRIMARY}'s {PUSSY} can clearly be seen, and she's dripping wet!",
+        "Tears are streaming down {PRIMARY}'s face, but the look on her face is one of pleasure."
+    ]
+}

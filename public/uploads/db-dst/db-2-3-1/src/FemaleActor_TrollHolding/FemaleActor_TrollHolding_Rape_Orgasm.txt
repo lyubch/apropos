@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "My head hangs limp and I give a low {SCREAM} as I feel my {PUSSY} fill with {THICK} {CUM}.",
+        "The {MONSTER} {PENETRAT}es his {COCK} all the way inside me, all the way to the base, {EJACULATE}ing deep and hard.",
+        "My eyes roll back into my head and my teeth clench as a final orgasm crashes through my {CUM}-bloated body.",
+        "All my energy is spent from the exhausting fuck, all I can do is {SCREAM} as the {ACTIVE} {EJACULATE}s."        
+    ],
+    "2nd Person" :
+    [
+        "Your head hangs limp and you give a low {SCREAM} as you feel your {PUSSY} fill with {THICK} {CUM}.",
+        "The {MONSTER} {PENETRAT}es his {COCK} all the way inside you, all the way to the base, {EJACULATE}ing deep and hard.",
+        "Your eyes roll back into your head and your teeth clench as a final orgasm crashes through your {CUM}-bloated body.",
+        "All your energy is spent from the exhausting fuck, all you can do is {SCREAM} as the {ACTIVE} {EJACULATE}s."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s head hangs limp and she gives a low {SCREAM} as her {PUSSY} fills with {THICK} {CUM}.",
+        "The {MONSTER} {PENETRAT}es his {COCK} all the way inside {PRIMARY}, all the way to the base, {EJACULATE}ing deep and hard.",
+        "All {PRIMARY}'s energy is spent from the exhausting fuck, all she manages is to {SCREAM} as the {ACTIVE} {EJACULATE}s." 
+    ]
+}

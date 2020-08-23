@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "The animal seems to calm as I start stroking its {BEASTLY} {COCK}, but I can already tell he wants more...",
+        "Acting on a hunch, I quickly start stroking its {MAROUSAL} {COCK}. To my relief, that calms him down almost instantly.",
+        "Its {COCK} seems to get even harder in my grip... {SWEARING}, a handjob isn't going to be enough, is it?",
+        "With an insistent whinny, I hurridly clamber onto him. I know now there's only one way out of this, I can only hope I can take it..."
+    ],
+    "2nd Person": [
+        "The animal seems to calm as you start stroking its {BEASTLY} {COCK}, but you can already tell he wants more...",
+        "Acting on a hunch, you quickly start stroking its {MAROUSAL} {COCK}. To your relief, that calms him down almost instantly.",
+        "Its {COCK} seems to get even harder in your grip... {SWEARING}, a handjob isn't going to be enough, is it?",
+        "With an insistent whinny, you hurridly clamber onto him. You know now there's only one way out of this, hopefully you can {ACCEPT} it..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} must really be out of options if she's going to jack off a horse...",
+        "Does {PRIMARY} think she can really get that {ACTIVE} off with just a handjob?"
+    ]
+}

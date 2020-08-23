@@ -1,0 +1,43 @@
+{
+    "1st Person" :
+    [
+        "I can't hold back any longer. I spin round and drop my mouth down onto {ACTIVE}'s {PENIS} with a moan.",
+        "I greedily slurp {ACTIVE}'s {HUGE} {PENIS} into my mouth, both hands pumping him gently.",
+        "I feel {ACTIVE} moan into my {PUSSY} as my lips wrap around his {PENIS}.",
+        "As I start to suck and fondle {ACTIVE}'s {PENIS}, his hands grip my ass and pull me down harder.",
+        "I start to suck {ACTIVE} slowly, fondling his balls and wanking him into my mouth.",
+        "I don't recall ever being so turned on as I feel my lips part and slide along his {PENIS}.",
+        "I tongue {ACTIVE}'s swollen head, then engulf him in my {MOUTH}.",
+        "I smile wickedly and plunge down to engulf his {TASTY} {PENIS} with my warm, wet {MOUTH}.",
+        "Oh, what the fuck! I'll suck his {COCK}, may as well take advantage!",
+        "Is he getting me wet so he can fuck me? Ah! I guess I should make him cum before he does...",
+        "Completely losing myself to the moment, I spin round and sink down onto {ACTIVE}'s {PENIS}.",
+        "I don't recall ever being so turned on as I feel my lips part and slide along his {PENIS}.",
+        "It's not long before I take his {PENIS} in my {MOUTH}."        
+    ],
+    "2nd Person" :
+    [
+        "You can't hold back any longer. You spin round and drop your mouth down onto {ACTIVE}'s {PENIS} with a moan.",
+        "You greedily slurp {ACTIVE}'s {HUGE} {PENIS} into your mouth, both hands pumping him gently.",
+        "You feel {ACTIVE} moan into your {PUSSY} as your lips wrap around his {PENIS}.",
+        "As you start to suck and fondle {ACTIVE}'s {PENIS}, his hands grip your ass and pull you down harder.",
+        "You start to suck {ACTIVE} slowly, fondling his balls and wanking him into your mouth.",
+        "You don't recall ever being so turned on as you feel your lips part and slide along his {PENIS}.",
+        "You tongue {ACTIVE}'s swollen head, then engulf him in your {MOUTH}.",
+        "You smile wickedly and plunge down to engulf his {TASTY} {PENIS} with your warm, wet {MOUTH}.",
+        "Oh, what the fuck! You'll suck his {COCK}, may as well take advantage!",
+        "Is he getting you wet so he can fuck you? Ah! You guess you should make him cum before he does...",
+        "Completely losing yourself to the moment, you spin round and sink down onto {ACTIVE}'s {PENIS}.",
+        "You don't recall ever being so turned on as you feel your lips part and slide along his {PENIS}.",
+        "It's not long before you take his {PENIS} in your {MOUTH}."
+    ],
+    "3rd Person" :
+    [
+        "Without saying a word, {PRIMARY} turns around and engulfs {ACTIVE}'s {PENIS} with her mouth.",
+        "As {PRIMARY} starts giving {ACTIVE} head, his hands hold her ass cheeks apart, giving a good view.",
+        "{PRIMARY} takes the head of {ACTIVE}'s {PENIS} gently into her mouth, sucking and fondling him slowly.",
+        "{PRIMARY} moans with lust right before she starts sucking {ACTIVE}'s {PENIS}.",
+        "{PRIMARY} suddenly spins round and goes down on {ACTIVE}!",
+        "Oh my... Does {ACTIVE} really have that kind of power of women?"
+    ]
+}

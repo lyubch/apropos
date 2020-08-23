@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I grind my hips {QUICK}ly, feeling the filthy fur against my thighs.",
+        "Aah ah... {SWEARING}... This thing's {COCK}... It feels... good...",
+        "I grind steadily on the monster's {BEASTLY} {COCK}, dizzy and light headed from the mix of sensations.",
+        "{SWEARING}...! Ahh... I've underestimated this {MONSTER}, I'm already about to {EJACULATE}!",
+        "The {MONSTER} reaches out, and I thrill at the rough treatment as it gropes and manhandles my {HEAVING} {BOOBS}.",
+        "I'm shocked to find that I'm actually relishing the {MONSTER}'s attention."
+    ],
+    "2nd Person": [
+        "You grind your hips {QUICK}ly, feeling the filthy fur against your thighs.",
+        "({PRIMARY}) Aah ah... {SWEARING}... This thing's {COCK}... It feels... good...",
+        "You grind steadily on the monster's {BEASTLY} {COCK}, dizzy and light headed from the mix of sensations.",
+        "{SWEARING}...! Ahh... You've underestimated this {MONSTER}, I'm already about to {EJACULATE}!",
+        "The {MONSTER} reaches out, and you thrill at the rough treatment as it gropes and manhandles your {HEAVING} {BOOBS}.",
+        "You're shocked to find that you're actually relishing the {MONSTER}'s attention."
+    ],
+    "3rd Person": [
+        "{PRIMARY} grinds her hips {QUICK}ly, feeling the filthy fur against her thighs.",
+        "({PRIMARY}) Aah ah... {SWEARING}... This thing's {COCK}... It feels... good...",
+        "{PRIMARY} grinds steadily on the monster's {BEASTLY} {COCK}, dizzy and light headed from the mix of sensations.",
+        "{SWEARING}...! Ahh... {PRIMARY} has underestimated this {MONSTER}, I'm already about to {EJACULATE}!",
+        "The {MONSTER} reaches out, and {PRIMARY} thrills at the rough treatment as it gropes and manhandles her {HEAVING} {BOOBS}.",
+        "{PRIMARY} is shocked to find that she's actually relishing the {MONSTER}'s attention."
+    ]
+}

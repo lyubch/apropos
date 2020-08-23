@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "I take its full length and wrap my {HEAVING} {BOOBS} around it. The warmth of its erect {COCK} gets stronger as I let him feel me.",
+        "Massaging a riekling's {COCK} between my {BOOBS} turns me on, I begin to wonder how it would feel inside me.",
+        "I start caressing its {BEASTCOCK} with my {BOOBS} and let it enjoy the view for awhile...",
+        "As I put him between my {BOOBS} and start rubbing, I realize how hard and pent up he is."
+    ],
+    "2nd Person": [
+        "You take its full length and wrap your {HEAVING} {BOOBS} around it. The warmth of its erect {COCK} gets stronger as you let him feel you.",
+        "Massaging a riekling's {COCK} between your {BOOBS} turns you on, you begin to wonder how it would feel inside you.",
+        "You start caressing its {BEASTCOCK} with your {BOOBS} and let it enjoy the view for awhile...",
+        "As you put him between your {BOOBS} and start rubbing, you realize how hard and pent up he is."
+    ],
+    "3rd Person": [
+        "{PRIMARY} takes its full length and wrap her {HEAVING} {BOOBS} around it. The warmth of its erect {COCK} gets stronger as she let him feel her.",
+        "Massaging a riekling's {COCK} between {PRIMARY}'s {BOOBS} turns her on, she begins to wonder how it would feel inside her.",
+        "You start caressing its {BEASTCOCK} with your {BOOBS} and let it enjoy the view for awhile...",
+        "As {PRIMARY} puts him between her {BOOBS} and start rubbing, she realizes how hard and pent up he is."
+    ]
+}

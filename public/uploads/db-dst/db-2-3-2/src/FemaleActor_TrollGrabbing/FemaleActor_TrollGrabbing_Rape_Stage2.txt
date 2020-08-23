@@ -1,0 +1,27 @@
+{
+    "1st Person": [
+        "The {PAIN} is too much. I give up, slumping in the {MONSTER}'s grip as it {FUCK}s my {WTANAL} {ASSHOLE} with its {BEASTLY} {COCK}.",
+        "As I hang in the {MONSTER}'s grip, {SUBMISSIVE}, I watch its hips pound into me, and feel a slight thrill at the savagery...",
+        "{SWEARING}, I'm going crazy!",
+        "Ugh... So deep... I feel his {COCK} in places no man has been...",
+        "The {BEASTLY} {BEASTCOCK} continues to {INSERT} itself deep inside my {SUBMISSIVE} {FLESH}.",
+        "I {SCREAM} with every thrust that takes the {MONSTER} deeper into my {WTANAL} {ASSHOLE}.",
+        "I give up the hope of escape, and just fall forward, letting the {MONSTER} have its way with me.",
+        "I {SCREAM} with {FEAR}, knowing that the {ACTIVE} is about to fill my {ASSHOLE} with his {CUM}."
+    ],
+    "2nd Person": [
+        "The {PAIN} is too much. You give up, slumping in the {MONSTER}'s grip as it {FUCK}s your {WTANAL} {ASSHOLE} with its {BEASTLY} {COCK}.",
+        "As you hang in the {MONSTER}'s grip, {SUBMISSIVE}, you watch its hips pound into you, and feel a slight thrill at the savagery...",
+        "{SWEARING}, you're going crazy!",
+        "Ugh... So deep... You feel his {COCK} in places no man has been...",
+        "The {BEASTLY} {BEASTCOCK} continues to {INSERT} itself deep inside your {SUBMISSIVE} {FLESH}.",
+        "You {SCREAM} with every thrust that takes the {MONSTER} deeper into your {WTANAL} {ASSHOLE}.",
+        "You give up the hope of escape, and just fall forward, letting the {MONSTER} have its way with you.",
+        "You {SCREAM} with {FEAR}, knowing that the {ACTIVE} is about to fill your {ASSHOLE} with his {CUM}."
+    ],
+    "3rd Person": [
+        "The {BEASTLY} {BEASTCOCK} continues to {INSERT} itself deep inside {PRIMARY}'s {SUBMISSIVE} {FLESH}.",
+        "{PRIMARY} {MOAN}s with every thrust that takes the {MONSTER} deeper into her {WTANAL} {ASSHOLE}.",
+        "{PRIMARY} isn't struggling any more, she's just slumped over as the {ACTIVE} continues to {FUCK} into her {ASSHOLE}."
+    ]
+}

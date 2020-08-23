@@ -1,0 +1,17 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} wants to {FUCK} my {WTVAGINAL} {PUSSY} more!",
+	"{ACTIVE} won't stop {FUCK}ing my {WTVAGINAL} {PUSSY}!"
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} wants to {FUCK} your {WTVAGINAL} {PUSSY} more!",
+	"{ACTIVE} won't stop {FUCK}ing your {WTVAGINAL} {PUSSY}!"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} wants to {FUCK} {PRIMARY}'s {WTVAGINAL} {PUSSY} more!",
+	"{ACTIVE} won't stop {FUCK}ing {PRIMARY}'s {WTVAGINAL} {PUSSY}!"
+    ]
+}

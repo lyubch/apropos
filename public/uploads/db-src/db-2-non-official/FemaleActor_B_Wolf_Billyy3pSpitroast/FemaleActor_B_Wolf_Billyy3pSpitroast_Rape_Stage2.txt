@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Deciding my {PUSSY} is {WET} enough, the wolf easily {PENETRAT}es his {COCK} into me, drawing a {LEWD} {SCREAM} out around the other's {COCK}.",
+        "My face flushes with shame as the wolf easily parts my folds, the mix of saliva and my {CREAM} is more than enough...",
+        "I can't stifle a {SCREAM} at the deep penetration, though it is thankfully muffled by the other wolf's {COCK}...",
+        "With this {BEASTLY} knot filling my field of view, I don't see the other wolf move forward until he easily takes my {FAROUSAL} {PUSSY}.",
+        "I only get a moment's warning as fur brushes my legs before the wolf is {RAP}ing me as hard as his packmate.",
+        "I try to {STRUGGLE} as other wolf moves forward for my {PUSSY}, but the other's thrusts have me pinned to the ground."
+    ],
+    "2nd Person": [
+        "Deciding your {PUSSY} is {WET} enough, the wolf easily {PENETRAT}es his {COCK} into you, drawing a {LEWD} {SCREAM} out around the other's {COCK}.",
+        "Your face flushes with shame as the wolf easily parts your folds, the mix of saliva and your {CREAM} is more than enough...",
+        "You can't stifle a {SCREAM} at the deep penetration, though it is thankfully muffled by the other wolf's {COCK}...",
+        "With this {BEASTLY} knot filling your field of view, you don't see the other wolf move forward until he easily takes your {FAROUSAL} {PUSSY}.",
+        "You only get a moment's warning as fur brushes your legs before the wolf is {RAP}ing you as hard as his packmate.",
+        "You try to {STRUGGLE} as other wolf moves forward for your {PUSSY}, but the other's thrusts have you pinned to the ground."
+    ],
+    "3rd Person": [
+        "Deciding {PRIMARY}'s {PUSSY} is {WET} enough, the wolf easily {PENETRAT}es his {COCK} into her, drawing a {LEWD} {SCREAM} out around the other's {COCK}.",
+        "{PRIMARY}'s face flushes with shame as the wolf easily parts her folds, the mix of saliva and her {CREAM} is more than enough...",
+        "{PRIMARY} can't stifle a {SCREAM} at the deep penetration, though it is thankfully muffled by the other wolf's {COCK}...",
+        "With this {BEASTLY} knot filling {PRIMARY}'s field of view, she doesn't see the other wolf move forward until he easily takes her {FAROUSAL} {PUSSY}.",
+        "{PRIMARY} only gets a moment's warning as fur brushes her legs before the wolf is {RAP}ing her as hard as his packmate.",
+        "{PRIMARY} tries to {STRUGGLE} as other wolf moves forward for her {PUSSY}, but the other's thrusts have her pinned to the ground."
+    ]
+}

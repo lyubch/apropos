@@ -1,0 +1,27 @@
+{
+    "1st Person": [
+        "I {GENTLE}ly pinch and twist my nipples as {ACTIVE} {FUCK}s her {STRAPON} between my {BOOBS}.",
+        "I want every woman here to have a chance with their hands on my {BOOBS} and feel them up.",
+        "({ACTIVE}) Your {BOOBS} are so perfect! So {HEAVING} and round. You're such a {BITCH}.",
+        "I love the feeling of a {HUGE} {STRAPON} between my {BOOBS}.",
+        "I lean back, completely {NUDE}, with my {BOOBS} wrapped around a {HUGE} {STRAPON}.",
+        "Mouth open and {BOOBS} pushed up, I feel a little more {HORNY} for being so {SUBMISSIVE}.",
+        "I'm gonna end up smelling like {CREAM} all day today..."
+    ],
+    "2nd Person": [
+        "You {GENTLE}ly pinch and twist your nipples as {ACTIVE} {FUCK}s her {STRAPON} between your {BOOBS}.",
+        "You want every woman here to have a chance with their hands on your {BOOBS} and feel them up.",
+        "({ACTIVE}) Your {BOOBS} are so perfect! So {HEAVING} and round. You're such a {BITCH}.",
+        "You love the feeling of a {HUGE} {STRAPON} between your {BOOBS}.",
+        "You lean back, completely {NUDE}, with your {BOOBS} wrapped around a {HUGE} {STRAPON}.",
+        "Mouth open and {BOOBS} pushed up, you feel a little more {HORNY} for being so {SUBMISSIVE}.",
+        "You're gonna end up smelling like {CREAM} all day today..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} {GENTLE}ly pinches and twists her nipples as {ACTIVE} {FUCK}s her {STRAPON} between her {BOOBS}.",
+        "Every woman here should have a chance with their hands on {PRIMARY}'s {BOOBS} and feel them up.",
+        "({ACTIVE}) Your {BOOBS} are so perfect! So {HEAVING} and round. You're such a {BITCH}.",
+        "{PRIMARY} leans back, completely {NUDE}, with her {BOOBS} wrapped around a {HUGE} {STRAPON}.",
+        "Mouth open and {BOOBS} pushed up, {PRIMARY} seems a little more {HORNY} for being so {SUBMISSIVE}."
+    ]
+}

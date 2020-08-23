@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "Still fingering myself furiously, I stroke the length of the {ACTIVE}'s {COCK}.",
+        "My heart thunders in my ears as I wank off both myself and this animal.",
+        "Such a {HUGE} {COCK}... My {PUSSY} aches, imagining what it would be like to be fucked by it.",
+        "So far, so good... If he's still calm as I use my hand, he shouldn't mind me using my tongue...?",
+        "It's so big and heavy, I want it inside me...",
+        "I'll make sure its balls are empty before I go...",
+        "I start to yearn for the creature thrust itself inside me, to fill me with its {CUM}.",
+        "It's so big and heavy, I want it inside me...",
+        "I can't even reach my hand around it... My fingers churn my {PUSSY}, knowing I want to try.",
+        "The head is so strange... What would that feel like in my {PUSSY}?",
+        "The {ACTIVE} is starting to get restless... I've been teasing it too long, I need to do something!"
+    ],
+    "2nd Person": [
+        "Still fingering yourself furiously, you stroke the length of the {ACTIVE}'s {COCK}.",
+        "Your heart thunders in your ears as you wank off both yourself and this animal.",
+        "Such a {HUGE} {COCK}... Your {PUSSY} aches, imagining what it would be like to be fucked by it.",
+        "So far, so good... If he's still calm as you use your hand, he shouldn't mind you using your tongue..",
+        "It's so big and heavy, you want it inside you...",
+        "You'll make sure its balls are empty before you go...",
+        "You start to yearn for the creature thrust itself inside you, to fill you with its {CUM}.",
+        "It's so big and heavy, you want it inside you...",
+        "You can't even reach your hand around it... Your fingers churn your {PUSSY}, knowing you want to try.",
+        "The head is so strange... What would that feel like in your {PUSSY}?",
+        "The {ACTIVE} is starting to get restless... You've been teasing it too long, you need to do something!"
+    ],
+    "3rd Person": [
+        "Still fingering herself furiously, {PRIMARY} strokes the length of the {ACTIVE}'s {COCK}.",
+        "So far, so good... If he's still calm as {PRIMARY} use her hand, he shouldn't mind her using her tongue...?",
+        "{PRIMARY} can't even reach her hand around it... her fingers churn her {PUSSY}, is she going to try?",
+        "The head is so strange... What would that be like in {PRIMARY} {PUSSY}?",
+        "The {ACTIVE} is starting to get restless... {PRIMARY}'s been teasing it too long, she needs to do something!"
+    ]
+}

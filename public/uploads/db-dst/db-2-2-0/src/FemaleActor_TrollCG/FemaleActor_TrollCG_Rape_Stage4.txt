@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "Timidly I raise up onto my feet, and start fucking myself on the monster's {BEAST} {PENIS}.",
+        "The {ACTIVE} releases his grip on me as I climb up onto it, and begin riding in long, smooth strokes.",
+        "I lean forward as I begin to fuck the {ACTIVE}, my {BOOBS} dangling in front of its face.",
+        "Eager to keep control, I raise myself up, and start to ride the beast's {BEAST} {PENIS}.",
+        "The head of its {COCK} smashes up against my cervix again, leaving inches of cock outside of my {PUSSY}.",
+        "Ugh... ugh... ugh... I can't believe my body is taking this kind of punishment.",
+        "I feel uncomfortably full, and the notion of being filled even a little bit more makes my belly ache."        
+    ],
+    "2nd Person" :
+    [
+        "Timidly you raise up onto your feet, and start fucking yourself on the monster's {BEAST} {PENIS}.",
+        "The {ACTIVE} releases his grip on you as you climb up onto it, and begin riding in long, smooth strokes.",
+        "You lean forward as you begin to fuck the {ACTIVE}, your {BOOBS} dangling in front of its face.",
+        "Eager to keep control, you raise yourself up, and start to ride the beast's {BEAST} {PENIS}.",
+        "The head of its {COCK} smashes up against your cervix again, leaving inches of cock outside of your {PUSSY}.",
+        "Ugh... ugh... ugh... you can't believe your body is taking this kind of punishment.",
+        "You feel uncomfortably full, and the notion of being filled even a little bit more makes your belly ache."
+    ],
+    "3rd Person" :
+    [
+        "Timidly {PRIMARY} raises up onto her feet, and starts fucking herself on the monster's {BEAST} {PENIS}.",
+        "The {ACTIVE} releases his grip on {PRIMARY} as she climbs up onto it, and begins riding in long, smooth strokes.",
+        "{PRIMARY} leans forward and begins to fuck the {ACTIVE}, her {HEAVING} {BOOBS} dangling in front of its face."        
+    ]
+}

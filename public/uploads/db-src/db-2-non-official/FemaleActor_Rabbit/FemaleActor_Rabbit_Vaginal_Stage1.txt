@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "I arch my back and raise my {PUSSY}, {QUIVER}ing and {MOAN}ing as {ACTIVE} mounts me.",
+        "I {MOAN} in {FEAR} as {ACTIVE} {INSERT}s its {BEASTLY} {COCK} inside my {FAROUSAL} {PUSSY}.",
+        "{ACTIVE} wastes no time getting on me and {INSERT}ing his {COCK} into my {FAROUSAL} {PUSSY}.",
+        "Arching my back, I let {ACTIVE} {BREED} me and {RAP}e me hard and deep.",
+        "I never knew I was a {BITCH} who'd even do it with a {ACTIVE}!",
+        "His hind legs scrabble at the floor as he {INSERT}s his {BEASTLY} red {COCK} into my {FAROUSAL} {PUSSY}.",
+        "{ACTIVE}'s {BALLS} feel so heavy as they slap against my thighs."        
+    ],
+    "2nd Person" :
+    [
+        "You arch your back and raise your {PUSSY}, {QUIVER}ing and {MOAN}ing as {ACTIVE} mounts you.",
+        "You {MOAN} in {FEAR} as {ACTIVE} {INSERT}s its {BEASTLY} {COCK} inside your {FAROUSAL} {PUSSY}.",
+        "{ACTIVE} wastes no time getting on you and {INSERT}ing his {COCK} into your {FAROUSAL} {PUSSY}.",
+        "Arching your back, you let {ACTIVE} climb onto you and {RAP}e you hard and deep.",
+        "You never knew you were a {BITCH} who'd even do it with a {ACTIVE}!",
+        "His hind legs scrabble at the floor as he {INSERT}s his {BEASTLY} red {COCK} into your {FAROUSAL} {PUSSY}.",
+        "{ACTIVE}'s {BALLS} feel so heavy as they slap against your thighs."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} leaps up onto {PRIMARY}'s back, and starts to thrust into her steadily.",
+        "{SWEARING}, {PRIMARY}'s having sex with a {ACTIVE}!",
+        "{PRIMARY} arches her back as {ACTIVE} enters her, clearly enjoying the {ANIMAL}'s {COCK}."
+    ]
+}

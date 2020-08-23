@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "The {ACTIVE} looks down into my eyes again, and I can tell she's almost there.",
+        "I can feel it, she's almost there...",
+        "I can't believe how wet I'm getting from this, I can hear my {CREAM} dripping on the ground...",
+        "({ACTIVE}) I know you want it. Because now I know what a {CREAM} hungry {BITCH} you are."
+    ],
+    "2nd Person": [
+        "{ACTIVE} looks down into your eyes again, and you can tell she's almost there.",
+        "You can feel it, she's almost there...",
+        "You can't believe how wet you're getting from this, you can hear your {CREAM} dripping on the ground...",
+        "({ACTIVE}) I know you want it. Because now I know what a {CREAM} hungry {BITCH} you are."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} looks down into {PRIMARY}'s eyes again, she's almost there.",
+        "({ACTIVE}) I know you want it. Because now I know what a {CREAM} hungry {BITCH} you are."
+    ]
+}

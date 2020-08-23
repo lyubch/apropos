@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "The {COCK} starts to throb inside me as the {MONSTER} grabs my head. {SWEARING}, here it comes...",
+        "Fear threatens to overtake me as the {MONSTER} holds me down, but I resist the urge to {STRUGGLE}.",
+        "{SWEARING}, it's almost there! I start to pump my {PUSSY} faster, eager to finish and escape from this horror.",
+        "Despite my {FEAR}, my nipples are stiff as my {BOOBS} are crushed against the {ACTIVE}'s filthy fur.",
+        "{SWEARING}, what's it doing?! (sob) Please don't hurt me!",
+        "I {LEWD}ly thrust back into the {MONSTER}'s {BEASTLY} {COCK}, desperate to finish before it decides to kill me.",
+        "Soon yet another inhuman {MONSTER} will {EJACULATE} a load inside me, trying to get me pregnant."        
+    ],
+    "2nd Person" :
+    [
+        "The {COCK} starts to throb inside you as the {MONSTER} grabs your head. {SWEARING}, here it comes...",
+        "Fear threatens to overtake you as the {MONSTER} holds you down, but you resist the urge to {STRUGGLE}.",
+        "{SWEARING}, it's almost there! You start to pump your {PUSSY} faster, eager to finish and escape from this horror.",
+        "Despite your {FEAR}, your nipples are stiff as your {BOOBS} are crushed against the {ACTIVE}'s filthy fur.",
+        "({PRIMARY}) {SWEARING}, what's it doing?! (sob) Please don't hurt me!",
+        "You {LEWD}ly thrust back into the {MONSTER}'s {BEASTLY} {COCK}, desperate to finish before it decides to kill you.",
+        "Soon yet another inhuman {MONSTER} will {EJACULATE} a load inside you, trying to get you pregnant." 
+    ],
+    "3rd Person" :
+    [
+        "The {MONSTER} holds {PRIMARY}'s head down. She {SCREAM}s, {BUTTOCKS} now {JIGGL}ing faster in {FEAR} and desperation.",
+        "{SWEARING}, what's it doing? {PRIMARY} {FUCK}s the {MONSTER} even faster, clearly hoping to make it cum soon.",
+        "{PRIMARY}'s muffled {SCREAM}s sound out from the {MONSTER}'s filthy chest. Are they {SCREAM}s of panic, or {SCREAM}s of {LUST}?"
+    ]
+}

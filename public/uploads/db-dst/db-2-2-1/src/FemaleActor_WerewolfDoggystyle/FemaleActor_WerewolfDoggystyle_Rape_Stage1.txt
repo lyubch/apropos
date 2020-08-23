@@ -1,0 +1,44 @@
+{
+    "1st Person" :
+    [
+        "The brute pushes me down onto my hands and knees before pushing his {BEAST} {PENIS} into my {PUSSY}.",
+        "The {ACTIVE}'s huge clawed hand wraps around my waist, holding me still he he fucks deep into my {PUSSY}.",
+        "My head hangs and I pant through the pain as the {ACTIVE} fucks my {PUSSY} in long, deep strokes.",
+        "My knuckles clench tightly in pain. The {ACTIVE}'s {PENIS} is {HUGE}, and I can feel the {BEAST} knot...",
+        "Despite terror and pain overwhelming me, I find myself pushing back as he fucks my {PUSSY} steadily.",
+        "The {ACTIVE} holds me tightly by the waist, and shoves his {BEAST} {PENIS} into my {PUSSY}.",
+        "As the {ACTIVE} presses harder and harder, I reluctantly relax my hips and he slides inside.",
+        "My backside juts upwards, round, youthful and flawless, and vulnerably presented to my monstrous attacker.",
+        "My cries go ignored, as the werewolf pushes his {BEAST} {PENIS} into my {WTVAGINAL} {PUSSY}.",
+        "The beast is upon me and begins to thrust the full length of it into my womb.",
+        "I give up, don't hurt me! I'll... I'll let you breed me if you don't hurt me anymore!",
+        "Once the knot batters inside me, I won't be able to escape until I've been inseminated...",
+        "No! Please! Not like this! (sob) No... Please no...",
+        "Knocked to the ground, I don't even have time to catch my breath before the beast's {PENIS} fucks into me."
+    ],
+    "2nd Person" :
+    [
+        "The brute pushes you down onto your hands and knees before pushing his {BEAST} {PENIS} into your {PUSSY}.",
+        "The {ACTIVE}'s huge clawed hand wraps around your waist, holding you still he he fucks deep into your {PUSSY}.",
+        "Your head hangs and you pant through the pain as the {ACTIVE} fucks your {PUSSY} in long, deep strokes.",
+        "Your knuckles clench tightly in pain. The {ACTIVE}'s {PENIS} is {HUGE}, and you can feel the {BEAST} knot...",
+        "Despite terror and pain overwhelming you, you find yourself pushing back as he fucks your {PUSSY} steadily.",
+        "The {ACTIVE} holds you tightly by the waist, and shoves his {BEAST} {PENIS} into your {PUSSY}.",
+        "As the {ACTIVE} presses harder and harder, you reluctantly relax your hips and he slides inside.",
+        "Your backside juts upwards, round, youthful and flawless, and vulnerably presented to your monstrous attacker.",
+        "Your cries go ignored, as the werewolf pushes his {BEAST} {PENIS} into your {WTVAGINAL} {PUSSY}.",
+        "The beast is upon you and begins to thrust the full length of it into your womb.",
+        "({PRIMARY}) I give up, don't hurt me! I'll... I'll let you breed me if you don't hurt me anymore!",
+        "Once the knot batters inside you, you won't be able to escape until you've been inseminated...",
+        "({PRIMARY}) No! Please! Not like this! (sob) No... Please no...",
+        "Knocked to the ground, you don't even have time to catch your breath before the beast's {PENIS} fucks into you."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} holds {PRIMARY} still, snarling and growling as it starts to rape her.",
+        "There's no way {PRIMARY} can resist a beast like that, and she groans as its {PENIS} enters her.",
+        "The vicious looking claws around her flesh keep {PRIMARY} from resisting.",
+        "Oh Gods, it's true! Werewolves like to force themselves on helpless human girls...",
+        "{PRIMARY}'s knuckles are tense, fingers digging into the ground as the {BEAST} {COCK} thrusts into her {PUSSY}."
+    ]
+}

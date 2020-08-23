@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "Watching between my legs, I marvel at the huge, melon-sized balls swinging there. There must be a lot of {CUM}...",
+        "Head low, I can see the monster's {PENIS} slamming into me. It feels even better than it looks!",
+        "Both hands on my ass, the {ACTIVE} really starts to hammer into my {PUSSY}, and I take it all the way to the base.",
+        "Consumed by lust, I submit, and the {ACTIVE} fucks me mercilessly.",
+        "I watch in fascination as the bulge inches up from my groin toward my stomach."
+    ],
+    "2nd Person" :
+    [
+        "Watching between your legs, you marvel at the huge, melon-sized balls swinging there. There must be a lot of {CUM}...",
+        "Head low, you can see the monster's {PENIS} slamming into you. It feels even better than it looks!",
+        "Both hands on your ass, the {ACTIVE} really starts to hammer into your {PUSSY}, and you take it all the way to the base.",
+        "Consumed by lust, you submit, and the {ACTIVE} fucks you mercilessly.",
+        "You watch in fascination as the bulge inches up from your groin toward your stomach."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} holds herself up on both hands, keeping her ass high for the brute to fuck.",
+        "Oh my, {PRIMARY} can surely see her {PUSSY} being fucked from that position...",
+        "The {ACTIVE} continues to steadily fuck {PRIMARY}, who makes no attempt to pull herself away."
+    ]
+}

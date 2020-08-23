@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "Clutching my waist in one massive clawed hand, the {ACTIVE} continues to pump me up and down on its {COCK}.",
+        "I feel ill every time I reach the bottom, with over a foot of troll-{COCK} inside me, its head punching my womb.",
+        "I can't help but {SCREAM} every time the {BEASTLY} {COCK} bottoms out in my {WTVAGINAL} {PUSSY}, spreading me {LEWD}ly.",
+        "The {ACTIVE} grunts as it tries to {FUCK} his whole {COCK} into me, pounding my cervix.",
+        "I clench my teeth and vainly {STRUGGLE} against my building orgasm.",
+        "The {MONSTER} {FUCK}s itself into me again and again, and the more I {SCREAM} the more {HORNY} it seems to get."        
+    ],
+    "2nd Person" :
+    [
+        "Clutching your waist in one massive clawed hand, the {ACTIVE} continues to pump you up and down on its {COCK}.",
+        "You feel ill every time you reach the bottom, with over a foot of troll-{COCK} inside you, its head punching your womb.",
+        "You can't help but {SCREAM} every time the {BEASTLY} {COCK} bottoms out in your {WTVAGINAL} {PUSSY}, spreading you {LEWD}ly.",
+        "The {ACTIVE} grunts as it tries to {FUCK} his whole {COCK} into you, pounding your cervix.",
+        "You clench your teeth and vainly fight your building orgasm.",
+        "The {MONSTER} {FUCK}s itself into you again and again, and the more you {SCREAM} the more {HORNY} it seems to get." 
+    ],
+    "3rd Person" :
+    [
+        "Clutching {PRIMARY}'s waist in one massive clawed hand, the {ACTIVE} continues to pump her up and down on its {COCK}.",
+        "{PRIMARY} {SCREAM}s every time the {BEASTLY} {COCK} bottoms out in her {WTVAGINAL} {PUSSY}, spreading it {LEWD}ly.",
+        "The {MONSTER} {FUCK}s itself into {PRIMARY} again and again, and the more she {SCREAM}s the more {HORNY} it seems to get."
+    ]
+}

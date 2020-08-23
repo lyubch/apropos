@@ -1,0 +1,43 @@
+{
+    "1st Person" :
+    [
+        "({ACTIVE}) Your turn to do the work, {BITCH}! I want to see you ride my {COCK}!",
+        "The {ACTIVE} leans back, releasing my arm. Not wanting to anger him, I sink back onto his {COCK}.",
+        "With no way out, I reluctantly start to pump my {ASSHOLE} {SLOW}ly on the {ACTIVE}'s {COCK}.",
+        "Trembling and sore, I will my arms not to give out and drop me all the way onto the {ACTIVE}'s {COCK}.",
+        "I lean forward and clench my teeth, straining to {ACCEPT} the {ACTIVE}'s {HUGE} {COCK} further up my {ASSHOLE}.",
+        "I {SCREAM} and begin sliding down, feeling painfully stretched by the {HUGE} intruder but pressing on anyway.",
+        "I'm not gonna give him the satisfaction of breaking me... This 'little girl' is not to be messed with!",
+        "{PLEADING}, it hurts... I {SCREAM} as my attacker laughs.",
+        "I do not want to give them the pleasure of seeing me {SCREAM}, but it's coming. I can't stop it.",
+        "({ACTIVE}) Oh yeah... see... you know your place is on my {COCK}, as my {BITCH}!",
+        "({ACTIVE}) It looks like you've got used to my {COCK}!",
+        "The {SODOMIZE}ing becomes more pleasurable as time passes, until I am a {ACCEPTING} participant in my own rape.",
+        "Any inhibitions I previously had are no longer seen, now just a {LEWD} {BITCH} revelling in her own rape.",
+        "({ACTIVE}) I had you pegged for some kind of butt-slut when I saw you!"        
+    ],
+    "2nd Person" :
+    [
+        "({ACTIVE}) Your turn to do the work, {BITCH}! I want to see you ride my {COCK}!",
+        "The {ACTIVE} leans back, releasing your arm. Not wanting to anger him, you sink back onto his {COCK}.",
+        "With no way out, you reluctantly start to pump your {ASSHOLE} {SLOW}ly on the {ACTIVE}'s {COCK}.",
+        "Trembling and sore, you will your arms not to give out and drop you all the way onto the {ACTIVE}'s {COCK}.",
+        "You lean forward and clench your teeth, straining to {ACCEPT} the {ACTIVE}'s {HUGE} {COCK} further up your {ASSHOLE}.",
+        "You {SCREAM} and begin sliding down, feeling painfully stretched by the {HUGE} intruder but pressing on anyway.",
+        "You're not gonna give him the satisfaction of breaking you... This 'little girl' is not to be messed with!",
+        "{PLEADING}, it hurts... you {SCREAM} as your attacker laughs.",
+        "You do not want to give them the pleasure of seeing you {SCREAM}, but it's coming. you can't stop it.",
+        "({ACTIVE}) Oh yeah... see... you know your place is on my {COCK}, as my {BITCH}!",
+        "({ACTIVE}) It looks like you've got used to my {COCK}!",
+        "The {SODOMIZE}ing becomes more pleasurable as time passes, until you are a {ACCEPTING} participant in your own rape.",
+        "Any inhibitions you previously had are no longer seen, now just a {LEWD} {BITCH} revelling in her own rape.",
+        "({ACTIVE}) I had you pegged for some kind of butt-slut when I saw you!"
+    ],
+    "3rd Person" :
+    [
+        "Even though the {ACTIVE} has let her arms go, {PRIMARY} doesn't try to escape.",
+        "It looks like {PRIMARY} has completely given in, she's {FUCK}ing the {ACTIVE}'s {COCK} herself...",
+        "{PRIMARY} seems to be in {PAIN}, but every so often she {SCREAM}s in {LUST}.",
+        "{PRIMARY} is holding herself up, she seems reluctant to take all of the {ACTIVE}'s {COCK} in her {ASSHOLE}."
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} suddenly rolls me over, and the next thing I know, his {VILE} {ASSHOLE} and {BALLS} are in my face.",
+        "I {STRUGGLE} frantically, my arms pinned under my own weight, desperate to escape this indignity.",
+        "{SWEARING}! This is {VILE}! I would have rather he came up my {ASSHOLE}! I think I'm going to be sick...",
+        "I {SCREAM} and splutter, but do my best to please the {ACTIVE}, my tongue {EXPLOR}ing into his stinking {ASSHOLE}.",
+        "The {ACTIVE} {ROUGH}ly wipes his ass up and down my face even as he {EJACULATE}s, covering me in his {SCUM}.",
+        "Mlllphhh! Tears stream down my face as I reluctantly open my {MOUTH} for {ACTIVE}."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} rolls you over, and the next thing you know, his {VILE} {ASSHOLE} and {BALLS} are in your face.",
+        "You {STRUGGLE} frantically, your arms pinned under your own weight, desperate to escape this indignity.",
+        "{SWEARING}! This is {VILE}! You would have rather he came up your {ASSHOLE}! You think you're going to be sick...",
+        "You {SCREAM} and splutter, but do your best to please the {ACTIVE}, your tongue {EXPLOR}ing into his stinking {ASSHOLE}.",
+        "The {ACTIVE} {ROUGH}ly wipes his ass up and down your face even as he {EJACULATE}s, covering you in his {SCUM}.",
+        "Mlllphhh! Tears stream down your face as you reluctantly open your {MOUTH} for {ACTIVE}."
+    ],
+    "3rd Person" :
+    [
+        "Muffled {SCREAM}s of {FEAR} and disgust sound out as the {ACTIVE} {ROUGH}ly teabags {PRIMARY}.",
+        "His {CUM} {EJACULATE}ing out along {PRIMARY}'s body, the {ACTIVE} pulls out and squats {ROUGH}ly on her face.",
+        "{PRIMARY} is flipped over, and the {ACTIVE} smears his ass all over her face. She struggles frantically.",
+        "{PRIMARY}'s {WTANAL} {ASSHOLE} can be seen as the {ACTIVE} pulls out. It looks like that hurt a lot...",
+        "{PRIMARY} {SCREAM}s {LEWD}ly. What is the {ACTIVE} doing to her?!"
+    ]
+}

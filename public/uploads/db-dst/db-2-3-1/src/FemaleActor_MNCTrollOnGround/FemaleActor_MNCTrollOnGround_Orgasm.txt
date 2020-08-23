@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "The {ACTIVE}'s powerful cumshot pushes me over the edge, and I collapse, groping and kneading my breast as I cum.",
+        "I feel my cervix part and allow the {COCK} inside, {THICK} {CUM} threatening to impregnate me.",
+        "No, not yet! I'm not there yet! It's not fair... I desperately tweak and fondle my nipple, trying to make myself cum.",
+        "My muscles burning, I jerk my hips, fighting exhaustion to finally reach my climax.",
+        "{SWEARING}! Ahhh! I'm cumming as I'm being filled up!"
+    ],
+    "2nd Person": [
+        "The {ACTIVE}'s powerful cumshot pushes you over the edge, and you collapse, groping and kneading your breast as you cum.",
+        "You feel your cervix part and allow the {COCK} inside, {THICK} {CUM} threatening to impregnate you.",
+        "No, not yet! You're not there yet! It's not fair. You desperately tweak and fondle your nipple, trying to make yourself cum.",
+        "Your muscles burning, you jerk your hips, fighting exhaustion to finally reach your climax.",
+        "{SWEARING}! Ahhh! You're cumming as I'm being filled up!"
+    ],
+    "3rd Person": [
+        "The {ACTIVE}'s powerful cumshot pushes {PRIMARY} over the edge, and she collapses, groping and kneading her breast as her cum.",
+        "{PRIMARY} feels her cervix part and allow the {COCK} inside, {THICK} {CUM} threatening to impregnate her.",
+        "No, not yet! {PRIMARY} is not there yet! It's not fair. She desperately tweaks and fondles her nipple, trying to make herself cum.",
+        "{PRIMARY}'s muscles burning, she jerks her hips, fighting exhaustion to finally reach her climax.",
+        "{SWEARING}! Ahhh! {PRIMARY} is cumming as she's being filled up!"
+    ]
+}

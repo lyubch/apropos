@@ -1,0 +1,39 @@
+{
+    "1st Person": [
+        "I just lie back and take the {ACTIVE}'s {CUM}, enjoying the submissive nature of my insemination.",
+        "I lie back and let its {THICK} {CUM} explode into my receptive and {FAROUSAL} body.",
+        "I can feel it splashing against the walls of my {ASS}...",
+        "Each deep thrust from the {ACTIVE} is accompanied by a wet squirt of {THICK} {CUM}.",
+        "It's cumming inside me! Oh Gods, it's so {THICK}...",
+        "I feel spurt after spurt of the creature's {CUM} being driven deep into my {ASS}.",
+        "It doesn't slow down, continuing to thrust into me, bringing orgasm after orgasm from my panting body.",
+        "I moan as the {ACTIVE} milks globs of {CUM} into my reproductive organs.",
+        "I cum twice more on his {BEAST} {COCK} before he dumps another load of {CUM} in my {ASS}.",
+        "Oh fuck! I feel it inside me!",
+        "My body fills with the monster's {THICK} {CUM}.",
+        "The creature's face contorts as he empties his balls into me."
+    ],
+    "2nd Person": [
+        "You just lie back and take the {ACTIVE}'s {CUM}, enjoying the submissive nature of your insemination.",
+        "You lie back and let its {THICK} {CUM} explode into your receptive and {FAROUSAL} body.",
+        "You can feel it splashing against the walls of your {ASS}...",
+        "Each deep thrust from the {ACTIVE} is accompanied by a wet squirt of {THICK} {CUM}.",
+        "It's cumming inside you! Oh Gods, it's so {THICK}...",
+        "You feel spurt after spurt of the creature's {CUM} being driven deep into your {ASS}.",
+        "It doesn't slow down, continuing to thrust into you, bringing orgasm after orgasm from your panting body.",
+        "You moan as the {ACTIVE} milks globs of {CUM} into your reproductive organs.",
+        "You cum twice more on his {BEAST} {COCK} before he dumps another load of {CUM} in your {ASS}.",
+        "Oh fuck! You feel it inside you!",
+        "Your body fills with the monster's {THICK} {CUM}.",
+        "The creature's face contorts as he empties his balls into you."
+    ],
+    "3rd Person": [
+        "{PRIMARY} just lies back and takes the {ACTIVE}'s {CUM}, completely submissive in her insemination.",
+        "{PRIMARY} lies back and lets its {THICK} {CUM} explode into her receptive and {FAROUSAL} body.",
+        "Each deep thrust from the {ACTIVE} is accompanied by a wet squirt of {THICK} {CUM}.",
+        "It's cumming inside {PRIMARY}! Oh Gods...",
+        "Spurt after spurt of the creature's {CUM} is being driven deep into {PRIMARY}'s {ASS}.",
+        "It doesn't slow down, thrusting into {PRIMARY}, bringing orgasm after orgasm from her panting body.",
+        "{PRIMARY} moans as the {ACTIVE} milks globs of {CUM} into her reproductive organs."
+    ]
+}

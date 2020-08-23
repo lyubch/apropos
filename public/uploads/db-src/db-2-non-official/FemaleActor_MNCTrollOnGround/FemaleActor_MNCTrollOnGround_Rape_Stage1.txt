@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "The {ACTIVE} holds me by the waist, and I {SCREAM} as the {COCKHEAD} of its {COCK} starts to {FUCK} {SLOW}ly into me.",
+        "I'm pinned under the {ACTIVE}'s bulk, powerless to stop it pushing its {BEASTLY} {COCK} into my {WTVAGINAL} {PUSSY}.",
+        "I'm bruised and {NUDE}, about to be {ROUGH}ly {RAP}ed by a {MONSTER}. Then why is it sliding in so easily? Why am I wet?",
+        "I've heard stories of country girls who had been caught in the woods by trolls... I can't believe it's true!",
+        "My heart is racing, I can't escape, this {ACTIVE} can do whatever it wants to me.",
+        "Insistently, {ROUGH}ly, the first few inches of its impossibly {BEASTLY} {COCK} {PENETRAT}e up inside of me.",
+        "The air smells of sex, thick and {SALTY}. How many other girls have been {FUCK}ed here?"
+    ],
+    "2nd Person": [
+        "The {ACTIVE} holds you by the waist, and you {SCREAM} as the {COCKHEAD} of its {COCK} starts to {FUCK} {SLOW}ly into you.",
+        "You're pinned under the {ACTIVE}'s bulk, powerless to stop it pushing its {BEASTLY} {COCK} into your {WTVAGINAL} {PUSSY}.",
+        "You're bruised and {NUDE}, about to be {ROUGH}ly {RAP}ed by a {MONSTER}. Then why is it sliding in so easily? Why are you wet?",
+        "You've heard stories of country girls who had been caught in the woods by trolls... You can't believe it's true!",
+        "Your heart is racing, you can't escape, this {ACTIVE} can do whatever it wants to you.",
+        "Insistently, {ROUGH}ly, the first few inches of its impossibly {BEASTLY} {COCK} {PENETRAT}e up inside of you.",
+        "The air smells of sex, thick and {SALTY}. How many other girls have been {FUCK}ed here?"
+    ],
+    "3rd Person": [
+        "The {ACTIVE} holds {PRIMARY} by the waist, and she {SCREAM}s as the {COCKHEAD} of its {COCK} starts to {FUCK} {SLOW}ly into her.",
+        "{PRIMARY} is pinned under the {ACTIVE}'s bulk, powerless to stop it pushing its {BEASTLY} {COCK} into her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} is bruised and {NUDE}, about to be {ROUGH}ly {RAP}ed by a {MONSTER}. Then why is it sliding in so easily? Why is she wet?",
+        "{PRIMARY} has heard stories of country girls who had been caught in the woods by trolls... She can't believe it's true!",
+        "{PRIMARY}'s heart is racing, she can't escape, this {ACTIVE} can do whatever it wants to her.",
+        "Insistently, {ROUGH}ly, the first few inches of its impossibly {BEASTLY} {COCK} {PENETRAT}e up inside of {PRIMARY}.",
+        "The air smells of sex, thick and {SALTY}. How many other girls have been {FUCK}ed here?"
+    ]
+}

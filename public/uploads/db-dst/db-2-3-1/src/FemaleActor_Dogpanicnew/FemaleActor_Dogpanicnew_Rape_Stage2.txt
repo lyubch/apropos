@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "I lose the fight, {ACTIVE}'s {BEASTLY} {COCK} ramming deep into me as he takes his prize.",
+        "I lurch forward to escape, but {ACTIVE} wraps himself around my hips and {INSERT}s his {COCK} inside me.",
+        "{ACTIVE} wraps his legs around me, pushing his {COCK} into my {PUSSY}, and he {RAP}es me like a {ANIMAL}.",
+        "Unable to {STRUGGLE} the urge any longer, I allow {ACTIVE} to insert its {COCK} inside my {FLESH}.",
+        "I briefly feel it at my {ASSHOLE}. My eyes widen in {FEAR} before it finds it mark and {PENETRAT}es into my {PUSSY}.",
+        "AAAH! It's in! It feels so strange, much hotter and bigger than a human {COCK}.",
+        "Arching my back, I let {ACTIVE} {BREED} me and {RAP}e me hard and fast."        
+    ],
+    "2nd Person" :
+    [
+        "You lose the fight, {ACTIVE}'s {BEASTLY} {COCK} ramming deep into you as he takes his prize.",
+        "You lurch forward to escape, but {ACTIVE} wraps himself around your hips and {INSERT}s his {COCK} inside you.",
+        "{ACTIVE} wraps his legs around you, pushing his {COCK} into your {PUSSY}, and he {FUCK}s you like a {ANIMAL}.",
+        "Unable to {STRUGGLE} the urge any longer, you allow {ACTIVE} to insert its {COCK} inside your body.",
+        "You briefly feel it at your {ASSHOLE}. Your eyes widen in {FEAR} before it {PENETRAT}es into your {PUSSY}.",
+        "AAAH! It's in! It feels so strange, much hotter and bigger than a human {COCK}.",
+        "Arching your back, you let {ACTIVE} climb onto you and {RAP}e you hard and fast."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} eventually gives up, falling forward as {ACTIVE} starts to pound into her {PUSSY}.",
+        "As expected, {ACTIVE} eventually manages to get his {COCK} inside the struggling girl."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} wants to {FUCK} my {FAROUSAL} {PUSSY} more!",
+	"{SWEARING}, this is good!  I need to keep this {COCK} in my {FAROUSAL} {PUSSY}!",
+	"{ACTIVE} tries to pull his {COCK} out of my {PUSSY}, but I reach back and coax him back in..."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} wants to {FUCK} your {FAROUSAL} {PUSSY} more!",
+	"{SWEARING}, this is good!  You need to keep this {COCK} in your {FAROUSAL} {PUSSY}!",
+	"{ACTIVE} tries to pull his {COCK} out of your {PUSSY}, but you reach back and coax him back in..."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} wants to {FUCK} {PRIMARY}'s {FAROUSAL} {PUSSY} more!",
+	"({PRIMARY}) {SWEARING}, this is good!  I need to keep this {COCK} in my {FAROUSAL} {PUSSY}!",
+	"{ACTIVE} tries to pull his {COCK} out of {PRIMARY}'s {PUSSY}, but she reaches back and coaxes him back in..."
+    ]
+}

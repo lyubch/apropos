@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I wrap my hand around its {BEAST} {COCK} and start pumping it slowly. I feel his chest rumble at my back as he lets out a low growl.",
+        "My teasing made it stiffen up... but as I stroke back and forth I feel its {MAROUSAL} {COCK} get even harder in my hand.",
+        "{ACTIVE} is obviously enjoying my touch, lets see what happens when I caress its entire shaft...",
+        "The size and stiffness of this {BEAST} {COCK} are making me hot... I want to feel all of it...",
+        "So smooth, hard and long. I love seeing it in my hands... I wonder if it tastes good...",
+        "So you like my hand, huh? I guess I can try to take your {MAROUSAL} {COCK} in my {MOUTH}... Would you like that?"
+    ],
+    "2nd Person": [
+        "You wrap your hand around its {COCK} and start pumping it slowly. You feel his chest rumble at your back as he lets out a low growl.",
+        "Your teasing made it stiffen up... but as you stroke back and forth you feel its {MAROUSAL} {COCK} get even harder in your hand.",
+        "{ACTIVE} is obviously enjoying your touch, lets see what happens when you caress its entire shaft...",
+        "The size and stiffness of this {BEAST} {COCK} are making you hot... You want to feel all of it...",
+        "So smooth, hard and long. You love seeing it in your hands... You wonder if it tastes good...",
+        "({PRIMARY}) So you like my hand, huh? I guess I can try to take your {MAROUSAL} {COCK} in my {MOUTH}... Would you like that?"
+    ],
+    "3rd Person": [
+        "{PRIMARY} wraps her hand around its {COCK} and start pumping it slowly. She feels his chest rumble at her back as he lets out a low growl.",
+        "{PRIMARY}'s teasing made it stiffen up... but as she strokes back and forth she feels its {MAROUSAL} {COCK} get even harder in her hand.",
+        "{ACTIVE} is obviously enjoying {PRIMARY}'s touch, lets see what happens when she caresses its entire shaft...",
+        "The size and stiffness of this {BEAST} {COCK} are making {PRIMARY} hot... She wants to feel all of it...",
+        "So smooth, hard and long. {PRIMARY} loves seeing it in her hands... She wonders if it tastes good...",
+        "({PRIMARY}) So you like my hand, huh? I guess I can try to take your {MAROUSAL} {COCK} in my {MOUTH}... Would you like that?"
+    ]
+}

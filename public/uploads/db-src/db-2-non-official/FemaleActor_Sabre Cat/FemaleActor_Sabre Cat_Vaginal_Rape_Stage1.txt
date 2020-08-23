@@ -1,0 +1,47 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} is staring at me... don't tell me it's going to...",
+        "Ah! This isn't real! I'm being {PENETRAT}ed by a {ANIMAL}'s {COCK}....",
+        "I am {SUBMISSIVE} with the {ACTIVE} as I let it {BREED} me, and then {RAP}es me.",
+        "The {ANIMAL} pushes me onto my hands and knees and positions itself behind me.",
+        "The {ACTIVE} {PENETRAT}es his {BEASTLY} {COCK} into me, {INSERT}ing into my {PUSSY} over and over.",
+        "It pushes me face-first into the ground and places its paws on my back, my {ASSHOLE} held up, {NUDE}.",
+        "I feel a surge of strange pride as the {ACTIVE}'s intent becomes clear. Everything wants to {FUCK} me.",
+        "The {ACTIVE}, with its {BEASTLY}, spine-covered {COCK}, lines up behind me. This is going to hurt...",
+        "I bend over to present my {WTVAGINAL} {PUSSY} to it, hoping it will accept my submission.",
+        "I reluctantly hold my thighs open for the {ANIMAL}, and {SCREAM} as it {PENETRAT}es me.",
+        "The animal {PENETRAT}es me, {INSERT}ing into me over and over.",
+        "I feel pawing at my {BUTTOCKS} as the {ACTIVE} moves to {BREED} me. This is it."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} is staring at you... don't say it's going to...",
+        "Ah! This isn't real! You're being {PENETRAT}ed by a {ANIMAL}'s {COCK}....",
+        "You are {SUBMISSIVE} with the {ACTIVE} as you let it {BREED} you, and then {FUCK}s you.",
+        "The {ANIMAL} pushes you onto your hands and knees and positions itself behind you.",
+        "The {ACTIVE} {PENETRAT}es his {BEASTLY} {COCK} into you, {INSERT}ing into your {PUSSY} over and over.",
+        "It pushes you face-first into the ground and places its paws on your back, your ass held up, {NUDE}.",
+        "You feel a surge of strange pride as the {ACTIVE}'s intent becomes clear. Everything wants to {FUCK} you.",
+        "The {ACTIVE}, with its {BEASTLY}, spine-covered {COCK}, lines up behind you. This is going to hurt...",
+        "You bend over to present your {WTVAGINAL} {PUSSY} to it, hoping it will accept your submission.",
+        "You reluctantly hold your thighs open for the {ANIMAL}, and {SCREAM} as it {PENETRAT}es you.",
+        "The animal {PENETRAT}es you, {INSERT}ing into you over and over.",
+        "You feel pawing at your {BUTTOCKS} as the {ACTIVE} moves to {BREED} you. This is it."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} is staring at {PRIMARY}... don't say it's going to...",
+        "Ah! This isn't real! {PRIMARY}'s being {PENETRAT}ed by a {ANIMAL}'s {COCK}....",
+        "{PRIMARY} is {SUBMISSIVE} with the {ACTIVE} as she lets it {BREED} her, and then {FUCK}s her.",
+        "The {ANIMAL} pushes {PRIMARY} onto her hands and knees and positions itself behind her.",
+        "The {ACTIVE} {PENETRAT}es his {BEASTLY} {COCK} into {PRIMARY}, {INSERT}ing into her {PUSSY} over and over.",
+        "It pushes {PRIMARY} face-first into the ground and places its paws on her back, her ass held up, {NUDE}.",
+        "{PRIMARY} blushes with {FEAR} as the {ACTIVE}'s intent becomes clear. Everything wants to {FUCK} her.",
+        "The {ACTIVE}, with its {BEASTLY}, spine-covered {COCK}, lines up behind {PRIMARY}. This is going to hurt...",
+        "{PRIMARY} bends over to present her {WTVAGINAL} {PUSSY} to it, hoping it will accept her submission.",
+        "{PRIMARY} reluctantly holds her thighs open for the {ANIMAL}, and {SCREAM}s as it {PENETRAT}es her.",
+        "The animal {PENETRAT}es {PRIMARY}, {INSERT}ing into her over and over.",
+        "The {ACTIVE} paws at {PRIMARY}'s {BUTTOCKS} as it moves to {BREED} her. This is it."
+    ]
+}

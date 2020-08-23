@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "Not wanting to leave the other wolf out of the fun, I roll onto my side, forcing the wolf on my back with me.",
+        "I guide the wolf's {COCK} towards my mouth with a hand, unaware of his friend until his foreleg is wrapped around me.",
+        "I push my butt into the wolf's crotch has he holds me close, letting the other bring his {COCK} to my face."
+    ],
+    "2nd Person": [
+        "Not wanting to leave the other wolf out of the fun, you roll onto your side, forcing the wolf on your back with you.",
+        "You guide the wolf's {COCK} towards your mouth with a hand, unaware of his friend until his foreleg is wrapped around you.",
+        "You push your butt into the wolf's crotch has he holds you close, letting the other bring his {COCK} to your face."
+    ],
+    "3rd Person": [
+        "Not wanting to leave the other wolf out of the fun, {PRIMARY} rolls onto her side, forcing the wolf on her back with her.",
+        "{PRIMARY} guides the wolf's {COCK} towards her mouth with a hand, unaware of his friend until his foreleg is wrapped around her.",
+        "{PRIMARY} pushes her butt into the wolf's crotch has he holds her close, letting the other bring his {COCK} to her face."
+    ]
+}

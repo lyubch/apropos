@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "My legs give way as I lower myself onto the {ACTIVE}'s {COCK}. All I can do is grind feebly.",
+        "({ACTIVE}) Spread those legs, {BITCH}! Let me see you take my {COCK}! All of it!",
+        "{SWEARING}, he's so {HUGE}! I can feel him up in my stomach... Ugh...",
+        "I sink down onto the {ACTIVE}'s {COCK}, too overcome by {LUST} to fight.",
+        "The {ACTIVE} laughs as his {HUGE} {COCK} effortlessly {PENETRAT}es into my {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} takes his turn between my legs. How much more do I have to endure?",
+        "({ACTIVE}) The little {BITCH} didn't even wait to spread her legs for us!",
+        "{ACTIVE} is buried to the {BALLS} inside of me. I've lost."
+    ],
+    "2nd Person" :
+    [
+        "Your legs give way as you lower yourself onto the {ACTIVE}'s {COCK}. All you can do is grind feebly.",
+        "({ACTIVE}) Spread those legs, {BITCH}! Let me see you take my {COCK}! All of it!",
+        "{SWEARING}, he's so {HUGE}! You can feel him up in your stomach... Ugh...",
+        "You sink down onto the {ACTIVE}'s {COCK}, too overcome by {LUST} to fight.",
+        "The {ACTIVE} laughs as his {HUGE} {COCK} effortlessly {PENETRAT}es into your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} takes his turn between your legs. How much more do you have to endure?",
+        "({ACTIVE}) The little {BITCH} didn't even wait to spread her legs for us!",
+        "{ACTIVE} is buried to the {BALLS} inside of you. You've lost."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} stifles a {MOAN} as she drops down onto the {ACTIVE}'s {COCK}, {SCREAM}ing when she hits the bottom.",
+        "{PRIMARY} seems to be trying to mentally prepare herself, grinding back and forth and breathing hevaily.",
+        "{SWEARING}! She's taken his entire {COCK}, all the way to the base!",
+        "It's heartbreaking to watch {PRIMARY}, being forced to climb onto a stranger's {COCK} and {FUCK} herself...",
+        "{PRIMARY} {MOAN}s, twisting painfully on the {ACTIVE}'s {COCK}. It looks like it's deep..."
+    ]
+}

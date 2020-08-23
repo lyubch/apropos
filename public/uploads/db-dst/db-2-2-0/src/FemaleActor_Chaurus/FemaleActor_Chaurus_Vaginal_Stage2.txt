@@ -1,0 +1,40 @@
+{
+    "1st Person": [
+        "I hungrily return the monster's kiss, feeling it's slimy organ wrestling with my own tongue.",
+        "I feel my knees lifted higher and my legs spread more as the penetration deepens.",
+        "I greedily drink down the beast's thick drool, feeling it wash down my throat.",
+        "I clench my teeth in pain as the creature's {BEAST} ribbed {BUGCOCK} ravages my {WTVAGINAL} {PUSSY}.",
+        "I can't see the {BUGCOCK} shoved into my {WTVAGINAL} {PUSSY}, but am certain that it is not a dick...",
+        "Cold sweat washes over me as my mind races. Why does a bug want to fuck a human girl?",
+        "As its {BUGCOCK} sinks into me, pushing in a bit more, I quickly build up a good picture of it.",
+        "The {ACTIVE} oozes slime as it moves, coating my thighs and ass in sticky slime.",
+        "Segmented plates spread my petals as they enter and exit, inflicting inhuman pleasure upon me.",
+        "The {ACTIVE} searches my insides eagerly. My cervix is yawning open at the touch.",
+        "My nipples harden at the lewd situation, of a human woman fucking a giant bug."
+    ],
+    "2nd Person": [
+        "You hungrily return the monster's kiss, feeling it's slimy organ wrestling with your own tongue.",
+        "You feel your knees lifted higher and your legs spread more as the penetration deepens.",
+        "You greedily drink down the beast's thick drool, feeling it wash down your throat.",
+        "You clench your teeth in pain as the creature's {BEAST} ribbed {BUGCOCK} ravages your {WTVAGINAL} {PUSSY}.",
+        "You can't see the {BUGCOCK} shoved into your {WTVAGINAL} {PUSSY}, but are certain that it is not a dick...",
+        "Cold sweat washes over you as your mind races. Why does a bug want to fuck a human girl?",
+        "As its {BUGCOCK} sinks into you, pushing in a bit more, you quickly build up a good picture of it.",
+        "The {ACTIVE} oozes slime as it moves, coating your thighs and ass in sticky slime.",
+        "Segmented plates spread your petals as they enter and exit, inflicting inhuman pleasure upon you.",
+        "The {ACTIVE} searches your insides eagerly. your cervix is yawning open at the touch.",
+        "Your nipples harden at the lewd situation, of a human woman fucking a giant bug."
+    ],
+    "3rd Person": [
+        "{PRIMARY} hungrily returns the monster's kiss, it's slimy organ wrestling with her own tongue.",
+        "{PRIMARY}'s her knees are lifted higher and her legs spread more as the penetration deepens.",
+        "{PRIMARY} greedily drinks down the beast's thick drool, gulping it down her throat.",
+        "{PRIMARY} clenches her teeth in pain as the creature's ribbed {BUGCOCK} ravages her {WTVAGINAL} {PUSSY}.",
+        "Why does a bug want to fuck a human girl?",
+        "As its {BUGCOCK} sinks into her, pushing in a bit more, {PRIMARY} squeals and moans lewdly.",
+        "The {ACTIVE} oozes slime as it moves, coating {PRIMARY}'s thighs and ass in sticky slime.",
+        "Segmented plates spread {PRIMARY}'s petals as they enter and exit, making her buck wildly.",
+        "The {ACTIVE} searches {PRIMARY}'s insides eagerly. Her cervix must be about to open.",
+        "{PRIMARY}'s nipples harden at the lewd situation, of a human woman fucking a giant bug."
+    ]
+}

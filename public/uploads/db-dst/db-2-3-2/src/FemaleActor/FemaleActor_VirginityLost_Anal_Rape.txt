@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "I {SCREAM} as I'm {RAP}ed in a way that I didn't even think was possible.",
+        "My {ASSHOLE} burns and I feel sick as {ACTIVE} fills my guts for the first time.",
+        "This {JERK}, despite my {SCREAM}s and pleading, {RAP}ed me in a way I never thought was possible.",
+        "He pulls his {COCK} free from my {ASSHOLE}. All I can do is lie here crying."
+    ],
+    "2nd Person": [
+        "You {SCREAM} as you're {RAP}ed in a way that you didn't even think was possible.",
+        "Your {ASSHOLE} burns and you feel sick as {ACTIVE} fills your guts for the first time.",
+        "This {JERK}, despite your {SCREAM}s and pleading, {RAP}ed you in a way you never thought was possible.",
+        "He pulls his {COCK} free from your {ASSHOLE}. All you can do is lie here crying."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is {SCREAM}ing and obviously in {PAIN}. That must have been her first time in the {ASSHOLE}...",
+        "He pulls his {COCK} free from her {ASSHOLE}. All she can do is lie here crying."
+    ]
+}

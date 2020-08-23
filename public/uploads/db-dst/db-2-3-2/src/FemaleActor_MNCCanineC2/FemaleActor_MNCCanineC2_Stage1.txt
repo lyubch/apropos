@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "That's a good boy... Relax, and I'll make you feel really good!",
+        "I kneel beside {ACTIVE}, one hand stroking his fur, the other {WANK}ing his {BEASTLY} {COCK}.",
+        "{ACTIVE} seems calm as I reach out and {GENTLE}ly {ACCEPT} his {COCK} in my hand.",
+        "Oh my... {ACTIVE}'s {COCK} feels so {SLIMY} and {BEASTLY}... I'm getting {WET} just from the feel of it!",
+        "Timidly, I reach underneath {ACTIVE}. Oh my, his {COCK} is {HUGE}! I can feel it throbbing in my hand...",
+        "I {GENTLE}ly {WANK} {ACTIVE}'s {BEASTLY} {COCK} up and down, my {FAROUSAL} {PUSSY} {FAROUSAL} each time I touch the knot.",
+        "Um... I really shouldn't be doing this with a dog... And I really shouldn't go any further...",
+        "What a cute doggie! I shouldn't really, but... I wonder if he'd like a treat..."
+    ],
+    "2nd Person": [
+        "({PRIMARY}) That's a good boy... Relax, and I'll make you feel really good!",
+        "You kneel beside {ACTIVE}, one hand stroking his fur, the other {WANK}ing his {BEASTLY} {COCK}.",
+        "{ACTIVE} seems calm as you reach out and {GENTLE}ly {ACCEPT} his {COCK} in your hand.",
+        "Oh my... {ACTIVE}'s {COCK} feels so {SLIMY} and {BEASTLY}... You're getting {WET} just from the feel of it!",
+        "Timidly, you reach underneath {ACTIVE}. Oh my, his {COCK} is {HUGE}! You can feel it throbbing...",
+        "You {GENTLE}ly {WANK} {ACTIVE}'s {BEASTLY} {COCK}, your {FAROUSAL} {PUSSY} {FAROUSAL} each time you touch the knot.",
+        "Um... You really shouldn't be doing this with a dog... And you really shouldn't go any further...",
+        "({PRIMARY}) What a cute doggie! I shouldn't really, but... I wonder if he'd like a treat..."
+    ],
+    "3rd Person": [
+        "({PRIMARY}) That's a good boy... Relax, and I'll make you feel really good!",
+        "{PRIMARY} kneels beside {ACTIVE}, one hand stroking his fur, the other {WANK}ing his {BEASTLY} {COCK}.",
+        "{ACTIVE} seems calm as {PRIMARY} reaches out and {GENTLE}ly {ACCEPT} his {COCK} in her hand.",
+        "Oh my... {ACTIVE}'s {COCK} feels so {SLIMY} and {BEASTLY}... {PRIMARY} is getting {WET} just from the feel of it!",
+        "Timidly, {PRIMARY} reaches underneath {ACTIVE}. Oh my, his {COCK} is {HUGE}! She can feel it throbbing...",
+        "{PRIMARY} {GENTLE}ly {WANK}s {ACTIVE}'s {BEASTLY} {COCK}, her {FAROUSAL} {PUSSY} {FAROUSAL} each time she touches the knot.",
+        "Um... {PRIMARY} really shouldn't be doing this with a dog... And she really shouldn't go any further...",
+        "({PRIMARY}) What a cute doggie! I shouldn't really, but... I wonder if he'd like a treat..."
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "The {ACTIVE} never lets up the murderous pace, and my whole body slumps forward, limp and in agony.",
+        "Head hanging low, I stare in terror between my legs, {SLIMY} filth dripping down my {PUSSY} and thighs.",
+        "I sob and whine, my whole body in pain. It doesn't seem like the {ACTIVE} is going to finish soon...",
+        "The {ACTIVE} continues to thrust its {BEAST}, {DEAD} {COCK} hard into me, making me feel sick to my stomach.",
+        "I... can't... do this any more... It's just... just too much...",
+        "The pain in my {ASS} makes me double over, my shoulders aching with strain."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} never lets up the murderous pace, and your whole body slumps forward, limp and in agony.",
+        "You stare in terror between your legs, {SLIMY} filth dripping down your {PUSSY} and thighs.",
+        "You sob and whine, your whole body in pain. It doesn't seem like the {ACTIVE} is going to finish soon...",
+        "The {ACTIVE} continues to thrust its {BEAST}, {DEAD} {COCK} hard into you, making you feel sick.",
+        "You... can't... do this any more... It's just... just too much...",
+        "The pain in your {ASS} makes you double over, your shoulders aching with strain."
+    ],
+    "3rd Person": [
+        "{PRIMARY} slumps forward, broken and sobbing, while the {ACTIVE} continues its assault on her {ASS}.",
+        "{PRIMARY} is now kneeling in a {SLIMY} pool of filth, her thighs coated with the stuff.",
+        "The {DEAD} beast continues to fuck {PRIMARY} brutally. Has she passed out?"
+    ]
+}

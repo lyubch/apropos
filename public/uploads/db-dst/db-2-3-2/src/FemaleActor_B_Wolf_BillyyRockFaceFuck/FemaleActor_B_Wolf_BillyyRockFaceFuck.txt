@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "I lay back over the boulder, spreading my legs wide, but the {ACTIVE} seems to have other ideas.",
+        "Biting my lip at the sight of the Wolf's {MAROUSAL} {COCK}, I glance around, spotting a small boulder that should do nicely...",
+        "I flinch slightly at the cold rock against my {FLESH}, but I get the feeling I'll have something to warm me up very soon!"
+    ],
+    "2nd Person": [
+        "You lay back over the boulder, spreading your legs wide, but the {ACTIVE} seems to have other ideas.",
+        "Biting your lip at the sight of the Wolf's {MAROUSAL} {COCK}, you glance around, spotting a small boulder that should do nicely...",
+        "You flinch slightly at the cold rock against your {FLESH}, but you get the feeling you'll have something to warm you up very soon!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} lays back over the boulder, spreading her legs wide, but the {ACTIVE} seems to have other ideas.",
+        "Biting her lip at the sight of the Wolf's {MAROUSAL} {COCK}, {PRIMARY} glances around, spotting a small boulder that should do nicely...",
+        "{PRIMARY} flinches slightly at the cold rock against her {FLESH}, but she gets the feeling she'll have something to warm her up very soon!"
+    ]
+}

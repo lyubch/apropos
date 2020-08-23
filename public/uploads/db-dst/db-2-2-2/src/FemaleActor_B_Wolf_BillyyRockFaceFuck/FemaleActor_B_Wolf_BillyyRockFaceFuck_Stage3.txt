@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Dragging me down the rock a little further, the wolf starts pounding his knot against my lips, making my entire body shake.",
+        "A wolf is {FUCKING} my {MOUTH} as deep and fast as it can and I'm just waiting for my stomach to be filled with {VILE} {CUM}.",
+        "I can feel flecks of {CREAM} being flung off my {PUSSY} as each deep thrust rocks my body forward...",
+        "I can hardly breath, and my jaw protests against every thrust, but I can't deny I'm getting off to this...",
+        "I continue to lie limply, draped over the rock before this beast... He can use me however he wants...",
+        "Lubed by his pre-cum, the wolf's {COCK} slides easily in and out of my throat... I hope I can take his knot too..."
+    ],
+    "2nd Person": [
+        "Dragging you down the rock a little further, the wolf starts pounding his knot against your lips, making your entire body shake.",
+        "A wolf is {FUCKING} your {MOUTH} as deep and fast as it can and you're just waiting for your stomach to be filled with {VILE} {CUM}.",
+        "You can feel flecks of {CREAM} being flung off your {PUSSY} as each deep thrust rocks your body forward...",
+        "You can hardly breath, and your jaw protests against every thrust, but you can't deny you're getting off to this...",
+        "You continue to lie limply, draped over the rock before this beast... He can use you however he wants...",
+        "Lubed by his pre-cum, the wolf's {COCK} slides easily in and out of your throat... You hope you can take his knot too..."
+    ],
+    "3rd Person": [
+        "Dragging {PRIMARY} down the rock a little further, the wolf starts pounding his knot against her lips, making her entire body shake.",
+        "A wolf is {FUCKING} {PRIMARY}'s {MOUTH} as deep and fast as it can and she's just waiting for her stomach to be filled with {VILE} {CUM}.",
+        "{PRIMARY} can feel flecks of {CREAM} being flung off her {PUSSY} as each deep thrust rocks her body forward...",
+        "{PRIMARY} can hardly breath, and her jaw protests against every thrust, but she can't deny she's getting off to this...",
+        "{PRIMARY} continues to lie limply, draped over the rock before this beast... He can use her however he wants...",
+        "Lubed by his pre-cum, the wolf's {COCK} slides easily in and out of {PRIMARY}'s throat... She hopes she can take his knot too..."
+    ]
+}

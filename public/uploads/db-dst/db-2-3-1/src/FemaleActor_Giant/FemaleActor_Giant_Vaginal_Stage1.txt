@@ -1,0 +1,34 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} lifts me by the waist, {PENETRAT}ing me on his {COCK} and working me up and down.",
+        "I grip the {ACTIVE}'s wrist as he begins to work his {BEASTLY} {COCK} in and out of my {FAROUSAL} {PUSSY}.",
+        "I hang {SUBMISSIVE}, head rocking backwards and I {MOAN} as the {ACTIVE} wastes no time in {FUCK}ing me.",
+        "The {ACTIVE} isn't gentle, doesn't give me time to get used to his {COCK}, {FUCK}ing me quick and deep.",
+        "Slowly, agonisingly, I watch my {FLESH} {ACCEPT} his, his {HUGE} {GIRTH} bulging my flat tummy.",
+        "I'm lifted, {NUDE}, onto the {HUGE} {COCK}. I'm in for quite a ride!",
+        "The {ACTIVE} lifts me into the air, and {ROUGH}ly {PENETRAT}es me onto his {COCK}.",
+        "({PRIMARY}) (gasp) Ahhh yesss! I want it... I want it inside me, please... {FUCK} me with it... put it deep inside me...",
+        "I'm going to let a {ACTIVE} {FUCK} me, and let it cum inside my {PUSSY}.",
+        "My {PUSSY} stretches impossibly and my tummy bulges as the {ACTIVE} stuffs his {COCK} up into me."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} lifts you by the waist, {PENETRAT}ing you on his {COCK} and working you up and down.",
+        "You grip the {ACTIVE}'s wrist as he begins to work his {BEASTLY} {COCK} in and out of your {FAROUSAL} {PUSSY}.",
+        "You hang {SUBMISSIVE}, head rocking backwards and you {MOAN} as the {ACTIVE} wastes no time in {FUCK}ing you.",
+        "The {ACTIVE} isn't gentle, doesn't give you time to get used to his {COCK}, {FUCK}ing you quick and deep.",
+        "Slowly, agonisingly, you watch your {FLESH} {ACCEPT} his, his {HUGE} {GIRTH} bulging your flat tummy.",
+        "You're lifted, {NUDE}, onto the {HUGE} {COCK}. You're in for quite a ride!",
+        "The {ACTIVE} lifts you into the air, and {ROUGH}ly {PENETRAT}es you onto his {COCK}.",
+        "({PRIMARY}) Ahhh yesss! I want it... I want it inside me, please... {FUCK} me with it... put it deep inside me...",
+        "You're going to let a {ACTIVE} {FUCK} you, and let it cum inside your {PUSSY}.",
+        "Your {PUSSY} stretches impossibly and your tummy bulges as the {ACTIVE} stuffs his {COCK} up into you."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} doesn't resist as the {ACTIVE} pushes her onto his {COCK} and begins to {FUCK} her.",
+        "{SWEARING}, {PRIMARY}'s having sex with a {ACTIVE}!",
+        "It doesn't look like {PRIMARY} was ready for the {ACTIVE} to begin so {ROUGH}ly..."
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} looks down into my eyes again, and I can tell he's almost there.",
+        "The {ACTIVE} tries to maintain eye contact, but my nimble fingers cause him to tip his head back and {MOAN}.",
+        "I can feel it, he's almost there...",
+        "Where do you want to {EJACULATE}? In my {MOUTH} or across my {BOOBS}? Please not... right up my {PUSSY}?",
+        "{SWEARING}, his {COCK} is still hard! I really need to make him {EJACULATE} before he wants more...",
+        "I can't believe how wet I'm getting from this, I can hear my {CREAM} dripping on the ground...",
+        "({ACTIVE}) I know you want it. Because now I know what a {CUM} hungry {BITCH} you are.",
+        "I know this moment well, and I begin to pant. He's about to {EJACULATE}!",
+        "He's using me like a dirty book, just a {BITCH} to {EJACULATE} on...",
+        "The {ACTIVE}'s {COCK} is getting bigger, harder and throbbing with power.",
+        "I try every trick I know to make him {EJACULATE}, desperate to finish him off before he decides to {RAP}e me."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} looks down into your eyes again, and you can tell he's almost there.",
+        "{ACTIVE} tries to maintain eye contact, but your nimble fingers cause him to tip his head back and {MOAN}.",
+        "You can feel it, he's almost there...",
+        "({PRIMARY}) Where do you want to {EJACULATE}? In my {MOUTH} or across my {BOOBS}? Please not... right up my {PUSSY}?",
+        "{SWEARING}, his {COCK} is still hard! you really need to make him {EJACULATE} before he wants more...",
+        "You can't believe how wet you're getting from this, you can hear your {CREAM} dripping on the ground...",
+        "({ACTIVE}) I know you want it. Because now I know what a {CUM} hungry {BITCH} you are.",
+        "You know this moment well, and you begin to pant. He's about to {EJACULATE}!",
+        "He's using you like a dirty book, just a {BITCH} to {EJACULATE} on...",
+        "{ACTIVE}'s {COCK} is getting bigger, harder and throbbing with power.",
+        "You try every trick you know to make him {EJACULATE}, desperate to finish him off before he decides to {RAP}e you."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} looks down into {PRIMARY}'s eyes again, he's almost there.",
+        "{PRIMARY}'s nimble fingers cause him to tip his head back and {MOAN}.",
+        "({PRIMARY}) Where do you want to {EJACULATE}? In my {MOUTH} or across my {BOOBS}? Please not... right up my {PUSSY}?",
+        "{SWEARING}, his {COCK} is still hard! {PRIMARY} really needs to make him {EJACULATE} before he wants more...",
+        "({ACTIVE}) I know you want it. Because now I know what a {CUM} hungry {BITCH} you are."
+    ]
+}

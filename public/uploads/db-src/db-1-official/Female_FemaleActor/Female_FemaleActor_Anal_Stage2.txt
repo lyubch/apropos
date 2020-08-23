@@ -1,0 +1,15 @@
+{
+    "1st Person" :
+    [
+        "Oh Gods!! More! Harder! Faster! Treat me like your personal {WHORE}, do what you want with me!!! Yes!",
+        "How far is she going to go? When should I stop her? Oh, it does feel good..."
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

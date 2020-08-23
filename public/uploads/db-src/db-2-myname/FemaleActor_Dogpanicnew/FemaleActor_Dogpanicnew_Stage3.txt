@@ -1,0 +1,42 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} drops his forelegs to the ground, but doesn't let up his pace.",
+        "I worry that I am doing this with a dog, but the feeling of him pumping into my {PUSSY} is soooo good...",
+        "I begin to enjoy the feel of his {PENIS} punishing my {WTVAGINAL} {PUSSY}.",
+        "Oh Gods... I'm... I'm almost there... already... Just a little bit more...",
+        "I can't believe how {BEAST} {ACTIVE}'s {PENIS} is. I'll need to do this more often!",
+        "I feel {ACTIVE}'s warm breath on my neck, and hear him panting in my ear.",
+        "Stripped naked, my ass wagging in the air and with a {BEAST} dog-{COCK} in my {PUSSY}, Oh my...",
+        "My mind reels at how dirty and wrong this is. And how hot.",
+        "I shouldn't be doing this. But I am. It's so wrong that it's perfect.",
+        "I never realised I was so into bestiality.",
+        "I could get used to this.",
+        "It's really a turn-on to have a big horny dog fucking your {PUSSY}, panting and whimpering.",
+        "Does it turn you on to watch this doggy stick his {BEAST} {PENIS} into my {FAROUSAL} {PUSSY} and hump me?"    
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} drops his forelegs to the ground, but doesn't let up his pace.",
+        "You worry that you're doing this with a dog, but the feeling of him pumping into your {PUSSY} is so good...",
+        "You begin to enjoy the feel of his {PENIS} punishing your {WTVAGINAL} {PUSSY}.",
+        "({PRIMARY}) Oh Gods... I'm... I'm almost there... already... Just a little bit more...",
+        "You can't believe how {BEAST} {ACTIVE}'s {PENIS} is. You'll need to do this more often!",
+        "You feel {ACTIVE}'s warm breath on your neck, and hear him panting in your ear.",
+        "Stripped naked, your ass wagging in the air and with a {BEAST} dog-{COCK} in your {PUSSY}, Oh my...",
+        "Your mind reels at how dirty and wrong this is. And how hot.",
+        "You shouldn't be doing this. But you are. It's so wrong that it's perfect.",
+        "You never realised you were so into bestiality.",
+        "You could get used to this.",
+        "It's really a turn-on to have a big horny dog fucking your {PUSSY}, panting and whimpering.",
+        "({PRIMARY}) Does it turn you on to watch this doggy stick his {PENIS} into my {PUSSY} and hump me?"
+    ],
+    "3rd Person" :
+    [
+        "({PRIMARY}) Does it turn you on to watch this doggy stick his {PENIS} into my {PUSSY} and hump me?",
+        "{ACTIVE} releases {PRIMARY}'s hips, now that his {PENIS} is firmly inside her.",
+        "The pace that that dog is pounding into {PRIMARY}... Oh Gods... It looks so good...",
+        "{PRIMARY} already looks like she's about to cum. Does a dog's {PENIS} really feel that good?",
+        "It's so nasty, fucking an animal like that..."
+    ]
+}

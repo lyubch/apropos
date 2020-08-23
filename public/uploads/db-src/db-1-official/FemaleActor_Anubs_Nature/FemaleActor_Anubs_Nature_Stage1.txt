@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} is not intimidated at all by my presence, in fact it seems happy to have seen me. I greet it with a light touch.",
+        "{ACTIVE}'s body is soft and warm, I squeeze up to it and begin caressing its {BEAST} {COCK}, so long and hard as wood.",
+        "{ACTIVE} welcomes me in a very warm and natural way. I thank his kindness back and touch its {COCK} lightly.",
+        "Helo there, what a wonderful creature you are! You also seem to have a gift for me. Let me feel it.",
+        "Hmm, seems like someone is happy to see me. My, its very long and hard. What am I thinking?",
+        "And they say the wildlife of Skyrim is dangerous and full of peril, all I see is a {BEAST} {COCK} in need of some care."       
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} is not intimidated at all by your presence, in fact it seems happy to have seen you. You greet it with a light touch.",
+        "{ACTIVE}'s body is soft and warm, You squeeze up to it and begin caressing its {BEAST} {COCK}, so long and hard as wood.",
+        "{ACTIVE} welcomes you in a very warm and natural way. You thank his kindness back and touch its {COCK} lightly."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} approaches {ACTIVE} and slowly touches its {BEAST} {COCK}, {ACTIVE} is savoring the pleasurable touch of its human partner.",
+	"{ACTIVE} looks calm and in need of sexual care, {PRIMARY} softly helps herself to its {BEAST} {COCK}."
+    ]
+}

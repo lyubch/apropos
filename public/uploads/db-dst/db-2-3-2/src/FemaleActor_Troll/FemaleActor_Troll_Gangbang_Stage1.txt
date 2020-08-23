@@ -1,0 +1,16 @@
+{
+    "1st Person": [
+        "As the {ACTIVE}s {PENETRAT}e me, I realize I've made a terrible mistake.",
+        "It's out of my control. I gave myself to them, but the {ACTIVE}s clearly intend to {RAP}e me.",
+        "{SWEARING}... My {HOLE}s have never felt so full before!"
+    ],
+    "2nd Person": [
+        "As the {ACTIVE}s {PENETRAT}e you, you realize you've made a terrible mistake.",
+        "It's out of your control. I gave yourself to them, but the {ACTIVE}s clearly intend to {RAP}e you.",
+        "{SWEARING}... Your {HOLE}s have never felt so full before!"
+    ],
+    "3rd Person": [
+        "As the {ACTIVE}s {PENETRAT}e her, it looks like she's made a terrible mistake.",
+        "It's out of her control. She gave herself to them, but the {ACTIVE}s clearly intend to {RAP}e her."
+    ]
+}

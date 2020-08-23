@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "At last the {MONSTER} allows me to relax my sore legs, and I pant in relief...",
+        "My legs now hang {SUBMISSIVE} in the {MONSTER}'s grip as it continues to {FUCK} deep into my {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} continues to batter its {COCK} against my cervix, and I hold my breath in {FEAR} and {LUST}.",
+        "{SWEARING}, how much {COCK} can I really take? Shouldn't I stop now? My {FLESH} acts on its own, ignoring reason.",
+        "The {ACTIVE}'s {BEASTLY} {COCK} continues to {PENETRAT}e deep into me, {FUCK}ing a small orgasm out of me.",
+        "At least 18 inches of troll {COCK} is {INSERT}ing into me, and I want more! I want it to {FUCK} all the way, right into my womb!"
+    ],
+    "2nd Person": [
+        "At last the {MONSTER} allows you to relax your sore legs, and you pant in relief...",
+        "Your legs now hang {SUBMISSIVE} in the {MONSTER}'s grip as it continues to {FUCK} deep into your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} continues to batter its {COCK} against your cervix, and you hold your breath in {FEAR} and {LUST}.",
+        "{SWEARING}, how much {COCK} can you really take? Shouldn't you stop now? Your body acts on its own, ignoring reason.",
+        "The {ACTIVE}'s {BEASTLY} {COCK} continues to {PENETRAT}e deep into you, {FUCK}ing a small orgasm out of you.",
+        "At least 18 inches of troll {COCK} is {INSERT}ing into you, and you want more! You want it to {FUCK} all the way into your womb!"
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s legs now hang {SUBMISSIVE} in the {MONSTER}'s grip as it continues to {FUCK} deep into her {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} continues to batter its {COCK} into {PRIMARY}, so deep that it must be {FUCK}ing her womb!",
+        "{PRIMARY} can't hold back a {MOAN} as she's filled with the {MONSTER}'s {BEASTLY} {COCK}."
+    ]
+}

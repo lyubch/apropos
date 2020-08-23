@@ -1,0 +1,39 @@
+{
+    "1st Person": [
+        "({PRIMARY}) That's it... {FUCK} that {ASSHOLE}! You like {FUCK}ing {NUDE} human girls?",
+        "The {MONSTER} is {FUCK}ing my {WTANAL} {ASSHOLE} {ROUGH}ly, driven on by my {LEWD} {MOAN}s.",
+        "{SWEARING}, I'm going crazy!",
+        "Ugh... So deep... I feel his {COCK} in places no man has been...",
+        "Ugh... Ugh... I hope he... AHH! I hope he can go... For a long time...",
+        "The {BEASTLY} {BEASTCOCK} continues to {INSERT} itself deep inside my {HORNY} {FLESH}.",
+        "I {SCREAM} with every thrust that takes the {MONSTER} deeper into my {WTANAL} {ASSHOLE}.",
+        "I {JIGGL}e my hips a bit, trying to {ACCEPT} the {GIRTH} of the {HUGE} {COCK} {INSERT}ed inside my {ASSHOLE}.",
+        "I've heard stories of country girls who had been caught in the woods by trolls... I can't believe it's true!",
+        "I have no idea how long the {MONSTER} will continue to {RAP}e me like this...",
+        "So it's true! Trolls like to {FUCK} human girls...",
+        "The huge {VILE} {MONSTER} continues to {FUCK} into my {ASSHOLE}, my {FLESH} {JIGGL}ing with every hit."
+    ],
+    "2nd Person": [
+        "({PRIMARY}) That's it... {FUCK} that {ASSHOLE}! You like {FUCK}ing {NUDE} human girls?",
+        "The {MONSTER} is {FUCK}ing your {WTANAL} {ASSHOLE} {ROUGH}ly, driven on by your {LEWD} {MOAN}s.",
+        "{SWEARING}, you're going crazy!",
+        "Ugh... So deep... You feel his {COCK} in places no man has been...",
+        "Ugh... Ugh... You hope he... AHH! You hope he can go... For a long time...",
+        "The {BEASTLY} {BEASTCOCK} continues to {INSERT} itself deep inside your {HORNY} {FLESH}.",
+        "You {SCREAM} with every thrust that takes the {MONSTER} deeper into your {WTANAL} {ASSHOLE}.",
+        "You {JIGGL}e your hips a bit, trying to {ACCEPT} the {GIRTH} of the {HUGE} {COCK} {INSERT}ed inside your {ASSHOLE}.",
+        "You've heard stories of country girls who had been caught by trolls... You can't believe it's true!",
+        "You have no idea how long the {MONSTER} will continue to {RAP}e you like this...",
+        "So it's true! Trolls like to {FUCK} human girls...",
+        "The huge {VILE} {MONSTER} continues to {FUCK} into your {ASSHOLE}, your body {QUIVER}ing with every hit."
+    ],
+    "3rd Person": [
+        "({PRIMARY}) That's it... {FUCK} that {ASSHOLE}! You like {FUCK}ing {NUDE} human girls?",
+        "The {MONSTER} is {FUCK}ing {PRIMARY}'s {WTANAL} {ASSHOLE} {ROUGH}ly, driven on by her {LEWD} {MOAN}s.",
+        "({PRIMARY}) {SWEARING}, I'm going crazy!",
+        "The {BEASTLY} {BEASTCOCK} continues to {INSERT} itself deep inside {PRIMARY}'s {HORNY} {FLESH}.",
+        "{PRIMARY} {MOAN}s with every thrust that takes the {MONSTER} deeper into her {WTANAL} {ASSHOLE}.",
+        "{PRIMARY} {JIGGL}es her hips a bit, trying to {ACCEPT} the {GIRTH} of the {COCK} {INSERT}ed inside her {ASSHOLE}.",
+        "There are stories of country girls who had been caught in the woods by trolls... And it seems they're true!"
+    ]
+}

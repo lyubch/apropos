@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "{ACTIVE} lets go of my hips, but his snarl in my ear tells me I shouldn't try to flee...",
+        "Ahh ahh! Maybe I should... Should let him finish...",
+        "(sob) I'm a good girl, this shouldn't be happening to me...",
+        "{SWEARING}, I'm being {RAP}ed by a dog! {SWEARING}! Oh it's too {HUGE}! Ow ow ow ow! Pleeeeassse get off me!",
+        "{ACTIVE} puts his front legs to the ground, looking for extra grip to {FUCK} me all the harder.",
+        "{ACTIVE} snarls angrily and his haunches slam forward. My {FLESH} rocks and I {MOAN}.",
+        "I imagine how much {CUM} he's about to put into my {WTVAGINAL} {PUSSY}."
+    ],
+    "2nd Person": [
+        "{ACTIVE} lets go of your hips, but his snarl in your ear tells you you shouldn't try to flee...",
+        "Ahh ahh! Maybe you should... Should let him finish...",
+        "You're a good girl, this shouldn't be happening to you...",
+        "({PRIMARY}) {SWEARING}, I'm being {RAP}ed by a dog! {SWEARING}! Oh it's too {HUGE}! Ow ow ow! Pleeeeassse get off me!",
+        "{ACTIVE} puts his front legs to the ground, looking for extra grip to {FUCK} you all the harder.",
+        "{ACTIVE} snarls angrily and his haunches slam forward. Your {FLESH} rocks and you gasp.",
+        "You imagine how much {CUM} he's about to put into your {WTVAGINAL} {PUSSY}."
+    ],
+    "3rd Person": [
+        "{ACTIVE} lets go of {PRIMARY}'s hips, but his snarl in her ear tells her she shouldn't try to flee...",
+        "Ahh ahh! Maybe {PRIMARY} should... Should let him finish...",
+        "{PRIMARY} is a good girl, this shouldn't be happening to her...",
+        "({PRIMARY}) {SWEARING}, I'm being {RAP}ed by a dog! {SWEARING}! Oh it's too {HUGE}! Ow ow ow! Pleeeeassse get off me!",
+        "{ACTIVE} puts his front legs to the ground, looking for extra grip to {FUCK} {PRIMARY} all the harder.",
+        "{ACTIVE} snarls angrily and his haunches slam forward. {PRIMARY}'s {FLESH} rocks and she {SCREAM}s.",
+        "{PRIMARY} imagines how much {CUM} he's about to put into her {WTVAGINAL} {PUSSY}."
+    ]
+}

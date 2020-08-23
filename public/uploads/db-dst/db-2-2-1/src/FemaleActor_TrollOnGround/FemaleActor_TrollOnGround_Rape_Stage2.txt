@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I struggle with all my strength, freeing one leg as I try to escape the steady pounding of the beast's {COCK}.",
+        "I pull myself forward, my nipples dragging painfully across the ground, the {ACTIVE} continuing to rape me.",
+        "In freeing one leg, I inadvertently allow the creature to push his entire {PENIS} inside me, and I gasp at the feeling.",
+        "I can only writhe around the {BEAST} troll {COCK} stretching out my {PUSSY}.",
+        "I try to struggle, but it's no use against such a strong brute.",
+        "I struggle vainly, naked and exposed, as the monstrous brute rapes me."
+    ],
+    "2nd Person" :
+    [
+        "You struggle with all your strength, freeing one leg as you try to escape the steady pounding of the beast's {COCK}.",
+        "You pull yourself forward, your nipples dragging painfully across the ground, the {ACTIVE} continuing to rape you.",
+        "In freeing one leg, you inadvertently allow the creature to push his entire {PENIS} inside you, and you gasp at the feeling.",
+        "You can only writhe around the {BEAST} troll {COCK} stretching out your {PUSSY}.",
+        "You try to struggle, but it's no use against such a strong brute.",
+        "You struggle vainly, naked and exposed, as the monstrous brute rapes you."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} struggles forward, her nipples dragging roughly along the ground. That looks like it hurts...",
+        "{PRIMARY} pulls one leg out from under the {ACTIVE}, but grunts as the beast slams its entire length into her.",
+        "{PRIMARY} writhes around on the ground, the {BEAST} troll {COCK} stretching out her {PUSSY}."        
+    ]
+}

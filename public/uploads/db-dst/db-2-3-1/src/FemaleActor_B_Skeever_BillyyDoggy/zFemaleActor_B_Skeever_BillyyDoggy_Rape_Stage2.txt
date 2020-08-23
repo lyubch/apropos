@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} begins to insert it even deeper in a faster rhythm, giving me a pleasurable feeling despite its sight.",
+        "I open my legs slightly more to better accomodate {ACTIVE}'s {VILE} {COCK}. I feel it deeper and faster.",
+        "I can hardly believe how wet it is down there! Is it my {PUSSY} that is wet, or {ACTIVE}'s {COCK} {SLIME}?",
+        "The rat has a {VILE} breath, but it {RAP}es me nicely, I think I can get used to this.",
+        "That's it baby, give me your {MAROUSAL} {COCK}, let me take your stress and relieve you of your burden",
+        "It is not so bad once it really starts {FUCK}ing, I might keep him after this.",
+        "Ah yes, let me feel it even more, I will make you a very happy rodent if you keep {FUCK}ing me like this.",
+        "{ACTIVE} seems to be enjoying my body a lot, I am not complaining either. If only I didnt have to see its horrid sight.",
+	"I feel my insides are covered in a {VILE} watery substance, I can feel it oozing out. {ACTIVE} must be loving my {WTVAGINAL} {PUSSY}."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} begins to insert it even deeper in a faster rhythm, giving you a pleasurable feeling despite its sight.",
+        "You open my legs slightly more to better accomodate {ACTIVE}'s {VILE} {COCK}. You feel it deeper and faster.",
+        "You can hardly believe how wet it is down there! Is it your {PUSSY} that is wet, or {ACTIVE}'s {COCK} {SLIME}?",
+        "The rat has a {VILE} breath, but it {FUCK}s you nicely, You think you can get used to this.",
+        "{ACTIVE} seems to be enjoying your body a lot, You are not complaining either. If only you didnt have to see its horrid sight.",
+	"You feel your insides are covered in a {VILE} watery substance, you can feel it oozing out. {ACTIVE} must be loving your {WTVAGINAL} {PUSSY}."      
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} tries to hide it, but as {ACTIVE}'s {COCK} is buried deeper, she is having great pleasure.",
+        "{ACTIVE} {FUCK}s {PRIMARY} with great eagerness, lost in {LUST} with the pleasure {PRIMARY}'s {PUSSY} feels.",
+	"A lot of wet and sloopy sounds start coming out of {PRIMARY}'s {PUSSY} as {ACTIVE} {FUCK}s her harder"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "My disappointment when {ACTIVE} stops licking me turns to surprise when I feel his {PENIS} enter me.",
+        "Ugh! Oh Gods, I didn't say you could do that! Ahh ah! Well... it does feel pretty good...",
+        "I feel {ACTIVE}'s paw over my shoulder, and I reach back to guide his {PENIS} into me.",
+        "Suddenly, {ACTIVE} is on top of me, fucking me quickly. I'm already close to orgasm as I touch my clit.",
+        "Between the dog-{COCK} in my {PUSSY} and my fingers at my clit, I'm already about to cum.",
+        "I wonder how that {BEAST} red {PENIS} tastes? Before I can take it in my mouth, the beast mounts me.",
+	    "Hey boy, don't you want to give me your bone? I giggle as I reach for his {PENIS}.",
+	    "I feel {ACTIVE} joined to me, like we're connected. We're not just fucking, we're making love."        
+    ],
+    "2nd Person" :
+    [
+        "Your disappointment when {ACTIVE} stops licking you turns to surprise when you feel his {PENIS} enter you.",
+        "({PRIMARY}) Ugh! Oh Gods, I didn't say you could do that! Ahh ah! Well... it does feel pretty good...",
+        "You feel {ACTIVE}'s paw over your shoulder, and you reach back to guide his {PENIS} into you.",
+        "Suddenly, {ACTIVE} is on top of you, fucking you. You're already close to orgasm as you touch your clit.",
+        "Between the dog-{COCK} in your {PUSSY} and your fingers at your clit, you're already about to cum.",
+        "You wonder how that {BEAST} red {PENIS} tastes? Before you can take it in your mouth, the beast mounts you.",
+	    "({PRIMARY}) Hey boy, don't you want to give me your bone?",
+	    "You feel {ACTIVE} joined to you, like you're connected. You're not just fucking, you're making love."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} seems a little startled when {ACTIVE} suddenly mounts her, his {PENIS} sliding inside.",
+        "{PRIMARY} reaches between her legs as {ACTIVE} leaps on her, helping him enter her.",
+        "{PRIMARY} seems to be playing with her clit. Is she getting herself wetter for {ACTIVE}'s {PENIS}?",
+        "{ACTIVE} jumps on top of {PRIMARY}, pumping quickly into her {FAROUSAL} {PUSSY}."
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "My hands and knees braced on the floor, I try vainly to steady myself as I get {FUCK}ed even harder.",
+        "{SWEARING}, I can't take this, it's too... Nggg! too much for me to handle...",
+        "({ACTIVE}) Even the Dragonborn realises our dominance, and offers her {ASSHOLE} to service us!",
+        "({ACTIVE}) I didn't realise the Dragonborn was so easy to subdue. You merely {DISPLAY} yourself up!",
+        "My {FLESH} responds to the {MONSTER}'s magic, my nipples bulging painfully, sticking straight out.",
+        "I {MOAN} breathlessly as the demon's {COCK} moves inside me.",
+        "I tense up in {LUST} each time the demonic {COCK} pushes forward and disappears inside me.",
+        "The vampire's magic flows through my {FLESH}. Even though my {ASSHOLE} burns with pain, I feel wonderful...",
+        "I push out my tingling {BOOBS}, my erect nipples {ROUGH}ly brushing the ground.",
+        "The {ACTIVE} pumps his {COCK} {SLOW}ly a few times into my {ASSHOLE}, before it really goes to town."
+    ],
+    "2nd Person": [
+        "Your hands and knees braced on the floor, you try vainly to steady yourself as you get {FUCK}ed even harder.",
+        "{SWEARING}, you can't take this, it's too... Nggg! too much for you to handle...",
+        "({ACTIVE}) Even the Dragonborn realises our dominance, and offers her {ASSHOLE} to service us!",
+        "({ACTIVE}) I didn't realise the Dragonborn was so easy to subdue. You merely {DISPLAY} yourself up!",
+        "Your {FLESH} responds to the {MONSTER}'s magic, your nipples bulging painfully, sticking straight out.",
+        "You {MOAN} breathlessly as the demon's {COCK} moves inside you.",
+        "You tense up in {LUST} each time the demonic {COCK} pushes forward and disappears inside you.",
+        "The vampire's magic flows through your {FLESH}. Even though your {ASSHOLE} burns with pain, you feel wonderful...",
+        "You push out your tingling {BOOBS}, your erect nipples {ROUGH}ly brushing the ground.",
+        "The {ACTIVE} pumps his {COCK} {SLOW}ly a few times into your {ASSHOLE}, before it really goes to town."
+    ],
+    "3rd Person": [
+        "Her hands and knees braced on the floor, {PRIMARY} tries vainly to steady herself as she gets {FUCK}ed harder.",
+        "{SWEARING}, {PRIMARY} can't take this, it's too much for her to handle...",
+        "({ACTIVE}) You realise our dominance, and offer your {ASSHOLE} to service us!",
+        "({ACTIVE}) Human women are so easy to subdue. You merely {DISPLAY} yourself up!",
+        "{PRIMARY}'s body responds to the {MONSTER}'s magic, her nipples bulging painfully, sticking straight out.",
+        "{PRIMARY} {MOAN}s breathlessly as the demon's {COCK} moves inside her.",
+        "{PRIMARY} tenses up in {LUST} each time the demonic {COCK} pushes forward and disappears inside her."
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "The pace is too much, and I drop my head to the floor. {ACTIVE} doesn't let up the pace.",
+        "{SWEARING}, I'm almost there! Harder, {FUCK} me harder! Please!",
+        "I {MOAN} into the ground as my {WTVAGINAL} is punished. I'm just a {BITCH} who loves being {RAP}ed this way.",
+        "It's not a safe day, I really shouldn't be doing this... but it feels so good!",
+        "Stick a finger in my {ASSHOLE}. If you want to see me go really wild, stick your whole fist in my {ASSHOLE}!",
+        "I know he shouldn't, but I really want to feel him {EJACULATE} inside of me.",
+        "I need to stop before he {EJACULATE}s inside me... Uhhh... Maybe just a little more...",
+        "I know I should stop before he {EJACULATE}s in me... But I don't want to...",
+        "Make sure you... what do you mean? No, you need to pull out. Mmmm... ahhh.... you need to...",
+        "{ACTIVE} {FUCK}s me hard. I slip from orgasm to orgasm, as he goes from a strong pace to a {ROUGH} one."
+    ],
+    "2nd Person": [
+        "The pace is too much, and you drop your head to the floor. {ACTIVE} doesn't let up the pace.",
+        "({PRIMARY}) {SWEARING}, I'm almost there! Harder, {FUCK} me harder! Please!",
+        "You {MOAN} into the ground as your {WTVAGINAL} is punished. You're just a {BITCH} who loves being {RAP}ed.",
+        "It's not a safe day, you really shouldn't be doing this... but it feels so good!",
+        "({PRIMARY}) Stick a finger in my {ASSHOLE}. If you want me to go really wild, stick your whole fist in my {ASSHOLE}!",
+        "You know he shouldn't, but you really want to feel him {EJACULATE} inside of you.",
+        "You need to stop before he {EJACULATE}s inside you... Uhhh... Maybe just a little more...",
+        "You know you should stop before he {EJACULATE}s in you... But you don't want to...",
+        "({PRIMARY}) Make sure you... what do you mean? No, you need to pull out. Mmmm... ahhh.... you need to...",
+        "{ACTIVE} {FUCK}s you hard. You slip from orgasm to orgasm, as he goes from a strong pace to a {ROUGH} one."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is obviously near climax. Any woman would be while being {FUCK}ed like that.",
+        "{PRIMARY}'s muffled {MOAN}s are loud and low. It's not hard to see that she's about to cum...",
+        "({PRIMARY}) That's it, {FUCK} me! Harder! {SWEARING}, you're so deep!",
+        "{SWEARING}, this is it! He's about to {EJACULATE}! Is he going to pull out in time?"
+    ]
+}

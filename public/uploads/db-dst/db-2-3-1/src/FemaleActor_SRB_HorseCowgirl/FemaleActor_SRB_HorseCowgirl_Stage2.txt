@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I can't wait any longer... I roll the {ACTIVE} onto his back, mounting him and grinding my {PUSSY} along his {COCK}.",
+        "I slide my {PUSSY} along his hardness, lubing it up with my {CREAM}.",
+        "{SWEARING}... I'm really going to do this, aren't I?",
+        "I {MOAN} quietly as I grind my clit against the {ACTIVE}'s {MAROUSAL} {COCK}... gotta get myself wet enough to take him...",
+        "My blush deepens as the {ACTIVE}'s {COCK} leaks pre-cum onto my fingers as I grind along him.",
+        "I straddle the {ACTIVE} eagerly, pressing my {FAROUSAL} {PUSSY} into his {ACTIVE}hood with a {MOAN}.",
+        "Satisfied with the {ACTIVE}'s hardness, I climb onto him, taking a moment to spread my {CREAM} along his {COCK}.",
+        "I smile down at the {ACTIVE} as I tease him, his body instinctively {JIGGL}ing against my {FAROUSAL} {PUSSY}."
+    ],
+    "2nd Person": [
+        "You can't wait any longer... You roll the {ACTIVE} onto his back, mounting him and grinding your {PUSSY} along his {COCK}.",
+        "You slide your {PUSSY} along his hardness, lubing it up with your {CREAM}.",
+        "{SWEARING}... You're really going to do this, aren't you?",
+        "You {MOAN} quietly as you grind your clit against the {ACTIVE}'s {MAROUSAL} {COCK}... gotta get yourself wet enough to take him...",
+        "Your blush deepens as the {ACTIVE}'s {COCK} leaks pre-cum onto your fingers as you grind along him.",
+        "You straddle the {ACTIVE} eagerly, pressing your {FAROUSAL} {PUSSY} into his {ACTIVE}hood with a {MOAN}.",
+        "Satisfied with the {ACTIVE}'s hardness, you climb onto him, taking a moment to spread your {CREAM} along his {COCK}.",
+        "You smile down at the {ACTIVE} as you tease him, his body instinctively {JIGGL}ing against your {FAROUSAL} {PUSSY}."
+    ],
+    "3rd Person": [
+        "With the {ACTIVE} eagerly following {PRIMARY}'s command, she's soon atop him, straddling its {COCK} and grinding herself along it.",
+        "Climbing onto the {ACTIVE}'s belly, {PRIMARY} balances herself atop its {COCK}, spreading her {CREAM} along it with long strokes."
+    ]
+}

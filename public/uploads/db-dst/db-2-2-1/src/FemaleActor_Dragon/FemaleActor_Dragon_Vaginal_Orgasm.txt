@@ -1,0 +1,44 @@
+{
+    "1st Person": [
+        "I think I pass out from the beast's cumshot. When I awake, I'm lying in a sweaty, cummy pile on the ground.",
+        "My {PUSSY} explodes with {CUM}, and I hang limp, from the beast's {COCK}.",
+        "I'm cumming from fucking a dragon! This feels just like absorbing their souls...",
+        "I'm completely drenched in the beast's {THICK} {CUM}.",
+        "I feel rivers of {THICK} {CUM} flood from my {PUSSY}, flowing down my thighs all the way to my toes.",
+        "My toes curl painfully and I cum.",
+        "My eyes bulge like saucers as the dragon's {THICK} {CUM} fills me.",
+        "The huge beast roars and climaxes. My entire body burns in agony, and I shriek as if I'm dying.",
+        "Ugh! Ugh! Ugh! It..ugh.. almost there... Gods, I'm..ugh..going to cum! Ah! Ah! AH! AH! AAAAHHHHHHH!",
+        "The dragon fucks me to an explosive orgasm. I've never felt anything like it...",
+        "I'm the Dragonborn, it's only right that the beast should be filling me with {CUM}.",
+        "I feel my womb swell with the volume of {CUM}, the excess spurting out and spilling on the ground."
+    ],
+    "2nd Person": [
+        "You pass out from the beast's cumshot. When you wake, you're lying in a sweaty, cummy pile on the ground.",
+        "Your {PUSSY} explodes with {CUM}, and you hang limp, from the beast's {COCK}.",
+        "You're cumming from fucking a dragon! This feels just like absorbing their souls...",
+        "You're completely drenched in the beast's {THICK} {CUM}.",
+        "You feel rivers of {THICK} {CUM} flood from your {PUSSY}, flowing down your thighs all the way to your toes.",
+        "Your toes curl painfully and you cum.",
+        "Your eyes bulge like saucers as the dragon's {THICK} {CUM} fills you.",
+        "The huge beast roars and climaxes. Your entire body burns in agony, and you shriek as if you're dying.",
+        "Ugh! Ugh! Ugh! It..ugh.. almost there... Gods, You're..ugh..going to cum! Ah! Ah! AH! AH! AAAAHHHHHHH!",
+        "The dragon fucks you to an explosive orgasm. You've never felt anything like it...",
+        "You're the Dragonborn, it's only right that the beast should be filling you with {CUM}.",
+        "You feel your womb swell with the volume of {CUM}, the excess spurting out and spilling on the ground."
+    ],
+    "3rd Person": [
+        "{PRIMARY} passes out from the cumshot. When she wakes, she's lying in a sweaty, cummy pile on the ground.",
+        "Her {PUSSY} explodes with {CUM}, and {PRIMARY} hangs limp, from the beast's {COCK}.",
+        "{PRIMARY}'s cumming from fucking a dragon!",
+        "{PRIMARY}'s completely drenched in the beast's {THICK} {CUM}.",
+        "Thick {CUM} floods from {PRIMARY}'s {PUSSY}, flowing down her thighs all the way to her toes.",
+        "Her toes curl painfully and {PRIMARY} cums.",
+        "{PRIMARY}'s eyes bulge like saucers as the dragon's {THICK} {CUM} fills her.",
+        "The huge beast roars and climaxes. {PRIMARY}'s must be in agony, and she shrieks as if she's dying.",
+        "({PRIMARY}) Ugh! Ugh! It..ugh.. almost there... Gods, I'm..ugh..going to cum! Ah! Ah! AH! AH! AAAAHHHHHHH!",
+        "The dragon fucks {PRIMARY} to an explosive orgasm.",
+        "It's only right that the beast should be filling {PRIMARY} with {CUM}.",
+        "{PRIMARY}'s belly swells with the volume of {CUM}, the excess spurting out and spilling on the ground."
+    ]
+}

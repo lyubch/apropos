@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I {STRUGGLE} with all my strength, freeing one leg as I try to escape the steady {FUCK}ing of the {MONSTER}'s {COCK}.",
+        "I pull myself forward, my nipples dragging painfully across the ground, the {ACTIVE} continuing to {RAP}e me.",
+        "In freeing one leg, I inadvertently allow the {MONSTER} to {INSERT} his entire {COCK} inside me, and I {MOAN} at the feeling.",
+        "I can only writhe around the {BEASTLY} troll {COCK} stretching out my {PUSSY}.",
+        "I try to {STRUGGLE}, but it's no use against such a strong {MONSTER}.",
+        "I {STRUGGLE} vainly, {NUDE}, as the monstrous {MONSTER} {RAP}es me."
+    ],
+    "2nd Person" :
+    [
+        "You {STRUGGLE} with all your strength, freeing one leg as you try to escape the steady {FUCK}ing of the {MONSTER}'s {COCK}.",
+        "You pull yourself forward, your nipples dragging painfully across the ground, the {ACTIVE} continuing to {RAP}e you.",
+        "In freeing one leg, you inadvertently allow the {MONSTER} to {INSERT} his entire {COCK} inside you, and you gasp at the feeling.",
+        "You can only writhe around the {BEASTLY} troll {COCK} stretching out your {PUSSY}.",
+        "You try to {STRUGGLE}, but it's no use against such a strong {MONSTER}.",
+        "You {STRUGGLE} vainly, {NUDE}, as the monstrous {MONSTER} {RAP}es you."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} struggles forward, her nipples dragging {ROUGH}ly along the ground. That looks like it hurts...",
+        "{PRIMARY} pulls one leg out from under the {ACTIVE}, but grunts as the {MONSTER} slams its entire length into her.",
+        "{PRIMARY} writhes around on the ground, the {BEASTLY} troll {COCK} stretching out her {PUSSY}."        
+    ]
+}

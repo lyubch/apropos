@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "I bend over obediently as the {ACTIVE} holds me steady and begins to fuck its {BEAST} {PENIS} into my {PUSSY}.",
+        "Every thrust of the {ACTIVE}'s {PENIS} is sudden, sharp, and painfully deep, making me cry out.",
+        "I see stars as the {ACTIVE} impales me fully with a single stroke, before fucking me slowly.",
+        "Its {COCK} is far too big for me, but that doesn't stop the {ACTIVE} from pushing it inside me.",
+        "The {ACTIVE} slides me wide open and plugs me fully with its dripping mass.",
+        "A delighted squeal escapes my lips as the {ACTIVE} roughly grabs me and shoves its {COCK} into me.",
+        "I drop to my hands and knees, trembling and eager to be ridden hard by such a wild monster, moaning as it begins."
+    ],
+    "2nd Person": [
+        "You bend over obediently as the {ACTIVE} holds you steady and begins to fuck its {BEAST} {PENIS} into your {PUSSY}.",
+        "Every thrust of the {ACTIVE}'s {PENIS} is sudden, sharp, and painfully deep, making you cry out.",
+        "You see stars as the {ACTIVE} impales you fully with a single stroke, before fucking you slowly.",
+        "Its {COCK} is far too big for you, but that doesn't stop the {ACTIVE} from pushing it inside you.",
+        "The {ACTIVE} slides you wide open and plugs you fully with its dripping mass.",
+        "A delighted squeal escapes your lips as the {ACTIVE} roughly grabs you and shoves its {COCK} into you.",
+        "You drop to your hands and knees, trembling and eager to be ridden hard by such a wild monster, moaning as it begins."
+    ],
+    "3rd Person": [
+        "{PRIMARY} bends over obediently as the {ACTIVE} holds her steady and begins to fuck its {BEAST} {PENIS} into her {PUSSY}.",
+        "Every thrust of the {ACTIVE}'s {PENIS} is sudden, sharp, and painfully deep, making {PRIMARY} cry out.",
+        "{PRIMARY} sees stars as the {ACTIVE} impales her fully with a single stroke, before fucking her slowly.",
+        "Its {COCK} is far too big for {PRIMARY}, but that doesn't stop the {ACTIVE} from pushing it inside her.",
+        "The {ACTIVE} slides {PRIMARY} wide open and plugs her fully with its dripping mass.",
+        "A delighted squeal escapes {PRIMARY}'s lips as the {ACTIVE} roughly grabs her and shoves its {COCK} into her.",
+        "{PRIMARY} drops to her hands and knees, trembling and eager to be ridden hard by such a wild monster, moaning as it begins."
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "1st Person" :
+    [
+        "I give out, exhausted, no longer able to keep up the {ACTIVE}'s wild pace.",
+        "The knot batters against my {WTVAGINAL} {PUSSY} intensely, it's only a matter of time now!",
+        "I struggle to breathe as the energy is fucked out of me, and my orgasm starts to rise.",
+        "My fingers dig into the ground and my toes curl in pleasure as the knot is forced between my hips.",
+        "Frantic with lust and sexual energy, the {ACTIVE} is building towards something in a hurry...",
+        "My body tenses, my back arching and I let out a cry of ecstasy as my body takes control.",
+        "I find myself near climax, brought about by the intense thrusting.",
+        "After several minutes of the most intense fucking I've ever experienced, I feel the climax wash over me.",
+        "As I cum again, I find myself pushing my hips back into the beast.",
+        "It doesn't slow down, continuing to thrust into me, bringing orgasm after orgasm from my {WTVAGINAL} {PUSSY}.",
+        "I think I'm even more determined than he is to get every last inch of {PENIS} jammed in my {PUSSY}.",
+        "Holy fuck, the {ACTIVE} plowed all the way past my cervix.",
+        "The beast forces his {PENIS} deeper, forcing himself past my cervix",
+        "The {BEAST} {PENIS} engorges more than I thought possible, and my {PUSSY} strains desperately at the knot.",
+        "You like human girls? You like to fuck your big knot into our tiny little pussies and pump us full of {CUM}?",
+        "You like fucking little human girls? Do you like to hear us moan and squeal on your {BEAST} {PENIS}?",
+        "Uhhh... Uhhhh.... Don't stop, I can take it!",
+        "Can a human get pregnant by a werewolf? I shiver... Probably a little late to worry about that...",
+        "Oh my, Mr Wolf, what a big... ugh... knot... you have...",
+        "Could I get pregnant? My mind races, panic and arousal at such a taboo idea driving me to climax."
+    ],
+    "2nd Person" :
+    [
+        "You give out, exhausted, no longer able to keep up the {ACTIVE}'s wild pace.",
+        "The knot batters against your {WTVAGINAL} {PUSSY} intensely, it's only a matter of time now!",
+        "You struggle to breathe as the energy is fucked out of you, and your orgasm starts to rise.",
+        "Your fingers dig into the ground and your toes curl in pleasure as the knot is forced between your hips.",
+        "Frantic with lust and sexual energy, the {ACTIVE} is building towards something in a hurry...",
+        "Your body tenses, your back arching and you let out a cry of ecstasy as your body takes control.",
+        "You find yourself near climax, brought about by the intense thrusting.",
+        "After several minutes of the most intense fucking you've ever experienced, you feel the climax wash over you.",
+        "As you cum again, you find yourself pushing your hips back into the beast.",
+        "It doesn't slow down, continuing to thrust into you, bringing orgasm after orgasm from your {WTVAGINAL} {PUSSY}.",
+        "You think you're even more determined than he is to get every last inch of {PENIS} jammed in your {PUSSY}.",
+        "Holy fuck, the {ACTIVE} plowed all the way past your cervix.",
+        "The beast forces his {PENIS} deeper, forcing himself past your cervix",
+        "The {BEAST} {PENIS} engorges more than you thought possible, and your {PUSSY} strains desperately at the knot.",
+        "({PRIMARY}) You like human girls? You like to fuck your big knot into our little pussies and pump us full of CUM}?",
+        "({PRIMARY}) You like fucking little human girls? Do you like to hear us moan and squeal on your {BEAST} {PENIS}?",
+        "({PRIMARY}) Uhhh... Uhhhh.... Don't stop, I can take it!",
+        "Can a human get pregnant by a werewolf? You shiver... Probably a little late to worry about that...",
+        "({PRIMARY}) Oh my, Mr Wolf, what a big... ugh... knot... you have...",
+        "Could you get pregnant? Your mind races, panic and arousal at such a taboo idea driving you to climax."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} looks exhausted, her body shaking and her skin glistening with sweat, but the {ACTIVE} keeps going.",
+        "The {ACTIVE} is really slamming its hips against {PRIMARY} now, desperate to fit it all inside her.",
+        "Oh my, look at the size of the creature's knot! That's not going to fit inside {PRIMARY}, is it?",
+        "Even just watching that {BEAST} knot slam against {PRIMARY} is tense, how must she feel?"
+    ]
+}

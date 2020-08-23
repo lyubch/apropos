@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "My legs are getting weak, and I have to lie down, spreading my legs for {ACTIVE} to continue.",
+        "I bite my finger to stifle a scream, the rush of an intense orgasm thundering through me.",
+        "{ACTIVE} buries his face in my crotch, his tongue pushing deeply into my {FAROUSAL} {PUSSY}.",
+        "I push with my heels into {ACTIVE}'s back, urging him to go deeper and harder...",
+        "I can feel it coming... I'm almost there... Don't stop... Please don't... AAAAHHHHH!",
+        "My breath is coming in short, rapid gasps now, my chest is heaving and my back arching.",
+        "{ACTIVE} slurps and licks hungrily between my legs, tongue fucking me to orgasm."
+    ],
+    "2nd Person" :
+    [
+        "Your legs are getting weak, and you have to lie down, spreading your legs for {ACTIVE} to continue.",
+        "You bite your finger to stifle a scream, the rush of an intense orgasm thundering through you.",
+        "{ACTIVE} buries his face in your crotch, his tongue pushing deeply into your {FAROUSAL} {PUSSY}.",
+        "You push with your heels into {ACTIVE}'s back, urging him to go deeper and harder...",
+        "({PRIMARY}) I can feel it coming... I'm almost there... Don't stop... Please don't... AAAAHHHHH!",
+        "Your breath is coming in short, rapid gasps now, your chest is heaving and your back arching.",
+        "{ACTIVE} slurps and licks hungrily between your legs, tongue fucking you to orgasm."
+    ],
+    "3rd Person" :
+    [
+        "Lying down and legs spread for {ACTIVE}, {PRIMARY} seems lost in pleasure.",
+        "{PRIMARY} starts to bite down on her knuckle. Is {ACTIVE} really that good?",
+        "{PRIMARY}'s breath is coming in short, rapid gasps now, her chest is heaving and her back is arching."
+    ]
+}

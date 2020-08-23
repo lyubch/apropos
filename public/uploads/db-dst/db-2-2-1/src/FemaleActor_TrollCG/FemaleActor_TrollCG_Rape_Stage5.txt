@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I kneel down on the beast's muscled stomach, and start to fuck it a little faster.",
+        "The brute pants in ragged gasps as we fuck, and I feel its warm breath on my {BOOBS}.",
+        "I suppress my disgust at the creature's stench, and try to concentrate on pumping my {PUSSY} up and down.",
+        "The intensity and rhythm of its breath is echoed by the throbbing beast lodged between my legs.",
+        "The {ACTIVE} grunts as I try to fuck his whole {COCK} into me, pounding against my cervix.",
+        "I can't hold back a moan at the intense pleasure at being filled with the creature's {BEAST} {COCK}."        
+    ],
+    "2nd Person" :
+    [
+        "You kneel down on the beast's muscled stomach, and start to fuck it a little faster.",
+        "The brute pants in ragged gasps as you fuck, and you feel its warm breath on your {BOOBS}.",
+        "You suppress your disgust at the creature's stench, and try to concentrate on pumping your {PUSSY} up and down.",
+        "The intensity and rhythm of its breath is echoed by the throbbing beast lodged between your legs.",
+        "The {ACTIVE} grunts as you try to fuck his whole {COCK} into you, pounding against your cervix.",
+        "You can't hold back a moan at the intense pleasure at being filled with the creature's {BEAST} {COCK}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} kneels down on the beast's muscled stomach, and starts to fuck it a little faster.",
+        "Watching {PRIMARY} being forced to ride this monstrous brute is tragic, but undeniably erotic.",
+        "The {ACTIVE} is panting hard now, staring at {PRIMARY}'s {HEAVING} {BOOBS} as she bounces."
+    ]
+}

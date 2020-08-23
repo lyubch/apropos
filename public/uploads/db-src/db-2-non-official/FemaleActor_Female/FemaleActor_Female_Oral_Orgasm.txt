@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "I manage only to {MOAN} as my face is {WET} in {CREAM}.",
+        "Being watched drinking {CREAM} makes me blush crimson, as it drips from my lips.",
+        "I look up at her and smile with {CREAM} {WET} lips. Are you going to {FUCK} me with this {TASTY} {COCK}?",
+        "I hope everyone sees this {HEAVING}, {LEWD} little {NUDE} {BITCH} on her knees, {SUCK}ing a girl's {STRAPON}.",
+        "I do like to feel the continuous flow of {CREAM} run down my throat."
+    ],
+    "2nd Person": [
+        "You manage only to {MOAN} as your face is {WET} in {CREAM}.",
+        "Being watched drinking {CREAM} makes you blush crimson, as it drips from your lips.",
+        "You look up at her and smile with {CREAM} {WET} lips.",
+        "You hope everyone sees this {HEAVING}, {LEWD} little {NUDE} {BITCH} on her knees, {SUCK}ing a girl's {STRAPON}.",
+        "You do like to feel the continuous flow of {CREAM} run down your throat."
+    ],
+    "3rd Person": [
+        "{PRIMARY} blushes, what would her {MFAMILY} would say if he could see her on her knees, {SUCK}ing a girl's {STRAPON}?",
+        "{PRIMARY} manages only to {MOAN} as her face is {WET} in {CREAM}."
+    ]
+}

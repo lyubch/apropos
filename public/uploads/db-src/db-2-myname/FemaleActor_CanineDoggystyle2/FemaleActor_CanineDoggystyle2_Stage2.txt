@@ -1,0 +1,35 @@
+{
+    "1st Person" :
+    [
+        "The feeling is intense, and I collapse completely, my cheek on the cold ground.",
+        "{ACTIVE} tightens his grip on my hips, continuing to pump quickly into my {ASS}.",
+        "{ACTIVE}'s head rests on my shoulder. His panting and hot breath turns me on a little...",
+        "Face down and ass held high, with a horny animal fucking my {ASS}... The wickedness is such a turn on!",
+        "Are you watching me? Watch me debase myself with an animal, letting him fuck my {ASS}.",
+        "{ACTIVE}'s balls feel so heavy as they slap against my {FAROUSAL} {PUSSY}. All that {CUM}...",
+        "{ACTIVE} whines and pushes another few inches of cock-meat into me, through my {WTANAL} pink {ASS}.",
+        "{ACTIVE} pulls back on my hips, fucking more of his {BEAST} {PENIS} into my {ASS}.",
+        "It's such a depraved thing to do, and I flush with excitement.",
+        "I wonder... do other girls let their dogs fuck their asses? And keep it a secret? Maybe I'm a freak..."        
+    ],
+    "2nd Person" :
+    [
+        "The feeling is intense, and you collapse completely, your cheek on the cold ground.",
+        "{ACTIVE} tightens his grip on your hips, continuing to pump quickly into your {ASS}.",
+        "{ACTIVE}'s head rests on your shoulder. His panting and hot breath turns you on a little...",
+        "Face down and ass held high, with a horny animal fucking your {ASS}... The wickedness is such a turn on!",
+        "({PRIMARY}) Are you watching me? Watch me debase myself with an animal, letting him fuck my {ASS}.",
+        "{ACTIVE}'s balls feel so heavy as they slap against your {FAROUSAL} {PUSSY}. All that {CUM}...",
+        "{ACTIVE} whines and pushes another few inches of cock-youat into you, through your {WTANAL} pink {ASS}.",
+        "{ACTIVE} pulls back on your hips, fucking more of his {BEAST} {PENIS} into your {ASS}.",
+        "It's such a depraved thing to do, and you flush with excitement.",
+        "You wonder... do other girls let their dogs fuck their asses? And keep it a secret? Maybe you're a freak..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} crumples onto the ground as {ACTIVE} pulls her even further onto his {PENIS}.",
+        "{ACTIVE} tightens his grip around {PRIMARY}'s hips, his head hanging over her shoulder and panting.",
+        "It looks like {ACTIVE}'s balls are slapping into {PRIMARY}'s {PUSSY}.",
+        "What would it be like... to let that dog fuck... no! That's too much..."
+    ]
+}

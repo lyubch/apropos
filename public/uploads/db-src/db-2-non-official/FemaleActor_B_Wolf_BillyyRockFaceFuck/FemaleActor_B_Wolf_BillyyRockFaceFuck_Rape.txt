@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "Backpedalling from the wolf, I trip over a rock and land hard on my back, dazed and confused...",
+        "I land with a {SCREAM} against the rock, and as hard as I try, I can't get back onto my feet... I'm at the wolf's mercy now...",
+        "Lying dazed on my back over this rock, all I can do is try and catch my breath as the wolf decides what to do with me..."
+    ],
+    "2nd Person": [
+        "Backpedalling from the wolf, you trip over a rock and land hard on your back, dazed and confused...",
+        "You land with a {SCREAM} against the rock, and as hard as you try, you can't get back onto your feet... You're at the wolf's mercy now...",
+        "Lying dazed on your back over this rock, all you can do is try and catch your breath as the wolf decides what to do with you..."
+    ],
+    "3rd Person": [
+        "Backpedalling from the wolf, {PRIMARY} trips over a rock and land hard on her back, dazed and confused...",
+        "{PRIMARY} lands with a {SCREAM} against the rock, and as hard as she tries, she can't get back onto her feet... She's at the wolf's mercy now...",
+        "Lying dazed on her back over this rock, all {PRIMARY} can do is try and catch her breath as the wolf decides what to do with her..."
+    ]
+}

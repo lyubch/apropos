@@ -1,0 +1,22 @@
+{
+    "1st Person": [
+        "AHHHH! Two {BEASTLY} fingers push up inside me, and I climax instantly.",
+        "Orgasms {QUIVER} through me as two {BEASTLY} fingers, bigger than a {COCK}, {FUCK} me steadily.",
+        "{SWEARING}! Yes! I can't believe I'm taking two fingers at once! Maybe I should try two human {COCK}s at once...",
+        "I feel so full, {FUCK}ed deeply by the {ACTIVE}'s fingers. I wish he'd stick another in my {ASSHOLE}...",
+        "Mmmm... I think I'm ready for your {COCK} now!",
+        "Slowly pumping on the {ACTIVE}'s hand, I gaze down at its {BEASTLY} {COCK}, a weak smile at my lips."
+    ],
+    "2nd Person": [
+        "AHHHH! Two {BEASTLY} fingers push up inside you, and I climax instantly.",
+        "Orgasms {QUIVER} through you as two {BEASTLY} fingers, bigger than a {COCK}, {FUCK} you steadily.",
+        "{SWEARING}! Yes! You can't believe you're taking two fingers at once! Maybe you should try two human {COCK}s at once...",
+        "You feel so full, {FUCK}ed deeply by the {ACTIVE}'s fingers. You wish he'd stick another in your {ASSHOLE}...",
+        "({PRIMARY}) Mmmm... I think I'm ready for your {COCK} now!",
+        "Slowly pumping on the {ACTIVE}'s hand, you gaze down at its {BEASTLY} {COCK}, a weak smile at your lips."
+    ],
+    "3rd Person": [
+        "{PRIMARY} cums hard, her body hanging limp as the {ACTIVE} finger fucks her.",
+        "Oh my... {CREAM} is flowing down {PRIMARY}'s legs. She must have cum pretty hard."
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "1st Person" :
+    [
+        "I saw you looking at my feet... You want me to rub them all over your {STRAPON}?"
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) I saw you looking at my feet... You want me to rub them all over your {STRAPON}?"
+    ],
+    "3rd Person" :
+    [
+        "Oh wow, {PRIMARY} is going to give her rapist a footjob! That's so {LEWD}... Is she really into that?",
+        "Oh my, that brute is really into feet! Most women would be {FUCK}ing a girl like {PRIMARY} by now..."
+    ]
+}

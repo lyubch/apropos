@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "Oh Gods, it's too hard, too fast! I can't take this, you'll rip me apart!",
+        "Pain thunders through me as the beast picks up speed, hammering my {WTANAL} {ASS}. This isn't what I wanted!",
+        "That's it... Fuck that {ASS}! You like fucking little human girls?",
+        "The beast is plowing my {WTANAL} {ASS} furiously, driven on by my animal moans.",
+        "Ugh... Ugh... I hope he... AHH! I hope he can go... for a long time...",
+        "I wiggle my hips a bit, trying to accommodate the girth of the considerable {COCK} buried inside my {ASS}.",
+        "The huge filthy beast continues to pound into my {ASS}, my body shacking with every hit."
+    ],
+    "2nd Person" :
+    [
+        "Oh Gods, it's too hard, too fast! You can't take this, you'll rip you apart!",
+        "Pain thunders through you as the beast picks up speed, hammering your {WTANAL} {ASS}. This isn't what you wanted!",
+        "({PRIMARY}) That's it... Fuck that {ASS}! You like fucking little human girls?",
+        "The beast is plowing your {WTANAL} {ASS} furiously, driven on by your animal moans.",
+        "Ugh... Ugh... you hope he... AHH! You hope he can go... for a long time...",
+        "You wiggle your hips a bit, trying to accommodate the girth of the considerable {COCK} buried inside your {ASS}.",
+        "The huge filthy beast continues to pound into your {ASS}, your body shacking with every hit."
+    ],
+    "3rd Person" :
+    [
+        "The beast is plowing {PRIMARY}'s beautiful {ASS} furiously, not caring about her pained screams.",
+        "The huge filthy beast continues to pound into {PRIMARY}'s {ASS}, her body shaking with every hit.",
+        "Oh Gods, how is {PRIMARY} taking a brutal fuck like that? And in the {ASS}, too!"
+    ]
+}

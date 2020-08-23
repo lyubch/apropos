@@ -1,0 +1,47 @@
+{
+    "1st Person": [
+        "My thighs open further as the creature presses against my impaled {PUSSY}.",
+        "I feel sick as the undead {COCK} moves within me.",
+        "I screw my eyes shut as I am fucked, but I can't block out the noises.",
+        "I can hear things in the dark waiting for their turn with me.",
+        "Its hands feel boney and wet, sinking into my soft flesh. My nipples stiffen at the touch.",
+        "I tense up in pleasure each time the {DEAD} {COCK} pushes forward and disappears inside me.",
+        "It thrusts into me, the {ACTIVE}'s {COCK} spurting and dripping its wormy cargo inside me.",
+        "The dead thing pumps away, thrusting himself into my {FAROUSAL} {PUSSY}.",
+        "I feel myself clench around the {DEAD} flesh between my thighs.",
+        "The {ACTIVE}'s hips rock lewdly between my thighs, as its {COCK} pushes deeper into my {PUSSY}.",
+        "The {DEAD} {COCK} leaves behind a thin coating of {SLIMY} ooze across my {PUSSY} and thighs.",
+        "The flesh of the thing writhes as untold numbers of maggots and worms fall from his {DEAD} {COCK}.",
+        "I can't take my eyes off the {DEAD} {COCK}, tendrils of goo and maggots hanging from the thing.",
+        "The dead creature growls in pleasure, enjoying the sensation of my tightness around it.",
+        "Bony fingers tighten around my soft flesh, spreading my thighs.",
+        "To experience this vile thing tainting me, it's not something I expected to do.",
+        "Growling in pleasure, the dead thing begins to slowly pump himself into me.",
+        "It's so wrong... but so hot..."
+    ],
+    "2nd Person": [
+        "Your thighs open further as the creature presses against your impaled {PUSSY}.",
+        "You feel sick as the undead {COCK} moves within you.",
+        "You screw your eyes shut as you are fucked, but you can't block out the noises.",
+        "You can hear things in the dark waiting for their turn with you.",
+        "Its hands feel boney and wet, sinking into your soft flesh. Your nipples stiffen at the touch.",
+        "You tense up in pleasure each time the {DEAD} {COCK} pushes forward and disappears inside you.",
+        "It thrusts into you, the {ACTIVE}'s {COCK} spurting and dripping its wormy cargo inside you.",
+        "The dead thing pumps away, thrusting himself into your {FAROUSAL} {PUSSY}.",
+        "You feel yourself clench around the {DEAD} flesh between your thighs.",
+        "The {ACTIVE}'s hips rock lewdly between your thighs, as its {COCK} pushes deeper into your {PUSSY}.",
+        "The {DEAD} {COCK} leaves behind a thin coating of {SLIMY} ooze across your {PUSSY} and thighs.",
+        "The flesh of the thing writhes as untold numbers of maggots and worms fall from his {DEAD} {COCK}.",
+        "You can't take your eyes off the {DEAD} {COCK}, tendrils of goo and maggots hanging from the thing.",
+        "The dead creature growls in pleasure, enjoying the sensation of your tightness around it.",
+        "Bony fingers tighten around your soft flesh, spreading your thighs.",
+        "To experience this vile thing tainting you, it's not something you expected to do.",
+        "Growling in pleasure, the dead thing begins to slowly pump himself into you.",
+        "It's so wrong... but so hot..."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s thighs open further as the creature presses against her impaled {PUSSY}.",
+        "{PRIMARY} feels sick as the undead {COCK} moves within her.",
+        "{PRIMARY} screws her eyes shut as she's fucked, but can't block out the noises."
+    ]
+}

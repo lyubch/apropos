@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "We roll over, me on top now, just as {ACTIVE} cums all over my chest and in my face. I want more...",
+        "Both my hands wrapped around his {HUGE} {PENIS}, I look down, straight into his {SLOPPY} cumshot.",
+        "Even after {CUMMING}, he's still hard! I push myself up, spread myself, and lower myself on to him.",
+        "His {PENIS} is covered in his {THICK} {CUM}. Even so, I want him inside my {PUSSY}...",
+        "I reach down and spread my {PUSSY}, before dropping onto his {COCK} and pumping slowly.",
+        "Mmmm... You can't go soft yet, I haven't had my turn... AAhhh!"
+    ],
+    "2nd Person" :
+    [
+        "You roll over, on top now, just as {ACTIVE} cums all over your chest and in your face. You want more...",
+        "Both your hands wrapped around his {HUGE} {PENIS}, you look down, straight into his {SLOPPY} cumshot.",
+        "Even after {CUMMING}, he's still hard! You push yourself up, spread yourself, and lower yourself on to him.",
+        "His {PENIS} is covered in his {THICK} {CUM}. Even so, you want him inside your {PUSSY}...",
+        "You reach down and spread your {PUSSY}, before dropping onto his {COCK} and pumping slowly.",
+        "({PRIMARY}) Mmmm... You can't go soft yet, I haven't had my turn... AAhhh!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s hands barely fit around {ACTIVE}'s {COCK}, and now she's putting it inside her again!",
+        "{PRIMARY}'s just being greedy now, she should give somebody else a turn!",
+        "{PRIMARY} pumps {ACTIVE}'s {COCK}, his {SLOPPY} {CUM} spurting all over her {HEAVING} {BOOBS} and face.",
+        "Oh wow! It's so hot to see {PRIMARY} put that {CUM}-covered {COCK} up in her {PUSSY}!"
+    ]
+}

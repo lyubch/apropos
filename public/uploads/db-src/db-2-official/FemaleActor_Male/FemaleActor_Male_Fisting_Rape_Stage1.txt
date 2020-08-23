@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "I can't believe what this brute wants to do, and I gasp as he tries to force his whole hand inside me.",
+        "Ohhh! Please don't.... huuugh... you can't do this! Aahhhh! I can't do this!",
+        "I scream as this thug pushes his fingers inside me, before trying to push his entire hand inside me.",
+        "My attacker presses harder and harder,  until I feel my {PUSSY} give way and he slides inside.",
+        "The first few fingers enter me, and I already feel my {WTVAGINAL} {PUSSY} straining.",
+        "Oh Gods... This is so humiliating... He wants to hurt me... to really hurt me..."
+    ],
+    "2nd Person" :
+    [
+        "You can't believe what this brute wants to do, and you gasp as he tries to force his whole hand inside you.",
+        "({PRIMARY}) Ohhh! Please don't.... huuugh... you can't do this! Aahhhh! I can't do this!",
+        "You scream as this thug pushes his fingers inside you, before trying to push his entire hand inside you.",
+        "Your atacker presses harder and harder,  until you feel your {PUSSY} give way and he slides inside.",
+        "The first few fingers enter you, and you already feel your {WTVAGINAL} {PUSSY} straining.",
+        "Oh Gods... This is so humiliating... He wants to hurt you... to really hurt you..."
+    ],
+    "3rd Person" :
+    [
+        "Oh Gods, he's really going to hurt {PRIMARY} doing that...",
+        "{PRIMARY} wails as that thug starts to push his fingers into her {WTVAGINAL} {PUSSY}."
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "Ok, this isn't so bad. If I satisfy this {ACTIVE} I might be able to escape.",
+        "The {BUGCOCK} is coated in some sort of {SLIME}, allowing me to {WANK} it smoothly.",
+        "Something strange is happening... My hand is sliding up and down the {BUGCOCK} automaticly!",
+        "Why am I suddenly overwhelmed with feelings of {LOVE} and {LUST} for this {BUG}?"
+    ],
+    "2nd Person": [
+        "Ok, this isn't so bad. If you satisfy this {ACTIVE} you might be able to escape.",
+        "The {BUGCOCK} is coated in some sort of {SLIME}, allowing you to {WANK} it smoothly.",
+        "Something strange is happening... Your hand is sliding up and down the {BUGCOCK} automaticly!",
+        "Why are you suddenly overwhelmed with feelings of {LOVE} and {LUST} for this {BUG}?"
+    ],
+    "3rd Person": [
+        "If she satisfies this {ACTIVE} she might be able to escape.",
+        "The {BUGCOCK} is coated in some sort of {SLIME}, allowing her to {WANK} it smoothly."
+    ]
+}

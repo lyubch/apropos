@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "I shriek in terror as the {ACTIVE} bottoms out in my {ASS}. Oh Gods, he's {CUMMING}!",
+        "I feel the {SLIMY} {CUM} fill my {ASS}, feel it wriggling about inside me. I think I'm going to be sick.",
+        "The beast cums hard, and {SLIMY} {CUM} squeezes out of my {ASS} and down my {PUSSY}, making me cum in shock.",
+        "I sob and whine as each deep thrust releases more {SLIMY} filth into my {ASS}, and more drips to my knees.",
+        "The last thrusts are deep, and the {ACTIVE}'s {CUM} gets deeper in me still, squirming maddeningly inside me."
+    ],
+    "2nd Person": [
+        "You shriek in terror as the {ACTIVE} bottoms out in your {ASS}. Oh Gods, he's {CUMMING}!",
+        "You feel the {SLIMY} {CUM} fill your {ASS}, feel it wriggling about inside you. You're going to be sick.",
+        "The beast cums, and {SLIMY} {CUM} squeezes out of your {ASS} and down your {PUSSY}, making you cum in shock.",
+        "You sob and whine as each deep thrust releases more {SLIMY} filth into your {ASS}, and down to your knees.",
+        "The last thrusts are deep, and the {ACTIVE}'s {CUM} gets deeper still, squirming maddeningly inside you."
+    ],
+    "3rd Person": [
+        "The slow, deep thrusts of the {ACTIVE} must mean it's {CUMMING} in {PRIMARY}'s {ASS}.",
+        "{PRIMARY} sobs as the {ACTIVE} fucks his {COCK} slowly all the way to the base, obviously {CUMMING}."
+    ]
+}

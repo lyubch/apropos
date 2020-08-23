@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "I reach down and grasp {ACTIVE}'s {COCK}. It's red hot and throbbing.",
+        "I lower myself onto {ACTIVE}'s leg, and begin to hump him. I can feel myself opening for him...",
+        "We gaze into each other's eyes, his {COCK} throbbing in my hand and my {PUSSY} soaking his leg.",
+        "I lie forward, spreading my legs, {DISPLAY}ing my {FAROUSAL} {PUSSY} to anyone who would look.",
+        "The sexual tension is high, I can feel him pulsing in my hand, and I can see the {LUST} in his eyes."
+    ],
+    "2nd Person" :
+    [
+        "You reach down and grasp {ACTIVE}'s {COCK}. It's red hot and throbbing.",
+        "You lower yourself onto {ACTIVE}'s leg, and begin to hump him. You can feel yourself opening for him...",
+        "You gaze into each other's eyes, his {COCK} throbbing in your hand and your {PUSSY} soaking his leg.",
+        "You lie forward, spreading your legs, {DISPLAY}ing your {FAROUSAL} {PUSSY} to anyone who would look.",
+        "The sexual tension is high, you can feel him pulsing in your hand, and you can see the {LUST} in his eyes."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is whispering something to {ACTIVE}, but it's too quiet to hear.",
+        "{PRIMARY} takes {ACTIVE}'s {COCK} in her hand as she humps his leg, her {CREAM} obviously dripping."
+    ]
+}

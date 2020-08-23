@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE}'s filthy fur feels good between my toes, but not as good as its {BEAST} {COCK} in my {PUSSY}.",
+        "Yanking me upside down by my ankle, the beast wastes no time in sinking its {BEAST} {PENIS} into my {PUSSY}.",
+        "I try with all my strength to slow the brute down, grunting as it sinks its {COCK} into my upturned body.",
+        "Upturned, one arm pinned to the ground, I can only gasp in intense pleasure as the beast's {COCK} splits me open.",
+        "I can only watch in lust and fear as the {BEAST} {COCK} aligns with my {WTVAGINAL} {PUSSY}, splitting me apart as it enters.",
+        "Sometimes the best thing is to be on your back, legs spread, feet in the air, and a {HUGE} {COCK} buried in your {PUSSY}."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE}'s filthy fur feels good between your toes, but not as good as its {BEAST} {COCK} in your {PUSSY}.",
+        "Yanking you upside down by your ankle, the beast wastes no time in sinking its {BEAST} {PENIS} into your {PUSSY}.",
+        "You try with all your strength to slow the brute down, grunting as it sinks its {COCK} into your upturned body.",
+        "Upturned, one arm pinned to the ground, you can only gasp in intense pleasure as the beast's {COCK} splits you open.",
+        "You watch in lust and fear as the {BEAST} {COCK} aligns with your {WTVAGINAL} {PUSSY}, splitting you apart as it enters.",
+        "Sometimes the best thing is to be on your back, legs spread, feet in the air, and a {HUGE} {COCK} buried in your {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "Yanking her upside down by her ankle, the beast wastes no time in sinking its {BEAST} {PENIS} into {PRIMARY}'s {PUSSY}.",
+        "The huge brute pins {PRIMARY} to the ground, with a clear intent to have its way, sinking its {COCK} down into her {PUSSY}.",
+        "{PRIMARY} lets the {ACTIVE} pin her to the ground, yank her legs apart and sink its {BEAST} {COCK} into her."
+    ]
+}

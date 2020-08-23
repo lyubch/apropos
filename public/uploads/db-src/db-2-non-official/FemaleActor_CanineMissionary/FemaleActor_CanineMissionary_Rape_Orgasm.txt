@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "The sensation of his knot pushing in and out is too much. I clench my thighs, trying to slow him down.",
+        "Oh my, I can feel his {CUM}! A dog is {EJACULATE}ing inside me!",
+        "{ACTIVE}'s {THICK} {CUM} runs from my {PUSSY} down to my {WTANAL} {ASSHOLE}...",
+        "{ACTIVE} churns my {WTVAGINAL} {PUSSY}, and I can feel our cum splattering about.",
+        "Oh my... I just came... from fucking a dog...",
+        "I don't know if I can take this... So much {COCK}, and so much {CUM}... aaaahhh!",
+        "I'm getting off from having {ACTIVE} {EJACULATE} inside me. I'm a {LEWD} {BITCH}...",
+        "I'm writhing on the ground, {SCREAM}ing with a {BEASTLY} dog-{COCK} up my {PUSSY}, filling me with {CUM}."        
+    ],
+    "2nd Person" :
+    [
+        "The sensation of his knot pushing in and out is too much. You clench your thighs, trying to slow him down.",
+        "Oh my, you can feel his {CUM}! A dog is {EJACULATE}ing inside you!",
+        "{ACTIVE}'s {THICK} {CUM} runs from your {PUSSY} down to your {WTANAL} {ASSHOLE}...",
+        "{ACTIVE} churns your {WTVAGINAL} {PUSSY}, and you can feel his cum splattering about.",
+        "Oh my... you just came... from fucking a dog...",
+        "You don't know if you can take this... So much {COCK}, and so much {CUM}... aaaahhh!",
+        "You're getting off from having {ACTIVE} {EJACULATE} inside you. You're a {LEWD} {BITCH}...",
+        "You're writhing on the ground, {SCREAM}ing with a {BEASTLY} dog-{COCK} up your {PUSSY}, filling you with {CUM}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s toes curl and her thighs clench. Is she hurt? Oh my, she's not hurt, she's cumming!",
+        "{ACTIVE}'s strokes are low and deep, he must be {EJACULATE}ing his {CUM} all the up inside her!"
+    ]
+}

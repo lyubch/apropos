@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "I'm nothing more than the {ACTIVE}'s cock-sleeve, just a rag to jerk off into.",
+        "Being used in this way makes me feel like such a {WHORE}... And part of me likes it!",
+        "The {ACTIVE} stops pumping his hips, now just wanking me on top of his {BEAST} {PENIS} furiously.",
+        "I grunt in pleasure as the head of his {PENIS} slips into my womb, fucking both my {PUSSY} and my cervix.",
+        "Oh God! Shoot your {CUM} straight into my womb!",
+        "My {PUSSY} is sore and being pounded raw. It still hurts bad and I'm not sure how much more I can take...",
+        "Using me like a human cock-sleeve, the {ACTIVE} simply holds me by the torso, pumping me up and down.",
+        "I let out a long, primal howl, driven to a thunderous orgasm on a {COCK} like a tree stump."        
+    ],
+    "2nd Person" :
+    [
+        "You're nothing more than the {ACTIVE}'s cock-sleeve, just a rag to jerk off into.",
+        "Being used in this way makes you feel like such a {WHORE}... And part of you likes it!",
+        "The {ACTIVE} stops pumping his hips, now just wanking you on top of his {BEAST} {PENIS} furiously.",
+        "You grunt in pleasure as the head of his {PENIS} slips into your womb, fucking both your {PUSSY} and your cervix.",
+        "({PRIMARY}) Oh God! Shoot your {CUM} straight into my womb!",
+        "Your {PUSSY} is sore and being pounded raw. It still hurts bad and you're not sure how much more you can take...",
+        "Using you like a human cock-sleeve, the {ACTIVE} simply holds you by the torso, pumping you up and down.",
+        "You let out a long, primal howl, driven to a thunderous orgasm on a {COCK} like a tree stump."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} is just using {PRIMARY} like a cum rag, fucking her body with abandon.",
+        "{PRIMARY} is pounded up and down on the {ACTIVE}'s {COCK}. It's hard to tell if her moans are pain or pleasure.",
+        "{PRIMARY}'s insides must be raw by now! How is she taking that?"
+    ]
+}

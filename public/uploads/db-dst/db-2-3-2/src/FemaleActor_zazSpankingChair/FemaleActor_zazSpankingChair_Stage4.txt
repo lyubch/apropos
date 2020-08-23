@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "There's no use trying to hold back, {ACTIVE} must be aware by now of how wet this is making me...",
+        "My cheeks feel like they're on fire, and {ACTIVE} slows his pace. Part of me doesn't want him to.",
+        "I can feel my {CREAM} dripping down my thighs now, and {ACTIVE}'s {COCK} is {MAROUSAL} and poking into me.",
+        "Something has changed in me now. The wait is glorious, and every hard slap sends waves of {LUST} through me.",
+        "({ACTIVE}) What a {BITCH} you are, {PRIMARY}! Your {BUTTOCKS} spanked raw, and you're this wet!",
+        "The blinding flash of {PAIN} that shoots through me with every slap, it's almost like cumming...",
+        "Ow! Ow! My hip is beaten raw, and I flinch every time he strikes me."
+    ],
+    "2nd Person": [
+        "There's no use trying to hold back, {ACTIVE} must be aware by now of how wet this is making you...",
+        "Your cheeks feel like they're on fire, and {ACTIVE} slows his pace. Part of you doesn't want him to.",
+        "You can feel your {CREAM} dripping down your thighs now, and {ACTIVE}'s {COCK} is {MAROUSAL} and poking into you.",
+        "Something has changed in you now. The wait is glorious, and every hard slap sends waves of {LUST} through you.",
+        "({ACTIVE}) What a {BITCH} you are, {PRIMARY}! Your {BUTTOCKS} spanked raw, and you're this wet!",
+        "The blinding flash of {PAIN} that shoots through you with every slap, it's almost like cumming...",
+        "Ow! Ow! Your hip is beaten raw, and you flinch every time he strikes you."
+    ],
+    "3rd Person": [
+        "{ACTIVE} slows down, almost as if giving {PRIMARY}'s {BUTTOCKS} a chance to recover.",
+        "{PRIMARY}'s nipples look rock hard, and she almost seems to {MOAN} every time {ACTIVE}'s hand comes down.",
+        "Between each hard spank, {PRIMARY}'s {PUSSY} can clearly be seen, and she's dripping wet!",
+        "Tears are streaming down {PRIMARY}'s face, but the look on her face is one of {LUST}."
+    ]
+}

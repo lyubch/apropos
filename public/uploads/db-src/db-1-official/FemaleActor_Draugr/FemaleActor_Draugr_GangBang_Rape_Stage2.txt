@@ -1,0 +1,50 @@
+{
+    "1st Person": [
+        "Many hands grope me roughly as these {DEAD} monsters gangbang me.",
+        "Their hands feel bony and wet, digging into my soft flesh. I struggle vainly at the touch.",
+        "I stare wide eyed as slime covered worms drip onto my naked flesh from the {DEAD} bodies.",
+        "I feel worms squirm from the {COCK} in my mouth. Please don't let these things be inside me as well...",
+        "A strange surge of excitement burns through my crotch as the undead have their way with me.",
+        "No! I gasp, breathing heavily. I don't want them, I don't want those things inside me!",
+        "I groan around its {COCK} while worms and other foulness slither within my mouth.",
+        "The foul creature's {DEAD} {COCK} is mostly intact, but it tastes awful.",
+        "I gag around the {DEAD} {COCK} in my {MOUTH}, and it's not the only one in me...",
+        "Bony fingers dig into my soft cheeks as they hold me down tight upon its {COCK}.",
+        "The idea of being ravaged, violated by the undead excites something deep inside me.",
+        "The only thing that stops me from screaming is the {COCK} down my throat.",
+        "It takes only a few minutes before my first orgasm rips through me, but the dead don't seem close.",
+        "My flesh creeps as I listen to the lewd sounds of our fucking."
+    ],
+    "2nd Person": [
+        "Many hands grope you roughly as these {DEAD} monsters gangbang you.",
+        "Their hands feel bony and wet, digging into your soft flesh. You struggle vainly at the touch.",
+        "You stare wide eyed as slime covered worms drip onto your naked flesh from the {DEAD} bodies.",
+        "You feel worms squirm from the {COCK} in your mouth. Please don't let these things be inside you as well...",
+        "A strange surge of excitement burns through your crotch as the undead have their way with you.",
+        "No! You gasp, breathing heavily. You don't want them, you don't want those things inside you!",
+        "You groan around its {COCK} while worms and other foulness slither within your mouth.",
+        "The foul creature's {DEAD} {COCK} is mostly intact, but it tastes awful.",
+        "You gag around the {DEAD} {COCK} in your {MOUTH}, and it's not the only one in you...",
+        "Bony fingers dig into your soft cheeks as they hold you down tight upon its {COCK}.",
+        "The idea of being ravaged, violated by the undead excites something deep inside you.",
+        "The only thing that stops you from screaming is the {COCK} down your throat.",
+        "It takes only a few minutes before your first orgasm rips through you, but the dead don't seem close.",
+        "Your flesh creeps as you listen to the lewd sounds of our fucking."
+    ],
+    "3rd Person": [
+        "Many hands grope {PRIMARY} roughly as these {DEAD} monsters gangbang her.",
+        "Their hands are bony and wet, digging into her soft flesh. {PRIMARY} struggles vainly at the touch.",
+        "{PRIMARY} stares wide eyed as slime covered worms drip onto her naked flesh from the {DEAD} bodies.",
+        "Worms squirm from the {COCK} in {PRIMARY}'s mouth. Are these things... inside her as well?",
+        "A strange surge of excitement burns as the undead have their way with {PRIMARY}.",
+        "No! {PRIMARY} gasps, breathing heavily. She doesn't want them, she doesn't want those things inside her!",
+        "{PRIMARY} groans around its {COCK} while worms and other foulness slither within her mouth.",
+        "The foul creature's {DEAD} {COCK} is mostly intact, but it must taste awful in {PRIMARY}'s mouth.",
+        "{PRIMARY} gags around the {DEAD} {COCK} in her {MOUTH}, and it's not the only one in her...",
+        "Bony fingers dig into her soft cheeks as they hold {PRIMARY} down tight upon its {COCK}.",
+        "The idea of being ravaged, violated by the undead excites something deep inside.",
+        "The only thing that stops {PRIMARY} from screaming is the {COCK} down her throat.",
+        "It takes only a few minutes before {PRIMARY}'s first orgasm rips through her, but the dead don't seem close.",
+        "The lewd sounds of their fucking are grotesque, causing flesh to creep and a guilty arousal to build."
+    ]
+}

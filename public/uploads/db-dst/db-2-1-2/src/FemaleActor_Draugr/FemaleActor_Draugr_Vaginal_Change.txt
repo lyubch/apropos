@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "Мертвец хочет {FUCK} мою {WTVAGINAL}ую {PUSSY}у по-другому."
+    ],
+    "2nd Person": [
+        "Мертвец хочет {FUCK} твою {WTVAGINAL}ую {PUSSY}у по-другому."
+    ],
+    "3rd Person": [
+        "Мертвец хочет {FUCK} ее {WTVAGINAL}ую {PUSSY}у по-другому."
+    ]
+}

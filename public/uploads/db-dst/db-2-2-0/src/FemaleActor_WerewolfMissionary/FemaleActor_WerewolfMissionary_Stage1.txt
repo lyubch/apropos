@@ -1,0 +1,44 @@
+{
+    "1st Person" :
+    [
+        "I'm pinned to the ground by the beast's huge paw. I'm scared, but also thrilled to be dominated like this.",
+        "The {ACTIVE} is not gentle, moving quickly between my spread legs and fucking me hard and deep.",
+        "The {ACTIVE} fucks me so hard, my {BOOBS} bounce wildly. I'm already panting, close to orgasm.",
+        "My heart is in my throat as I part my legs for this beast, but it's clear I never really had a choice...",
+        "I stare up at the monster as it enters my {FAROUSAL} {PUSSY}, terrified and horny at the same time.",
+        "The beast's {BEAST} {PENIS} hurts as it starts to enter, so I raise my knees to try to stop it going too deep...",
+        "The look of rage in the monster's eyes, and the ragged panting breath... I'm not in control any more...",
+        "As the {ACTIVE}'s claws close around my throat, I start to panic a little. Oh Gods...",
+        "Uhhh... Nghhh... My throat! I can't breathe! You... You don't need to force me... Ahhh!",
+        "I lick my lips. I want that knot inside my soon-to-be-wrecked {PUSSY}.",
+        "You think I'm into bestiality? Think I'll take your {PENIS}? Ahhh... Maybe just a little....",
+        "I lock eyes with the beast, legs spread, my mouth open and panting.",
+        "Want to have some fun? (giggle)",
+        "The beast is upon me and begins to thrust the full length of it into my womb."        
+    ],
+    "2nd Person" :
+    [
+        "You're pinned to the ground by the beast's huge paw. You're scared, but also thrilled to be dominated like this.",
+        "The {ACTIVE} is not gentle, moving quickly between your spread legs and fucking you hard and deep.",
+        "The {ACTIVE} fucks you so hard, your {BOOBS} bounce wildly. You're already panting, close to orgasm.",
+        "Your heart is in your throat as you part your legs for this beast, but it's clear you never really had a choice...",
+        "You stare up at the monster as it enters your {FAROUSAL} {PUSSY}, terrified and horny at the same time.",
+        "The beast's {BEAST} {PENIS} hurts as it starts to enter, so you raise your knees to try to stop it going too deep.",
+        "The look of rage in the monster's eyes, and the ragged panting breath... You're not in control any more...",
+        "As the {ACTIVE}'s claws close around your throat, you start to panic a little. Oh Gods...",
+        "({PRIMARY}) Uhhh... Nghhh... My throat! I can't breathe! You... You don't need to force me... Ahhh!",
+        "You lick your lips. You want that knot inside your soon-to-be-wrecked {PUSSY}.",
+        "({PRIMARY}) You think I'm into bestiality? Think I'll take your {PENIS}? Ahhh... Maybe just a little...",
+        "You lock eyes with the beast, legs spread, your mouth open and panting.",
+        "({PRIMARY}) Want to have some fun? (giggle)",
+        "The beast is upon you and begins to thrust the full length of it into your womb."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} doesn't resist as the {ACTIVE} throws her to the ground and pushes himself between her legs.",
+        "The {ACTIVE} is not gentle, moving quickly between {PRIMARY}'s spread legs and fucking her hard and deep.",
+        "The {ACTIVE} fucks {PRIMARY} so hard, her {BOOBS} bounce wildly. She's already panting, close to orgasm.",
+        "Oh my goodness, is that really what she wants? It does look sort of... wild...",
+        "The sight of a human girl giving up control to such a monster is... erotic..."
+    ]
+}

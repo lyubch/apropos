@@ -1,0 +1,16 @@
+{
+    "1st Person" :
+    [
+        "This brute's {HUGE} {STRAPON} feels hot and hard between my {BOOBS}.",
+        "It's humiliating to have my {BOOBS} wrapped around my rapist's {STRAPON}."        
+    ],
+    "2nd Person" :
+    [
+         "The brute's {HUGE} {STRAPON} feels hot and hard between your {BOOBS}.",
+         "It's humiliating to have your {BOOBS} wrapped around your rapist's {STRAPON}."
+    ],
+    "3rd Person" :
+    [
+        "It must be humiliating for {PRIMARY} to have her {BOOBS} wrapped around her rapist's {STRAPON}."
+    ]
+}

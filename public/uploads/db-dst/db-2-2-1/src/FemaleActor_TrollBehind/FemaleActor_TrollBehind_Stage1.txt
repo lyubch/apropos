@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I bend over submissively, wiggling my backside for the {ACTIVE} as I slide its {BEAST} {COCK} into my eager {PUSSY}.",
+        "I cup and grope my breast even as I wiggle my ass, working the {ACTIVE}'s {BEAST} {COCK} inside my {PUSSY}.",
+        "Having such a savage creature standing dumbly at the sight and feel of my body; I feel sexy, I feel powerful!",
+        "I bend over and expose my {FAROUSAL} {PUSSY}, inviting the {ACTIVE} to fuck me. I'm not waiting long.",
+        "My {FAROUSAL} {PUSSY} practically juices itself in anticipation as I eye the {HUGE}, {BEAST} {COCK}, pushing it inside me.",
+        "Oh my... Gods...! I groan, the {BEAST} {COCK} sinking into my tight body as I stretch around its girth."        
+    ],
+    "2nd Person" :
+    [
+        "You bend over submissively, wiggling your backside for the {ACTIVE} as you slide its {BEAST} {COCK} into your eager {PUSSY}.",
+        "You cup and grope your breast even as you wiggle your ass, working the {ACTIVE}'s {BEAST} {COCK} inside your {PUSSY}.",
+        "Having such a savage creature standing dumbly at the sight and feel of your body; you feel sexy, you feel powerful!",
+        "You bend over and expose your {FAROUSAL} {PUSSY}, inviting the {ACTIVE} to fuck you. You're not waiting long.",
+        "Your {FAROUSAL} {PUSSY} practically juices itself in anticipation as you eye the {BEAST} {COCK}, pushing it inside you.",
+        "Oh me... Gods...! You groan, the {BEAST} {COCK} sinking into your tight body as you stretch around its girth."
+    ],
+    "3rd Person" :
+    [
+        "Is {PRIMARY} really that horny? She's going to bend over and let a {ACTIVE} have her?",
+        "With {BOOBS} heaving and nipples hard, {PRIMARY} turns around and presents herself to the {ACTIVE}.",
+        "{PRIMARY} bends over, her {HEAVING} {BOOBS} on display as she takes the {ACTIVE}'s {PENIS} in her {PUSSY}."
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "I thrash about, my feet flailing about behind me as hard slaps rain down on my {WTANAL} ass.",
+        "{ACTIVE} starts to spank me relentlessly now, giving me no respite. The pain is intense.",
+        "As my cheeks burn with pain, I start to realise something. I'm enjoying this. It's making me wet.",
+        "Every sharp slap across my tender backside is like a thunderclap through my body, making me jerk and thrash.",
+        "The sound of my vigorous spanking echoes through here, hiding the sound of my gasps and moans.",
+        "I flush with embarrassment as he spanks me hard and fast, as if I was a badly behaved child!"        
+    ],
+    "2nd Person" :
+    [
+        "You thrash about, your feet flailing about behind you as hard slaps rain down on your {WTANAL} ass.",
+        "{ACTIVE} starts to spank you relentlessly now, giving you no respite. The pain is intense.",
+        "As your cheeks burn with pain, you start to realise something. You're enjoying this. It's making you wet.",
+        "Every sharp slap across your tender backside is like a thunderclap, making you jerk and thrash.",
+        "The sound of your vigorous spanking echoes through here, hiding the sound of your gasps and moans.",
+        "You flush with embarrassment as he spanks you hard and fast, as if you were a badly behaved child!"
+    ],
+    "3rd Person" :
+    [
+        "It's not just {PRIMARY}'s backside that's flushed and red, her face is too.",
+        "{ACTIVE} starts to really give it to her, striking her ass harder and faster.",
+        "{PRIMARY}'s ass is bright red now, and it looks like she has tears in her eyes.",
+        "The sound of every heavy slap forces a twinge of erotic tension. Does {PRIMARY} feel that way too?"
+    ]
+}

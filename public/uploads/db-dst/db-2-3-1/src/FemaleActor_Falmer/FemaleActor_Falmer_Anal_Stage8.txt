@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "My knees rub in the rough ground, but it doesn't distract me from the {PAIN} in my {ASSHOLE}.",
+        "I want more, I want more!",
+        "I meet the assault with thrusts of my hips and soft {MOAN}s.",
+        "I {SCREAM} and {MOAN} as the {BEASTLY} {COCK} pushes deep inside me again and again.",
+        "Ahhhh! Give me all you have, don't hold back... {FUCK} me!",
+        "I {MOAN}, then let out a {MOAN} of abandon as I feel the {MONSTER}'s {COCK} start to {EXPLOR}e my back {HOLE}.",
+        "I {SCREAM} with each lunge as the {MONSTER} {INSERT}s himself balls deep into my {WTANAL} {ASSHOLE}.",
+        "Ohh! Just do it and ahhh! Make it last!",
+        "Urghhh! Just fucking cum and get... AHHH! Fuck my... ugh... my {ASSHOLE}!",
+        "Maybe they'll want me to... ughh! to {FUCK} one of their... {BUG}s...",
+        "Your {COCK} is so good! Where did you learn to {FUCK} {NUDE} human girls so well?"
+    ],
+    "2nd Person": [
+        "Your knees rub in the rough ground, but it doesn't distract you from the {PAIN} in your {ASSHOLE}.",
+        "({PRIMARY}) I want more, I want more!",
+        "You meet the assault with thrusts of your hips and soft {MOAN}s.",
+        "You {SCREAM} and {MOAN} as the {BEASTLY} {COCK} pushes deep inside you again and again.",
+        "({PRIMARY}) Ahhhh! Give me all you have, don't hold back... {FUCK} me!",
+        "You {MOAN}, then let out a {MOAN} of abandon as you feel the {MONSTER}'s {COCK} start to {EXPLOR}e your back {HOLE}.",
+        "You {SCREAM} with each lunge as the {MONSTER} {INSERT}s himself balls deep into your {WTANAL} {ASSHOLE}.",
+        "({PRIMARY}) Ohh! Just do it and ahhh! Make it last!",
+        "({PRIMARY}) Urghhh! Just fucking cum and get... AHHH! Fuck my... ugh... my {ASSHOLE}!'",
+        "Maybe they'll want you to... ughh! to {FUCK} one of their... {BUG}s...",
+        "({PRIMARY}) Your {COCK} is so good! Where did you learn to {FUCK} {NUDE} human girls so well?"
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s knees rub in the rough ground, but it won't distract her from the {PAIN} in her {ASSHOLE}.",
+        "({PRIMARY})I want more, I want more!",
+        "{PRIMARY} meets the assault with thrusts of her hips and soft {MOAN}s.",
+        "{PRIMARY} {MOAN}s as the {BEASTLY} {COCK} pushes deep inside her again and again.",
+        "({PRIMARY}) Ahhhh! Give me all you have, don't hold back... {FUCK} me!",
+        "{PRIMARY} lets out a {MOAN} of abandon as the {MONSTER}'s {COCK} start to {EXPLOR}e her back {HOLE}.",
+        "{PRIMARY} {MOAN}s with each lunge as the {MONSTER} {INSERT}s himself balls deep into her {WTANAL} {ASSHOLE}.",
+        "({PRIMARY}) Ohh! Just do it and ahhh! Make it last!",
+        "({PRIMARY}) Urghhh! Just fucking cum and get... AHHH! Fuck my... ugh... my {ASSHOLE}!",
+        "Maybe they'll want {PRIMARY} to... ughh! to {FUCK} one of their... {BUG}s...",
+        "({PRIMARY}) Your {COCK} is so good! Where did you learn to {FUCK} {NUDE} human girls so well?"
+    ]
+}

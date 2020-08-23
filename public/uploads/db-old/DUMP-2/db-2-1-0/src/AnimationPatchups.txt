@@ -1,0 +1,327 @@
+{
+	"Anubs_FalmerDoggy": {
+		"AddTags": [
+			"Anal"
+		]
+	},
+	"Anubs_rcb": {
+		"AddTags": [
+			"Riekling",
+			"Furniture",
+			"AnimObject"
+		]
+	},
+	"ArrokLesbian": {
+		"AddTags": [
+			"Cunnilingus"
+		]
+	},
+	"DDBeltedSolo": {
+		"AddTags": [
+			"Masturbation"
+		]
+	},
+	"DaedraHugging": {
+		"RemoveTags": [
+			"Seeking"
+		],
+		"AddTags": [
+			"Seeker"
+		]
+	},
+	"DogpanicConsensual": {
+		"RemoveTags": [
+			"Anal"
+		],
+		"AddTags": [
+			"Vaginal, Canine"
+		]
+	},
+	"Dogpanicnew": {
+		"RemoveTags": [
+			"Anal"
+		],
+		"AddTags": [
+			"Vaginal, Canine"
+		]
+	},
+	"DraugrDoggyStyle": {
+		"RemoveTags": [
+			"Vaginal"
+		],
+		"AddTags": [
+			"Anal"
+		]
+	},
+	"EV_Evac_CalmDoggy": {
+		"AddTags": [
+			"Falmer"
+		]
+	},
+	"EV_Evac_ChaurusDG": {
+		"AddTags": [
+			"Chaurus"
+		]
+	},
+	"EV_Evac_OnTopDoggy": {
+		"AddTags": [
+			"Falmer"
+		]
+	},
+	"EV_Evac_Troll_Pacification": {
+		"AddTags": [
+			"Troll"
+		]
+	},
+	"EV_Evac_Troll_Reward": {
+		"AddTags": [
+			"Troll, Blowjob"
+		]
+	},
+	"EV_Falmer_BoundGround": {
+		"AddTags": [
+			"Falmer"
+		]
+	},
+	"EV_Falmer_BoundGround3": {
+		"AddTags": [
+			"Falmer, Blowjob"
+		]
+	},
+	"EV_Falmer_ConsMis": {
+		"AddTags": [
+			"Falmer"
+		]
+	},
+	"EV_Falmer_Cowgirl": {
+		"AddTags": [
+			"Falmer"
+		]
+	},
+	"EV_Falmer_Cowgirl3": {
+		"AddTags": [
+			"Falmer"
+		]
+	},
+	"EV_Falmer_Doggystyle": {
+		"AddTags": [
+			"Falmer"
+		]
+	},
+	"EV_Falmer_Doggystyle3": {
+		"AddTags": [
+			"Falmer, Blowjob"
+		]
+	},
+	"EV_Falmer_GoodGirl": {
+		"AddTags": [
+			"Falmer"
+		]
+	},
+	"EV_Falmer_GoodGirlTh": {
+		"AddTags": [
+			"Falmer, Blowjob"
+		]
+	},
+	"EV_Falmer_Stand4": {
+		"AddTags": [
+			"Falmer, Blowjob"
+		]
+	},
+	"EV_Falmer_TightMissionary": {
+		"AddTags": [
+			"Falmer"
+		]
+	},
+	"EV_Giant_CatchNC": {
+		"AddTags": [
+			"Giant"
+		]
+	},
+    "EstrusTentacleDouble": {
+		"AddTags": [
+			"Vaginal",
+			"Anal"
+		]
+	},
+	"EstrusTentacleSide": {
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"FalmerHolding": {
+		"RemoveTags": [
+			"Gangbang"
+		],
+		"AddTags": [
+			"Falmer"
+		]
+	},
+	"FalmerMissionary": {
+		"RemoveTags": [
+			"Gangbang"
+		],
+		"AddTags": [
+			"Falmer"
+		]
+	},
+	"FlameatronachBehind": {
+		"RemoveTags": [
+			"Vaginal"
+		],
+		"AddTags": [
+			"Anal"
+		]
+	},
+	"GiantHolding": {
+		"RemoveTags": [
+			"Vaginal"
+		],
+		"AddTags": [
+			"Handjob"
+		]
+	},
+	"HorseDoggyStyle": {
+		"RemoveTags": [
+			"Anal"
+		],
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"Leito_Giant_Anal_ReCow": {
+		"RemoveTags": [
+			"Anus"
+		],
+		"AddTags": [
+			"Anal"
+		]
+	},
+	"Leito_Lurker_Anal_ReCow": {
+		"RemoveTags": [
+			"Anus"
+		],
+		"AddTags": [
+			"Anal"
+		]
+	},
+	"MNCRieklingTest": {
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"MNCbenthiclurkerPanicPenetrationTest": {
+		"RemoveTags": [
+			"Giant, Vaginal"
+		],
+		"AddTags": [
+			"Lurker, Handjob"
+		]
+	},
+	"MNCbenthiclurkerPenetration": {
+		"RemoveTags": [
+			"Giant"
+		],
+		"AddTags": [
+			"Lurker"
+		]
+	},
+	"MNCrieklingdouble": {
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"SprigganCG": {
+		"RemoveTags": [
+			"Anal"
+		],
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"SprigganLotus": {
+		"RemoveTags": [
+			"Anal"
+		],
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"TrollBehind": {
+		"RemoveTags": [
+			"Anal"
+		],
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"TrollDominate": {
+		"RemoveTags": [
+			"Anal"
+		],
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"TrollGrabbing": {
+		"RemoveTags": [
+			"Vaginal"
+		],
+		"AddTags": [
+			"Anal"
+		]
+	},
+	"WerewolfAggrDoggystyle": {
+		"RemoveTags": [
+			"Anal"
+		],
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"WerewolfDoggystyle": {
+		"RemoveTags": [
+			"Anal"
+		],
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"WolfDoggystyle": {
+		"RemoveTags": [
+			"Anal"
+		],
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"WolfDoggystyle2": {
+		"RemoveTags": [
+			"Vaginal"
+		],
+		"AddTags": [
+			"Anal"
+		]
+	},
+	"WolfpanicConsensual": {
+		"RemoveTags": [
+			"Anal"
+		],
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"Wolfpanicnew": {
+		"RemoveTags": [
+			"Anal"
+		],
+		"AddTags": [
+			"Vaginal"
+		]
+	},
+	"ZynLesbian": {
+		"AddTags": [
+			"Cunnilingus"
+		]
+	}
+}

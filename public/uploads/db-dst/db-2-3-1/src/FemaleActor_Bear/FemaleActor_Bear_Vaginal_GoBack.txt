@@ -1,0 +1,17 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} wants to {BREED} my {FAROUSAL} {PUSSY} more!",
+	"The {ACTIVE} attempts to change position, but I {GENTLE}ly coax it back into my {FAROUSAL} {PUSSY}."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} wants to {BREED} your {FAROUSAL} {PUSSY} more!",
+	"The {ACTIVE} attempts to change position, but you {GENTLE}ly coax it back into your {FAROUSAL} {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} wants to {BREED} {PRIMARY}'s {FAROUSAL} {PUSSY} more!",
+	"The {ACTIVE} attempts to change position, but {PRIMARY} {GENTLE}ly coaxes it back into her {FAROUSAL} {PUSSY}."
+    ]
+}

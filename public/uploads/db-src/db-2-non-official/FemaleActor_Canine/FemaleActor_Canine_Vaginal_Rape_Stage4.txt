@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "{ACTIVE} grips my hips again and {FUCK}s harder. I should have taken my chance to escape...",
+        "What drives a dog to do this to a {NUDE} human girl? Is he really so aroused by my {HEAVING} {FLESH}?",
+        "My eyes screw shut, my fists clench and I {SCREAM} into the dirt as {ACTIVE} {RAP}es me.",
+        "{PLEADING}! Please! I don't want this! Please, just let me go! (sob)",
+        "Ow! Ugh... {SWEARING}... I can't believe how {BEASTLY} {ACTIVE}'s {COCK} is.",
+        "It's hot and {BEASTLY}, filling my {WTVAGINAL} {PUSSY} completely.",
+        "My cheeks burn red with embarrassment, I don't want to be seen like this, with a dog up my {PUSSY}...",
+        "Tears welling in my eyes, I take more of the dog's {COCK} as he pulls back on my hips."
+    ],
+    "2nd Person": [
+        "{ACTIVE} grips your hips again and {FUCK}s harder. You should have taken your chance to escape...",
+        "What drives a dog to do this to a {NUDE} human girl? Is he really so aroused by your {HEAVING} {FLESH}?",
+        "Your eyes screw shut, your fists clench and you {SCREAM} into the dirt as {ACTIVE} {FUCK}s you.",
+        "({PRIMARY}) {PLEADING}! Please! I don't want this! Please, just let me go! (sob)",
+        "Ow! Ugh... {SWEARING}... You can't believe how {BEASTLY} {ACTIVE}'s {COCK} is.",
+        "It's hot and {BEASTLY}, filling your {WTVAGINAL} {PUSSY} completely.",
+        "Your cheeks burn red with embarrassment, you don't want to be seen like this, with a dog up your {PUSSY}...",
+        "Tears welling in your eyes, you take more of the dog's {COCK} as he pulls back on your hips."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is {SCREAM}ing freely now, but {MOAN}s still escape her lips.",
+        "What would it feel like to get {FUCK}ed hard by a dog like that?"
+    ]
+}

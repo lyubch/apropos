@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} thunders into my {PUSSY}. The pain is intense, but I start to feel heat building inside me as well.",
+        "Ngh! Ah! Oh Gods, its {BEAST} {COCK} is... and its chest is so broad... no, what am I thinking?",
+        "Terror and excitement compete in my head, as the hulking brute hunched over me drives me to madness.",
+        "The {BEAST} {COCK} forces my pulsating clit out to rub against coarse hair, turning me on against my will.",
+        "Hot spittle drips onto my flesh as the {ACTIVE} ruts hard and fast.",
+        "I've never been taken so roughly, with such vigour and primal lust...",
+        "The creature starts to roughly fuck me, like a wild animal taking a mate."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} thunders into your {PUSSY}. The pain is intense, but you start to feel heat building inside you as well.",
+        "Ngh! Ah! Oh Gods, its {BEAST} {COCK} is... and its chest is so broad... no, what are you thinking?",
+        "Terror and excitement compete in your head, as the hulking brute hunched over you drives you to madness.",
+        "The {BEAST} {COCK} forces your pulsating clit out to rub against coarse hair, turning you on against your will.",
+        "Hot spittle drips onto your flesh as the {ACTIVE} ruts hard and fast.",
+        "You've never been taken so roughly, with such vigour and primal lust...",
+        "The creature starts to roughly fuck you, like a wild animal taking a mate."
+    ],
+    "3rd Person" :
+    [
+        "Hot spittle drips onto {PRIMARY}'s face and chest as the {ACTIVE} ruts hard and fast.",
+        "The creature starts to roughly fuck {PRIMARY}, like a wild animal taking a mate.",
+        "The {ACTIVE} thunders into {PRIMARY}'s {PUSSY}. Her cries are pained, but becoming increasingly sensual."
+    ]
+}

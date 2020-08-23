@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "I'm bent over painfully, my arms held up behind me, the {ACTIVE} {PENETRAT}ing my {ASSHOLE}.",
+        "My knees are spread by the {ACTIVE}'s, my arms and waist held tightly. I'm being controlled completely.",
+        "I feel a bony hand claw at my hip, dragging me back, my {ASSHOLE} reluctantly swallowing {DEAD} flesh.",
+        "My head hangs low and I stare at the ground, gulping as I allow my {ASSHOLE} to be {RAP}ed.",
+        "I don't {STRUGGLE}, allowing this {DEAD} {MONSTER} to {FUCK} me up the {ASSHOLE}."
+    ],
+    "2nd Person": [
+        "You're bent over painfully, your arms held up behind you, the {ACTIVE} {PENETRAT}ing your {ASSHOLE}.",
+        "Your knees are spread by the {ACTIVE}'s, arms and waist held tightly. You're being controlled completely.",
+        "You feel a bony hand claw at your hip, dragging you back, your {ASSHOLE} reluctantly swallowing {DEAD} flesh.",
+        "Your head hangs low and you stare at the ground, gulping as you allow your {ASSHOLE} to be {RAP}ed.",
+        "You don't {STRUGGLE}, allowing this {DEAD} {MONSTER} to {FUCK} you up the {ASSHOLE}."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} looks {DEAD}, but still {PRIMARY} lets it bend her over and {RAP}e her.",
+        "There's something so erotic about seeing a {HEAVING} girl get {FUCK}ed by such a {DEAD} {MONSTER}...",
+        "{PRIMARY} doesn't struggle, letting the {ACTIVE} bend her over and pin her arms, then {FUCK} her {ASSHOLE}."
+    ]
+}

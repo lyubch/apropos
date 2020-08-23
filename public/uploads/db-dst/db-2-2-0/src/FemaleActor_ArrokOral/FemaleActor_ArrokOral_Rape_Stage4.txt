@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "I'm... aahhh! I'm almost there! There's no way he's going to beat me! (slurp)",
+        "Mmmm... He tastes so good... and he's so good at eating me out... Would it be so bad if he fucked me?",
+        "I concentrate on pumping his {PENIS} into my {MOUTH}, trying to make him cum before I do.",
+        "{ACTIVE}'s {PENIS} has a potent musky scent that excites me in spite of my better judgement.",
+        "He feeds me another inch, and another. I moan in pleasure."
+    ],
+    "2nd Person": [
+        "You're... aahhh! You're almost there! There's no way he's going to beat you! (slurp)",
+        "Mmmm... He tastes so good... and he's so good at eating you out... Would it be so bad if he fucked you?",
+        "You concentrate on pumping his {PENIS} into your {MOUTH}, trying to make him cum before you do.",
+        "{ACTIVE}'s {PENIS} has a potent musky scent that excites you in spite of your better judgement.",
+        "He feeds you another inch, and another. You moan in pleasure."
+    ],
+    "3rd Person": [
+        "{PRIMARY} and {ACTIVE} are both slurping in a frenzy, as if in a battle of wills with the other...",
+        "{PRIMARY} seems really into this. Is she going to let the {ACTIVE} fuck her?",
+        "The {ACTIVE}'s face is covered with {PRIMARY}'s {CREAM}. She's not going to last much longer."
+    ]
+}

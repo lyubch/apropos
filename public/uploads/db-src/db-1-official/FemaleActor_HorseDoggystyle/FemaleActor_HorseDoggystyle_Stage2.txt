@@ -1,0 +1,46 @@
+{
+    "1st Person" :
+    [
+        "I start to collapse under the intense pounding, only barely managing to hold myself up.",
+        "I feel my energy drain away, taking all I have just to hold myself up as the {ACTIVE} fucks me hard.",
+        "The {ACTIVE} starts to fuck faster, pounding my cervix over and over, bringing me close to climax.",
+        "I no longer feel the {BEAST} length sliding in and out, now only the flared head pounding hard inside me.",
+        "I can't believe I'm doing this.",
+        "My organs feel like they're being rearranged as I am truly impaled by this {BEAST} {PENIS}.",
+        "My poor body wasn't made to take so much {COCK}.",
+        "I whimper and moan, praying for the pain to dull and the horse's thrusts to get easier.",
+        "Ride me you stud, ride me hard!",
+        "I brace my knees against the ground, holding my body in place, as the horse fucks me hard.",
+        "I brace myself, eager to feel the sliding friction as the beast fucks in and out.",
+        "I'm turned on by the depraved act, as my tiny body takes a pounding from the huge animal.",
+        "Gods! Ahhh! I've never had one so... big... It's stretching me further than I've ever gone before...",
+        "The brute is snorting and panting, his nostrils flaring wide and his steaming breath billowing over me.",
+        "That's it, ride me boy!"        
+    ],
+    "2nd Person" :
+    [
+        "You start to collapse under the intense pounding, only barely managing to hold yourself up.",
+        "You feel your energy drain away, taking all you have just to hold yourself up as the {ACTIVE} fucks you hard.",
+        "The {ACTIVE} starts to fuck faster, pounding your cervix over and over, bringing you close to climax.",
+        "You no longer feel the {BEAST} length sliding in and out, now only the flared head pounding hard inside you.",
+        "You can't believe you're doing this.",
+        "Your organs feel like they're being rearranged as you are truly impaled by this {BEAST} {PENIS}.",
+        "Your poor body wasn't made to take so much {COCK}.",
+        "You whimper and moan, praying for the pain to dull and the horse's thrusts to get easier.",
+        "({PRIMARY}) Ride me you stud, ride me hard!",
+        "You brace your knees against the ground, holding your body in place, as the horse fucks you hard.",
+        "You brace yourself, eager to feel the sliding friction as the beast fucks in and out.",
+        "You're turned on by the depraved act, as your tiny body takes a pounding from the huge animal.",
+        "Gods! Ahhh! You've never had one so... big... It's stretching you further than you've ever gone before...",
+        "The brute is snorting and panting, his nostrils flaring wide and his steaming breath billowing over you.",
+        "({PRIMARY}) That's it, ride me boy!"
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} is doing all the work now, {PRIMARY} looks exhausted already.",
+        "Oh Gods, it's fucking her so fast!",
+        "Seeing the {ACTIVE}'s {BEAST} {PENIS} fuck into {PRIMARY}, it's hard to see how a man could compete.",
+        "It should be disgusting, but a little human girl being fucked by an animal is kind of hot...",
+        "The {ACTIVE} shifts backwards, and then really starts hammering into {PRIMARY}."
+    ]
+}

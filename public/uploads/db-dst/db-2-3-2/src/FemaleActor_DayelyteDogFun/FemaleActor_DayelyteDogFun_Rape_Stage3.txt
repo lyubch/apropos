@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "{SWEARING}, it's too much, he's too deep. I pull off him, before {SLOW}ly working my way back down.",
+        "{ACTIVE}'s head hangs backwards, and I take that as a good sign as I continue to twist my hips.",
+        "Aah... Ahhh... What am I doing? What would my {MFAMILY} think of me, if he saw me like this?",
+        "My mind reels at how dirty and {LEWD} this is.",
+        "{ACTIVE}'s knot stretches my {PUSSY} {LEWD}ly, while the {COCKHEAD} {PENETRAT}es me right to my core."
+    ],
+    "2nd Person": [
+        "{SWEARING}, it's too much, he's too deep. You pull off him, before {SLOW}ly working your way back down.",
+        "{ACTIVE}'s head hangs backwards, and you take that as a good sign as you continue to twist my hips.",
+        "Aah... Ahhh... What are you doing? What would your friends think of you, if they saw you like this?",
+        "Your mind reels at how dirty and {LEWD} this is.",
+        "{ACTIVE}'s knot stretches your {PUSSY} {LEWD}ly, while the {COCKHEAD} {PENETRAT}es you right to your core."
+    ],
+    "3rd Person": [
+        "It looks like {PRIMARY} is in some discomfort, and she twists herself side to side.",
+        "Oh wow! You can see just how much dog-{COCK} {PRIMARY} is taking as she lifts {SLOW}ly off {ACTIVE}..."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} wants to {FUCK} my {ASSHOLE} more!",
+	"{SWEARING}, this is good!  I need to keep this thing in my {ASSHOLE}!"
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} wants to {FUCK} your {ASSHOLE} more!",
+	"{SWEARING}, this is good!  You need to keep this thing in your {ASSHOLE}!"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} wants to {FUCK} {PRIMARY}'s {ASSHOLE} more!",
+	"({PRIMARY}) {SWEARING}, this is good!  I need to keep this thing in my {ASSHOLE}!"
+    ]
+}

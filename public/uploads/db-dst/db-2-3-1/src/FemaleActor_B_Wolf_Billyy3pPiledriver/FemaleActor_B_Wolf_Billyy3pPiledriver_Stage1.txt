@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I hold my legs wide, squirming under the attention of both wolves as they play with my {ASSHOLE} and {PUSSY}.",
+        "I watch wide eyed as the wolf's big red {COCK} spreads my {PUSSY}, squirming from the sensation of a tongue {EXPLOR}ing into my {ASSHOLE}.",
+        "I raise my {PUSSY} up against the wolf looming over me, letting him claim my {PUSSY} while the other laps at my {ASSHOLE}.",
+        "I {MOAN} as the other's tongue suddenly starts {EXPLOR}ing into my {ASSHOLE}, his muzzle only barely visible behind the {COCK} in my {PUSSY}.",
+        "When another wolf suddenly starts tonguing my {ASSHOLE}, the other's {COCK} nearly slips out of me as I briefly lose my balance.",
+        "O-Oh my, a rimjob from a wolf? Doesn't he want to {FUCK} my {ASSHOLE} instead? I guess there may not be room for both {COCK}s..."
+    ],
+    "2nd Person": [
+        "You hold your legs wide, squirming under the attention of both wolves as they play with your {ASSHOLE} and {PUSSY}.",
+        "You watch wide eyed as the wolf's big red {COCK} spreads your {PUSSY}, squirming from the sensation of a tongue {EXPLOR}ing into your {ASSHOLE}.",
+        "You raise your {PUSSY} up against the wolf looming over you, letting him claim your {PUSSY} while the other laps at your {ASSHOLE}.",
+        "You {MOAN} as the other's tongue suddenly starts {EXPLOR}ing into your {ASSHOLE}, his muzzle only barely visible behind the {COCK} in your {PUSSY}.",
+        "When another wolf suddenly starts tonguing your {ASSHOLE}, the other's {COCK} nearly slips out of you as you briefly lose your balance.",
+        "Oh-Oh, a rimjob from a wolf? Doesn't he want to {FUCK} your {ASSHOLE} instead? You guess there may not be room for both {COCK}s..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} holds her legs wide, squirming under the attention of both wolves as they play with her {ASSHOLE} and {PUSSY}.",
+        "{PRIMARY} watches wide-eyed as the wolf's big red {COCK} spreads her {PUSSY}, squirming from the sensation of a tongue {EXPLOR}ing into her {ASSHOLE}.",
+        "{PRIMARY} raises her {PUSSY} up against the wolf looming over her, letting him claim her {PUSSY} while the other laps at her {ASSHOLE}.",
+        "{PRIMARY} {MOAN}s as the other's tongue suddenly starts {EXPLOR}ing into her {ASSHOLE}, his muzzle only barely visible behind the {COCK} in her {PUSSY}.",
+        "When another wolf suddenly starts tonguing {PRIMARY}'s {ASSHOLE}, the other's {COCK} nearly slips out of her as she briefly lose her balance.",
+        "Oh-Oh, a rimjob from a wolf? Doesn't he want to {FUCK} {PRIMARY}'s {ASSHOLE} instead? She guesses there may not be room for both {COCK}s..."
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} knocks me to the ground and I shriek as he he pushes his {PENIS} into my {WTANAL} {ASS}.",
+        "The weight of the {ACTIVE} pushes my face and breasts into the dirt as he roughly impales my {ASS}.",
+        "I scream into the dirt as the {ACTIVE} pins me to the ground and starts to roughly fuck my {ASS}.",
+        "I'm bent painfully, my face crushed to the ground, the {ACTIVE} holding my wrists and raping my {ASS}.",
+        "I don't even get the opportunity to try to submit to the {ACTIVE}, he just takes what he wants.",
+        "Pain runs up my spine as {ACTIVE} shoves his {PENIS} in my {ASS}.",
+        "I feel no mercy or pity as {ACTIVE}'s {HUGE} {PENIS} forcibly widens my {ASS}.",
+        "Please... (sob) if you're going to rape me, fuck my ass... I don't want to get pregnant...",
+        "He pushes his {PENIS} into me while holding me down. He already has half his {COCK} inside of me."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} knocks you to the ground and you shriek as he he pushes his {PENIS} into your {WTANAL} {ASS}.",
+        "The weight of the {ACTIVE} pushes your face and breasts into the dirt as he roughly impales your {ASS}.",
+        "You scream into the dirt as the {ACTIVE} pins you to the ground and starts to roughly fuck your {ASS}.",
+        "Bent painfully, your face crushed to the ground, the {ACTIVE} holding your wrists and raping your {ASS}.",
+        "You don't even get the opportunity to try to submit to the {ACTIVE}, he just takes what he wants.",
+        "Pain runs up your spine as {ACTIVE} shoves his {PENIS} in your {ASS}.",
+        "You feel no mercy or pity as {ACTIVE}'s {HUGE} {PENIS} forcibly widens your {ASS}.",
+        "({PRIMARY}) Please... (sob) if you're going to rape me, fuck my ass... I don't want to get pregnant...",
+        "He pushes his {PENIS} into you while holding you down. He already has half his {COCK} inside of you."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} beats {PRIMARY} to the ground, pulling her {ASS} up and penetrating it brutally.",
+        "{PRIMARY} is pinned hard to the ground, her face and {BOOBS} crushed while her {ASS} is punished.",
+        "{PRIMARY} screams and sobs as the {ACTIVE} hikes up her {ASS} and starts to pound it hard."
+    ]
+}

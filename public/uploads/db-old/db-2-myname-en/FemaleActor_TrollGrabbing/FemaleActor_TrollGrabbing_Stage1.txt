@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I struggle, trying to guide the {ACTIVE} into my {PUSSY}, but it's too strong and sinks its {PENIS} into my {ASS}.",
+        "Clutching right around my waist with a single massive paw, the {ACTIVE} pushes slowly and deeply into my {ASS}.",
+        "I can only gasp in horror as I feel the {BEAST} {COCK} penetrate my {WTANAL} {ASS}.",
+        "I spread my legs for the beast to fuck my {FAROUSAL} {PUSSY}, but it seems to have other ideas...",
+        "I don't know if it just went for any {OPENING}, or if it was deliberate, but I scream as my {ASS} is penetrated.",
+        "Oh Gods, it's in my {ASS}! Where did a troll learn to do that?!"        
+    ],
+    "2nd Person" :
+    [
+        "You struggle, trying to guide the {ACTIVE} into your {PUSSY}, but it's too strong and sinks its {PENIS} into your {ASS}.",
+        "Clutching right around your waist with a single massive paw, the {ACTIVE} pushes slowly and deeply into your {ASS}.",
+        "You can only gasp in horror as you feel the {BEAST} {COCK} penetrate your {WTANAL} {ASS}.",
+        "You spread your legs for the beast to fuck your {FAROUSAL} {PUSSY}, but it seems to have other ideas...",
+        "You don't know if it just went for any {OPENING}, or if it was deliberate, but you scream as your {ASS} is penetrated.",
+        "Oh Gods, it's in your {ASS}! Where did a troll learn to do that?!"
+    ],
+    "3rd Person" :
+    [
+        "Clutching right around her waist with a single massive paw, the {ACTIVE} pushes slowly and deeply into {PRIMARY}'s {ASS}.",
+        "{PRIMARY} seems to be resisting, and crying out in pain. She must not have wanted anal with the {ACTIVE}...",
+        "{PRIMARY} is struggling. It looks like she's overestimated the size of the {ACTIVE}'s {COCK}."
+    ]
+}

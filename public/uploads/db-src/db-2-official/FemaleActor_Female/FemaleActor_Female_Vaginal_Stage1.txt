@@ -1,0 +1,14 @@
+{
+    "1st Person" :
+    [
+        "({ACTIVE}) I bet none of those guys have fucked you right. I'll show them how to really fuck a girl."
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

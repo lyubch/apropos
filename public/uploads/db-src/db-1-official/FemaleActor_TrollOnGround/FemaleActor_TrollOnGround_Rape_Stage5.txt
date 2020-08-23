@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I push myself up onto one elbow, staring up at the brute in fear and amazement, knowing its about to cum inside me.",
+        "The {ACTIVE} starts to speed up, with fast, shallow strokes. Oh Gods, it's going to cum! I'm about to take its {CUM}!",
+        "I twist around, watching intently, the very sight of the monstrous beast pounding into me almost making me cum.",
+        "Ugh... I can feel... that the creature's... almost there...",
+        "I feel the creature's thrusts become more urgent. I'm gonna take it, I'm gonna take a troll's {CUM}!",
+        "The {ACTIVE} fucks me with a vengeance, intent on laying its seed in me."        
+    ],
+    "2nd Person" :
+    [
+        "You push yourself up onto one elbow, staring up at the brute in fear and amazement, knowing its about to cum inside you.",
+        "The {ACTIVE} starts to speed up, with fast, shallow strokes. Oh Gods, it's going to cum! You're about to take its {CUM}!",
+        "You twist around, watching intently, the very sight of the monstrous beast pounding into you almost making you cum.",
+        "Ugh... you can feel... that the creature's... almost there...",
+        "You feel the creature's thrusts become more urgent. You're gonna take it, you're gonna take a troll's {CUM}!",
+        "The {ACTIVE} fucks you with a vengeance, intent on laying its seed in you."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} pushes herself up onto one elbow, staring at the brute in fear and more than a little hunger.",
+        "The {ACTIVE} starts to speed up, with fast, shallow strokes. Oh Gods, it's going to cum! {PRIMARY}'s about to take its {CUM}!",
+        "The {ACTIVE} fucks {PRIMARY} with a vengeance, intent on laying its seed in her."
+    ]
+}

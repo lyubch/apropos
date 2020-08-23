@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "Lifted on the {MONSTER}'s tail, I cling on for dear life as my {PUSSY} is split apart by the {MONSTER}'s entry.",
+        "{SWEARING}, you can't be serious?! There's no way I can take a dragon's... AAAHH! Nooooo-ngh!!!",
+        "{SWEARING}, it's going to {FUCK} me?! I'll be ripped in two...",
+        "My poor {PUSSY} will be {GENWT} after this...",
+        "I can barely stretch my legs around the {MONSTER}'s {BEASTLY} {COCK}, let alone my {PUSSY}...",
+        "({ACTIVE}) You are not worthy to fight me, Dovahkiin. Maybe you will make a better pet!",
+        "{PLEADING}! It can't be serious! There's no wa... NGGHHH!!!!",
+        "My head snaps back {ROUGH}ly at the first thrust.",
+        "I can't best you... Maybe you could {RAP}e me... some other way?",
+        "My entire back end feels like it's being pulled apart as my {WTVAGINAL} {PUSSY} engulfs the {BEASTLY} {COCK}.",
+        "My {WTVAGINAL} {PUSSY} strains around the {COCKHEAD} of {ACTIVE}'s {BEASTLY} {COCK}, with more to follow."
+    ],
+    "2nd Person": [
+        "Lifted on the {MONSTER}'s tail, you cling on for dear life as your {PUSSY} is split apart by the {MONSTER}'s entry.",
+        "{SWEARING}, it can't be serious?! There's no way you can take a dragon's... AAAHH! Nooooo-ngh!!!",
+        "{SWEARING}, it's going to {FUCK} you?! You'll be ripped in two...",
+        "Your poor {PUSSY} will be {GENWT} after this...",
+        "You can barely stretch your legs around the {MONSTER}'s {BEASTLY} {COCK}, let alone your {PUSSY}...",
+        "({ACTIVE}) You are not worthy to fight me, Dovahkiin. Maybe you will make a better pet!",
+        "({PRIMARY}) {PLEADING}! It can't be serious! There's no wa... NGGHHH!!!!",
+        "Your head snaps back {ROUGH}ly at the first thrust.",
+        "{PRIMARY}) I can't best you... Maybe you could {RAP}e me... some other way?",
+        "Your back end feels like it's being pulled apart as your {WTVAGINAL} {PUSSY} engulfs the {BEASTLY} {COCK}.",
+        "Your {WTVAGINAL} {PUSSY} strains around the {COCKHEAD} of {ACTIVE}'s {BEASTLY} {COCK}, with more to follow."
+    ],
+    "3rd Person": [
+        "Lifted on the {MONSTER}'s tail, {PRIMARY} clings on for life as her {PUSSY} is split apart by the {MONSTER}'s entry.",
+        "{SWEARING}k, you can't be serious?! There's no way {PRIMARY} can take a dragon's... {SWEARING}!!!",
+        "{SWEARING}, it's going to {FUCK} her?! {PRIMARY}'ll be ripped in two...",
+        "{PRIMARY}'s poor {PUSSY} will be {GENWT} after this...",
+        "{PRIMARY} can barely stretch her legs around the {MONSTER}'s {BEASTLY} {COCK}, let alone her {PUSSY}...",
+        "({ACTIVE}) You are not worthy to fight me, wench. Maybe you will make a better pet!",
+        "{PLEADING}! It can't be serious! There's no way... {SWEARING}!!!!",
+        "{PRIMARY}'s head snaps back {ROUGH}ly at the first thrust.",
+        "({PRIMARY}) I can't best you... Maybe you could {RAP}e me... some other way?",
+        "Her entire back end looks like it's being pulled apart as her {WTVAGINAL} {PUSSY} engulfs the {BEASTLY} {COCK}.",
+        "{PRIMARY}'s {WTVAGINAL} {PUSSY} strains around the {COCKHEAD} of {ACTIVE}'s {BEASTLY} {COCK}, with more to follow."
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "1st Person": [
+        "The four creatures wrestle me to the ground, grabbing me roughly as one of them tries to fuck me.",
+        "The creatures restrain me, choking me cruelly while other fellows spreads me legs and grab my head.",
+        "Unable to scream from the pressure on my throat, I can only sob as I feel a {COCK} slap my {PUSSY} and my {MOUTH}.",
+        "The tiny creatures gang up to fuck me.",
+        "All I have to do is fuck a few of these little buggers... There's no shame in that... Is there?",
+        "I don't understand their strange language, but I know what they want from me.",
+        "My clothes ripped off, I writhe naked and splayed out before their hungry eyes.",
+        "The Rieklings pause before entering me, their grimy hands all over my smooth hips and {HEAVING BOOBS}.",
+        "I thrash as they rip my clothes off, and am soon completely nude and spread in front of them.",
+        "I should be fighting back... I could defeat them, surely? Their rough hands feel so good though...",
+        "They babble excitedly at the sight of my {FAROUSAL} {PUSSY}. My mind races, imagining what they're saying.",
+        "As one the Rieklings reveals his {MAROUSAL} {COCK}, I get a good idea of what they have in store for me.",
+        "There's too many... Perhaps I should just spread my legs and let them fuck me instead?",
+        "What?!! They want me to fuck them?! No! No way! I can't!"
+    ],
+    "2nd Person": [
+        "The four creatures wrestle you to the ground, grabbing you roughly as one of them tries to fuck you.",
+        "The creature restrain you, choking you cruelly while other fellows spreads your legs and grab your head.",
+        "Unable to scream from the pressure on your throat, you can only sob as you feel a {COCK} slap your {PUSSY} and your {MOUTH}.",
+        "The tiny creatures gang up to fuck you.",
+        "All you have to do is fuck a few of these little buggers... There's no shame in that... Is there?'",
+        "You don't understand their strange language, but you know what they want from you.",
+        "Your clothes ripped off, you writhe naked and splayed out before their hungry eyes.",
+        "The Rieklings pause before entering you, their grimy hands all over your smooth hips and {HEAVING BOOBS}.",
+        "You thrash as they rip your clothes off, and are soon completely nude and spread in front of them.",
+        "You should be fighting back... you could defeat them, surely? Their rough hands feel so good though...",
+        "They babble excitedly at the sight of your {FAROUSAL} {PUSSY}. Your mind races, imagining what they're saying.",
+        "As one the Rieklings reveals his {MAROUSAL} {COCK}, you get a good idea of what they have in store for you.",
+        "There's too many... Perhaps you should just spread your legs and let them fuck you instead?",
+        "What?!! They want you to fuck them?! No! No way! you can't!"
+    ],
+    "3rd Person": [
+        "The four creatures wrestle {PRIMARY} to the ground, grabbing her roughly as one of them tries to fuck her.",
+        "The creature restrain {PRIMARY}, choking her cruelly while other fellows spreads her legs and grab her head.",
+        "Unable to scream from the pressure on your throat, {PRIMARY} can only sob as she feels a {COCK} slap your {PUSSY} and her {MOUTH}.",
+        "The tiny creatures gang up to fuck {PRIMARY}.",
+        "All {PRIMARY} has to do is fuck a few of these little buggers... There's no shame in that... Is there?'",
+        "{PRIMARY} doesn't understand their strange language, but she knows what they want from her.",
+        "{PRIMARY}'s clothes ripped off, she writhes naked and splayed out before their hungry eyes.",
+        "The Rieklings pause before entering {PRIMARY}, their grimy hands all over her smooth hips and {HEAVING BOOBS}.",
+        "{PRIMARY} thrashes as they rip her clothes off, and is soon completely nude and spread in front of them.",
+        "{PRIMARY} should be fighting back... she could defeat them, surely? Their rough hands feel so good though...",
+        "They babble excitedly at the sight of {PRIMARY}'s {FAROUSAL} {PUSSY}. Her mind races, imagining what they're saying.",
+        "As one the Rieklings reveals his {MAROUSAL} {COCK}, {PRIMARY} gets a good idea of what they have in store for her.",
+        "There's too many... Perhaps {PRIMARY} should just spread her legs and let them fuck her instead?",
+        "What?!! They want {PRIMARY} to fuck them?! No! No way! She can't!"
+    ]
+}

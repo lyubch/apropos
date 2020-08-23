@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "The {ACTIVE} rolls her head back, clearly pleased with my ministrations.",
+        "Is... is this okay? Do you want me to keep doing it this way?",
+        "Umm... does everyone just assume I'm a {BITCH}?",
+        "I hope this is all she wants... {SWEARING}, what if she wants to {FUCK} me?",
+        "Everyone can see how {SUBMISSIVE} I am... They can see that anyone can make me their {BITCH}...",
+        "My heart is racing. I'm hot and scared, terrified at what might happen next.",
+        "She's gonna be {FUCK}ing me before the night's over...",
+        "I'm starting to get into it now, enjoying the feeling of power I have over {ACTIVE}."
+    ],
+    "2nd Person": [
+        "{ACTIVE} rolls her head back, clearly pleased with your ministrations.",
+        "({PRIMARY}) Is... is this okay? Do you want me to keep doing it this way?",
+        "Umm... does everyone just assume you're a {BITCH}?",
+        "You hope this is all she wants... {SWEARING}, what if she wants to {FUCK} you?",
+        "Everyone can see how {SUBMISSIVE} you are... They can see that anyone can make you their {BITCH}...",
+        "Your heart is racing. You're hot and scared, terrified at what might happen next.",
+        "You think he's gonna be {FUCK}ing you before the night's over...",
+        "You're starting to get into it now, enjoying the feeling of power you have over {ACTIVE}."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} rolls her head back, clearly pleased with {PRIMARY}'s ministrations.",
+        "({PRIMARY}) Is... is this okay? Do you want me to keep doing it this way?",
+        "Umm... does everyone just assume {PRIMARY}'s a {BITCH}?",
+        "Hopefully this is all the {ACTIVE} wants... {SWEARING}, what if she wants to {FUCK} {PRIMARY}?",
+        "Everyone can see how {SUBMISSIVE} {PRIMARY} is... They can see that anyone can make her their {BITCH}..."
+    ]
+}

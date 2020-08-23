@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "I adjust myself, lying on my hip, bringing my legs together to get a tighter grip on the {ACTIVE}'s {STRAPON}.",
+        "I clench my thighs together, trying to relieve some of the frustration in my {WTVAGINAL} {PUSSY}.",
+        "My feet are {WET} with {CREAM}, the {THICK} mess making me feel queasy.",
+        "With the top of one foot, I milk {ACTIVE}'s {STRAPON} of {THICK} {CREAM} onto the sole of my other.",
+        "I keep telling myself to stop but I can't, I have to feel that {HUGE} {STRAPON} of her in my {PUSSY}.",
+        "My heart is pounding inside my chest and I'm having trouble catching my breath...",
+        "Never before have I felt so sexually alive, staving off an attack with just my legs and feet...",
+        "I need to be {FUCK}ed in a bad way...",
+        "I'm a little bit baffled, and slightly insulted, that she wants my feet and not my {PUSSY}...",
+        "Does the {ACTIVE} really find my feet so sexy? At least she's not {RAP}ing me..."
+    ],
+    "2nd Person": [
+        "You adjust yourself, lying on your hip, legs together to get a tighter grip on {ACTIVE}'s {STRAPON}.",
+        "You clench your thighs together, trying to relieve some of the frustration in your {WTVAGINAL} {PUSSY}.",
+        "Your feet are {WET} with {CREAM}, the {THICK} mess making you feel queasy.",
+        "With the top of one foot, you milk {ACTIVE}'s {STRAPON} of {THICK} {CREAM} onto the sole of your other.",
+        "You keep telling yourself to stop but you can't, you have to feel that {HUGE} {STRAPON} of her in your {PUSSY}.",
+        "Your heart is pounding inside your chest and you're having trouble catching your breath...",
+        "Never before have you felt so sexually alive, staving off an attack with just your legs and feet...",
+        "You need to be {FUCK}ed in a bad way...",
+        "You're a little bit baffled, and slightly insulted, that she wants your feet and not your {PUSSY}...",
+        "Does {ACTIVE} really find your feet so sexy? At least she's not {RAP}ing you..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} adjusts herself, lying on her hip, bringing her legs together to get a tighter grip.",
+        "{PRIMARY}'s feet are {WET} with {CREAM}, the {THICK} mess making her seem ashamed.",
+        "With the top of one foot, {PRIMARY} milks {ACTIVE}'s {STRAPON} of {THICK} {CREAM} onto the sole of her other.",
+        "{PRIMARY}'s staving off an attack with just her legs and feet..."
+    ]
+}

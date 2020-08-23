@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "I bend over obediently as the {ACTIVE} holds me steady and begins to fuck its {BEAST} {PENIS} into my {PUSSY}.",
+        "Every thrust of the {ACTIVE}'s {PENIS} is sudden, sharp, and painfully deep, making me cry out.",
+        "I see stars as the {ACTIVE} impales me fully with a single stroke, before fucking me slowly.",
+        "Its {COCK} is far too big for me, but that doesn't stop the {ACTIVE} from pushing it inside me.",
+        "The {ACTIVE} slides me wide open and plugs me fully with its dripping mass.",
+        "A delighted squeal escapes my lips as the {ACTIVE} roughly grabs me and shoves its {COCK} into me.",
+        "I drop to my hands and knees, trembling and eager to be ridden hard by such a wild monster, moaning as it begins."
+    ],
+    "2nd Person" :
+    [
+        "You bend over obediently as the {ACTIVE} holds you steady and begins to fuck its {BEAST} {PENIS} into your {PUSSY}.",
+        "Every thrust of the {ACTIVE}'s {PENIS} is sudden, sharp, and painfully deep, making you cry out.",
+        "You see stars as the {ACTIVE} impales you fully with a single stroke, before fucking you slowly.",
+        "Its {COCK} is far too big for you, but that doesn't stop the {ACTIVE} from pushing it inside you.",
+        "The {ACTIVE} slides you wide open and plugs you fully with its dripping mass.",
+        "A delighted squeal escapes your lips as the {ACTIVE} roughly grabs you and shoves its {COCK} into you.",
+        "You drop to your hands and knees, trembling and eager to be ridden hard by such a wild monster, moaning as it begins."
+    ],
+    "3rd Person" :
+    [
+        "Every thrust of the {ACTIVE}'s {PENIS} is sudden, sharp, and painfully deep, making {PRIMARY} cry out.",
+        "{PRIMARY} bends over obediently, trying to hold still as the {ACTIVE} pushes its {PENIS} into her {PUSSY}.",
+        "This is what happens to pretty young girls who sneak out to troll lairs; they get their brains fucked out."
+    ]
+}

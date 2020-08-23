@@ -1,0 +1,27 @@
+{
+    "1st Person": [
+        "Ugh! I grunt in pain, the last thrust knocking all strength from me. All I can do is shift uncomfortably.",
+        "({ACTIVE}) Ah! That's done it, hasn't it {BITCH}? My {COCK} is right up in your deepest parts now!",
+        "Ahh... He's in me, in my womb... I shift from side to side, trying to make it easier to take.",
+        "I'm exhausted, and sore. Without the strength to lift myself, I grind on the {ACTIVE}'s {PENIS}.",
+        "Surprisingly, it feels really good, so I let him keep it inside me. Is that wrong?",
+        "({ACTIVE}) Tell me when I'm as deep as your boyfriend!",
+        "Inadvertently my hips start to seize, my {PUSSY} shuddering in surprising pleasure."
+    ],
+    "2nd Person": [
+        "You grunt in pain, the last thrust knocking all strength from you. All you can do is shift uncomfortably.",
+        "({ACTIVE}) Ah! That's done it, hasn't it {BITCH}? My {COCK} is right up in your deepest parts now!",
+        "Ahh... He's in you, in your womb... You shift from side to side, trying to make it easier to take.",
+        "You're exhausted, and sore. Without the strength to lift yourself, you grind on the {ACTIVE}'s {PENIS}.",
+        "Surprisingly, it feels really good, so you let him keep it inside you. Is that wrong?",
+        "({ACTIVE}) Tell me when I'm as deep as your boyfriend!",
+        "Inadvertently your hips start to seize, your {PUSSY} shuddering in surprising pleasure."
+    ],
+    "3rd Person": [
+        "{PRIMARY} grunts, and twists heavily on the {ACTIVE}. My Gods, is his {PENIS} all the way in her womb?",
+        "{PRIMARY} looks exhausted, shifting wearily from side to side, obviously in some discomfort.",
+        "({ACTIVE}) Tired, {BITCH}? well tough! You're done when I say you're done!",
+        "({PRIMARY}) Please... isn't that enough? I don't want to get pregnant...",
+        "({ACTIVE}) I bet you wish your boyfriend was here to watch you take a real man's {COCK}!"
+    ]
+}

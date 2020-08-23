@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "Ah ah ah ah! Ah! Gods, he's fucking me so fast...",
+        "Ow! The pace of the fuck is intense, and he's spanking me so hard!",
+        "After a few hard slaps, my hip is starting to really hurt, my leg twitching with every strike.",
+        "I'm all bruises and welts from this abuse, my collarbone rubbed raw from the brutal pounding I'm taking.",
+        "Oh Gods... I'm getting so close... All this abuse is driving me wild... I'm such a {WHORE}...",
+        "I'm just their little {WHORE}, just a {BITCH} to abuse and dump their {CUM} into...",
+        "I flush with embarrassment as he starts to spank me, as if I was a badly behaved child!",
+        "Harder! Harder!",
+        "Oh Gods... fuck... fuck... how much longer can he go on for?",
+        "My hair is a tangled mess, and my naked body drips with sweat. My {PUSSY} is being fucked raw.",
+        "I pant and moan like a {WHORE}, all restraint is gone from me"
+    ],
+    "2nd Person": [
+        "Ah ah ah ah! Ah! Gods, he's fucking you so fast...",
+        "Ow! The pace of the fuck is intense, and he's spanking you so hard!",
+        "After a few hard slaps, your hip is starting to really hurt, your leg twitching with every strike.",
+        "You're all bruises and welts from this abuse, your collarbone rubbed raw from the brutal pounding.",
+        "Oh Gods... You're getting so close... All this abuse is driving you wild... You're such a {WHORE}...",
+        "You're just their little {WHORE}, just a {BITCH} to abuse and dump their {CUM} into...",
+        "You flush with embarrassment as he starts to spank you, as if you were a badly behaved child!",
+        "({PRIMARY}) Harder! Harder!",
+        "Oh Gods... fuck... fuck... how much longer can he go on for?",
+        "Your hair is a tangled mess, and your naked body drips with sweat. Your {PUSSY} is being fucked raw.",
+        "You pant and moan like a {WHORE}, all restraint is gone from you"
+    ],
+    "3rd Person": [
+        "{ACTIVE} starts to really fuck {PRIMARY} hard, spanking her as he does so. It's so wild.",
+        "{PRIMARY}'s leg twitches with every hard slap to her thigh. It's red and sore looking...",
+        "{PRIMARY} is such a {WHORE}! She's getting fucked hard and abused, and she's loving it!",
+        "To see a girl restrained like that, and abused in such a way... It's such a turn on..."
+    ]
+}

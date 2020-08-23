@@ -1,0 +1,15 @@
+{
+    "1st Person": [
+        "My mind is overtaken by {LUST} and for a moment I forget where I am.",
+        "{SWEARING}, how deep are their {COCK}s?",
+        "This is more than I bargained for. I need to get them to {EJACULATE}, and soon."
+    ],
+    "2nd Person": [
+        "Your mind is overtaken by {LUST} and for a moment you forget where you are.",
+        "{SWEARING}, how deep are their {COCK}s?",
+        "This is more than you bargained for. You need to get them to {EJACULATE}, and soon."
+    ],
+    "3rd Person": [
+        "{SWEARING}, how deep are their {COCK}s?"
+    ]
+}

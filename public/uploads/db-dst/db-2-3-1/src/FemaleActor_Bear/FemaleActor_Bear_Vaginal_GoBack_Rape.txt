@@ -1,0 +1,17 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} wants to {BREED} my {WTVAGINAL} {PUSSY} more!",
+	"The {ACTIVE} is enraged; I can do little more than {SUBMIT} and let it {BREED} me."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} wants to {BREED} your {WTVAGINAL} {PUSSY} more!",
+	"The {ACTIVE} is enraged; you can do little more than {SUBMIT} and let it {BREED} you."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} wants to {BREED} {PRIMARY}'s {WTVAGINAL} {PUSSY} more!",
+	"The {ACTIVE} is enraged; {PRIMARY} can do little more than {SUBMIT} and let it {BREED} her."
+    ]
+}

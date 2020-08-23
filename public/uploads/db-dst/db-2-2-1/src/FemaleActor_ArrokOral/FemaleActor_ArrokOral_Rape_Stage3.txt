@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "Oh, what the fuck! I'll suck his {COCK}, may as well take advantage!",
+        "Is he getting me wet so he can fuck me? Ah! I guess I should make him cum before he does...",
+        "Completely losing myself to the moment, I spin round and sink down onto the {ACTIVE}'s {PENIS}.",
+        "I don't recall ever being so turned on as I feel my lips part and slide along his {PENIS}.",
+        "It's not long before I take his {PENIS} in my {MOUTH}, and I truly hate myself for it."
+    ],
+    "2nd Person": [
+        "Oh, what the fuck! You'll suck his {COCK}, may as well take advantage!",
+        "Is he getting you wet so he can fuck you? Ah! You guess you should make him cum before he does...",
+        "Completely losing yourself to the moment, you spin round and sink down onto the {ACTIVE}'s {PENIS}.",
+        "You don't recall ever being so turned on as you feel your lips part and slide along his {PENIS}.",
+        "It's not long before you take his {PENIS} in your {MOUTH}, and you truly hate yourself for it."
+    ],
+    "3rd Person": [
+        "{PRIMARY} moans with lust right before she starts sucking the {ACTIVE}'s {PENIS}.",
+        "{PRIMARY} suddenly spins round and goes down on the {ACTIVE}! That was unexpected...",
+        "Oh my... Does the {ACTIVE} really have that kind of power of women?"
+    ]
+}

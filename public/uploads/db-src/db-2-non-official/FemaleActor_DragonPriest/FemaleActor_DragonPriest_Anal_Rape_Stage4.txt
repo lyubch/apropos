@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "My {FLESH} is {JIGGL}ed {LEWD}ly as the {ACTIVE} {FUCK}s into me {ROUGH}ly.",
+        "Now that it has its {COCK} all the way in my {ASSHOLE}, the {ACTIVE} starts thrusting really, really hard.",
+        "{SWEARING}... It's too hard... and too deep! My {ASSHOLE} is gonna break!",
+        "The pace is {ROUGH}, and I feel wet squelches hitting my {PUSSY}. I {SCREAM} imagining the {SLIMY} {SCUM}.",
+        "My wrists and shoulders ache, and the {ACTIVE}'s grip is digging into me, I won't be able to take much more.",
+        "The {ACTIVE} {RAP}es me {ROUGH}ly. I can't help but get a little {HORNY} at the abuse."
+    ],
+    "2nd Person": [
+        "Your {FLESH} is {JIGGL}ed {LEWD}ly as the {ACTIVE} {FUCK}s into you {ROUGH}ly.",
+        "Now that it has its {COCK} all the way in your {ASSHOLE}, the {ACTIVE} starts thrusting really, really hard.",
+        "{SWEARING}... It's too hard... and too deep! Your {ASSHOLE} is gonna break!",
+        "The pace is {ROUGH}, and you feel wet squelches hitting your {PUSSY}. What kind of {SLIMY} {SCUM} is it?",
+        "Your wrists and shoulders ache, and the {ACTIVE}'s grip is digging in, you won't be able to take much more.",
+        "The {ACTIVE} {FUCK}s you {ROUGH}ly. You can't help but get a little {HORNY} at the abuse."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} starts to {FUCK} {PRIMARY} hard, and her {FLESH} thrashes about {LEWD}ly.",
+        "A {THICK}, {SLIMY} {SLIME} splashes from {PRIMARY}'s {ASSHOLE}, and it drips grotesquely down her legs.",
+        "The {DEAD} {MONSTER} has {PRIMARY} completely at his mercy, and he's showing her none."
+    ]
+}

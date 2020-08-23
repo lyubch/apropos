@@ -1,0 +1,20 @@
+{
+    "1st Person" :
+    [
+        "Right now, it's not your ego I'm interested in stroking...",
+        "{ACTIVE}'s {STRAPON} is just plain intimidating! It has to be at least 8 inches long, and it's quite thick...",
+        "I start slow, getting a feel of the {HUGE} {STRAPON} in my hand.",
+        "I start {WANK}ing {ACTIVE} {SLOW}ly, spitting on it every so often to keep it wet."
+    ],
+    "2nd Person" :
+    [
+        "Right now, it's not his ego you're interested in stroking...",
+       "{ACTIVE}'s {STRAPON} is just plain intimidating! It has to be at least 8 inches long, and it's quite thick...",
+        "You start slow, getting a feel of the {HUGE} {STRAPON} in your hand.",
+        "You start {WANK}ing {ACTIVE} {SLOW}ly, spitting on it every so often to keep it wet."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} looks so comfortable with a {STRAPON} in her hand, like it's her calling in life."        
+    ]
+}

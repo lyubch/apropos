@@ -1,0 +1,18 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} picks me up in one hand. It's {COCK} is {HUGE} and erect. Oh my...",
+        "My legs dangle limply as I'm held aloft. Can I really fit that gigantic thing between them?",
+        "It's such a turn on to think that the {ACTIVE}'s {COCK} is that hard because of my body..."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} picks you up in one hand. It's {COCK} is {HUGE} and erect. Oh my...",
+        "Your legs dangle limply as you're held aloft. Can you really fit that gigantic thing between them?",
+        "It's such a turn on to think that the {ACTIVE}'s {COCK} is that hard because of your body..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is held aloft by the {ACTIVE}. She looks so small compared to the beast's {BEAST} {COCK}."
+    ]
+}

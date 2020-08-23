@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "I struggle to hold open the {ACTIVE}'s jaw, but the {MONSTER} seems to have other ideas than to eat me.",
+        "The {ACTIVE} lifts me up in its mouth. I hold on and {SUBMISSIVE}ly spread my legs.",
+        "It would be too much to {ACCEPT} its {BEASTLY} {COCK}, even its tongue looks too {HUGE}!",
+        "I'll show this {MONSTER} that it's not just on the battlefield that the Dragonborn should be {FEAR}ed!",
+        "Its breath is so hot... Sweat starts to drip from my hips and ass, running down my legs.",
+        "I spread my thighs and gasp at the {ACTIVE}'s ministrations.",
+        "Is it planning on getting me wet before it {RAP}es me?! {SWEARING}...",
+        "It'll be okay if it's just its tongue, right? That won't hurt, right?",
+        "I'm dripping wet even before the {ACTIVE} begins, just from the thought of this happening.",
+        "I'm lifted up high in the {MONSTER}'s mouth. My {NUDE} {PUSSY}, {BOOBS} and {ASSHOLE} can be seen from all around..."
+    ],
+    "2nd Person" :
+    [
+        "You struggle to hold open the {ACTIVE}'s jaw, but the {MONSTER} seems to have other ideas than to eat you.",
+        "The {ACTIVE} lifts you up in its mouth. You hold on and {SUBMISSIVE}ly spread your legs.",
+        "It would be too much to {ACCEPT} its {BEASTLY} {COCK}, even its tongue looks too {HUGE}!",
+        "You'll show this {MONSTER} that it's not just on the battlefield that the Dragonborn should be {FEAR}ed!",
+        "Its breath is so hot... Sweat starts to drip from your hips and ass, running down your legs.",
+        "You spread your thighs and gasp at the {ACTIVE}'s ministrations.",
+        "Is it planning on getting you wet before it {FUCK}s you?! {SWEARING}...",
+        "It'll be okay if it's just its tongue, right? That won't hurt, right?",
+        "You're dripping wet even before the {ACTIVE} begins, just from the thought of this happening.",
+        "You're lifted up high in the {MONSTER}'s mouth. Your {NUDE} {PUSSY}, {BOOBS} and {ASSHOLE} can be seen from all around..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} struggles to hold open the {ACTIVE}'s jaw, but the {MONSTER} seems to have other ideas than to eat her.",
+        "The {ACTIVE} lifts {PRIMARY} up in its mouth. She holds on and {SUBMISSIVE}ly spreads her legs.",
+        "It would be too much to {ACCEPT} its {BEASTLY} {COCK}, even its tongue looks too {HUGE}!",
+        "Its breath must be so hot... Sweat starts to drip from {PRIMARY}'s hips and ass, running down her legs.",
+        "{PRIMARY} spreads her thighs and {SCREAM}s at the {ACTIVE}'s ministrations.",
+        "Is it planning on getting {PRIMARY} wet before it {FUCK}s her?! {SWEARING}...",
+        "It'll be okay if it's just its tongue, right? That won't hurt, right?",
+        "{PRIMARY}'s dripping wet even before the {ACTIVE} begins...",
+        "{PRIMARY}'s lifted up high in the {MONSTER}'s mouth. Her {NUDE} {PUSSY}, {BOOBS} and {ASSHOLE} can be seen from all around..."
+    ]
+}

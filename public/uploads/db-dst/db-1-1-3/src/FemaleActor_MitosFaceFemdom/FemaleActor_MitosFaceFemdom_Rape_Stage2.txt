@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "Он продолжает лизать мою {FAROUSAL}ую {PUSSY}у..."
+    ],
+    "2nd Person": [
+        "Он продолжает лизать вашу {FAROUSAL}ую {PUSSY}у..."
+    ],
+    "3rd Person": [
+        "Он продолжает лизать её {FAROUSAL}ую {PUSSY}у..."
+    ]
+}

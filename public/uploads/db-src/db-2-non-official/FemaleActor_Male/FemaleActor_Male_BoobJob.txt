@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+	"My {LOVE} for him is intense; if he wants to {FUCK} my {BOOBS}, then I want that too.",
+        "I smile as he {DISPLAY}s his {COCK}. He's long, thick and hard; three of the best words to describe a man.",
+        "{ACTIVE} thrusts between my {BOOBS}. I grin at the illicit thrill.",
+        "I stand {NUDE} before him, completely {DISPLAY}ed to anyone who can see.",
+        "I see {ACTIVE}'s face go slack-jawed with awe as he now has a perfect look at my {HEAVING} {BOOBS}.",
+        "{ACTIVE} just keeps staring at my {HEAVING} {BOOBS}. I let him look.",
+        "I swallow down my insecurity and slightly thrust out my chest to make my {BOOBS} look bigger.",
+        "{ACTIVE} checks out my {BOOBS}, nipples having gone to attention about ten seconds ago.",
+        "Hmmm, should I show {ACTIVE} my {BOOBS}?",
+        "What do you think of my {BOOBS}?",
+        "Come on then boys, get your {COCK}s out.",
+        "I smile and look up at {ACTIVE} as I grasp my {BOOBS} around his {COCK}.",
+        "Everyone bursts into applause and cheers at seeing my {HEAVING} {BOOBS}.",
+        "My {BOOBS} are out, and I hold them up to squeeze {ACTIVE}'s {COCK}.",
+        "You can {FUCK} me in a while, first come and play with my {BOOBS}."
+    ],
+    "2nd Person": [
+	"Your {LOVE} for him is intense; if he wants to {FUCK} your {BOOBS}, then you want that too.",
+        "You smile as he {DISPLAY}s his {COCK}. He's long, thick and hard; three of the best words to describe a man.",
+        "{ACTIVE} thrusts between your {BOOBS}. You grin at the illicit thrill.",
+        "You stand {NUDE} before him, completely {DISPLAY}ed to anyone who can see.",
+        "You see {ACTIVE}'s face go slack-jawed with awe as he now has a perfect look at your {HEAVING} {BOOBS}.",
+        "{ACTIVE} just keeps staring at your {HEAVING} {BOOBS}. You let him look.",
+        "You swallow down your insecurity and slightly thrust out your chest to make your {BOOBS} look bigger.",
+        "{ACTIVE} checks out your {BOOBS}, nipples having gone to attention about ten seconds ago.",
+        "Hmmm, should you show {ACTIVE} your {BOOBS}?",
+        "({PRIMARY}) What do you think of my {BOOBS}?",
+        "({PRIMARY}) Come on then boys, get your {COCK}s out.",
+        "You smile and look up at {ACTIVE} as you grasp your {BOOBS} around his {COCK}.",
+        "Everyone bursts into applause and cheers at seeing your {HEAVING} {BOOBS}.",
+        "Your {BOOBS} are out, and you hold them up to squeeze {ACTIVE}'s {COCK}."
+    ],
+    "3rd Person": [
+	"Her {LOVE} for him is clearly intense.",
+        "{ACTIVE} thrusts between {PRIMARY}'s {BOOBS}. She grins at the illicit thrill.",
+        "{PRIMARY} stands {NUDE} before him, completely {DISPLAY}ed to anyone who can see.",
+        "{ACTIVE}'s face goes slack-jawed with awe as he now has a perfect look at {PRIMARY}'s {HEAVING} {BOOBS}."
+    ]
+}

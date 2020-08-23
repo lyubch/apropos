@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I scream into the ground as the brute fucks me, deep and fast into my {WTVAGINAL} {PUSSY}.",
+        "I pant and moan into the dirt, overwhelmed by the monster's vigorous assault. At this rate I'm gonna cum...",
+        "Nghhh! I can already feel the {BEAST} {COCK} hammering at my womb, but I'm more scared of my own building orgasm...",
+        "I pant into the ground as the huge beast starts to fuck even deeper into me.",
+        "The beast drives into me while pulling me to him, its huge muscled body engulfing my small frame.",
+        "It feels like my cervix is being pushed up into my guts, the penetration is so deep."        
+    ],
+    "2nd Person" :
+    [
+        "You scream into the ground as the brute fucks you, deep and fast into your {WTVAGINAL} {PUSSY}.",
+        "You pant and moan into the dirt, overwhelmed by the monster's vigorous assault. At this rate you're gonna cum...",
+        "Nghhh! You can already feel the {BEAST} {COCK} hammering at your womb, but you're more scared of your own building orgasm...",
+        "You pant into the ground as the huge beast starts to fuck even deeper into you.",
+        "The beast drives into you while pulling you to him, its huge muscled body engulfing your small frame.",
+        "It feels like your cervix is being pushed up into your guts, the penetration is so deep."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} screams into the ground as the brute fucks her, deep and fast into her poor {PUSSY}.",
+        "The monster shows no mercy, and begins to fuck {PRIMARY} murderously as she screams into the dirt.",
+        "{PRIMARY} pants into the ground as the huge beast starts to fuck even deeper into her."        
+    ]
+}

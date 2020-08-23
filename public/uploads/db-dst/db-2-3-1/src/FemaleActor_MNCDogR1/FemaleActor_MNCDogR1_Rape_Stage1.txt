@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "No, you can't! {SWEARING}, no, please stop! Get off me!",
+        "I {STRUGGLE} as {ACTIVE} snarls in my ear, {FEAR} {EJACULATE}ing through me every time I feel his {BEASTLY} {COCK}.",
+        "{ACTIVE} {PENETRAT}es his {COCK} {LEWD}ly. My heart is in my throat, waiting for penetration...",
+        "{SWEARING}, I hope that's not what I think it... {SWEARING}!",
+        "Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off me now!",
+        "Sex! {ACTIVE} wants to have sex with me!",
+        "I can't believe he's actually gonna do this..."
+    ],
+    "2nd Person": [
+        "({PRIMARY}) No, you can't! {SWEARING}, no, please stop! Get off me!",
+        "You {STRUGGLE} as {ACTIVE} snarls in your ear, {FEAR} {EJACULATE}ing through you every time you feel his {COCK}.",
+        "{ACTIVE} {PENETRAT}es his {COCK} {LEWD}ly. your heart is in your throat, waiting for penetration...",
+        "{SWEARING}, you hope that's not what you think it... {SWEARING}!",
+        "({PRIMARY}) Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off me now!",
+        "Sex! {ACTIVE} wants to have sex with you!",
+        "You can't believe he's actually gonna do this..."
+    ],
+    "3rd Person": [
+        "({PRIMARY}) No, you can't! {SWEARING}, no, please stop! Get off me!",
+        "{PRIMARY} struggles as {ACTIVE} snarls in her ear, {FEAR} {EJACULATE}ing through her every time she feels his {COCK}.",
+        "{ACTIVE} {PENETRAT}es his {COCK} {LEWD}ly. {PRIMARY}'s heart is in her throat, waiting for penetration...",
+        "{SWEARING}, {PRIMARY} hopes that's not what you think it... {SWEARING}!",
+        "({PRIMARY}) Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off me now!",
+        "Sex! {ACTIVE} wants to have sex with {PRIMARY}!",
+        "{PRIMARY} can't believe he's actually gonna do this..."
+    ]
+}

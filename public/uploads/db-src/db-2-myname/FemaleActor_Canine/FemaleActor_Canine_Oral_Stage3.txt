@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "I open my mouth wide, wrapping my lips around {ACTIVE}'s shaft, milking his pre-cum onto my tongue.",
+        "{ACTIVE}'s {COCK} is thick, and I struggle to get my {WTORAL} lips around it. The pre-cum helps...",
+        "{ACTIVE}'s pre-cum becomes thicker. Is he starting to cum already? I drink it down.",
+        "I keep stroking {ACTIVE}, and start to work my lips up and down a few inches of shaft as well.",
+        "Mmmph... A dog's {COCK} tastes to strange, but not unpleasant, and there's so much pre-cum...",
+        "I suddenly lean in and take {ACTIVE}'s {PENIS} in my mouth, my body moving automatically.",
+        "Oh Gods, I shouldn't do this, but it looks so tasty..."
+    ],
+    "2nd Person" :
+    [
+        "You open your mouth wide, wrapping your lips around {ACTIVE}'s shaft, milking pre-cum onto your tongue.",
+        "{ACTIVE}'s {COCK} is thick, and you struggle to get your {WTORAL} lips around it. The pre-cum helps...",
+        "{ACTIVE}'s pre-cum becomes thicker. Is he starting to cum already? You drink it down.",
+        "You keep stroking {ACTIVE}, and start to work your lips up and down a few inches of shaft as well.",
+        "Mmmph... A dog's {COCK} tastes to strange, but not unpleasant, and there's so much pre-cum...",
+        "You suddenly lean in and take {ACTIVE}'s {PENIS} in your mouth, your body moving automatically.",
+        "Oh Gods, you shouldn't do this, but it looks so tasty..."
+    ],
+    "3rd Person" :
+    [
+        "It's hard to blame {PRIMARY} for such a lewd act, {ACTIVE}'s {PENIS} looks delicious...",
+        "{PRIMARY} opens wide, and a few inches of {COCK} disappear inside.",
+        "{PRIMARY}'s throat is pulsing... She's drinking him!",
+        "It's uneblievable that {PRIMARY} is putting that {BEAST} thing in her mouth..."
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "1st Person" :
+    [
+        "The feeling is intense, my {FLESH} feels like it's on fire, and I curl up, {SCREAM}ing into the ground.",
+        "I {SCREAM} as the {ACTIVE} ties with my {ASSHOLE}, red {THICK} {CUM} filling me up inside.",
+        "Once the knot plugs me shut, the {MONSTER} stops his pumping, squatting over me as he fills me with {CUM}.",
+        "I {MOAN} {LEWD}ly into the ground as the {BEASTLY} {COCK} fills my {ASSHOLE} with {THICK} {CUM}.",
+        "I {QUIVER} on the ground, too exhausted to move as the huge {MONSTER} {EJACULATE}s his {THICK} {CUM} up my {ASSHOLE}.",
+        "My {ASSHOLE} is stretched painfully around the {BEASTLY} knot, {THICK} {CUM} {EJACULATE}ing into my back {HOLE}.",
+        "His {BEASTLY} {COCK} is completely embedded in my {ASSHOLE}, the {COCKHEAD} {EJACULATE}ing {CUM} deep up inside me.",
+        "More than a foot of {COCK} is buried in my {ASSHOLE}, and I feel warmth as he pumps me full of {CUM}.",
+        "You feel so good all the way up my {ASSHOLE}... How do you like it? You're cumming so much!",
+        "Ugh! It's in! The knot's in! He's so deep... If I'd taken him in my {PUSSY}, he'd be past my cervix..."   
+    ],
+    "2nd Person" :
+    [
+        "The feeling is intense, your {FLESH} feels like it's on fire, and you curl up, {SCREAM}ing into the ground.",
+        "You {SCREAM} as the {ACTIVE} ties with your {ASSHOLE}, red {THICK} {CUM} filling you up inside.",
+        "Once the knot plugs you shut, the {MONSTER} stops his pumping, squatting over you as he fills you with {CUM}.",
+        "You {MOAN} {LEWD}ly into the ground as the {BEASTLY} {COCK} fills your {ASSHOLE} with {THICK} {CUM}.",
+        "You {QUIVER} on the ground, too exhausted to move as the huge {MONSTER} {EJACULATE}s his {THICK} {CUM} up your {ASSHOLE}.",
+        "Your {ASSHOLE} is stretched painfully around the {BEASTLY} knot, {THICK} {CUM} {EJACULATE}ing into your back {HOLE}.",
+        "His {BEASTLY} {COCK} is completely embedded in your {ASSHOLE}, the {COCKHEAD} {EJACULATE}ing {CUM} deep up inside you.",
+        "More than a foot of {COCK} is buried in your {ASSHOLE}, and you feel warmth as he pumps you full of {CUM}.",
+        "({PRIMARY}) You feel so good all the way up my {ASSHOLE}... How do you like it? You're cumming so much!",
+        "Ugh! It's in! The knot's in! He's so deep... If you'd taken him in your {PUSSY}, he'd be past your cervix..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} {MOAN}s {LEWD}ly into the ground as the {BEASTLY} {COCK} fills her {ASSHOLE} with {THICK} {CUM}.",
+        "{PRIMARY} {QUIVER}s on the ground, too exhausted to move as the {MONSTER} {EJACULATE}s his {THICK} {CUM} up her {ASSHOLE}.",
+        "Hearing {PRIMARY} {MOAN}ing and {MOAN}ing like that, and seeing her {RAP}ed... It looks so good...",
+        "{SWEARING}, it's in, it's all in! How is {PRIMARY} taking all of that?"
+    ]
+}

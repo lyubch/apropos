@@ -1,0 +1,15 @@
+{
+    "1st Person": [
+        "I feel my attacker's {COCK} {QUIVER} as my foot {GENTLE}ly touches the base.",
+        "I saw you looking at my feet... You want me to rub them all over your {COCK}?"
+    ],
+    "2nd Person": [
+        "You feel your attacker's {COCK} {QUIVER} as your foot {GENTLE}ly touches the base.",
+        "({PRIMARY}) I saw you looking at my feet... You want me to rub them all over your {COCK}?"
+    ],
+    "3rd Person": [
+        "That {JERK}'s {MAROUSAL} {COCK} {QUIVER}s each time {PRIMARY}'s foot brushes the base.",
+        "Oh wow, {PRIMARY} is going to give her rapist a footjob! That's so {LEWD}... Is he really into that?",
+        "Oh my, that {JERK} is really into feet! Most men would be {FUCK}ing a girl like {PRIMARY} by now..."
+    ]
+}

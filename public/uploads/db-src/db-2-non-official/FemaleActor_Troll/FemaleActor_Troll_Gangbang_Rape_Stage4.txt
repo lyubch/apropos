@@ -1,0 +1,19 @@
+{
+    "1st Person" :
+    [
+        "I'll be lucky to survive this. If I can hang on until they {EJACULATE} I may be able to sneak away...",
+	"I pass out from the {PAIN}, but they just continue to {ROUGH}ly {RAP}e my flailing {FLESH}.",
+	"{SWEARING}...to think that some women willingly seek this out!"
+    ],
+    "2nd Person" :
+    [
+        "You'll be lucky to survive this. If you can hang on until they {EJACULATE} you may be able to sneak away...",
+	"You pass out from the {PAIN}, but they just continue to {ROUGH}ly {RAP}e your flailing {FLESH}.",
+	"{SWEARING}...to think that some women willingly seek this out!"
+    ],
+    "3rd Person" :
+    [
+	"She passes out from the {PAIN}, but they just continue to {ROUGH}ly {RAP}e her flailing {FLESH}.",
+	"{SWEARING}...to think that some women willingly seek this out!"
+    ]
+}

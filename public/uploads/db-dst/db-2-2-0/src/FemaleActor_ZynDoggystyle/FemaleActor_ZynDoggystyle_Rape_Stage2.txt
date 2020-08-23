@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "I reluctantly bend over, stifling a moan as the {ACTIVE} pushes his {PENIS} into me.",
+        "Oh Gods, he's putting it in! I'm being raped!",
+        "The {ACTIVE} grips my hips roughly, pulling me back onto his {MAROUSAL} {PENIS}. Oh Gods, he's {HUGE}!",
+        "I'm relieved when he goes slow, but I doubt this will last...",
+        "I whimper as I feel the engorged head of that {HUGE} {PENIS} find the {WTVAGINAL} entrance to my {PUSSY}.",
+        "I gasp as I realise he's done it. He's in me, he's inside my {PUSSY}!",
+        "In no time at all, I'm bent over with a cock up my {PUSSY}.",
+        "I offer only slight resistance as {ACTIVE} takes me.",
+        "It feels so good in my {PUSSY}, I let {ACTIVE} thrust a few times. What's the harm in that?",
+        "{ACTIVE} starts fucking me with his {HUGE} {PENIS} and I'm letting him.",
+        "Please... I plead. I know you're going to fuck me but please, don't cum inside me!"
+    ],
+    "2nd Person": [
+        "You reluctantly bend over, stifling a moan as the {ACTIVE} pushes his {PENIS} into you.",
+        "Oh Gods, he's putting it in! You're being raped!",
+        "The {ACTIVE} grips your hips roughly, pulling you back onto his {MAROUSAL} {PENIS}. Oh Gods, he's {HUGE}!",
+        "You're relieved when he goes slow, but you doubt this will last...",
+        "You whimper the engorged head of that {HUGE} {PENIS} finds the {WTVAGINAL} entrance to your {PUSSY}.",
+        "You gasp as you realise he's done it. He's in you, he's inside your {PUSSY}!",
+        "In no time at all, you're bent over with a cock up your {PUSSY}.",
+        "You offer only slight resistance as {ACTIVE} takes you.",
+        "It feels so good in your {PUSSY}, you let {ACTIVE} thrust a few times. What's the harm in that?",
+        "{ACTIVE} starts fucking you with his {HUGE} {PENIS} and you're letting him.",
+        "({PRIMARY}) Please... I know you're going to fuck me but please, don't cum inside me!"
+    ],
+    "3rd Person": [
+        "Why isn't {PRIMARY} fighting back? She's just bending over and letting the {ACTIVE} fuck her!",
+        "The {ACTIVE} starts to fuck {PRIMARY}, going slowly. Maybe this won't be so bad after all...",
+        "{PRIMARY} just bends over and lets the {ACTIVE} fuck her. Whatever stops her from getting killed...",
+        "({ACTIVE}) Bend over, {BITCH}, let me see your {PUSSY}."
+    ]
+}

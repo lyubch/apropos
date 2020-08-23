@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "I feel {ACTIVE}'s hips slow down and warm {CUM} enters inside me at last.",
+        "We pant together as {ACTIVE} cums inside me. We have to do this again!",
+        "{ACTIVE}'s {CUM} flows deeply inside me, and I smile, lust satisfied.",
+        "{CREAM} mixed with {CUM} flows down from my {PUSSY} as we catch our breathes.",
+        "At last {ACTIVE} climaxes and is spent while I clutch his back in my own fatigue.",
+        "({ACTIVE}): That was fun, wasn't it, my love?",
+        "For a moment I worry about getting pregnant when he cums inside me, but it was too much fun. We can worry later.",
+        "Each thrust from {ACTIVE} deposits {JUICY} {CUM} inside me, while I jerk from my own orgasm."
+    ],
+    "2nd Person": [
+        "You feel {ACTIVE}'s slow down against you at last. Warm {CUM} enters inside you as {PRIMARY} pants in exhaustion.",
+        "You pant together as {ACTIVE} cums inside you. You have to do this again!",
+        "{ACTIVE}'s {CUM} flows deeply inside you. You smile, lust satisfied.",
+        "{CREAM} mixed with {CUM} flows down from your {PUSSY} as you catch your breath.",
+        "{ACTIVE} climaxes and cums inside you, while you clutch his back tightly, steadying yourself from your own orgasm.",
+        "({ACTIVE}): That was fun, wasn't it, my love?",
+        "For a moment you fear about pregnancy when he cums inside you, but it was too much fun. You and {ACTIVE} can worry later.",
+        "Each thrust from {ACTIVE} depositis {JUICY} {CUM} inside you, while you jerk and twitch from your own orgasm."
+    ],
+    "3rd Person": [
+        "{ACTIVE} pants and his hips slow in exhaustion, and warm {CUM} enters inside {PRIMARY}.",
+        "After {ACTIVE} cums inside her, panting heavily, {PRIMARY} grins playfully. ''I hope you have enough energy for a round 2!''.",
+        "{ACTIVE} moans as he {CUMS} deeply inside {PRIMARY}'s {PUSSY}.",
+        "{PRIMARY}'s {PUSSY} is a mess of {CREAM} and {CUM} as she and {ACTIVE} catch their breath.",
+        "{ACTIVE} climaxes and cums inside {PRIMARY}, who is still steading herself from her own recent orgasm.",
+        "({ACTIVE}): That was fun, wasn't it, my love?",
+        "Each thrust from {ACTIVE} depsoits {JUICY} {CUM} inside {PRIMARY}. Will she get pregnant from this?",
+        "{PRIMARY} jerks and twitches from her orgasm, before panting with exhaustion as {THICK} {CUM} enters her {PUSSY}."
+    ]
+}

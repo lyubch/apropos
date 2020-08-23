@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "At last the beast allows me to relax my sore legs, and I pant in relief...",
+        "My legs now hang limp in the creature's grip as it continues to pound deep into my {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} continues to batter its {COCK} against my cervix, and I hold my breath in fear and anticipation.",
+        "Oh Gods, how much {COCK} can I really take? Shouldn't I stop now? My body acts on its own, ignoring reason.",
+        "The {ACTIVE}'s {BEAST} {COCK} continues to plunge deep into me, fucking a small orgasm out of me.",
+        "At least 18 inches of troll {COCK} is sliding into me, and I want more! I want it to fuck all the way, right into my womb!"
+    ],
+    "2nd Person": [
+        "At last the beast allows you to relax your sore legs, and you pant in relief...",
+        "Your legs now hang limp in the creature's grip as it continues to pound deep into your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} continues to batter its {COCK} against your cervix, and you hold your breath in fear and anticipation.",
+        "Oh Gods, how much {COCK} can you really take? Shouldn't you stop now? your body acts on its own, ignoring reason.",
+        "The {ACTIVE}'s {BEAST} {COCK} continues to plunge deep into you, fucking a small orgasm out of you.",
+        "At least 18 inches of troll {COCK} is sliding into you, and you want more! You want it to fuck all the way into your womb!"
+    ],
+    "3rd Person": [
+        "At last the beast allows {PRIMARY} to relax her sore legs, and she pants in relief...",
+        "{PRIMARY}'s legs now hang limp in the creature's grip as it continues to pound deep into her {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} continues to batter its {COCK} against {PRIMARY}'s cervix, and she holds her breath in fear and anticipation.",
+        "Oh Gods, how much {COCK} can {PRIMARY} really take? Shouldn't she stop now? Her body acts on its own, ignoring reason.",
+        "The {ACTIVE}'s {BEAST} {COCK} continues to plunge deep into {PRIMARY}, fucking a small orgasm out of her.",
+        "At least 18 inches of troll {COCK} is sliding into {PRIMARY}, and she wants more! She wants it to fuck all the way into her womb!"
+    ]
+}

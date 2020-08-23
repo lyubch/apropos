@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "My legs are forced apart by the {ACTIVE}'s massive hand, as he gropes me with impunity.",
+        "{SWEARING}, he's stroking me! He's trying to get me wet! He's not gonna try to {FUCK} me is he?!",
+        "{SWEARING}, look how big his fingers are, they're like {COCK}s! Mmmmmm ahhhhh!",
+        "The {ACTIVE} strokes me all the way, my clit throbbing and my {ASSHOLE} puckering. This is too much...",
+        "I buck and jerk wildly, unable to stay still to pry his fingers from my waist.",
+        "Ahhh! Mmmmmm... {SWEARING}... I'm about to cum! I don't want this!"
+    ],
+    "2nd Person": [
+        "Your legs are forced apart by the {ACTIVE}'s massive hand, as he gropes you with impunity.",
+        "{SWEARING}, he's stroking you! He's trying to get you wet! He's not gonna try to {FUCK} you is he?!",
+        "{SWEARING}, look how big his fingers are, they're like {COCK}s! Mmmmmm ahhhhh!",
+        "The {ACTIVE} strokes you all the way, your clit throbbing and your {ASSHOLE} puckering. This is too much...",
+        "You buck and jerk wildly, unable to stay still to pry his fingers from your waist.",
+        "Ahhh! Mmmmmm... {SWEARING}... You're about to {EJACULATE}! You don't want this!"
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s struggles even more wildly as the {ACTIVE} starts to finger her.",
+        "The {ACTIVE} must be pretty good, {PRIMARY} is panting and {JIGGL}ing like she's about to cum.",
+        "Does it amuse the {ACTIVE} to watch a {NUDE} human {BITCH} {SCREAM} and squirm like that?"
+    ]
+}

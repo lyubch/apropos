@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "I stand, naked and exposed, about to commit bestiality. My heart pounds in my chest.",
+        "I stroke the {ACTIVE}'s flank, while my other hand flutters over my {FAROUSAL} {PUSSY}.",
+        "I don't see any reason to hurry, why not have some foreplay before...",
+        "When I see this huge, graceful, muscled beast, I understand why so many girls like horses...",
+        "Perhaps my armour is frightening the animal? I strip and attempt to calm it...",
+        "I strip my weapons and armour off to show the animal not to be scared...",
+        "This wild, powerful animal, calmed by my naked body... I start to get wet...",
+        "Dropping my clothes, I shiver at the cold air, my nipples starting to stiffen.",
+        "There's no need to rush, I can take my time.",
+        "I thrill at the light touch of my fingers at my {FAROUSAL} folds. Soon...",
+        "My {FAROUSAL} {PUSSY} tingles at the idea of what I'm about to do. It's so naughty, do depraved...",
+        "I shed my clothes, exposing my slender body. I prepare myself to give a hell of a performance."
+    ],
+    "2nd Person" :
+    [
+        "You stand, naked and exposed, about to commit bestiality. Your heart pounds in your chest.",
+        "You stroke the {ACTIVE}'s flank, while your other hand flutters over your {FAROUSAL} {PUSSY}.",
+        "You don't see any reason to hurry, why not have some foreplay before...",
+        "When you see this huge, graceful, muscled beast, you understand why so many girls like horses...",
+        "Perhaps your armour is frightening the animal? You strip and attempt to calm it...",
+        "You strip your weapons and armour off to show the animal not to be scared...",
+        "This wild, powerful animal, calmed by your naked body... You start to get wet...",
+        "Dropping your clothes, you shiver at the cold air, your nipples starting to stiffen.",
+        "There's no need to rush, you can take your time.",
+        "You thrill at the light touch of your fingers at your {FAROUSAL} folds. Soon...",
+        "Your {FAROUSAL} {PUSSY} tingles at the idea of what you're about to do. It's so naughty, do depraved...",
+        "You shed your clothes, exposing your slender body. You prepare yourself to give a hell of a performance."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} stands naked by the {ACTIVE}, stroking its side as she touches herself.",
+        "{PRIMARY} undresses and pets the huge animal, ready to debase herself with it.",
+        "{PRIMARY} looks beautiful, and knowing what she's about to do makes it even more erotic.",
+        "The {ACTIVE}'s {PENIS} has become erect... Does it know what {PRIMARY}'s about to do?",
+        "{PRIMARY} is touching herself. Is she really getting turned on by an animal?"
+    ]
+}

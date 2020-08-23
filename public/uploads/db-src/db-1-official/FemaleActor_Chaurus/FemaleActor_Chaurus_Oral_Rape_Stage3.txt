@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "My {PUSSY} is being drenched in slime, and I feel the beast's feelers probing me deeply.",
+        "My legs are spread wide, my heels digging into the ground as I meet the thrusts with my bucking hips.",
+        "I find myself going over the brink of orgasm, almost in spite of myself.",
+        "The {BUGCOCK} in my {MOUTH} pumps out a strange substance, it tastes like {CUM}...",
+        "I hear the Falmer in the shadows, they just watch and laugh as I am violated by the vicious beast.",
+        "Will the Falmer let me just leave after this? Or will they keep me here on a chain to service their pets?",
+        "I can't see what's going on between my legs, but I feel exposed. What if another bug comes...",
+        "Terror rips through me as I imagine what's out there, getting horny at the sight of my spread legs...",
+        "My thighs shiver at the cold, and the warm, sticky slime dripping down them.",
+        "Why is it pumping so much fluid across my {PUSSY}? (gulp) It's not... preparing me to take it there, is it?"
+    ],
+    "2nd Person": [
+        "Your {PUSSY} is being drenched in slime, and you feel the beast's feelers probing you deeply.",
+        "Your legs are spread wide, your heels digging into the ground as you meet the thrusts with your bucking hips.",
+        "You find yourself going over the brink of orgasm, almost in spite of yourself.",
+        "The {BUGCOCK} in your {MOUTH} pumps out a strange substance, it tastes like {CUM}...",
+        "You hear the Falmer in the shadows, they just watch and laugh as you am violated by the vicious beast.",
+        "Will the Falmer let you just leave after this? Or will they keep you here on a chain to service their pets?",
+        "You can't see what's going on between your legs, but you feel exposed. What if another bug comes...",
+        "Terror rips through you as you imagine what's out there, getting horny at the sight of your spread legs...",
+        "Your thighs shiver at the cold, and the warm, sticky slime dripping down them.",
+        "Why is it pumping so much fluid across your {PUSSY}? (gulp) It's not... preparing you to take it there, is it?"
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s {PUSSY} is being drenched in slime, and the beast's feelers probe her deeply.",
+        "Her legs are spread, her heels digging into the ground as {PRIMARY} meets the thrusts with her bucking hips.",
+        "{PRIMARY} finds herself going over the brink of orgasm, squealing as she's violated.",
+        "The {BUGCOCK} in {PRIMARY}'s {MOUTH} pumps out a strange substance. What does it taste like?",
+        "The Falmer can be heard in the shadows, watching and laughing as she is violated by the vicious beast.",
+        "Will the Falmer let her just leave after this? Or will they keep her here on a chain to service their pets?",
+        "{PRIMARY}'s spread legs are exposing her {PUSSY} and {ASS}. What if another bug comes...",
+        "Oh Gods, what could be out there lurking in the dark, horny at the sight of her spread legs?",
+        "{PRIMARY}'s thighs shiver at the cold, and the warm, sticky slime dripping down them.",
+        "Why is it pumping so much fluid across {PRIMARY}'s {PUSSY}? It's not... preparing her to take it there, is it?"
+    ]
+}

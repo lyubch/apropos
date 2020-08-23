@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "Oh Gods, I can't take this! It's too much... And I'm not even all the way down...",
+        "I can feel the {ACTIVE}'s {PENIS} battering my uterus now, the head starting to push painfully through.",
+        "I stare in horror and fascination as I watch more than a foot of {COCK} slide in and out of me.",
+        "I grunt in pain as the {ACTIVE} starts to fuck even deeper into me, my {WTVAGINAL} {PUSSY} straining.",
+        "The {ACTIVE} forces himself as far into me as I can manage, and then keeps on going.",
+        "I cry out, and looking down I can see my stomach distending to accommodate his incredible size.",
+        "Oh Gods! Shoot your {CUM} straight into my womb!",
+        "The {ACTIVE} is pulling me all the way down to the base of his {PENIS}.",
+        "With an immense push the head slips inside my womb.",
+        "Pain and pleasure explode through me as the {ACTIVE}'s {PENIS} pushes into my womb.",
+        "I let out a long, primal howl, driven to a murderous orgasm on a {PENIS} like a tree stump."        
+    ],
+    "2nd Person" :
+    [
+        "Oh Gods, you can't take this! It's too much... And you're not even all the way down...",
+        "You can feel the {ACTIVE}'s {PENIS} battering your uterus now, the head starting to push painfully through.",
+        "You stare in horror and fascination as you watch more than a foot of {COCK} slide in and out of you.",
+        "You grunt in pain as the {ACTIVE} starts to fuck even deeper into you, your {WTVAGINAL} {PUSSY} straining.",
+        "The {ACTIVE} forces himself as far into you as you can manage, and then keeps on going.",
+        "You cry out, and looking down you can see your stomach distending to accommodate his incredible size.",
+        "({PRIMARY}) Oh Gods! Shoot your {CUM} straight into my womb!",
+        "The {ACTIVE} is pulling you all the way down to the base of his {PENIS}.",
+        "With an immense push the head slips inside your womb.",
+        "Pain and pleasure explode through you as the {ACTIVE}'s {PENIS} pushes into your womb.",
+        "You let out a long, primal howl, driven to a murderous orgasm on a {PENIS} like a tree stump."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} stares between her legs in disbelief as over a foot of {COCK} hammers into her.",
+        "The {ACTIVE} pulls {PRIMARY} even further down. It's {COCK} must be fucking her womb by now...",
+        "Sweat is pouring off {PRIMARY} as she struggles to survive such a deep penetration."
+    ]
+}

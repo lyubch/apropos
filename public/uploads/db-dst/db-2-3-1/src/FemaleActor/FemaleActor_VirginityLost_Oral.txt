@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "I taste {CUM} for the first time. Is it {TASTY}? I'm not sure.",
+        "I don't know how to describe my first taste except that I would be willing to swallow it again.",
+	"({PRIMARY}) {SWEARING}. I didn't know it would be this good. I need more {CUM}...right now.",
+	"I'll always remember my first kiss...I made out with a {COCK}.",
+	"I didn't *plan* on becoming a cocksucker today, but now that I am I'll make the most of it!",
+	"My {SUCK}ing that {COCK} has changed things. I need to do it again as soon as possible.",
+	"({PRIMARY}) The guys outside the tavern used to tell me swallowing {CUM} would make my {BOOBS} grow. I hope that's true!",
+	"({PRIMARY}) I'm so glad I stopped pretending I didn't want it in my {MOUTH}.",
+	"({PRIMARY}) Ok. I've found my new hobby.",
+	"({PRIMARY}) Now that I've sucked one, I have a whole new {LOVE} for {COCK}."
+    ],
+    "2nd Person": [
+        "You taste {CUM} for the first time. Is it {TASTY}? You're not sure.",
+        "You don't know how to describe your first taste, but you'd be willing to swallow it again.",
+	"({PRIMARY}) {SWEARING}. I didn't know it would be this good. I need more {CUM}...right now.",
+	"You'll always remember my first kiss...you made out with a {COCK}.",
+	"You didn't *plan* on becoming a cocksucker today, but now that you are you'll make the most of it!",
+	"Your {SUCK}ing that {COCK} has changed things. You need to do it again as soon as possible.",
+	"({PRIMARY}) The guys outside the tavern used to tell me swallowing {CUM} would make my {BOOBS} grow. I hope that's true!",
+	"({PRIMARY}) I'm so glad I stopped pretending I didn't want it in my {MOUTH}.",
+	"({PRIMARY}) Ok. I've found my new hobby.",
+	"({PRIMARY}) Now that I've sucked one, I have a whole new {LOVE} for {COCK}."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s face scrunches up. She must not have tasted {CUM} before.",
+	"{PRIMARY}'s eyes roll back and she {LEWD}ly swallows as the {COCK} {EJACULATE}s in her {MOUTH}.",
+	"({PRIMARY}) {SWEARING}. I didn't know it would be this good. I need more {CUM}...right now.",
+	"({PRIMARY}) The guys outside the tavern used to tell me swallowing {CUM} would make my {BOOBS} grow. I hope that's true!",
+	"({PRIMARY}) I'm so glad I stopped pretending I didn't want it in my {MOUTH}.",
+	"({PRIMARY}) Ok. I've found my new hobby.",
+	"({PRIMARY}) Now that I've sucked one, I have a whole new {LOVE} for {COCK}."
+    ]
+}

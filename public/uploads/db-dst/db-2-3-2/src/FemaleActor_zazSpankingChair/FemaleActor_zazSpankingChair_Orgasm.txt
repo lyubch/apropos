@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Shame crashes over me. I turn away {MOAN}ing, my {ASSHOLE} in {PAIN}.",
+        "Finally released, {LOVE} crashes over me and I break down, {MOAN}ing.",
+        "I'm so ashamed of myself, letting him do that to me, and reacting that way...",
+        "({ACTIVE}) Let that be a lesson to you, {BITCH}. That's how a {BITCH} gets treated around here.",
+        "({ACTIVE}) Look at this pathetic {BITCH}, {MOAN}ing, with {CREAM} dripping from her {PUSSY}!",
+        "({ACTIVE}) Your tears aren't fooling anyone, {BITCH}, everyone saw how hard you came!",
+        "({ACTIVE}) How about you stay {NUDE}, {BITCH}, give everyone a show! Unless you want to be punished again?"
+    ],
+    "2nd Person": [
+        "Shame crashes over you. You turn away {MOAN}ing, your ass in {PAIN}.",
+        "Finally released, {LOVE} crashes over you and you break down, {MOAN}ing.",
+        "You're so ashamed of yourself, letting him do that to you, and reacting that way...",
+        "({ACTIVE}) Let that be a lesson to you, {BITCH}. That's how a {BITCH} gets treated around here.",
+        "({ACTIVE}) Look at this pathetic {BITCH}, {MOAN}ing, with {CREAM} dripping from her {PUSSY}!",
+        "({ACTIVE}) Your tears aren't fooling anyone, {BITCH}, everyone saw how hard you came!",
+        "({ACTIVE}) How about you stay {NUDE}, {BITCH}, give everyone a show! Unless you want to be punished again?"
+    ],
+    "3rd Person": [
+        "As {PRIMARY} stands, her {FLESH} is {QUIVER}ing and her ass is bright red, but {CREAM} is dripping down her legs.",
+        "({ACTIVE}) That's what happens when a {BITCH} says no. You want to be next?",
+        "{SWEARING}, {ACTIVE} clearly wants more, but {PRIMARY}... Maybe that {JERK} would be happy {FUCK}ing another girl?",
+        "({ACTIVE}) Stop {MOAN}ing {BITCH}, you're not done! I don't see any other {BITCH} stripping and taking your place!"
+    ]
+}

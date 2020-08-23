@@ -1,0 +1,42 @@
+{
+    "1st Person": [
+        "I pant into the ground as the huge beast starts to fuck even deeper into me.",
+        "Pinned down on all fours beneath the {ACTIVE}, as it violently fucks my {ASS}. Why me?",
+        "My whole body shakes as the beast violates my {ASS}.",
+        "Ugh... I can feel... that the creature's... almost there...",
+        "When I think I can take no more and am just about to pass out, the {ACTIVE} starts to fuck me even harder.",
+        "I'm totally immobilised by the beast's weight, and I can do nothing but scream and beg it to stop.",
+        "I give up the hope of escape, and just fall forward, letting the beast have its way with me.",
+        "After several minutes of the most intense fucking I've ever experienced, I feel the climax wash over me.",
+        "The {ACTIVE} driving into me full bore, I grunt. Uh, uh, uh. Like some wild animal, running for its life.",
+        "Rapid thrusts pound into me with long powerful strokes, each filling me with over a foot of {BEAST} {COCK}.",
+        "I give myself over to the thing, relishing its brutal uncaring treatment, the humiliation...",
+        "I cry out with terror, knowing that the {ACTIVE} is about to fill my {ASS} with his {CUM}.",
+        "The beast's frenzied grunts are terrifying, each one accompanied by a powerful thrust into my {ASS}."
+    ],
+    "2nd Person": [
+        "You pant into the ground as the huge beast starts to fuck even deeper into you.",
+        "Pinned down on all fours beneath the {ACTIVE}, as it violently fucks your {ASS}. Why is this happening?",
+        "Your whole body shakes as the beast violates your {ASS}.",
+        "Ugh... You can feel... that the creature's... almost there...",
+        "When you think you are just about to pass out, the {ACTIVE} starts to fuck you even harder.",
+        "You're totally immobilised by the beast's weight, and you can do nothing but scream and beg it to stop.",
+        "You give up the hope of escape, and just fall forward, letting the beast have its way with you.",
+        "After several minutes of the most intense fucking you've ever experienced, you feel the climax wash over you.",
+        "The {ACTIVE} driving into you full bore, you grunt. Uh, uh, uh. Like some wild animal, running for its life.",
+        "Rapid thrusts pound into you with long powerful strokes, each filling you with over a foot of {BEAST} {COCK}.",
+        "You give yourself over to the thing, relishing its brutal uncaring treatment, the humiliation...",
+        "You cry out with terror, knowing that the {ACTIVE} is about to fill your {ASS} with his {CUM}.",
+        "The beast's frenzied grunts are terrifying, each one accompanied by a powerful thrust into your {ASS}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} pants into the ground as the huge beast starts to fuck even deeper into her.",
+        "Pinned down on all fours beneath the {ACTIVE}, as it violently fucks her {ASS}. Why {PRIMARY}?",
+        "{PRIMARY}'s whole body shakes as the beast violates her {ASS}.",
+        "Ugh... the creature's... almost there...",
+        "When {PRIMARY} can take no more and is just about to pass out, the {ACTIVE} starts to fuck her even harder.",
+        "{PRIMARY}'s totally immobilised by the beast's weight, and can do nothing but scream and beg it to stop.",
+        "{PRIMARY} gives up the hope of escape, and just falls forward, letting the beast have its way with her.",
+        "After several minutes of intense fucking, {PRIMARY}'s climax washes over her."
+    ]
+}

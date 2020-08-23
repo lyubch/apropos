@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "{ACTIVE} is holding both of my legs now, thrusting inside me, and I {MOAN} in {LUST} at how pleasurable it is.",
+        "'You're making me feel so good.' {ACTIVE} says to me. I smile, feeling pleased and powerful.",
+        "I can finally feel {ACTIVE} inside me, having finished teasing me, and I lose my breath at the sensation.",
+        "''Mmmn.'' Just like that, just like that...",
+        "We sync into a rhythm with eachother, our breath the instruments, our hearts entranced.",
+        "Now inside me completely, {ACTIVE} thrusts faster, keeping a good grip on my legs.",
+        "Its as good as I thought it would be, even better...",
+        "My legs are outstretched in the air as {ACTIVE} {FUCK}s me needily."
+    ],
+    "2nd Person": [
+        "{ACTIVE} is holding both of your legs now, thrusting inside you, and you gasp in {LUST} at how pleasurable it is.",
+        "''You're making me feel so good.'' {ACTIVE} says to me. You smile, feeling pleased and powerful.",
+        "You can finally feel {ACTIVE} inside you, having finished teasing you, and you lose your breath at the sensation.",
+        "'Mmmn.' Just like that, just like that...",
+        "You sync into a rhythm with eachother, your breath the instruments, your hearts entranced.",
+        "Now inside you completely, {ACTIVE} thrusts faster, keeping a good grip on your legs.",
+        "Its as good as you thought it would be, even better...",
+        "Your legs are outstretched in the air as {ACTIVE} {FUCK}s you needily."
+    ],
+    "3rd Person": [
+        "{ACTIVE} is holding both of {ACTIVE}'s legs now, thrusting inside her. She {MOAN}s in {LUST} at how pleasurable it is.",
+        "{ACTIVE} tells {PRIMARY} how good it feels to be inside her. Her cheeks color with {LUST} and satisfaction.",
+        "{ACTIVE} is finally inside {PRIMARY}, and her eyes are wide and aroused by the sensation.",
+        "({PRIMARY}) ''Mmmn.'' Just like that, just like that...",
+        "{PRIMARY} and {ACTIVE} sync into rhythm with one another, their breath the music of their lovemaking.",
+        "Now inside her completely, {ACTIVE} thrusts faster, keeping a good grip on her legs.",
+        "Their lovemaking is a sweet, steady {FUCK}.",
+        "{PRIMARY}'s legs are outstretched in the air as {ACTIVE} {FUCK}s her needily."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "It's only me that's moving now, desperate to finally cum, even as the brute empties its balls inside me.",
+        "Possessed, I pump my {PUSSY} onto the creature's ejaculating {PENIS}, wanting its {THICK} {CUM} as deep as possible.",
+        "No! You can't cum now, I'm not there yet! Please, I want more, I beg you!",
+        "My muscles burning, I jerk my ass hard, fighting exhaustion to finally reach my climax.",
+        "Its {COCK} throbs, every vein bulging, balls engorged as they churn up a load of {CUM} into my waiting womb.",
+        "There's a puddle of {CUM} beneath me, and the {CUM} in my {PUSSY} is now running down my legs and ass."        
+    ],
+    "2nd Person" :
+    [
+        "It's only you that's moving now, desperate to finally cum, even as the brute empties its balls inside you.",
+        "Possessed, you pump your {PUSSY} onto the creature's ejaculating {PENIS}, wanting its {THICK} {CUM} as deep as possible.",
+        "({PRIMARY}) No! You can't cum now, I'm not there yet! Please, I want more, I beg you!",
+        "Your muscles burning, you jerk your ass hard, fighting exhaustion to finally reach your climax.",
+        "Its {COCK} throbs, every vein bulging, balls engorged as they churn up a load of {CUM} into your waiting womb.",
+        "There's a puddle of {CUM} beneath you, and the {CUM} in your {PUSSY} is now running down your legs and ass."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} seems to be finished. Surprisingly, {PRIMARY} starts to fuck back now. Isn't she done?",
+        "{PRIMARY} pumps her {PUSSY} onto the creature's {PENIS}. Does she want its {CUM} so badly?",
+        "Oh Gods... {PRIMARY} is frantically pumping her hips. She seems desperate to cum..."
+    ]
+}

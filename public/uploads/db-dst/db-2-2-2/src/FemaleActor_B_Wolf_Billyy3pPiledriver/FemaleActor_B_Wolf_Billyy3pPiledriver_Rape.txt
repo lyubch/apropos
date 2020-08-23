@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "Wounded and exhausted, the wolves have no trouble pulling my armor off, leaving me naked before their hungry eyes.",
+        "I land heavily as the two wolves finally knock me onto my back... I can't fight any more...",
+        "Panting on the ground, I know I've been defeated... Now they're going to... Wait... Why do they both have hardons?",
+        "Catching a glimpse of their erect members, I struggle harder to regain my footing, but it's already too late..."
+    ],
+    "2nd Person": [
+        "Wounded and exhausted, the wolves have no trouble pulling your armor off, leaving you naked before their hungry eyes.",
+        "You land heavily as the two wolves finally knock you onto your back... You can't fight any more...",
+        "Panting on the ground, you know you've been defeated... Now they're going to... Wait... Why do they both have hardons?",
+        "Catching a glimpse of their erect members, you struggle harder to regain your footing, but it's already too late..."
+    ],
+    "3rd Person": [
+        "Wounded and exhausted, the wolves have no trouble pulling {PRIMARY}'s armor off, leaving her naked before their hungry eyes.",
+        "{PRIMARY} lands heavily as the two wolves finally knock her onto your back... She can't fight any more...",
+        "Panting on the ground, {PRIMARY} knows she's been defeated... Now they're going to... Wait... Why do they both have hardons?",
+        "Catching a glimpse of their erect members, {PRIMARY} struggles harder to regain her footing, but it's already too late..."
+    ]
+}

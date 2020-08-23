@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE}'s filthy fur feels good between my toes, but not as good as its {BEASTLY} {COCK} in my {PUSSY}.",
+        "Yanking me upside down by my ankle, the {MONSTER} wastes no time in {INSERT}ing its {BEASTLY} {COCK} into my {PUSSY}.",
+        "I try with all my strength to slow the {MONSTER} down, grunting as it {INSERT}s its {COCK} into my upturned body.",
+        "Upturned, one arm pinned to the ground, I can only {MOAN} in intense {LUST} as the {MONSTER}'s {COCK} splits me open.",
+        "I can only watch in {LUST} and {FEAR} as the {BEASTLY} {COCK} aligns with my {WTVAGINAL} {PUSSY}, splitting me apart as it enters.",
+        "Sometimes the best thing is to be on your back, legs spread, feet in the air, and a {HUGE} {COCK} {INSERT}ed in your {PUSSY}."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE}'s filthy fur feels good between your toes, but not as good as its {BEASTLY} {COCK} in your {PUSSY}.",
+        "Yanking you upside down by your ankle, the {MONSTER} wastes no time in {INSERT}ing its {BEASTLY} {COCK} into your {PUSSY}.",
+        "You try with all your strength to slow the {MONSTER} down, grunting as it {INSERT}s its {COCK} into your upturned body.",
+        "Upturned, one arm pinned to the ground, you can only {MOAN} in intense {LUST} as the {MONSTER}'s {COCK} splits you open.",
+        "You watch in {LUST} and {FEAR} as the {BEASTLY} {COCK} aligns with your {WTVAGINAL} {PUSSY}, splitting you apart as it enters.",
+        "Sometimes the best thing is to be on your back, legs spread, feet in the air, and a {HUGE} {COCK} {INSERT}ed in your {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "Yanking her upside down by her ankle, the {MONSTER} wastes no time in {INSERT}ing its {BEASTLY} {COCK} into {PRIMARY}'s {PUSSY}.",
+        "The huge {MONSTER} pins {PRIMARY} to the ground, with a clear intent to have its way, {INSERT}ing its {COCK} down into her {PUSSY}.",
+        "{PRIMARY} lets the {ACTIVE} pin her to the ground, yank her legs apart and sink its {BEASTLY} {COCK} into her."
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "1st Person" :
+    [
+        "I lie back, hiking my backend up and letting {ACTIVE}'s {PENIS} slide inside me.",
+        "I hook my legs around {ACTIVE}'s hips and pull myself up onto his {PENIS} as far as I can.",
+        "I look up, reaching out to stroke {ACTIVE}, urging him on as we fuck each other frantically.",
+        "My feet hang over {ACTIVE}'s knees as I buck my hips up, meeting his thrusts hungrily.",
+        "{ACTIVE} drives every inch of his long, {BEAST} {PENIS} up my {PUSSY}.",
+        "I know that what I am doing is wrong, but I can't stop myself.",
+        "I eagerly watch the doggy stick his {BEAST} {PENIS} into my {FAROUSAL} {PUSSY} and hump me.",
+        "I moan in pleasure. {ACTIVE} has brought me to orgasm just by sticking his {PENIS} into me...",
+        "I... I'm having sex with a dog...",
+        "Oh Gods, his {PENIS}... It's hot and {BEAST}, filling my {FAROUSAL} {PUSSY} completely.",
+        "Ow! Ugh... oh Gods... I can't believe how {BEAST} {ACTIVE}'s {PENIS} is.",
+        "I'll need to make him pull out, or I'm so having puppies! (giggle)"        
+    ],
+    "2nd Person" :
+    [
+        "You lie back, hiking your backend up and letting {ACTIVE}'s {PENIS} slide inside you.",
+        "You hook your legs around {ACTIVE}'s hips and pull yourself up onto his {PENIS} as far as you can.",
+        "You look up, reaching out to stroke {ACTIVE}, urging him on as you fuck each other frantically.",
+        "Your feet hang over {ACTIVE}'s knees as you buck your hips up, meeting his thrusts hungrily.",
+        "{ACTIVE} drives every inch of his long, {BEAST} {PENIS} up your {PUSSY}.",
+        "You know that what you are doing is wrong, but you can't stop yourself.",
+        "You eagerly watch the doggy stick his {BEAST} {PENIS} into your {FAROUSAL} {PUSSY} and hump you.",
+        "You moan in pleasure. {ACTIVE} has brought you to orgasm just by sticking his {PENIS} into you...",
+        "You... you're having sex with a dog...",
+        "Oh Gods, his {PENIS}... It's hot and {BEAST}, filling your {FAROUSAL} {PUSSY} completely.",
+        "Ow! Ugh... oh Gods... you can't believe how {BEAST} {ACTIVE}'s {PENIS} is.",
+        "You'll need to make him pull out, or you're so having puppies!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} lifts up her back-end, letting {ACTIVE} slam forward into her.",
+        "{PRIMARY} hooks her heels around {ACTIVE}'s legs, frantically thrusting herself upwards.",
+        "Oh my, that {BEAST} {PENIS} went all the way inside her!",
+        "{PRIMARY} and {ACTIVE} are both putting in so much effort, they both must be eager to cum!"
+    ]
+}

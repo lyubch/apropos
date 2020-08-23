@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} hesitates, {COCK} {MAROUSAL}. I grab my chance, and the {MONSTER}'s {COCK}, and {PENETRAT}e it into my {PUSSY}.",
+        "I bend over {SUBMISSIVE}ly, wiggling my {BUTTOCKS} for the {MONSTER}, holding his attention as I {PENETRAT}e his {COCK} inside me.",
+        "As I grasp the {ACTIVE}'s {BEASTLY} {COCK}, I fight back {FEAR} as I bend over and guide it into my {PUSSY}.",
+        "I can't help but grope myself as I sink onto the {ACTIVE}'s thick {COCK}. Maybe this won't be so bad...",
+        "I can't beat it... Maybe I have to use my other 'talents' to subdue it...",
+        "Naked and {QUIVER}ing, I am {NUDE} to the monstrous {LUST} of this {MONSTER}.",
+        "The {ACTIVE}'s {COCK} is hard, ready to {BREED} me. I {DISPLAY} myself to it, hoping it will go more easily..."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} hesitates, {COCK} {MAROUSAL}. You grab your chance, and the {MONSTER}'s {COCK}, and {PENETRAT}e it into your {PUSSY}.",
+        "You bend over {SUBMISSIVE}ly, wiggling your {BUTTOCKS} for the {MONSTER}, holding his attention as you {PENETRAT}e his {COCK} inside you.",
+        "As you grasp the {ACTIVE}'s {BEASTLY} {COCK}, you fight back {FEAR} as you bend over and guide it into your {PUSSY}.",
+        "You can't help but grope yourself as you sink onto the {ACTIVE}'s thick {COCK}. Maybe this won't be so bad...",
+        "You can't beat it... Maybe you have to use your other 'talents' to subdue it...",
+        "Naked and {QUIVER}ing, you're {NUDE} to the monstrous {LUST} of this {MONSTER}.",
+        "The {ACTIVE}'s {COCK} is hard, ready to {BREED} you. You present yourself to it, hoping it will go more easily..."
+    ],
+    "3rd Person" :
+    [
+        "Is {PRIMARY} giving up? Or does she really want to have sex with that {ACTIVE}?",
+        "Defeated, {PRIMARY} turns around and {DISPLAY}s herself to the {ACTIVE}. Poor girl...",
+        "{PRIMARY} bends over, her {HEAVING} {BOOBS} {DISPLAY}ed as she takes the {ACTIVE}'s {COCK} in her {PUSSY}."
+    ]
+}

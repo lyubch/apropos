@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "The spider's {BUGCOCK} is {HUGE}, and I {SCREAM} as my pussy lips are parted.",
+        "My {WTVAGINAL} {PUSSY} juices itself in {LUST}, and I find myself spreading my legs in preparation.",
+        "The spider {PENETRAT}es in {ROUGH}ly, ramming its {BUGCOCK} in to the hilt, leaving me {SCREAM}ing.",
+        "Even {BUG}s want to {FUCK} me?",
+        "The sensation of the {HUGE} {COCKHEAD} being forced into my {FLESH} causes me to {QUIVER} painfully.",
+        "Afraid for my life, a twisted idea pops into my head... something I would never otherwise consider...",
+        "Naked and {QUIVER}ing, my heart is in my throat as I watch the {BUG}'s legs surround me.",
+        "Trapped underneath this hulking {BUG}, my back end is lifted and my {WTVAGINAL} {PUSSY} is {EXPLOR}ed.",
+        "The {ACTIVE} lifts my legs, yanking them apart, giving itself access to my {WTVAGINAL} {PUSSY}.",
+        "I {SCREAM} in {FEAR} as the {BUG}'s {COCK} disappears into me."
+    ],
+    "2nd Person" :
+    [
+        "The spider's {BUGCOCK} is {HUGE}, and you {SCREAM} as your pussy lips are parted.",
+        "Your {PUSSY} juices itself in {LUST}, and you find yourself spreading your legs in preparation.",
+        "The spider {PENETRAT}es in {ROUGH}ly, ramming its {BUGCOCK} in to the hilt, leaving you {SCREAM}ing.",
+        "Even {BUG}s want to {FUCK} you?",
+        "The sensation of the {HUGE} {COCKHEAD} being forced into your body causes you to {QUIVER} painfully.",
+        "Afraid for your life, a twisted idea pops into your head... something you would never otherwise consider...",
+        "Naked and {QUIVER}ing, your heart is in your throat as you watch the {BUG}'s legs surround you.",
+        "Trapped underneath this hulking {BUG}, your back end is lifted and your {WTVAGINAL} {PUSSY} is {EXPLOR}ed.",
+        "The {ACTIVE} lifts your legs, yanking them apart, giving itself access to your {WTVAGINAL} {PUSSY}.",
+        "You {SCREAM} in {FEAR} as the {BUG}'s {COCK} disappears into you."
+    ],
+    "3rd Person" :
+    [
+        "The spider's {BUGCOCK} is {HUGE}, and {PRIMARY} {SCREAM}s as her pussy lips are parted.",
+        "{PRIMARY}'s {PUSSY} must be getting {WET}, as she spreads her legs in preparation.",
+        "The spider {PENETRAT}es in {ROUGH}ly, ramming its {BUGCOCK} in to the hilt, leaving {PRIMARY} {SCREAM}ing.",
+        "Even {BUG}s want to {FUCK} {PRIMARY}?",
+        "The sensation of the {HUGE} {COCKHEAD} being forced into her {FLESH} causes {PRIMARY} to {QUIVER} painfully.",
+        "Afraid for her life, {PRIMARY} {DISPLAY}s her {PUSSY}, something she would never otherwise consider...",
+        "Naked and {QUIVER}ing, {PRIMARY}'s eyes are wide as she watches the {BUG}'s legs surround her.",
+        "Trapped underneath this hulking {BUG}, {PRIMARY}'s back end is lifted and her {WTVAGINAL} {PUSSY} is {EXPLOR}ed.",
+        "The {ACTIVE} lifts {PRIMARY}'s legs, yanking them apart, giving itself access to her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} {SCREAM}s in {FEAR} as the {BUG}'s {COCK} disappears into her."
+    ]
+}

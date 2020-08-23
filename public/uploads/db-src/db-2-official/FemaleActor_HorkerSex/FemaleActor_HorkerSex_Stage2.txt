@@ -1,0 +1,20 @@
+{
+    "1st Person" :
+    [
+        "I position myself on top of {ACTIVE} to slowly put its {BEAST} {COCK} inside my {FAROUSAL} {PUSSY}, {ACTIVE} is desperately trying to push inside me.",
+        "I am trying to slowly feel the tip and get used to the girth and size of this {BEAST} {COCK}. {ACTIVE} tries to penetrate me hard.",
+        "Don't rush, let me feel it, you will get to fill my {FAROUSAL} {PUSSY}. Just let me slowly take it in.",
+        "I look down and get intimidated by the sheer size of this {MAROUSAL} {COCK}, I try to accomodate it inside me slowly.",
+        "Oh my, you are in heat aren't you, look how swollen your {MAROUSAL} {COCK} got when it touched my {PUSSY}."
+    ],
+    "2nd Person" :
+    [
+        "You position yourself on top of {ACTIVE} to slowly put its {BEAST} {COCK} inside your {PUSSY}, {ACTIVE} is desperately trying to push inside you.",
+        "You are trying to slowly feel the tip and get used to the girth and size of this {BEAST} {COCK}. {ACTIVE} tries to penetrate you hard.",
+        "You look down and get intimidated by the sheer size of its {MAROUSAL} {COCK}, you try to accomodate it inside you slowly."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} gets on top of {ACTIVE} to slowly take it inside her {PUSSY}, {ACTIVE} unrelentingly tries to {FUCK} {PRIMARY}'s {FAROUSAL} {PUSSY}."
+    ]
+}

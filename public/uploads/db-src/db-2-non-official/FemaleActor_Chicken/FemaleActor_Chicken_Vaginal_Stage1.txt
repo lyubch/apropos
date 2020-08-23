@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "I arch my back and raise my {PUSSY}, {QUIVER}ing and {MOAN}ing as the chicken {INSERT}s its beak into me.",
+        "I {MOAN} in {FEAR} as {ACTIVE} {INSERT}s its beak inside my {FAROUSAL} {PUSSY}.",
+        "{ACTIVE} wastes no time {INSERT}ing his beak into my {FAROUSAL} {PUSSY}.",
+        "Arching my back, I let {ACTIVE} {RAP}e me hard and deep.",
+        "I never knew I was a {BITCH} who'd even do it with a {ACTIVE}!",
+	"The chicken's hard beak brushes against my clit...what is it doing?",
+	"With no hesitation, the chicken {INSERT}s its beak into my {PUSSY}."      
+    ],
+    "2nd Person" :
+    [
+        "You arch your back and raise your {PUSSY}, {QUIVER}ing and {MOAN}ing as the chicken {INSERT}s its beak into you.",
+        "You {MOAN} in {FEAR} as {ACTIVE} {INSERT}s its beak inside your {FAROUSAL} {PUSSY}.",
+        "{ACTIVE} wastes no time {INSERT}ing his beak into your {FAROUSAL} {PUSSY}.",
+        "Arching your back, you let {ACTIVE} {RAP}e you hard and deep.",
+        "You never knew you were a {BITCH} who'd even do it with a {ACTIVE}!",
+	"The chicken's hard beak brushes against your clit...what is it doing?",
+	"With no hesitation, the chicken {INSERT}s its beak into your {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "{SWEARING}, {PRIMARY}'s having sex with a {ACTIVE}!",
+        "{PRIMARY} arches her back as {ACTIVE} enters her, clearly enjoying the {ANIMAL}'s beak.",
+        "The chicken's hard beak brushes against her clit...what is it doing?",
+	"With no hesitation, the chicken {INSERT}s its beak into her {PUSSY}."
+    ]
+}

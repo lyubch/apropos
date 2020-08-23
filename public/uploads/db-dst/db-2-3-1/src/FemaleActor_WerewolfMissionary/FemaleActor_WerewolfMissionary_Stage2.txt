@@ -1,0 +1,45 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} clearly doesn't care about my pleasure, {FUCK}ing me rough and deep, ignoring my {SCREAM}s.",
+        "{PLEADING}! Ah! Slow down, it's too deep! You don't need to go so hard... Ow! We can both... Nghh!",
+        "My eyes widen in {FEAR} as I feel the {BEASTLY} knot slap against my {WTVAGINAL} {PUSSY}.",
+        "I {SUBMIT} fully, letting the monstrous {MONSTER} on top of me {RAP}e me as it likes.",
+        "I {MOAN} and {SCREAM} at the hard fucking, drops of the {ACTIVE}'s spit dripping across my face and into my open mouth.",
+        "My knees strain against the {MONSTER}, trying to stop him going so deep, but he's just too {HUGE}, and too strong.",
+        "Fear and {PAIN} overcome me as I realise what the {MONSTER} intends, but I know it's already too late.",
+        "The grip tightens around my throat, and I get light headed, even as the {ROUGH} {FUCK}ing gets even more painful.",
+        "Staring up into the {ROUGH} {MONSTER}'s eyes, feeling its {BEASTLY} {COCK} punish me... It's so intense...",
+        "I can only grit my teeth harder as I'm stretched more and more beyond my natural limits.",
+        "I feel certain that I'll be ready for anything by the time this is over.",
+        "{ACTIVE} is opening me up like never before, hurting me and making my {PUSSY} gush all at once.",
+        "Ugh, move that {BEASTLY} {COCK} around inside of me! Ahhh! Yes, right there...",
+        "His {COCK} bottoms out against my cervix, leaving vital inches of knot outside of my {PUSSY}.",
+        "A werewolf must be the best of both worlds; the skill of a human lover and the wild {LUST} of a {MONSTER}."   
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} clearly doesn't care about your pleasure, {FUCK}ing you rough and deep, ignoring your {SCREAM}s.",
+        "({PRIMARY}) {PLEADING}! Ah! Slow down, it's too deep! You don't need to go so hard... Ow! We can both... Nghh!",
+        "Your eyes widen in {FEAR} as you feel the {BEASTLY} knot slap against your {WTVAGINAL} {PUSSY}.",
+        "you {SUBMIT} fully, letting the monstrous {MONSTER} on top of you {RAP}e you as it likes.",
+        "You {MOAN} at the hard fucking, drops of the {ACTIVE}'s spit dripping across your face and into your open mouth.",
+        "Your knees strain against the {MONSTER}, trying to stop him going so deep, but he's just too {HUGE}, and too strong.",
+        "Fear and {PAIN} overcome you as you realise what the {MONSTER} intends, but you know it's already too late.",
+        "The grip tightens around your throat, and you get light headed, even as the {ROUGH} {FUCK}ing gets even more painful.",
+        "Staring up into the {ROUGH} {MONSTER}'s eyes, feeling its {BEASTLY} {COCK} punish you... It's so intense...",
+        "You can only grit your teeth harder as you're stretched more and more beyond your natural limits.",
+        "You feel certain that you'll be ready for anything by the time this is over.",
+        "{ACTIVE} is opening you up like never before, hurting you and making your {PUSSY} gush all at once.",
+        "({PRIMARY}) Ugh, move that {BEASTLY} {COCK} around inside of me! Ahhh! Yes, right there...",
+        "His {COCK} bottoms out against your cervix, leaving vital inches of knot outside of your {PUSSY}.",
+        "A werewolf must be the best of both worlds; the skill of a human lover and the wild {LUST} of a {MONSTER}."
+    ],
+    "3rd Person" :
+    [
+        "Oh wow! What would it feel like, to be {FUCK}ed like that, by such a {BEASTLY} {COCK}?",
+        "{PRIMARY} {MOAN}s at the hard fucking, drops of spit dripping across her face and into her open mouth.",
+        "{PRIMARY}'s knees hold the {MONSTER} back, but could she really stop him if he wants more?",
+        "A werewolf must be the best of both worlds; the skill of a human lover and the wild {LUST} of a {MONSTER}."
+    ]
+}

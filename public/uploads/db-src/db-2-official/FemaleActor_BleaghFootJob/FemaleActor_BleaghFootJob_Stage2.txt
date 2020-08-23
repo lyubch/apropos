@@ -1,0 +1,34 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} tries to lean forward, but I push him back down, enjoying being in control this one time.",
+        "I playfully push {ACTIVE} back, then bring my foot back to his {PENIS} to stroke it.",
+        "I enjoy the look of arousal on {ACTIVE}'s face as my bare foot tenderly strokes his {MAROUSAL} {PENIS}.",
+        "I gaze longingly at my lover as my {HEAVING} {BOOBS} rise and fall noticeably.",
+        "I flush with shame as I realise {ACTIVE} can see {CUM} dribbling out of my {PUSSY}... Oh my...",
+        "With my slender legs on display, and my bare feet pressed hard against his chest... I feel so sexy...",
+        "I start working his {PENIS} with my foot, rubbing my toes back and forth along the head.",
+        "My soft soles gently rub the shaft of his veiny {PENIS}.",
+        "I feel {ACTIVE}'s heart thundering as I press my sole into his chest, and again as I stroke his {PENIS}.",
+        "Perhaps this is where you want my feet? Don't you want to cover them in {SLOPPY} {CUM}?"  
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} tries to lean forward, but you push him back down, enjoying being in control this one time.",
+        "You playfully push {ACTIVE} back, then bring your foot back to his {PENIS} to stroke it.",
+        "You enjoy the look of arousal on {ACTIVE}'s face as your bare foot tenderly strokes his {MAROUSAL} {PENIS}.",
+        "You gaze longingly at your lover as your {HEAVING} {BOOBS} rise and fall noticeably.",
+        "You flush with shame as you realise {ACTIVE} can see {CUM} dribbling out of your {PUSSY}... Oh my...",
+        "With your slender legs on display, and your bare feet pressed hard against his chest... You feel so sexy...",
+        "You start working his {PENIS} with your foot, rubbing your toes back and forth along the head.",
+        "Your soft soles gently rub the shaft of his veiny {PENIS}.",
+        "{ACTIVE}'s heart thunders as you press your sole into his chest, and again as you stroke his {PENIS}.",
+        "({PRIMARY}) Perhaps this is where you want my feet? Don't you want to cover them in {SLOPPY} {CUM}?"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} pushes {ACTIVE} down with one foot, then begins to stoke her pretty feet up and down his {PENIS}.",
+        "Is that {CUM} dribbling out of {PRIMARY}'s {PUSSY}? Oh my, how many times has she been fucked tonight?",
+        "{PRIMARY} has such long, beautiful legs, and such pretty feet... No wonder {ACTIVE}'s so hard..."
+    ]
+}

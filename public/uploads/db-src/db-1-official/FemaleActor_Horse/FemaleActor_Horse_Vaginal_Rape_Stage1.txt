@@ -1,0 +1,37 @@
+{
+    "1st Person" :
+    [
+        "If this {ACTIVE} is going to rape me, I better make sure it goes in the right {OPENING}...",
+        "Submitting to the {ACTIVE}, I'm a little excited at what I'm about to do...",
+        "I reluctantly line myself up with the {ACTIVE}'s {PENIS}, and slowly squeeze the head into my {PUSSY}.",
+        "The head of the {BEAST} {PENIS} is huge... What's this going to feel like pumping inside me?",
+        "I strain to push the cockhead past my lips, and my heart skips a beat as it pops inside.",
+        "I'd better do this myself. I shudder to think where its {PENIS} will end up if I don't...",
+        "With a glance back, I estimate it must be at least two feet long! Surely it can't, it won't fit...",
+        "I gulp and put my head down, clenching my teeth for what is to come.",
+        "I cry out in pain as I insert the {ACTIVE}'s {PENIS} inside my {WTVAGINAL} {PUSSY}.",
+        "I scream as the wide tip of the horsecock roughly pushes inside my poor {WTVAGINAL} {PUSSY}!",
+        "My {WTVAGINAL} {PUSSY} is dripping wet and steaming, and the {BEAST} {PENIS} slides wetly into me."        
+    ],
+    "2nd Person" :
+    [
+        "If this {ACTIVE} is going to rape you, you better make sure it goes in the right {OPENING}...",
+        "Submitting to the {ACTIVE}, you're a little excited at what you're about to do...",
+        "You reluctantly line yourself up with the {ACTIVE}'s {PENIS}, and slowly squeeze the head into your {PUSSY}.",
+        "The head of the {BEAST} {PENIS} is huge... What's this going to feel like pumping inside you?",
+        "You strain to push the cockhead past your lips, and your heart skips a beat as it pops inside.",
+        "I'd better do this yourself. You shudder to think where its {PENIS} will end up if you don't...",
+        "With a glance back, you estimate it must be at least two feet long! Surely it can't, it won't fit...",
+        "You gulp and put your head down, clenching your teeth for what is to come.",
+        "You cry out in pain as you insert the {ACTIVE}'s {PENIS} inside your {WTVAGINAL} {PUSSY}.",
+        "You scream as the wide tip of the horsecock roughly pushes inside your poor {WTVAGINAL} {PUSSY}!",
+        "Your {WTVAGINAL} {PUSSY} is dripping wet and steaming, and the {BEAST} {PENIS} slides wetly into you."
+    ],
+    "3rd Person" :
+    [
+        "Distressed and sobbing, {PRIMARY} timidly bends over and guides the {ACTIVE}'s {PENIS} into her {PUSSY}.",
+        "It's heartbreaking to watch {PRIMARY} do such a depraved thing...",
+        "{PRIMARY} grunts as the huge flared head of the {ACTIVE}'s {PENIS} pops inside her.",
+        "Oh my, has it come to that? {PRIMARY} is going to fuck the beast to stop it from hurting her?"
+    ]
+}

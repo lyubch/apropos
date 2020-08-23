@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "I open as wide as I can, but I gag and splutter as the {BEASTLY} {BEASTCOCK} chokes me.",
+        "The {ACTIVE} takes control, a massive, clawed hand on top of my head to hold me while he {FUCK}s my {MOUTH}.",
+        "I really can't do this, it's too {HUGE}... I strain my jaw, but I can't even take half the length...",
+        "The {BEASTLY} {BEASTCOCK} is red hot... So much hotter than a human {BEASTCOCK}, and already leaking pre-cum.",
+        "The {BEASTCOCK} tastes strange, I'm not sure if I like it or not, but there's no denying how {HORNY} I'm getting.",
+        "I'm already swallowing a constant stream of {THICK} pre-cum. What will it be like when it {EJACULATE}s?",
+        "The {BEASTCOCK} is {BEASTLY}, and I feel it hit the back of my throat with every thrust.",
+        "I can't believe I'm on my knees, {SUCK}ing a {MONSTER} like this... I'm such a {BITCH}..."
+    ],
+    "2nd Person": [
+        "You open as wide as you can, but you gag and splutter as the {BEASTLY} {BEASTCOCK} chokes you.",
+        "The {ACTIVE} takes control, a massive, clawed hand on top of your head to hold you while he {FUCK}s your {MOUTH}.",
+        "You really can't do this, it's too {HUGE}... You strain your jaw, but you can't even take half the length...",
+        "The {BEASTLY} {BEASTCOCK} is red hot... So much hotter than a human {BEASTCOCK}, and already leaking pre-cum.",
+        "The {BEASTCOCK} tastes strange, You're not sure if you like it or not, but there's no denying how {HORNY} you're getting.",
+        "You're already swallowing a constant stream of {THICK} pre-cum. What will it be like when it {EJACULATE}s?",
+        "The {BEASTCOCK} is {BEASTLY}, and you feel it hit the back of your throat with every thrust.",
+        "You can't believe you're on your knees, {SUCK}ing a {MONSTER} like this... You're such a {BITCH}..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} opens as wide as she can, but she gags and splutters as the {BEASTLY} {BEASTCOCK} chokes her.",
+        "The {ACTIVE} takes control, a massive, clawed hand on top of {PRIMARY}'s head to hold her while he {FUCK}s her {MOUTH}.",
+        "{PRIMARY} really can't do this, it's too {HUGE}... She strains her jaw, but she can't even take half the length...",
+        "The {BEASTLY} {BEASTCOCK} is red hot... So much hotter than a human {BEASTCOCK}, and already leaking pre-cum.",
+        "The {BEASTCOCK} tastes strange, {PRIMARY} is not sure if she likes it or not, but there's no denying how {HORNY} she's getting.",
+        "{PRIMARY} is already swallowing a constant stream of {THICK} pre-cum. What will it be like when it {EJACULATE}s?",
+        "The {BEASTCOCK} is {BEASTLY}, and {PRIMARY} feels it hit the back of her throat with every thrust.",
+        "{PRIMARY} can't believe she's on her knees, {SUCK}ing a {MONSTER} like this... She's such a {BITCH}..."
+    ]
+}

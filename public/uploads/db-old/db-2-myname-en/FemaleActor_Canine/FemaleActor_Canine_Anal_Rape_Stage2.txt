@@ -1,0 +1,43 @@
+{
+    "1st Person": [
+        "Still hanging onto my hips, {ACTIVE} drives his {BEAST} {COCK} into my {ASS}. It hurts so much...",
+        "Face down and ass high in the air, while an animal rapes my {ASS}... I'm so ashamed...",
+        "My eyes screw shut, my fists clench and I scream into the dirt as {ACTIVE} fucks me.",
+        "This is so wrong... I'm a good girl, I shouldn't be getting ass fucked by a dog...",
+        "Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off me now!",
+        "Oh my goodness, I'm being raped by a dog! Oh oh fuck! Oh it's too big! Ow ow ow ow! Pleeeeassse get off me!",
+        "(sob) I'm a good girl, this shouldn't be happening to me...",
+        "As I sob into the ground, I console myself with the knowledge that at least it's not my {PUSSY}...",
+        "{ACTIVE} whines and pushes another few inches of cockmeat into me, through my tight pink {ASS}.",
+        "Oh Gods... I'm... I'm almost there... already... Just a little bit more...",
+        "Each time he pulls back, the anxiety of the next thrust is overwhelming."
+    ],
+    "2nd Person": [
+        "Still hanging onto your hips, {ACTIVE} drives his {BEAST} {COCK} into your {ASS}. It hurts so much...",
+        "Face down and ass high in the air, while an animal rapes your {ASS}... you're so ashamed...",
+        "Your eyes screw shut, your fists clench and you scream into the dirt as {ACTIVE} fucks you.",
+        "This is so wrong... you're a good girl, you shouldn't be getting ass fucked by a dog...",
+        "({PRIMARY}) Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off me now!",
+        "Oh my goodness, you're being raped by a dog!",
+        "({PRIMARY}) Oh oh fuck! Oh it's too big! Ow ow ow! Pleeeeassse get off me!",
+        "You're a good girl, this shouldn't be happening to you...",
+        "As you sob into the ground, you console yourself with the knowledge that at least it's not your {PUSSY}...",
+        "{ACTIVE} whines and pushes another few inches of cockmeat into you, through your tight pink {ASS}.",
+        "Oh Gods... you're... you're almost there... already... Just a little bit more...",
+        "Each time he pulls back, the anxiety of the next thrust is overwhelming."
+    ],
+    "3rd Person": [
+        "Still hanging onto her hips, {ACTIVE} drives his {BEAST} {COCK} into her {ASS}. It looks like it hurts...",
+        "Face down and ass high in the air, while an animal rapes her {ASS}... {PRIMARY}'s face is red with shame...",
+        "{PRIMARY}'s eyes screw shut, her fists clench and she screams into the dirt as {ACTIVE} fucks her.",
+        "This is so wrong... {PRIMARY}'s a good girl, she shouldn't be getting ass fucked by a dog...",
+        "({PRIMARY}) Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off me now!",
+        "Oh my goodness, {PRIMARY}'s being raped by a dog!",
+        "({PRIMARY}) Oh oh fuck! Oh it's too big! Ow ow ow! Pleeeeassse get off me!",
+        "{PRIMARY}'s a good girl, this shouldn't be happening to her...",
+        "{PRIMARY} sobs into the ground. At least it's not her {PUSSY}...",
+        "{ACTIVE} whines and pushes another few inches of cockmeat into {PRIMARY}, through her tight pink {ASS}.",
+        "Oh Gods... She's... she's almost there... already... Just a little bit more... and she'll cum.",
+        "Each time he pulls back, the anxiety in {PRIMARY}'s face says it all."
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "1st Person": [
+        "Ughhhhh... I didn't know I could take so much cock.",
+        "Slowly, agonisingly, I watch my body accept his, his immense size bulging my flat tummy.",
+        "How much have I taken? It feels like there's so much inside of me...",
+        "AAAAAHHH! UUURGHH!! You're stretching my fucking womb!",
+        "Ahhh!!! Oh fuck that's big!",
+        "Burning with disgust at myself for what I've let happen, I wonder if some part of me wanted this.",
+        "Oh my goodness... I'm sure I can see the outline of the {ACTIVE}'s {COCK} on my belly...",
+        "I feel my body start to give in to the ravishings of the {BEAST} {COCK}.",
+        "The {ACTIVE}'s {COCK} is {BEAST}, I practically orgasm every time it pushes in and pulls out.",
+        "I moan as the {ACTIVE}'s {BEAST} {COCK} fills me. It's as thick as my leg...",
+        "I've had never had such an enormous one before, the sensation almost giving me an orgasm right away.",
+        "Please, just the head... I'm sorry but this is too much for me...",
+        "Oh Gods, I can't do this... his {COCK} is really too big... AAAHHHHH!",
+        "Ugh! Ahhhhhhh! The {ACTIVE}'s {COCK} makes me feel like a virgin again as it stretches my {PUSSY}...",
+        "How much have I taken? It feels like there's so much inside of me..."
+    ],
+    "2nd Person": [
+        "Ughhhhh... You didn't know you could take so much cock.",
+        "Slowly, agonisingly, you watch your body accept his, his immense size bulging your flat tummy.",
+        "How much have you taken? It feels like there's so much inside of you...",
+        "({PRIMARY}) AAAAAHHH! UUURGHH!! You're stretching my fucking womb!'",
+        "({PRIMARY}) Ahhh!!! Oh fuck that's big!",
+        "Burning with disgust at yourself for what you've let happen, you wonder if some part of you wanted this.",
+        "Oh my goodness... You're sure you can see the outline of the {ACTIVE}'s {COCK} on your belly...",
+        "You feel your body start to give in to the ravishings of the {BEAST} {COCK}.",
+        "The {ACTIVE}'s {COCK} is {BEAST}, you practically orgasm every time it pushes in and pulls out.",
+        "You moan as the {ACTIVE}'s {BEAST} {COCK} fills you. It's as thick as your leg...",
+        "You've had never had such an enormous one before, the sensation almost giving you an orgasm right away.",
+        "({PRIMARY}) Please, just the head... I'm sorry but this is too much for me...",
+        "Oh Gods, you can't do this... his {COCK} is really too big... AAAHHHHH!",
+        "Ugh! Ahhhhhhh! The {ACTIVE}'s {COCK} makes you feel like a virgin again as it stretches your {PUSSY}...",
+        "How much have you taken? It feels like there's so much inside of you..."
+    ],
+    "3rd Person": [
+        "({PRIMARY}) Ughhhhh... I didn't know I could take so much cock.",
+        "Slowly, agonisingly, {PRIMARY} watches her body accept his, his imhernse size bulging her flat tummy.",
+        "How much has {PRIMARY} taken? It looks like there's so much inside of her...",
+        "({PRIMARY}) AAAAAHHH! UUURGHH!! You're stretching my fucking womb!",
+        "({PRIMARY}) Ahhh!!! Oh fuck that's big!",
+        "Oh my goodness... the outline of the {ACTIVE}'s {COCK} can be seen on her belly...",
+        "The {ACTIVE}'s {COCK} is {BEAST}, {PRIMARY} practically orgasms every time it pushes in and pulls out.",
+        "{PRIMARY} moans as the {ACTIVE}'s {BEAST} {COCK} fills her. It's as thick as her leg...",
+        "Has {PRIMARY} ever had such an enormous one before? It looks like she's having an orgasm almost immediately!",
+        "({PRIMARY}) Please, just the head... I'm sorry but this is too much for me...",
+        "({PRIMARY}) Oh Gods, I can't do this... that {COCK} is really too big... AAAHHHHH!"
+    ]
+}

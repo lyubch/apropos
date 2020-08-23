@@ -1,0 +1,38 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} drops down onto me, crushing my hips to the ground, never letting up the pounding in my {ASSHOLE}.",
+        "All the breath is knocked out of me as I lie flat, the {ACTIVE} {FUCK}ing even harder into me.",
+        "My legs are forced together, and the {ACTIVE}'s {COCK} feels even bigger as it {FUCK}s into my {ASSHOLE}.",
+        "I lift my head to {SCREAM}, but nothing comes out, all my energy stolen by the {ROUGH} fucking.",
+        "The {ACTIVE} twists my arms painfully behind my back, even as his {COCK} thrusts harder into my {ASSHOLE}.",
+        "({ACTIVE}) Keep struggling, {BITCH}, it's a real turn on.",
+        "{ACTIVE} smashes his {HUGE} {COCK} against me again and again, each time spreading my {ASSHOLE} further.",
+        "({ACTIVE}) No one's going to come save you. Everyone's gonna get a turn on you!",
+        "I can feel my {ASSHOLE} being {FUCK}ed looser.",
+        "The {ACTIVE} {RAP}es me hard, taking long, steady thrusts that bring me near to tears.",
+        "({ACTIVE}) I'm touching parts of you no man has ever touched, or probably will ever touch.",
+        "I want it! I want to suck my {ASSHOLE} from your {COCK}! It's the nastiest thing I've ever said."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} drops down, crushing your hips to the ground, never letting up the pounding in your {ASSHOLE}.",
+        "All the breath is knocked out of you as you lie flat, the {ACTIVE} {FUCK}ing even harder into you.",
+        "Your legs are forced together, and the {ACTIVE}'s {COCK} feels even bigger as it {FUCK}s into your {ASSHOLE}.",
+        "You lift your head to {SCREAM}, but nothing comes out, all your energy stolen by the {ROUGH} fucking.",
+        "The {ACTIVE} twists your arms painfully behind your back, even as his {COCK} thrusts harder into your {ASSHOLE}.",
+        "({ACTIVE}) Keep struggling, {BITCH}, it's a real turn on.",
+        "{ACTIVE} smashes his {HUGE} {COCK} against you again and again, each time spreading your {ASSHOLE} further.",
+        "({ACTIVE}) No one's going to come save you. Everyone's gonna get a turn on you!",
+        "You can feel your {ASSHOLE} being {FUCK}ed looser.",
+        "The {ACTIVE} {FUCK}s you hard, taking long, steady thrusts that bring you near to tears.",
+        "({ACTIVE}) I'm touching parts of you no man has ever touched, or probably will ever touch.",
+        "({PRIMARY}) I want it! I want to suck my {ASSHOLE} from your {COCK}!"
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} comes down hard on {PRIMARY}, pushing her hips to the ground and his {COCK} even deeper.",
+        "The {ACTIVE} holds {PRIMARY}'s arms with one hand, and his hips are a blur as he pounds into her.",
+        "{PRIMARY}'s {BOOBS} are crushed flat into the dirt, and her arms are twisted awkwardly behind her back."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "So many men ... are going to make me their {BITCH}!",
+        "So many {VILE} {COCK}s prepare to {FUCK} me.",
+	"I knew when I came here that there were {HORNY} men who would {RAP}e me if given a chance. This is my own fault.",
+        "({ACTIVE}) We were hoping to find a dwemer sexbot, but I think you're the next best thing."
+    ],
+    "2nd Person": [
+        "So many men ... are going to make you their {BITCH}!",
+        "So many {VILE} {COCK}s prepare to {FUCK} you.",
+	"You knew when you came here that there were {HORNY} men who would {RAP}e you if given a chance. This is your own fault.",
+        "({ACTIVE}) We were hoping to find a dwemer sexbot, but I think you're the next best thing."
+    ],
+    "3rd Person": [
+        "So many men ... are going to make {PRIMARY} their {BITCH}!",
+        "So many {VILE} {COCK}s prepare to {FUCK} {PRIMARY}.",
+	"She knew when she came here that there were {HORNY} men who would {RAP}e her if given a chance. This is her own fault."   ,
+        "({ACTIVE}) We were hoping to find a dwemer sexbot, but I think you're the next best thing."    
+    ]
+}

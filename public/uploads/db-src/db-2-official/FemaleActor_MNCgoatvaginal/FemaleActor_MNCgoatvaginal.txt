@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "Curiously, the goat just sits upright as I approach. I gasp as its {BEAST} {BEASTCOCK} is brought into view...",
+        "It's strange to see a goat stand it's ground when I approach... stranger still to see one with a raging hard-on!",
+        "Oh to hell with it, I guess it's this goat's lucky day.",
+        "Shamelessly, the {ACTIVE} presents it's {BEAST} {COCK}. He is clearly in need of some attention...",
+        "The {ACTIVE}'s {COCK} is hard it looks almost painful... I suppose I could help him out..."
+    ],
+    "2nd Person": [
+        "Curiously, the goat just sits upright as you approach. You gasp as its {BEAST} {BEASTCOCK} is brought into view...",
+        "It's strange to see a goat stand it's ground when you approach... stranger still to see one with a raging hard-on!",
+        "Oh to hell with it, you guess it's this goat's lucky day.",
+        "Shamelessly, the {ACTIVE} presents it's {BEAST} {COCK}. He is clearly in need of some attention...",
+        "The {ACTIVE}'s {COCK} is hard it looks almost painful... You suppose you could help him out..."
+    ],
+    "3rd Person": [
+        "Curiously, the goat just sits upright as {PRIMARY} approaches. She gasps as its {BEAST} {BEASTCOCK} is brought into view...",
+        "It's strange to see a goat stand it's ground when {PRIMARY} approaches... stranger still to see one with a raging hard-on!",
+        "Oh to hell with it, {PRIMARY} guesses it's this goat's lucky day.",
+        "Shamelessly, the {ACTIVE} presents it's {BEAST} {COCK}. He is clearly in need of some attention...",
+        "The {ACTIVE}'s {COCK} is hard it looks almost painful... {PRIMARY} supposes you could help him out..."
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "1st Person" :
+    [
+        "I wonder if this means {ACTIVE} is the kind of girl who takes it up the {ASS} herself?",
+        "({ACTIVE}) You wanted a {COCK}, you little {BITCH}, here's a {COCK} for you!"
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

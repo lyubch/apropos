@@ -1,0 +1,40 @@
+{
+    "1st Person": [
+        "My body is tilted upwards, sliding down more heavily onto the beast's {COCK}.",
+        "My teeth clench painfully, tears streaming down my face from tightly shut eyes.",
+        "I grit my teeth and strain as more of the beast enters me.",
+        "This is too cruel, is this really my fate?",
+        "I need help, I'll never survive being fucked by something so big.",
+        "({ACTIVE}) Such a pathetic creature is not worthy of the Voice. Your meek cries are evidence of this.",
+        "({ACTIVE}) Your Shouts were weak, Dovahkiin. Here, let me help you find your Voice! Scream for me!",
+        "My {BOOBS} and clit rub fiercely against the beast's scales. There's a lot of pain, and a little pleasure.",
+        "I shouldn't be surprised at this, a dragon fucking a human girl... This must be my heritage...",
+        "The {ACTIVE} doesn't go easy on my tiny human body, and pounds me violently.",
+        "Each colossal thrust pounds into my cervix, rocking my whole body forwards painfully."
+    ],
+    "2nd Person": [
+        "Your body is tilted upwards, sliding down more heavily onto the beast's {COCK}.",
+        "Your teeth clench painfully, tears streaming down your face from tightly shut eyes.",
+        "You grit your teeth and strain as more of the beast enters you.",
+        "This is too cruel, is this really your fate?",
+        "You need help, you'll never survive being fucked by something so big.",
+        "({ACTIVE}) Such a pathetic creature is not worthy of the Voice. Your meek cries are evidence of this.",
+        "({ACTIVE}) Your Shouts were weak, Dovahkiin. Here, let me help you find your Voice! Scream for me!",
+        "Your {BOOBS} and clit rub fiercely against the beast's scales. There's a lot of pain, and a little pleasure.",
+        "You shouldn't be surprised at this, a dragon fucking a human girl... This must be your heritage...",
+        "The {ACTIVE} doesn't go easy on your tiny human body, and pounds you violently.",
+        "Each colossal thrust pounds into your cervix, rocking your whole body forwards painfully."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s body is tilted upwards, sliding down more heavily onto the beast's {COCK}.",
+        "{PRIMARY}'s teeth clench painfully, tears streaming down her face from tightly shut eyes.",
+        "{PRIMARY} grits her teeth and strains as more of the beast enters her.",
+        "This is too cruel, is this really {PRIMARY}'s fate?",
+        "{PRIMARY} needs help, she'll never survive being fucked by something so big.",
+        "({ACTIVE}) Such a pathetic creature is not worthy of the combat. Your meek cries are evidence of this.",
+        "Her {BOOBS} and clit rub fiercely against the beast's scales.",
+        "It's not surprising, a dragon fucking a human girl... This must be how Dragonborn are made...",
+        "The {ACTIVE} doesn't go easy on {PRIMARY}'s tiny human body, and pounds her violently.",
+        "Each colossal thrust pounds into {PRIMARY}'s hips, rocking her whole body forwards painfully."
+    ]
+}

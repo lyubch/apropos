@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "I can see the slimy {COCK} of {ACTIVE}, slowly opening and exploring my {FAROUSAL} {PUSSY}. Am I having second thoughts?",
+        "You are a gross creature, but even you need to breed, go on then, mate with me.",
+        "Legs open to a rat, waiting it to fill my {PUSSY} with its {VILE} {COCK}, I am not sure if I am excited or disgusted.",
+        "The tip of its {COCK} is touching and entering lightly inside my {PUSSY}, I wonder how it will feel when its ball-deep",
+        "{ACTIVE}'s {VILE} sight is on top of me, its saliva dropping down on my {BOOBS}, and its {COCK} prodding and feeling my {PUSSY}.",
+        "You poor little rodent, you must be craving for a release, you can relieve your {COCK} in my {PUSSY}.",
+        "Ahh, you don't lose time do you? Go on then, take my {FAROUSAL} {PUSSY}.",
+        "If you bite, you won't be {CUMMING} in this {PUSSY}, so be nice and {FUCK} like a good boy.",
+        "I am amazed to see such a large {COCK} from a relatively small rat, or is it just for me?",
+	"The smell and sight of this {ACTIVE} is revolting, it better give me a good {FUCKING} to make up for it."        
+    ],
+    "2nd Person" :
+    [
+        "You can see the slimy {COCK} of {ACTIVE}, slowly opening and exploring your {FAROUSAL} {PUSSY}. Are you having second thoughts?",
+        "Legs open to a rat, waiting it to fill your {PUSSY} with its {VILE} {COCK}, You are not sure if you are excited or disgusted.",
+        "The tip of its {MAROUSAL} {COCK} is touching and entering lightly inside your {PUSSY}, You wonder how it will feel when its ball-deep",
+        "{ACTIVE}'s {VILE} sight is on top of you, its saliva dropping down on your {BOOBS}, and its {COCK} prodding and feeling your {PUSSY}.",
+        "You are amazed to see such a large {COCK} from a relatively small rat, or is it just for you?",
+	"The smell and sight of this {ACTIVE} is revolting, you hope it gives you a good {FUCKING} to make up for it."  
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} opens up her legs to invite {ACTIVE} inside her {PUSSY}, {ACTIVE} eagerly proceeds.",
+        "{ACTIVE} begins to prod {PRIMARY}'s {PUSSY} in delight.",
+	"The gooey {COCK} of {ACTIVE] begins to explore between {PRIMARY}'s legs"
+    ]
+}

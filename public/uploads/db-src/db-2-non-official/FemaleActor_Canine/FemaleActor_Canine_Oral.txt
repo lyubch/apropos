@@ -1,0 +1,14 @@
+{
+    "1st Person" :
+    [
+        "Before I realize what I'm doing, I'm {SUCK}ing dog {COCK}."
+    ],
+    "2nd Person" :
+    [
+        "Before you realize what you're doing, you're {SUCK}ing dog {COCK}."
+    ],
+    "3rd Person" :
+    [
+        "Before she realizes what she's doing, she's {SUCK}ing dog {COCK}."
+    ]
+}

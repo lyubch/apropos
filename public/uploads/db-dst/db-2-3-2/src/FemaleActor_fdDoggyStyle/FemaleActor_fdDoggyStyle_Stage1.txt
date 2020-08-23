@@ -1,0 +1,28 @@
+{
+    "1st Person": [
+        "({ACTIVE}) C'mon {BITCH}, get my {COCK} nice and {WET} before I stick it up your {ASSHOLE}.",
+        "I drop to one knee and begin to {SUBMISSIVE}ly service {ACTIVE}'s {SALTY} {COCK}.",
+        "The way {ACTIVE} looks down at me while I {SUCK} his {COCK}... It turns me on...",
+        "Knowing that {ACTIVE} wants to have my {ASSHOLE}, I work on making his {HUGE} {COCK} as wet as possible.",
+        "I pump my hand around {ACTIVE}'s {COCK}, twisting my head around his {HUGE} cockhead.",
+        "Oh my, he's {HUGE}! If this is going up my {ASSHOLE}, I need to get it wet first...",
+        "({ACTIVE}) You can suck my {COCK} {BITCH}, or it's going in dry. Your choice.",
+        "I lower myself and {ACCEPT} {ACTIVE} into my {MOUTH}."
+    ],
+    "2nd Person": [
+        "({ACTIVE}) C'mon {BITCH}, get your {COCK} nice and {WET} before I stick it up your {ASSHOLE}.",
+        "You drop to one knee and begin to {SUBMISSIVE}ly service {ACTIVE}'s {SALTY} {COCK}.",
+        "The way {ACTIVE} looks down at you while you {SUCK} his {COCK}... It turns you on...",
+        "Knowing that {ACTIVE} wants to have your {ASSHOLE}, you work on making his {HUGE} {COCK} as wet as possible.",
+        "You pump your hand around {ACTIVE}'s {COCK}, twisting your head around his {HUGE} cockhead.",
+        "Oh my, he's {HUGE}! If this is going up your {ASSHOLE}, you need to get it wet first...",
+        "({ACTIVE}) You can suck my {COCK} {BITCH}, or it's going in dry. Your choice.",
+        "You lower yourself and {ACCEPT} {ACTIVE} into your {MOUTH}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} drops to one knee, taking {ACTIVE}'s {HUGE} {COCK} in hand and begins {SUCK}ing it.",
+        "({ACTIVE}) looks down with approval as {PRIMARY} starts to work his {HUGE} {COCK}.",
+        "({ACTIVE}) C'mon {BITCH}, get my {COCK} nice and {WET} before I stick it up your {ASSHOLE}.",
+        "{PRIMARY} looks like she enjoys {SUCK}ing {COCK}, the way she's {SUCK}ing and twisting it like that."
+    ]
+}

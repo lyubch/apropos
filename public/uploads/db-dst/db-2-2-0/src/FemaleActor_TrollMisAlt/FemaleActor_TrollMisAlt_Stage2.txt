@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} continues to fuck me in slow, sharp strokes, its {COCK} so big I know I'm going to cum.",
+        "My legs spread maddeningly wide with every deep, painful stroke of the beast's {COCK}, my orgasm building.",
+        "I squeeze my breast a little with every thrust, loving the thickness and hardness of the {ACTIVE}'s {PENIS}.",
+        "It's perverse, the sensation of my stomach bulging every time the {BEAST} {COCK} fills me...",
+        "Yes... in all the way... I can take it... I want it...",
+        "The beast drives into me while pulling me to him, its huge muscled body engulfing my small frame."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} continues to fuck you in slow, sharp strokes, its {COCK} so big you know you're going to cum.",
+        "Your legs spread maddeningly wide with every deep, painful stroke of the beast's {COCK}, your orgasm building.",
+        "You squeeze your breast a little with every thrust, loving the thickness and hardness of the {ACTIVE}'s {PENIS}.",
+        "It's perverse, the sensation of your stomach bulging every time the {BEAST} {COCK} fills you...",
+        "({PRIMARY}) Yes... in all the way... I can take it... I want it...",
+        "The beast drives into you while pulling you to him, its huge muscled body engulfing your small frame."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE}'s {COCK} pulls most of the way out of {PRIMARY} before the next deep stroke plunges back in.",
+        "The {ACTIVE} continues to fuck {PRIMARY} in slow, sharp strokes, its {COCK} so big that it's a wonder she can take it...",
+        "{PRIMARY}'s legs spread wide with every deep, painful-looking stroke of the beast's {COCK}."
+    ]
+}

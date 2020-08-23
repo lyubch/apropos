@@ -1,0 +1,53 @@
+{
+    "1st Person": [
+        "My thighs open further as the {MONSTER} presses against my {PENETRAT}ed {PUSSY}.",
+        "I'm lost to {LUST}, pleasurable despite how {VILE} it may be.",
+        "I feel sick as the {DEAD} {COCK} moves within me.",
+        "The {ACTIVE} gropes me {ROUGH}ly as he {RAP}es me, my body recoiling at the touch.",
+        "Its hands feel bony and wet as it {ROUGH}ly gropes my {HEAVING} {FLESH}. I {STRUGGLE} vainly at the touch.",
+        "The {DEAD} {MONSTER} {FUCK}s away, thrusting himself into my {WTVAGINAL} {PUSSY}.",
+        "I feel myself clench around the {DEAD} flesh buried between my legs.",
+        "The {ACTIVE} gazes {ROUGH}ly down at me, seemingly relishing the sight of my {HEAVING} {FLESH}.",
+        "Its mouth hangs open, washing rancid breath across me. I {SCREAM}.",
+        "The {ACTIVE}'s hips rock {LEWD}ly between my thighs, as it pushes deeper into my {PUSSY}.",
+        "I stare, {MOAN}ing uncontrollably as my {FLESH} is filled with the {DEAD} {MONSTER}'s {COCK}.",
+        "Wet, slurping sound fills the room as the {MONSTER} pushes down into me, {FUCK}ing into me over and over.",
+        "The flesh of the thing writhes as untold numbers of maggots and worms fall from his {DEAD} {COCK}.",
+        "The {DEAD} {MONSTER} growls in {LUST}, enjoying the sensation of my tightness around it.",
+        "Bony fingers tighten around my {FLESH} as the {MONSTER} {RAP}es me.",
+        "The {ACTIVE} speaks in an unknown tongue, and I feel my {WTVAGINAL} {PUSSY} start to gush.",
+        "I want to say that I fought it off, that I resisted. But no, I lie here and let a corpse {FUCK} me.",
+        "The {MONSTER}'s flesh is severely rotted with gaping holes {DISPLAY}ing muscle, guts, and maggots beneath.",
+        "Its gut is torn open and the organs within squirm {VILE}ly, oozing down.",
+        "NOOO!!! I don't want this!",
+        "Growling in {LUST}, the {DEAD} {MONSTER} begins to {SLOW}ly {FUCK} himself into me."
+    ],
+    "2nd Person": [
+        "Your thighs open further as the {MONSTER} presses against your {PENETRAT}ed {PUSSY}.",
+        "You're lost to {LUST}, pleasurable despite how {VILE} it may be.",
+        "You feel sick as the {DEAD} {COCK} moves within you.",
+        "The {ACTIVE} gropes you {ROUGH}ly as he {RAP}es you, your body recoiling at the touch.",
+        "Its hands feel bony and wet as it {ROUGH}ly gropes your {HEAVING} {FLESH}. You {STRUGGLE} vainly at the touch.",
+        "The {DEAD} {MONSTER} {FUCK}s away, thrusting himself into your {WTVAGINAL} {PUSSY}.",
+        "You feel yourself clench around the {DEAD} flesh buried between your legs.",
+        "The {ACTIVE} gazes {ROUGH}ly down at you, seemingly relishing the sight of your {HEAVING} {FLESH}.",
+        "Its mouth hangs open, washing rancid breath across you. You {SCREAM}.",
+        "The {ACTIVE}'s hips rock {LEWD}ly between your thighs, as it pushes deeper into your {PUSSY}.",
+        "You stare, {MOAN}ing uncontrollably as your {FLESH} is filled with the {DEAD} {MONSTER}'s {COCK}.",
+        "Wet, slurping sound fills the room as the {MONSTER} pushes down into you, {FUCK}ing into you over and over.",
+        "The flesh of the thing writhes as untold numbers of maggots and worms fall from his {DEAD} {COCK}.",
+        "The {DEAD} {MONSTER} growls in {LUST}, enjoying the sensation of your tightness around it.",
+        "Bony fingers tighten around your {FLESH} as the {MONSTER} {FUCK}s you.",
+        "The {ACTIVE} speaks in an unknown tongue, and you feel your {WTVAGINAL} {PUSSY} start to gush.",
+        "You want to say that you fought it off, that you resisted. But no, you lie there and let a corpse {FUCK} you.",
+        "The {MONSTER}'s flesh is severely rotted with gaping holes {DISPLAY}ing muscle, guts, and maggots beneath.",
+        "Its gut is torn open and the organs within squirm {VILE}ly, oozing down.",
+        "NOOO!!! You don't want this!",
+        "Growling in {LUST}, the {DEAD} {MONSTER} begins to {SLOW}ly {FUCK} himself into you."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s thighs open further as the {MONSTER} presses against her {PENETRAT}ed {PUSSY}.",
+        "{PRIMARY}'s lost to {LUST}, pleasurable despite how {VILE} it may be.",
+        "{PRIMARY} feels sick as the {DEAD} {COCK} moves within her."
+    ]
+}

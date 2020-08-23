@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I watch from between my legs as the wolves stand off for a moment, finally spinning around to leave my {MOUTH} free for fucking.",
+        "I {MOAN} at the sensation as the wolf turns while still buried inside me, leaving my {MOUTH} wide for the other's {COCK} to fill.",
+        "The wolf works his way above me, dropping his {COCK} right into my {MOUTH}. The other doesn't stop {FUCK}ing, even as he spins around.",
+        "It takes some shuffling, but the two wolves eventually work it out, now {FUCK}ing my {PUSSY} and {MOUTH} with vigor.",
+        "I pant quietly as they {FUCK}ing pauses for a moment, the wolves repositiong to leave my {MOUTH} free for fucking.",
+        "Working together like true packmates, the wolf flips around to let the other {FUCK} my {MOUTH} while he keeps using my {PUSSY}."
+    ],
+    "2nd Person": [
+        "You watch from between your legs as the wolves stand off for a moment, finally spinning around to leave your {MOUTH} free for fucking.",
+        "You {MOAN} at the sensation as the wolf turns while still buried inside you, leaving your {MOUTH} wide for the other's {COCK} to fill.",
+        "The wolf works his way above you, dropping his {COCK} right into your {MOUTH}. The other doesn't stop {FUCK}ing, even as he spins around.",
+        "It takes some shuffling, but the two wolves eventually work it out, now {FUCK}ing your {PUSSY} and {MOUTH} with vigor.",
+        "You pant quietly as they {FUCK}ing pauses for a moment, the wolves repositiong to leave your {MOUTH} free for fucking.",
+        "Working together like true packmates, the wolf flips around to let the other {FUCK} your {MOUTH} while he keeps using your {PUSSY}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} watches from between her legs as the wolves stand off for a moment, finally spinning around to leave her {MOUTH} free for fucking.",
+        "{PRIMARY} {MOAN}s at the sensation as the wolf turns while still buried inside her, leaving her {MOUTH} wide for the other's {COCK} to fill.",
+        "The wolf works his way above {PRIMARY}, dropping his {COCK} right into her {MOUTH}. The other doesn't stop {FUCK}ing, even as he spins around.",
+        "It takes some shuffling, but the two wolves eventually work it out, now {FUCK}ing {PRIMARY}'s {PUSSY} and {MOUTH} with vigor.",
+        "{PRIMARY} {MOAN}s quietly as they {FUCK}ing pauses for a moment, the wolves repositiong to leave her {MOUTH} free for fucking.",
+        "Working together like true packmates, the wolf flips around to let the other {FUCK} {PRIMARY}'s {MOUTH} while he keeps using her {PUSSY}."
+    ]
+}

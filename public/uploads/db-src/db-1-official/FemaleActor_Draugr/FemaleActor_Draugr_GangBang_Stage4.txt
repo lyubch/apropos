@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "The vile Draugr want my body! Every {OPENING} is being filled...",
+        "The Cursed grab me and force themselves into my body...",
+        "By Mara! I am being raped by them ALL!"
+    ],
+    "2nd Person": [
+        "The vile Draugr want your body! Every {OPENING} is being filled...",
+        "The Cursed grab you and force themselves into your body...",
+        "By Mara! You are being raped by them ALL!"
+    ],
+    "3rd Person": [
+        "The vile Draugr want {PRIMARY}'s body! Every {OPENING} is being filled...",
+        "The Cursed grab {PRIMARY} and force themselves into her body...",
+        "By Mara! {PRIMARY} is being raped by them ALL!"
+    ]
+}

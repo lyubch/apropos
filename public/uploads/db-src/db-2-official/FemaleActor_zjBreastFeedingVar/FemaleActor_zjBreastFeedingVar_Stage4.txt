@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "Mmmm... Okay, {ACTIVE}, it's your turn. I want you to take this {HUGE} {COCK}, and fuck me hard with it.",
+        "Oh Gods, I'm so turned on. I'm {FAROUSAL}, just from playing with his {PENIS} and having my {BOOBS} sucked!",
+        "I never knew having my nipples sucked could have this effect on me. I'm so {FAROUSAL}...",
+        "My heart is racing. I'm hot and scared, nervous at what might happen next.",
+        "I'm beside myself with lust now, desperate to climb onto {ACTIVE}'s {PENIS}, and he knows it.",
+        "Mmmm... Oh Gods... Could you... fuck me? Please...? You can do it in any {OPENING}..."        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Okay, {ACTIVE}, it's your turn. I want you to take this {HUGE} {COCK}, and fuck me hard with it.",
+        "Gods, you're so turned on. You're {FAROUSAL}, just from playing with his {PENIS} and having your {BOOBS} sucked!",
+        "You never knew having your nipples sucked could have this effect on you. You're so {FAROUSAL}...",
+        "Your heart is racing. You're hot and scared, nervous at what might happen next.",
+        "You're beside yourself with lust now, desperate to climb onto {ACTIVE}'s {PENIS}, and he knows it.",
+        "({PRIMARY}) Mmmm... Oh Gods... Could you... fuck me? Please...? You can do it in any {OPENING}..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s chest is flushed, and her exposed nipple looks huge and sore. She must be getting horny...",
+        "The look of hunger on {PRIMARY}'s face as she stares at {ACTIVE}'s {PENIS} says she wants to fuck him...",
+        "{ACTIVE}'s {HUGE} {PENIS} looks so enticing... {PRIMARY} better hurry up and sit on it, or someone else will!"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "1st Person" :
+    [
+        "I lie down and make myself comfortable, my legs spread for him. He wastes no time.",
+        "I move one leg to the side, spread just enough that {ACTIVE} can enter me.",
+        "{ACTIVE} very slowly eases his {PENIS} in and out of my {FAROUSAL} {PUSSY}.",
+        "{ACTIVE} doesn't even wait for me to spread out for him, he just climbs on top of me and pushes in.",
+        "{ACTIVE} looms over me, and I smile as he starts pumping his {COCK} steadily into my {PUSSY}.",
+        "I don't spread my legs wide enough for {ACTIVE} to fuck me too deep. Not yet, anyway.",
+        "I recline comfortably, content to let {ACTIVE} do all the work.",
+        "I prop myself up, smiling up at this big hard man pumping steadily into my {PUSSY}.",
+        "I thoroughly enjoy myself, thrilling in having a big strong man service me for a change!",
+        "What...? Only the tip? Baby please... fuck me... put it all the way in...! I neeeeed it!",
+        "I spread my legs, baring everything to {ACTIVE}. I'm so hot and wet and open for you, I moan.",
+        "If you give me twenty septims, I'll call you daddy right before you cum in me.",
+        "I have a hung guy and nothing in the world to do but fuck like a whore. It's wonderful!",
+        "({ACTIVE}) C'mon, {BITCH}, spread your legs for me!"
+    ],
+    "2nd Person" :
+    [
+        "You lie down and make yourself comfortable, your legs spread for him. He wastes no time.",
+        "You move one leg to the side, spread just enough that {ACTIVE} can enter you.",
+        "{ACTIVE} very slowly eases his {PENIS} in and out of your {FAROUSAL} {PUSSY}.",
+        "{ACTIVE} doesn't even wait for you to spread out for him, he just climbs on top of you and pushes in.",
+        "{ACTIVE} looms over you, and you smile as he starts pumping his {COCK} steadily into your {PUSSY}.",
+        "You don't spread your legs wide enough for {ACTIVE} to fuck you too deep. Not yet, anyway.",
+        "You recline comfortably, content to let {ACTIVE} do all the work.",
+        "You prop yourself up, smiling up at this big hard man pumping steadily into your {PUSSY}.",
+        "You thoroughly enjoy yourself, thrilling in having a big strong man service you for a change!",
+        "({PRIMARY}) What...? Only the tip? Baby please... fuck me... put it all the way in...! I neeeeed it!",
+        "You spread your legs, baring everything to {ACTIVE}. I'm so hot and wet and open for you, you moan.",
+        "({PRIMARY}) If you give me twenty septims, I'll call you daddy right before you cum in me.",
+        "You have a hung guy and nothing in the world to do but fuck like a whore. It's wonderful!",
+        "({ACTIVE}) C'mon, {BITCH}, spread your legs for me!"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} seems a little frustrated, trying to get a better angle to fuck a little deeper.",
+        "{PRIMARY} is obviously enjoying the attention, smiling as {ACTIVE} fucks her slowly.",
+        "{PRIMARY} seems relaxed, her legs only spread slightly as {ACTIVE} pushes inside her.",
+        "That looks good, a hot little {BITCH} letting a big strong man do all the work!",
+        "It looks deliciously decadent, {PRIMARY} relaxing while {ACTIVE} services her!"
+    ]
+}

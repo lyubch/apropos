@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "The {ACTIVE} pounds into me in a frenzy, leaving me with nothing to do but steal breaths when I can.",
+        "I try to relax, even as his knot draws ever closer. I'll need my strength back to escape once he's done with me...",
+        "I'm already swallowing a constant stream of {THICK} pre-cum. I'm going to drown when he finally {CUMS}...",
+        "My eyes are watering now, the {ACTIVE}'s fast, deep strokes punishing my {WTORAL} {MOUTH}.",
+        "Is it already {CUMMING}? Please tell me it's over... It's so thick... This can't just be precum...",
+        "Pinned beneath this wolf as he has his way with my mouth, anything could take advantage of my other holes!"
+    ],
+    "2nd Person": [
+        "The {ACTIVE} pounds into you in a frenzy, leaving you with nothing to do but steal breaths when you can.",
+        "You try to relax, even as his knot draws ever closer. You'll need your strength back to escape once he's done with you...",
+        "You're already swallowing a constant stream of {THICK} pre-cum. You're going to drown when he finally {CUMS}...",
+        "Your eyes are watering now, the {ACTIVE}'s fast, deep strokes punishing your {WTORAL} {MOUTH}.",
+        "Is it already {CUMMING}? Please say it's over... It's so thick... This can't just be precum...",
+        "Pinned beneath this wolf as he has his way with your mouth, anything could take advantage of your other holes!"
+    ],
+    "3rd Person": [
+        "The {ACTIVE} pounds into {PRIMARY} in a frenzy, leaving her with nothing to do but steal breaths when she can.",
+        "{PRIMARY} tries to relax, even as his knot draws ever closer. She'll need her strength back to escape once he's done with her...",
+        "She's already swallowing a constant stream of {THICK} pre-cum. {PRIMARY} is going to drown when he finally {CUMS}...",
+        "{PRIMARY}'s eyes are watering now, the {ACTIVE}'s fast, deep strokes punishing her {WTORAL} {MOUTH}.",
+        "Is it already {CUMMING}? Please say it's over... It's so thick... This can't just be pre-cum...",
+        "Pinned beneath this wolf as he has his way with {PRIMARY}'s mouth, anything could take advantage of her other holes!"
+    ]
+}

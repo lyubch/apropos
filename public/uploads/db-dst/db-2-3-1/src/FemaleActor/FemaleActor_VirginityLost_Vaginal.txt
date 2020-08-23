@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "I'm a sweaty mess, and it really hurts down there, but I kinda liked it...",
+        "They say you can't get pregnant the first time... Is that really true?",
+	"I'm filled with both {CUM} and {LOVE} for the first time.",
+	"({PRIMARY}) If I'm pregnant we'll get married, right? Right?",
+	"I'm so glad I stopped pretending I didn't want it in my {PUSSY}."
+    ],
+    "2nd Person": [
+        "You're a sweaty mess, and it really hurts down there, but you kinda liked it...",
+        "They say you can't get pregnant the first time... Is that really true?",
+	"You're filled with both {CUM} and {LOVE} for the first time.",
+	"({PRIMARY}) If I'm pregnant we'll get married, right? Right?",
+	"You're so glad you stopped pretending you didn't want it in your {PUSSY}."
+    ],
+    "3rd Person": [
+        "A little blood trickles from between {PRIMARY}'s legs. That was her first time...",
+	"({PRIMARY}) If I'm pregnant we'll get married, right? Right?"
+    ]
+}

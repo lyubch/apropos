@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} is rock hard and nice and wet. Time to get fucked...",
+        "I slurp the length of {ACTIVE}'s {COCK}, and feel it pulsing in my hand. I want it inside me.",
+        "({ACTIVE}) If you keep going like that, I'm gonna cum! Spread your legs, {BITCH}!",
+        "I gaze at the {HUGE} {COCK} towering above me. Will I really be able to take all this?",
+        "Oh Gods... I want it inside me..."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} is rock hard and nice and wet. Time to get fucked...",
+        "You slurp the length of {ACTIVE}'s {COCK}, and feel it pulsing in your hand. You want it inside you.",
+        "({ACTIVE}) If you keep going like that, I'm gonna cum! Spread your legs, {BITCH}!",
+        "You gaze at the {HUGE} {COCK} towering above you. Will you really be able to take all that?",
+        "({PRIMARY}) Oh Gods... I want it inside me..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} slurps up and down {ACTIVE}'s {COCK}, wanking him slowly.",
+        "The look in {PRIMARY}'s eyes says she's not going to be satisfied with a mouthful of {CUM}."
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "({ACTIVE}) Faster, {BITCH}, haven't you ever ridden a man before?",
+        "His hips urge me to {JIGGL}e faster, and my {BOOBS} {JIGGL}e heavily. He seems pleased at that.",
+        "I push my body to {FUCK} him faster, {HORNY} for him to finish and let me go.",
+        "A strong thrust pushes me forward, before the {ACTIVE} {FUCK}s up into me hard and fast.",
+        "({ACTIVE}) {FUCK} me like you {FUCK} your {MFAMILY}, I bet you're a really {LEWD} {BITCH} for him!",
+        "{ACTIVE} starts {INSERT}ing his {COCK} in and out, and I'm shocked to discover it feels really good...",
+        "({ACTIVE}) You have a pretty cute {SCREAM}, let me hear more of it!",
+        "I decide to give him what he wants. What we both want, if I'm really honest with myself."
+    ],
+    "2nd Person": [
+        "({ACTIVE}) Faster, {BITCH}, haven't you ever ridden a man before?",
+        "His hips urge you to {JIGGL}e faster, and your {BOOBS} {JIGGL}e heavily. He seems pleased at that.",
+        "You push your body to {FUCK} him faster, {HORNY} for him to finish and let you go.",
+        "A strong thrust pushes you forward, before the {ACTIVE} {FUCK}s up into you hard and fast.",
+        "({ACTIVE}) {FUCK} me like you {FUCK} your {MFAMILY}, I bet you're a really {LEWD} {BITCH} for him!",
+        "{ACTIVE} starts {INSERT}ing his {COCK} in and out, and you're shocked to discover it feels really good...",
+        "({ACTIVE}) You have a pretty cute {SCREAM}, let me hear more of it!",
+        "You decide to give him what he wants. What you both want, if you're really honest with yourself."
+    ],
+    "3rd Person": [
+        "{PRIMARY} starts to {JIGGL}e faster, her {BOOBS} {JIGGL}ing in time with the {ACTIVE}'s thrusts.",
+        "{PRIMARY} leans forward, possibly trying to ease the pain, but the {ACTIVE} just {FUCK}s her harder.",
+        "{PRIMARY} is {JIGGL}ing really hard, her {HEAVING} {BOOBS} flushed and red. She almost seems {ACCEPTING}.",
+        "Moving faster now, {PRIMARY}'s face is pained, and her breathing is ragged.",
+        "{PRIMARY} can't help but let out a little gasp and a {SCREAM} when the {ACTIVE} {FUCK}s hard into her."
+    ]
+}

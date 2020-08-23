@@ -1,0 +1,19 @@
+{
+    "1st Person": [
+        "With a grunt, {PRIMARY} takes my whole hand into her {PUSSY}. But we're not done yet...",
+        "I'm impressed, my whole hand is up her and she's still spreading her legs and pumping back!",
+        "{PRIMARY}'s {CREAM} is starting to flow, and my whole hand slips inside her."
+    ],
+    "2nd Person": [
+        "With a grunt, {PRIMARY} takes your whole hand into her {PUSSY}. But you're not done yet...",
+        "You're impressed, your whole hand is up her and she's still spreading her legs and pumping back!",
+        "{PRIMARY}'s {CREAM} is starting to flow, and your whole hand slips inside her."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} starts pumping {PRIMARY} again as his hand finally slips inside her {WTVAGINAL} {PUSSY}.",
+        "His whole hand is inside, but he's still pushing! How much is {PRIMARY} supposed to take?!",
+        "{PRIMARY} screams in pain and humiliation.",
+        "{PRIMARY} rocks her body to help ease his hand inside.",
+        "For what seems like an eternity he pounds into {PRIMARY}, punishing her body again and again."
+    ]
+}

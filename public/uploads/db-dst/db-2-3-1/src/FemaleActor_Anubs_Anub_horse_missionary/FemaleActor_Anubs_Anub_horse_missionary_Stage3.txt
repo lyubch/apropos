@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Whoa! Aren't we {HORNY}! Mmmm... I'm afraid you missed your mark though...",
+        "His {COCK} nearly slaps me in the face as he suddenly thrusts it up between my {BOOBS}... {SWEARING}, he's {HUGE}...",
+        "I fall back with a gasp as his {COCK} slides up between my {BOOBS}, smearing pre-cum against my chest. He's just as {HORNY} as I am!",
+        "The {ACTIVE} thrusts forward suddenly... I nearly cum just imagining what that would have felt like if he hadn't missed my {PUSSY}...",
+        "Oh! His {BALLS} just slapped against my clit... while his {COCK} is up in my face... can I really fit this inside me...?",
+        "This {HUGE}, hot {COCK} feels so hard rubbing up between my {BOOBS}... I need it... I need it inside me..."
+    ],
+    "2nd Person": [
+        "({PRIMARY}) Whoa! Aren't we {HORNY}! Mmmm... I'm afraid you missed your mark though...",
+        "His {COCK} nearly slaps you in the face as he suddenly thrusts it up between your {BOOBS}... {SWEARING}, he's {HUGE}...",
+        "You fall back with a gasp as his {COCK} slides up between your {BOOBS}, smearing pre-cum against your chest. He's just as {HORNY} as you!",
+        "The {ACTIVE} thrusts forward suddenly... You nearly cum just imagining what that would have felt like if he hadn't missed your {PUSSY}...",
+        "Oh! His {BALLS} just slapped against your clit... while his {COCK} is up in your face... can you really fit this inside you...?",
+        "This {HUGE}, hot {COCK} feels so hard rubbing up between your {BOOBS}... You need it... You need it inside you..."
+    ],
+    "3rd Person": [
+        "({PRIMARY}) Whoa! Aren't we {HORNY}! Mmmm... I'm afraid you missed your mark though...",
+        "His {COCK} nearly slaps {PRIMARY} in the face as he suddenly thrusts it up between her {BOOBS}... {SWEARING}, he's {HUGE}...",
+        "{PRIMARY} falls back with a gasp as his {COCK} slides up between her {BOOBS}, smearing pre-cum against her chest. He's just as {HORNY} as she is!",
+        "The {ACTIVE} thrusts forward suddenly... {PRIMARY} nearly cums just imagining what that would have felt like if he hadn't missed her {PUSSY}...",
+        "Oh! His {BALLS} just slapped against {PRIMARY}'s clit... while his {COCK} is up in her face... can she really fit this inside her...?",
+        "This {HUGE}, hot {COCK} feels so hard rubbing up between {PRIMARY}'s {BOOBS}... She needs it... She need it inside her..."
+    ]
+}

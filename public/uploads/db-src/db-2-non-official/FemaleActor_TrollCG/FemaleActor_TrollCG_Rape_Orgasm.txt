@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "Suddenly the {MONSTER} grabs me tightly, thrusting deep up inside me, pumping me full of its {CUM}.",
+        "I'm overcome with panic as the {ACTIVE} pins me to him, {EJACULATE}ing inside, deep and {ROUGH}.",
+        "I {MOAN} and squirm as over a foot of troll-{COCK} is buried inside me to cum deep in my womb.",
+        "I {SCREAM} into the {MONSTER}'s chest as it growls and inseminates me.",
+        "All of a sudden the monster takes control, thrusting straight into my womb and {EJACULATE}ing hard.",
+        "My {FLESH} tenses as the {ACTIVE} roars and {EJACULATE}s inside me.",
+        "Its {COCK} throbs, every vein bulging, {BALLS} engorged as they churn up a load of {CUM} into my {FAROUSAL} {PUSSY}." 
+    ],
+    "2nd Person" :
+    [
+        "Suddenly the {MONSTER} grabs you tightly, thrusting deep up inside you, pumping you full of its {CUM}.",
+        "I'm overcome with panic as the {ACTIVE} pins you to him, {EJACULATE}ing inside, deep and {ROUGH}.",
+        "You {MOAN} and squirm as over a foot of troll-{COCK} is buried inside you to cum deep in your womb.",
+        "You {SCREAM} into the {MONSTER}'s chest as it growls and inseminates you.",
+        "All of a sudden the monster takes control, thrusting straight into your womb and {EJACULATE}ing hard.",
+        "Your {FLESH} tenses as the {ACTIVE} roars and {EJACULATE}s inside you.",
+        "Its {COCK} throbs, every vein bulging, {BALLS} engorged as they churn up a load of {CUM} into your {FAROUSAL} {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} {SCREAM}s and {MOAN}s into the {MONSTER}'s chest as it growls and inseminates her.",
+        "The {ACTIVE} suddenly roars, thrusting its {COCK} fiercely up into {PRIMARY}. Surely she'll be pregnant after this...",
+        "The {MONSTER}'s strokes look deep and hard. {SWEARING}, its {CUM} must be so deep inside {PRIMARY} now..."
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "My eyes roll back into my head at this strange sensation, the {BEASTLY} {COCKHEAD} scraping every inch of my core.",
+        "I pause for a moment as an unwanted orgasm rocks through me, the feeling of being filled completely just too intense.",
+        "My legs are like jelly, too weak to lift me up, so I have to make do with short thrusts, just wishing for this to finally be over.",
+        "I rock back and forth {QUICK}ly, desperate to get him to finish before my traitorous body climaxes from this abuse."
+    ],
+    "2nd Person": [
+        "Your eyes roll back into your head at this strange sensation, the {BEASTLY} {COCKHEAD} scraping every inch of your core.",
+        "You pause for a moment as an unwanted orgasm rocks through you, the feeling of being filled completely just too intense.",
+        "Your legs are like jelly, too weak to lift you up, so you have to make do with short thrusts, just wishing for this to finally be over.",
+        "You rock back and forth {QUICK}ly, desperate to get him to finish before your traitorous body climaxes from this abuse."
+    ],
+    "3rd Person": [
+        "Did... {PRIMARY} just {SCREAM}? Is she actually enjoying taking that giant {COCK} almost to the hilt?",
+        "Wow, {PRIMARY} has almost taken the {ACTIVE}'s entire {COCK}! Has she done this before?"
+    ]
+}

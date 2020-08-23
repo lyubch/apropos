@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I slump forward onto my hands and knees, too exhausted to make my escape, letting the brute continue to fuck me.",
+        "The {ACTIVE} releases me, as if it knows I won't try to run, knowing I want its {COCK} to make me cum.",
+        "I could run now, if I wanted to, but I don't. I stay, exhausted and sweating, addicted to this monster's {COCK}.",
+        "I pant at the exertion of this wild animal fuck, every muscle in my body being thrown into fucking.",
+        "Its huge, heavy balls of are about to pump more {CUM} into me than any man could ever produce.",
+        "The {ACTIVE} pounds into me and I can see his two melon-sized balls swell. Oh my..."        
+    ],
+    "2nd Person" :
+    [
+        "You slump forward onto your hands and knees, too exhausted to make your escape, letting the brute continue to fuck you.",
+        "The {ACTIVE} releases you, as if it knows you won't try to run, knowing you want its {COCK} to make you cum.",
+        "You could run now, if you wanted to, but you don't. You stay, exhausted and sweating, addicted to this monster's {COCK}.",
+        "You pant at the exertion of this wild animal fuck, every muscle in your body being thrown into fucking.",
+        "Its huge, heavy balls of are about to pump more {CUM} into you than any man could ever produce.",
+        "The {ACTIVE} pounds into you and you can see his two melon-sized balls swell. Oh my..." 
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} slumps forward onto her hands and knees, not making a move to escape, letting the brute continue to fuck her.",
+        "The {ACTIVE} releases {PRIMARY}, who collapses forward, exhausted and sweating, the troll-{COCK} still pounding away.",
+        "{PRIMARY} looks completely drained, and hanging on for dear life. Surely it won't be much longer now?"
+    ]
+}

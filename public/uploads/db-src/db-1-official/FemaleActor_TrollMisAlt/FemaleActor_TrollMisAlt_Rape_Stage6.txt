@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "I squeal in terror as the beast drops down on top of me, pinning me to the ground and fucking me deeper.",
+        "My legs spread apart again, I gasp as I feel the beast get balls deep inside me with fast, long strokes.",
+        "Tears stream down my face as the hideous monster on top of me fucks right into my womb.",
+        "My foot curls around the beast's flank and I gasp and pant, knowing I'm about to cum.",
+        "The wind is knocked from me as a massive hand comes down on me, crushing my breast.",
+        "I'm totally immobilised by the beast's weight, and I can do nothing but scream and beg it to stop.",
+        "The {BEAST} {COCK} pistons inside me like a battering ram, and I wait for the inescapable conclusion.",
+        "The beast quickens its strokes, fucking me balls deep, and I realize what's about to happen.",
+        "The mixture of the physical sensations and the guilt of loving being fucked by a beast... I'm gonna cum..."        
+    ],
+    "2nd Person" :
+    [
+        "You squeal in terror as the beast drops down on top of you, pinning you to the ground and fucking you deeper.",
+        "Your legs spread apart again, you gasp as you feel the beast get balls deep inside you with fast, long strokes.",
+        "Tears stream down your face as the hideous monster on top of you fucks right into your womb.",
+        "Your foot curls around the beast's flank and you gasp and pant, knowing you're about to cum.",
+        "The wind is knocked from you as a massive hand comes down on you, crushing your breast.",
+        "You're totally immobilised by the beast's weight, and you can do nothing but scream and beg it to stop.",
+        "The {BEAST} {COCK} pistons inside you like a battering ram, and you wait for the inescapable conclusion.",
+        "The beast quickens its strokes, fucking you balls deep, and you realize what's about to happen.",
+        "The mixture of the physical sensations and the guilt of loving being fucked by a beast... You're gonna cum..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s foot curls around the beast's flank and she gasps and pants, obviously about to cum.",
+        "{PRIMARY}'s totally immobilised by the beast's weight, and can do nothing but scream and beg it to stop.",
+        "The beast quickens its strokes, fucking balls deep. It's clear what's about to happen."        
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "1st Person": [
+        "I'm powerless as the {ACTIVE} hoists me over his shoulder, treating me like a {WHORE}.",
+        "The {ACTIVE} lifts me like I'm nothing, pushing my head down to his {SALTY} {PENIS}.",
+        "I grunt as a few fingers find their way into my {PUSSY}, before I'm forced to suck the {ACTIVE}'s {PENIS}.",
+        "Jerked roughly upside down, I hold on desperately. I have no choice but to suck his {PENIS}...",
+        "Lifted like a sack of straw, I feel a flush of arousal as I'm treated this way...",
+        "Being taken like this is actually turning me on, and somehow I manage to suck down his entire {PENIS}.",
+        "I gag as {ACTIVE} shoves his {SALTY} {PENIS} in my {MOUTH}.",
+        "{ACTIVE} grabs my hair and forces entry to my {MOUTH}."
+    ],
+    "2nd Person": [
+        "You're powerless as the {ACTIVE} hoists you over his shoulder, treating you like a {WHORE}.",
+        "The {ACTIVE} lifts you like you're nothing, pushing your head down to his {SALTY} {PENIS}.",
+        "You grunt as a few fingers find their way into your {PUSSY}, before you're forced to suck his {PENIS}.",
+        "Jerked roughly upside down, you hold on desperately. You have no choice but to suck his {PENIS}...",
+        "Lifted like a sack of straw, you feel a flush of arousal as you're treated this way...",
+        "Being taken like this is actually turning you on, and somehow you manage to suck down his entire {PENIS}.",
+        "You gag as {ACTIVE} shoves his {SALTY} {PENIS} in your {MOUTH}.",
+        "{ACTIVE} grabs your hair and forces entry to your {MOUTH}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} struggles, but is powerless as the {ACTIVE} lifts her like a toy.",
+        "Indecently hoisted upside down, {PRIMARY} reluctantly takes the {ACTIVE}'s {PENIS} into her {MOUTH}.",
+        "Thrown around like a doll, {PRIMARY}'s long legs flail in the air as her lips are roughly parted.",
+        "The sight of the {ACTIVE} taking her like that... So masculine, so powerful... So hot..."
+    ]
+}

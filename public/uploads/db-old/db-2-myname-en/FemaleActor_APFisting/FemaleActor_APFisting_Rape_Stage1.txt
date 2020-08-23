@@ -1,0 +1,34 @@
+{
+    "1st Person" :
+    [
+        "I hold my body up on my hands, and just stare straight up, trying to ready my body for this ordeal.",
+        "I don't even look at the {ACTIVE}, I just sob as his hand begins to part my {WTVAGINAL} {PUSSY}.",
+        "My legs are spread wide, hoping this will make it easier to take, but it still hurts.",
+        "I can't believe what the {ACTIVE} wants to do, and I gasp as he tries to force his whole hand inside me.",
+        "I timidly thrust back myself as he begins, trying to take control rather than let him force me.",
+        "Ohhh! Please don't.... huuugh... you can't do this! Aahhhh! I can't do this!",
+        "I scream as {ACTIVE} pushes his fingers inside me, before trying to push his entire hand inside me.",
+        "{ACTIVE} presses harder and harder,  until I feel my {PUSSY} give way and he slides inside.",
+        "The first few fingers enter me, and I already feel my {WTVAGINAL} {PUSSY} straining.",
+        "Oh Gods... This is so humiliating... He wants to hurt me... to really hurt me..."
+    ],
+    "2nd Person" :
+    [
+        "You hold your body up on your hands, and just stare straight up, trying to ready your body for this ordeal.",
+        "You don't even look at {ACTIVE}, you just sob as his hand begins to part your {WTVAGINAL} {PUSSY}.",
+        "Your legs are spread wide, hoping this will make it easier to take, but it still hurts.",
+        "You can't believe what {ACTIVE} wants to do, and you gasp as he tries to force his whole hand inside you.",
+        "You timidly thrust back yourself as he begins, trying to take control rather than let him force you.",
+        "({PRIMARY}) Ohhh! Please don't.... huuugh... you can't do this! Aahhhh! I can't do this!",
+        "You scream as {ACTIVE} pushes his fingers inside you, before trying to push his entire hand inside you.",
+        "{ACTIVE} presses harder and harder,  until you feel your {PUSSY} give way and he slides inside.",
+        "The first few fingers enter you, and you already feel your {WTVAGINAL} {PUSSY} straining.",
+        "Oh Gods... This is so humiliating... He wants to hurt you... to really hurt you..."
+    ],
+    "3rd Person" :
+    [
+        "Oh Gods, he's really going to hurt {PRIMARY} doing that...",
+        "{PRIMARY} sobs as she raises her hips, spreading her legs to let the {ACTIVE} abuse her.",
+        "{PRIMARY} wails as the {ACTIVE} starts to push his fingers into her {WTVAGINAL} {PUSSY}."
+    ]
+}

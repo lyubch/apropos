@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Suddenly the {MONSTER} grabs me tightly, thrusting deep up inside me, pumping me full of its {CUM}.",
+        "My orgasm overtakes me as the {ACTIVE} pins me to him, {EJACULATE}ing inside, deep and {ROUGH}.",
+        "I {MOAN} and squirm as over a foot of troll-{COCK} is buried inside me to cum deep in my womb.",
+        "I {MOAN} and {SCREAM} into the {MONSTER}'s chest as it growls and inseminates me. If I could move, I know I would kiss it!",
+        "All of a sudden the monster takes control, thrusting straight into my womb and cumming hard.",
+        "Ugh... ahhh... no.... at this rate... it's gonna make me... {SWEARING}... nnnnnnnnnnnnn... AAAAHHHH!"
+    ],
+    "2nd Person": [
+        "Suddenly the {MONSTER} grabs you tightly, thrusting deep up inside you, pumping you full of its {CUM}.",
+        "Your orgasm overtakes you as the {ACTIVE} pins you to him, {EJACULATE}ing inside, deep and {ROUGH}.",
+        "You {MOAN} and squirm as over a foot of troll-{COCK} is buried inside you to cum deep in your womb.",
+        "You {MOAN} and {SCREAM} into the {MONSTER}'s chest as it growls and inseminates you. If you could move, you know you would kiss it!",
+        "All of a sudden the monster takes control, thrusting straight into your womb and cumming hard.",
+        "({PRIMARY}) Ugh... ahhh... no.... at this rate... it's gonna make me... {SWEARING}... nnnnnnnnnnnnn... AAAAHHHH!"
+    ],
+    "3rd Person": [
+        "Suddenly the {MONSTER} grabs {PRIMARY} tightly, thrusting deep up inside her, pumping her full of its {CUM}.",
+        "{PRIMARY}'s orgasm overtakes her as the {ACTIVE} pins her to him, {EJACULATE}ing inside, deep and {ROUGH}.",
+        "{PRIMARY} {MOAN}s and squirms as over a foot of troll-{COCK} is buried inside her to cum deep in her womb.",
+        "{PRIMARY} {MOAN}s into the {MONSTER}'s chest as it growls and inseminates her. If she could move, she knows she would kiss it!",
+        "All of a sudden the monster takes control, thrusting straight into {PRIMARY}'s womb and cumming hard.",
+        "({PRIMARY}) Ugh... ahhh... no.... at this rate... it's gonna make me... {SWEARING}... nnnnnnnnnnnnn... AAAAHHHH!"
+    ]
+}

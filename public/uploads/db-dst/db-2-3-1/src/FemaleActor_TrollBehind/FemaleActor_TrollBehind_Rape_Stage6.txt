@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "Ahh! I never expected this monster to be such a skilled lover... Had I known, I never would have resisted...",
+        "Mmmm, that's it... {FUCK} me with your {BEASTLY} {COCK}... I want your {CUM}... inside me...",
+        "I lean back into my {ROUGH} lover, fully giving myself over to the guilty pleasure of {FUCK}ing a monster.",
+        "The mixture of the physical sensations and the guilt of loving being {FUCK}ed by a {MONSTER}... I'm gonna cum...",
+        "I ready myself for the now-familiar feeling of its {CUM} blasting forth and coating my insides."        
+    ],
+    "2nd Person" :
+    [
+        "Ahh! You never expected this monster to be such a skilled lover... Had you known, you never would have resisted...",
+        "({PRIMARY}) Mmmm, that's it... {FUCK} me with your {BEASTLY} {COCK}... I want your {CUM}... inside me...",
+        "You lean back into your {ROUGH} lover, fully giving yourself over to the guilty pleasure of {FUCK}ing a monster.",
+        "The mixture of the physical sensations and the guilt of loving being {FUCK}ed by a {MONSTER}... You're gonna cum...",
+        "You ready yourself for the now-familiar feeling of its {CUM} blasting forth and coating your insides."
+    ],
+    "3rd Person" :
+    [
+        "This is so {LEWD}, but...is there a note of {LOVE}...?!",
+        "{PRIMARY} leans back, obviously about to {EJACULATE} hard on the {ACTIVE}'s thick {COCK}.",
+        "What stamina! That {MONSTER} could {FUCK} a girl for days! Surely it's going to cum soon?"
+    ]
+}

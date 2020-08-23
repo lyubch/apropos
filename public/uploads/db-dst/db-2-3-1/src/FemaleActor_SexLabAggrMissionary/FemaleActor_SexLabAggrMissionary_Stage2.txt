@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "{ACTIVE} pins me down with one hand and pulls my legs wide open with the other. I let him.",
+        "{ACTIVE} starts to lift my leg, and I spread them as wide as I can for him",
+        "My hand goes to {ACTIVE}'s face. I love how masculine and rough he is, {FUCK}ing me as he likes!",
+        "How many of these guys stuck their {COCK}s in you? he asks. Well, all of them... ahh... at least once...",
+        "({ACTIVE}) I've heard rumours you even fuck dogs! I bet it's true, {BITCH}!",
+        "({ACTIVE}) I bet I'm not even your first tonight, am I? Who else have you {FUCK}ed tonight, {BITCH}?",
+        "I want you to {FUCK} me again... {FUCK} me whenever you want. I'm your little {BITCH}!",
+        "That's it, {FUCK} me like the {BITCH} I am!",
+        "Hot pre-cum dribbles down my crack to my {ASSHOLE}. Maybe he'll {FUCK} me there next?",
+        "I want more! Stretch me further! I want two {COCK}s in my {PUSSY}, {FUCK}ing me hard!"
+    ],
+    "2nd Person": [
+        "{ACTIVE} pins you down with one hand and pulls your legs wide open with the other. You let him.",
+        "{ACTIVE} starts to lift your leg, and you spread them as wide as you can for him",
+        "Your hand goes to {ACTIVE}'s face. You love how masculine and rough he is, {FUCK}ing you as he likes!",
+        "How many of these guys stuck their {COCK}s in you? he asks. All of them... you {MOAN}, ahh... at least once...",
+        "({ACTIVE}) I've heard rumours you even fuck dogs! I bet it's true, {BITCH}!",
+        "({ACTIVE}) I bet I'm not even your first tonight, am I? Who else have you {FUCK}ed tonight, {BITCH}?",
+        "({PRIMARY}) I want you to {FUCK} me again... {FUCK} me whenever you want. I'm your little {BITCH}!",
+        "({PRIMARY}) That's it, {FUCK} me like the {BITCH} I am!",
+        "Hot pre-cum dribbles down your crack to your {ASSHOLE}. Maybe he'll {FUCK} you there next?",
+        "({PRIMARY}) I want more! Stretch me further! I want two {COCK}s in my {PUSSY}, {FUCK}ing me hard!"
+    ],
+    "3rd Person": [
+        "{ACTIVE} continues to {FUCK} {PRIMARY} {ROUGH}ly, spreading her legs wide apart and holding her down.",
+        "{PRIMARY}'s legs jerk about as {ACTIVE} {ROUGH}ly {FUCK}s her {PUSSY}.",
+        "({PRIMARY}) I'm just your little {BITCH}! Fuck me, hit me, break me!",
+        "({ACTIVE}) I'm going to send you back to your man covered in bruises and filled with {CUM}!"
+    ]
+}

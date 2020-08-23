@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "When {ACTIVE} finally finds his mark, I'm not ready and I fall forward, stopping myself with my hands.",
+        "Finally! {ACTIVE} grips my hips tightly, pounding my {PUSSY} with quick, steady strokes.",
+        "I'm so aroused by the time {ACTIVE}'s {PENIS} thrusts into me that I almost cum right there.",
+        "{ACTIVE} wraps his legs around me and pushes his {PENIS} into my {PUSSY}, and we fuck like animals.",
+        "I let myself get pushed face down into the ground, as {ACTIVE} finally enters my {PUSSY}.",
+        "My mind reels at how dirty and wrong this is. And how hot.",
+        "I briefly feel it at my {ASS}. My eyes widen in fear before it plunges into my {PUSSY}.",
+        "{ACTIVE} wraps his legs around me and pushes his {PENIS} into my {PUSSY}, and we fuck like animals.",
+        "Just a bit lower... AH! There you go! It's in me!"
+    ],
+    "2nd Person": [
+        "When {ACTIVE} finally finds his mark, you're not ready and fall forward, stopping yourself with your hands.",
+        "Finally! {ACTIVE} grips your hips tightly, pounding your {PUSSY} with quick, steady strokes.",
+        "You're so aroused by the time {ACTIVE}'s {PENIS} thrusts into you that you almost cum right there.",
+        "{ACTIVE} wraps his legs around you and pushes his {PENIS} into your {PUSSY}, and you fuck like animals.",
+        "You let yourself get pushed face down into the ground, as {ACTIVE} finally enters your {PUSSY}.",
+        "Your mind reels at how dirty and wrong this is. And how hot.",
+        "You briefly feel it at your {ASS}. Your eyes widen in fear before it plunges into your {PUSSY}.",
+        "{ACTIVE} wraps his legs around you and pushes his {PENIS} into your {PUSSY}, and you fuck like animals.",
+        "Just a bit lower... AH! There you go! It's in you!"
+    ],
+    "3rd Person": [
+        "When {ACTIVE} finally finds his mark, {PRIMARY} is not ready and falls forward, stopping herself with her hands.",
+        "Finally! {ACTIVE} grips {PRIMARY}'s hips tightly, pounding her {PUSSY} with quick, steady strokes.",
+        "{PRIMARY} is so aroused by the time {ACTIVE}'s {PENIS} thrusts into her that you almost cum right there.",
+        "{ACTIVE} wraps his legs around {PRIMARY} and pushes his {PENIS} into her {PUSSY}, and they fuck like animals.",
+        "{PRIMARY} lets herself get pushed face down into the ground, as {ACTIVE} finally enters her {PUSSY}.",
+        "{PRIMARY}'s mind reels at how dirty and wrong this is. And how hot.",
+        "{PRIMARY} briefly feels it at her {ASS}. Her eyes widen in fear before it plunges into her {PUSSY}.",
+        "{ACTIVE} wraps his legs around {PRIMARY} and pushes his {PENIS} into her {PUSSY}, and they fuck like animals.",
+        "Just a bit lower... AH! There she goes! It's in {PRIMARY}!"
+    ]
+}

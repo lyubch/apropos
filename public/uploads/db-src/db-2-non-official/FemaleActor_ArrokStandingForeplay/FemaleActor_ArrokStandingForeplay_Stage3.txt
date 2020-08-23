@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} lifts me up by the ass, spreading my {BUTTOCKS} apart, leaving my {ASSHOLE} {DISPLAY}ed.",
+        "The feeling of being lifted up by these big, strong arms is exciting.",
+        "{ACTIVE} lifts me up and {INSERT}s his face in my {HEAVING} {BOOBS}.",
+        "I push my chest out, pressing my {HEAVING} {BOOBS} into {ACTIVE}'s face.",
+        "My legs and ass are spread apart. Anyone watching will see right into my {FAROUSAL} {PUSSY}...",
+        "As I'm lifted up, I long for the feel if {ACTIVE}'s {COCK} on my {PUSSY}..."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} lifts you up by the ass, spreading your {BUTTOCKS} apart, leaving your {ASSHOLE} {DISPLAY}ed.",
+        "The feeling of being lifted up by these big, strong arms is exciting.",
+        "{ACTIVE} lifts you up and {INSERT}s his face in your {HEAVING} {BOOBS}.",
+        "You push your chest out, pressing your {HEAVING} {BOOBS} into {ACTIVE}'s face.",
+        "Your legs and ass are spread apart. Anyone watching will see right into your {FAROUSAL} {PUSSY}...",
+        "As you're lifted up, you long for the feel if {ACTIVE}'s {COCK} on your {PUSSY}..."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} lifts up {PRIMARY} by the ass, spreading her apart, {DISPLAY}ing her {PUSSY} and {ASSHOLE}.",
+        "As {PRIMARY} is lifted, she pushes out her {HEAVING} {BOOBS}, playfully slapping {ACTIVE} in the face."
+    ]
+}

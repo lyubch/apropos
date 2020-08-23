@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "Oh my goodness... It's starting to feel good... really good... Am I really such a {WHORE}?",
+        "I can't believe how good {ACTIVE} is making me feel, can't believe I'm that kind of {BITCH}...",
+        "Each time he pulls back, the anxiety of the next thrust is overwhelming.",
+        "Oh Gods... I'm... I'm almost there... already... Just a little bit more...",
+        "I frantically thrust back into the beast's {BEAST} {PENIS}, desperate to finish before someone sees me...",
+        "{ACTIVE} fucks me with more frenzy and vigor than any man ever has.",
+        "I burn with shame and arousal, I can't believe I'm being fucked this hard by a dog.",
+        "I frantically thrust back into the beast's {BEAST} {PENIS}, desperate to finish before someone sees me...",
+        "{ACTIVE} thrusts his knot into me. I arch my back and raise my hips, relishing the intruder...",
+        "I start to get lost in the pleasure, and for the next ten minutes {ACTIVE} fucks me to two orgasms."        
+    ],
+    "2nd Person" :
+    [
+        "Oh my goodness... It's starting to feel good... really good... Are you really such a {WHORE}?",
+        "You can't believe how good {ACTIVE} is making you feel, can't believe you're that kind of {BITCH}...",
+        "Each time he pulls back, the anxiety of the next thrust is overwhelming.",
+        "Oh Gods... You're... you're almost there... already... Just a little bit more...",
+        "You frantically thrust back into the beast's {BEAST} {PENIS}, desperate to finish before someone sees you...",
+        "{ACTIVE} fucks you with more frenzy and vigor than any man ever has.",
+        "You burn with shame and arousal, you can't believe you're being fucked this hard by a dog.",
+        "{ACTIVE} thrusts his knot into you. You arch your back and raise your hips, relishing the intruder...",
+        "You start to get lost in the pleasure, and for the next ten minutes {ACTIVE} fucks you to two orgasms."
+    ],
+    "3rd Person" :
+    [
+        "Oh my goodness, is she getting off on that?!",
+        "{PRIMARY} starts to thrust her hips backwards against {ACTIVE}'s strokes. Is it... good?"
+    ]
+}

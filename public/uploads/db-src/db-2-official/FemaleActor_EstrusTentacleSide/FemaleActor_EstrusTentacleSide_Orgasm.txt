@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "Gotta get out of this place... find a healer or priestess or something... anyone who can get these damned eggs out...",
+        "I can hear something else, chittering in the darkness... I need to get back to town before something else grabs me...",
+        "I collect my armor back, grimacing as I realise it may not fit me anymore...",
+        "I know I can't wait here for something else to find me, I need to get back to saftey...",
+        "I need to get out of here... maybe someone can help get these things out of me before they hatch...",
+        "I shudder as {CUM} runs from my {WTVAGINAL} {PUSSY} as I stand up, running down my legs...",
+        "Struggling against the added weight, I pull myself back to my feet... I need to get out here."
+    ],
+    "2nd Person": [
+        "({PRIMARY}) Gotta get out of this place... find a healer or priestess or something... anyone who can get these damned eggs out...",
+        "Struggling against the added weight, you pull yourself back to your feet... You need to get out here.",
+        "You can hear something else, chittering in the darkness... You need to get back to town before something else grabs you...",
+        "You collect your armor back, grimacing as you realise it may not fit you anymore...",
+        "You know you can't wait here for something else to find you, you need to get back to saftey...",
+        "You need to get out of here... maybe someone can help get these things out of you before they hatch...",
+        "You shudder as {CUM} runs from your {WTVAGINAL} {PUSSY} as you stand up, running down your legs..."
+    ],
+    "3rd Person": [
+        "({PRIMARY}) Gotta get out of this place... find a healer or priestess or something... anyone who can get these damned eggs out...",
+        "Struggling against the added weight, {PRIMARY} pulls herself back to her feet... She needs to get out here.",
+        "{PRIMARY} can hear something else, chittering in the darkness... She needs to get back to town before something else grabs her...",
+        "{PRIMARY} collects her armor back, grimacing as she realises it may not fit her anymore...",
+        "{PRIMARY} knows she can't wait here for something else to find her, she needs to get back to saftey...",
+        "{PRIMARY} needs to get out of here... maybe someone can help get these things out of her before they hatch...",
+        "{PRIMARY} shudders as {CUM} runs from her {WTVAGINAL} {PUSSY} as she stands up, running down her legs..."
+    ]
+}

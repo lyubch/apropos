@@ -1,0 +1,33 @@
+{
+    "1st Person": [
+        "The {ACTIVE} tries to lean forward, but I push her back down, trying to retain control.",
+        "I push the {ACTIVE} back, trying to appear playful, then bring my foot back to her {STRAPON} to stroke it.",
+        "I see the look of {LUST} on the {ACTIVE}'s face as my bare foot {GENTLE}ly {WANK}s her {STRAPON}.",
+        "I blush nervously at my attacker as my {HEAVING} {BOOBS} rise and fall noticeably.",
+        "I flush with shame as I realise {ACTIVE} can see {CUM} dribbling out of my {PUSSY}... Oh my...",
+        "With my slender legs {DISPLAY}ed, and my bare feet pressed hard against her {BOOBS}... Will this really save me?",
+        "I start working her {STRAPON} with my foot, rubbing my toes back and forth along the {COCKHEAD}.",
+        "My soft soles {GENTLE}ly rub the shaft of her veiny {STRAPON}.",
+        "My heart thunders in my ears as I press my sole into her {BOOBS}, and again as I stroke her {STRAPON}.",
+        "Do you want me to touch your {STRAPON} with my feet? Don't you want to cover them in {CREAM}?"
+    ],
+    "2nd Person": [
+        "{ACTIVE} tries to lean forward, but you push her back down, trying to retain control.",
+        "You push {ACTIVE} back, trying to appear playful, then bring your foot back to her {STRAPON} to stroke it.",
+        "You see the look of {LUST} on {ACTIVE}'s face as your bare foot {GENTLE}ly {WANK}s her {STRAPON}.",
+        "You blush nervously at your attacker as your {HEAVING} {BOOBS} rise and fall noticeably.",
+        "You flush with shame as you realise {ACTIVE} can see {CUM} dribbling out of your {PUSSY}... Oh my...",
+        "With your slender legs {DISPLAY}ed, and your bare feet pressed against her {BOOBS}... Will this really save you?",
+        "You start working her {STRAPON} with your foot, rubbing your toes back and forth along the {COCKHEAD}.",
+        "Your soft soles {GENTLE}ly rub the shaft of her veiny {STRAPON}.",
+        "Your heart thunders in your ears as you press your sole into her {BOOBS}, and again as you stroke her {STRAPON}.",
+        "({PRIMARY}) Do you want me to touch your {STRAPON} with my feet? Don't you want to cover them in {CREAM}?"
+    ],
+    "3rd Person": [
+        "The {ACTIVE} tries to lean forward, but {PRIMARY} pushes her back down, trying to retain control.",
+        "{PRIMARY} pushes the {ACTIVE} back, trying to appear playful, bringing her foot back to her {STRAPON}.",
+        "The {ACTIVE}'s face has a look of {LUST} as {PRIMARY}'s bare foot {GENTLE}ly {WANK}s her {STRAPON}.",
+        "{PRIMARY} blushes nervously at her attacker as her {HEAVING} {BOOBS} rise and fall noticeably.",
+        "{PRIMARY} flushes with shame as {CUM} dribbles out of her {PUSSY}... Oh my..."
+    ]
+}

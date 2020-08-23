@@ -1,0 +1,39 @@
+{
+    "1st Person": [
+        "That's it... Fuck that {ASS}! You like fucking little human girls?",
+        "The beast is plowing my {WTANAL} {ASS} furiously, driven on by my animal moans.",
+        "Oh Gods, I'm going crazy!",
+        "Ugh... So deep... I feel his {COCK} in places no man has been...",
+        "Ugh... Ugh... I hope he... AHH! I hope he can go... for a long time...",
+        "The {BEAST} continues to drive itself deep inside my eager body.",
+        "I grunt with every thrust that takes the creature deeper into my {WTANAL} {ASS}.",
+        "I wiggle my hips a bit, trying to accommodate the girth of the considerable {COCK} buried inside my {ASS}.",
+        "I've heard stories of country girls who had been caught in the woods by trolls... I can't believe it's true!",
+        "I have no idea how long the beast will continue to use me like this...",
+        "So it's true! Trolls like to fuck human girls...",
+        "The huge filthy beast continues to pound into my {ASS}, my body shacking with every hit."
+    ],
+    "2nd Person": [
+        "({PRIMARY}) That's it... Fuck that {ASS}! You like fucking little human girls?",
+        "The beast is plowing your {WTANAL} {ASS} furiously, driven on by your animal moans.",
+        "Oh Gods, you're going crazy!",
+        "Ugh... So deep... You feel his {COCK} in places no man has been...",
+        "Ugh... Ugh... You hope he... AHH! You hope he can go... for a long time...",
+        "The {BEAST} continues to drive itself deep inside your eager body.",
+        "You grunt with every thrust that takes the creature deeper into your {WTANAL} {ASS}.",
+        "You wiggle your hips a bit, trying to accommodate the girth of the {HUGE} {COCK} buried inside your {ASS}.",
+        "You've heard stories of country girls who had been caught by trolls... You can't believe it's true!",
+        "You have no idea how long the beast will continue to use you like this...",
+        "So it's true! Trolls like to fuck human girls...",
+        "The huge filthy beast continues to pound into your {ASS}, your body shaking with every hit."
+    ],
+    "3rd Person": [
+        "({PRIMARY}) That's it... Fuck that {ASS}! You like fucking little human girls?",
+        "The beast is plowing {PRIMARY}'s {WTANAL} {ASS} furiously, driven on by her animal moans.",
+        "({PRIMARY}) Oh Gods, I'm going crazy!",
+        "The {BEAST} continues to drive itself deep inside {PRIMARY}'s eager body.",
+        "{PRIMARY} grunts with every thrust that takes the creature deeper into her {WTANAL} {ASS}.",
+        "{PRIMARY} wiggles her hips a bit, trying to accommodate the girth of the {COCK} buried inside her {ASS}.",
+        "There are stories of country girls who had been caught in the woods by trolls... And it seems they're true!"
+    ]
+}

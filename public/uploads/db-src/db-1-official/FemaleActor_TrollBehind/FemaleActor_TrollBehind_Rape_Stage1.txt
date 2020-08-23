@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} hesitates, {PENIS} erect. I grab my chance, and the beast's {COCK}, and slide it into my {PUSSY}.",
+        "I bend over submissively, wiggling my backside for the brute, holding his attention as I slide his {COCK} inside me.",
+        "As I grasp the {ACTIVE}'s {BEAST} {PENIS}, I fight back revulsion as I bend over and guide it into my {PUSSY}.",
+        "I can't help but grope myself as I sink onto the {ACTIVE}'s thick {COCK}. Maybe this won't be so bad...",
+        "I can't beat it... Maybe I have to use my other 'talents' to subdue it...",
+        "Naked and shivering, I am exposed to the monstrous lusts of this beast.",
+        "The {ACTIVE}'s {PENIS} is hard, ready to mate with me. I present myself to it, hoping it will go more easily..."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} hesitates, {PENIS} erect. You grab your chance, and the beast's {COCK}, and slide it into your {PUSSY}.",
+        "You bend over submissively, wiggling your backside for the brute, holding his attention as you slide his {COCK} inside you.",
+        "As you grasp the {ACTIVE}'s {BEAST} {PENIS}, you fight back revulsion as you bend over and guide it into your {PUSSY}.",
+        "You can't help but grope yourself as you sink onto the {ACTIVE}'s thick {COCK}. Maybe this won't be so bad...",
+        "You can't beat it... Maybe you have to use your other 'talents' to subdue it...",
+        "Naked and shivering, you're exposed to the monstrous lusts of this beast.",
+        "The {ACTIVE}'s {PENIS} is hard, ready to mate with you. You present yourself to it, hoping it will go more easily..."
+    ],
+    "3rd Person" :
+    [
+        "Is {PRIMARY} giving up? Or does she really want to have sex with that {ACTIVE}?",
+        "Defeated, {PRIMARY} turns around and presents herself to the {ACTIVE}. Poor girl...",
+        "{PRIMARY} bends over, her {HEAVING} {BOOBS} on display as she takes the {ACTIVE}'s {PENIS} in her {PUSSY}."
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "I try hard not to squeal as I feel fingers slip up inside me.",
+        "The bastard on top of me pushes his hand between my legs, and roughly starts to finger my {PUSSY}.",
+        "Trying my hardest not to move, I'm shocked when this man starts to finger me.",
+        "Oh my! How far is he going to go? Part of me is excited by the situation, another is terrified.",
+        "I feel my nipples start to harden, pushing painfully into the ground, as I let my legs be spread.",
+        "Oh Gods, what kind of a monster does this to an unconscious girl?!",
+        "I can't help but twitch as he pushes two fingers inside me, but he doesn't seem to notice.",
+        "Oh Gods, does he know I'm awake? Or does he still think I'm out cold?"
+    ],
+    "2nd Person" :
+    [
+        "You try hard not to squeal as you feel fingers slip up inside you.",
+        "The bastard on top of you pushes his hand between your legs, and roughly starts to finger your {PUSSY}.",
+        "Trying your hardest not to move, you're shocked when this man starts to finger you.",
+        "Oh my! How far is he going to go? Part of you is excited by the situation, another is terrified.",
+        "You feel your nipples start to harden, pushing painfully into the ground, as you let your legs be spread.",
+        "Oh Gods, what kind of a monster does this to an unconscious girl?!",
+        "You can't help but twitch as he pushes two fingers inside you, but he doesn't seem to notice.",
+        "Oh Gods, does he know you're awake? Or does he still think you're out cold?"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} seems to gasp as the {ACTIVE} starts to finger her. Does she know what's happening to her?",
+        "The {ACTIVE} reaches down, pushing {PRIMARY}'s legs apart slightly, before pushing a few fingers into her.",
+        "The {ACTIVE} stares between {PRIMARY}'s legs, running his hand up and down her slit. What's he going to do?"
+    ]
+}

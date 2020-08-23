@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "I plant my hands on the {ACTIVE}'s chest, feeling my body react with every deep thrust between my legs.",
+        "The {ACTIVE} starts to {FUCK} me, its {BEASTLY} {COCK} thrusting {SLOW}ly into me, but gloriously deep.",
+        "Even though its {COCK} is inside me, it's the monster's terrifying maw that turns me on the most.",
+        "I spread my legs and my {PUSSY} opens up like a flower in bloom, ready to be {RAP}ed by this {MONSTER}.",
+        "I want this, eager to make love to this huge muscled {MONSTER}, desperate to have my brains {FUCK}ed out.",
+        "A delighted {SCREAM} escapes my lips as the {ACTIVE} {ROUGH}ly spreads me and {FUCK}s its {COCK} into me."
+    ],
+    "2nd Person": [
+        "You plant your hands on the {ACTIVE}'s chest, feeling your body react with every deep thrust between your legs.",
+        "The {ACTIVE} starts to {FUCK} you, its {BEASTLY} {COCK} thrusting {SLOW}ly into you, but gloriously deep.",
+        "Even though its {COCK} is inside you, it's the monster's terrifying maw that turns you on the most.",
+        "You spread your legs and your {PUSSY} opens up like a flower in bloom, ready to be {RAP}ed by this {MONSTER}.",
+        "You want this, eager to make love to this huge muscled {MONSTER}, desperate to have your brains {FUCK}ed out.",
+        "A delighted {SCREAM} escapes your lips as the {ACTIVE} {ROUGH}ly spreads you and {FUCK}s its {COCK} into you."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} starts to {FUCK} {PRIMARY}, its {BEASTLY} {COCK} thrusting {SLOW}ly into her, but terrifyingly deep.",
+        "{PRIMARY} lets out a {LEWD} {SCREAM} as her {WTVAGINAL} {PUSSY} is {RAP}ed on the {MONSTER}'s {COCK}.",
+        "The {ACTIVE} {ROUGH}ly forces {PRIMARY}'s legs apart and thrusts its {COCK} into her {PUSSY}."
+    ]
+}

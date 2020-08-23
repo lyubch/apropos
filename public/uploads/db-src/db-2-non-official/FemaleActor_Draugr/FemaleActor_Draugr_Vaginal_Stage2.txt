@@ -1,0 +1,47 @@
+{
+    "1st Person": [
+        "My thighs open further as the {MONSTER} presses against my {PENETRAT}ed {PUSSY}.",
+        "I feel sick as the {DEAD} {COCK} moves within me.",
+        "I screw my eyes shut as I am {FUCK}ed, but I can't block out the noises.",
+        "I can hear {MONSTER}s in the dark waiting for their turn with me.",
+        "Its hands feel boney and wet, {INSERT}ing into my {HEAVING} {FLESH}. My nipples stiffen at the touch.",
+        "I tense up in {LUST} each time the {DEAD} {COCK} pushes forward and disappears inside me.",
+        "It {INSERT}s into me, the {ACTIVE}'s {COCK} {EJACULATE}ing and dripping its wormy cargo inside me.",
+        "The dead thing {FUCK}s away, thrusting himself into my {FAROUSAL} {PUSSY}.",
+        "I feel myself clench around the {DEAD} flesh between my thighs.",
+        "The {ACTIVE}'s hips rock {LEWD}ly between my thighs, as its {COCK} pushes deeper into my {PUSSY}.",
+        "The {DEAD} {COCK} leaves behind a thin coating of {SLIMY} {SLIME} across my {PUSSY} and thighs.",
+        "The flesh of the thing writhes as untold numbers of maggots and worms fall from his {DEAD} {COCK}.",
+        "I can't take my eyes off the {DEAD} {COCK}, tendrils of {SLIME} and maggots hanging from the thing.",
+        "The {DEAD} {MONSTER} growls in {LUST}, enjoying the sensation of my tightness around it.",
+        "Bony fingers tighten around my {HEAVING} {FLESH}, spreading my thighs.",
+        "To experience this {VILE} thing tainting me, it's not something I expected to do.",
+        "Growling in {LUST}, the dead thing begins to {SLOW}ly {FUCK} himself into me.",
+        "It's so wrong... but so hot..."
+    ],
+    "2nd Person": [
+        "Your thighs open further as the {MONSTER} presses against your {PENETRAT}ed {PUSSY}.",
+        "You feel sick as the {DEAD} {COCK} moves within you.",
+        "You screw your eyes shut as you are {FUCK}ed, but you can't block out the noises.",
+        "You can hear {MONSTER}s in the dark waiting for their turn with you.",
+        "Its hands feel boney and wet, {INSERT}ing into your {HEAVING} {FLESH}. Your nipples stiffen at the touch.",
+        "You tense up in {LUST} each time the {DEAD} {COCK} pushes forward and disappears inside you.",
+        "It {INSERT}s into you, the {ACTIVE}'s {COCK} {EJACULATE}ing and dripping its wormy cargo inside you.",
+        "The dead thing {FUCK}s away, thrusting himself into your {FAROUSAL} {PUSSY}.",
+        "You feel yourself clench around the {DEAD} flesh between your thighs.",
+        "The {ACTIVE}'s hips rock {LEWD}ly between your thighs, as its {COCK} pushes deeper into your {PUSSY}.",
+        "The {DEAD} {COCK} leaves behind a thin coating of {SLIMY} {SLIME} across your {PUSSY} and thighs.",
+        "The flesh of the thing writhes as untold numbers of maggots and worms fall from his {DEAD} {COCK}.",
+        "You can't take your eyes off the {DEAD} {COCK}, tendrils of {SLIME} and maggots hanging from the thing.",
+        "The {DEAD} {MONSTER} growls in {LUST}, enjoying the sensation of your tightness around it.",
+        "Bony fingers tighten around your {HEAVING} {FLESH}, spreading your thighs.",
+        "To experience this {VILE} thing tainting you, it's not something you expected to do.",
+        "Growling in {LUST}, the dead thing begins to {SLOW}ly {FUCK} himself into you.",
+        "It's so wrong... but so hot..."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s thighs open further as the {MONSTER} presses against her {PENETRAT}ed {PUSSY}.",
+        "{PRIMARY} feels sick as the {DEAD} {COCK} moves within her.",
+        "{PRIMARY} screws her eyes shut as she's fucked, but can't block out the noises."
+    ]
+}

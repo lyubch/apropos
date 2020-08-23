@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "Finally, I force open her cervix and punch into her womb. She collapses, her whole body shaking.",
+        "{PRIMARY}'s {PUSSY} is convulsing and {CREAM} is pouring down her legs. She just came!",
+        "{PRIMARY} finally collapses, no longer able to take the strain as her body spasms in shock."
+    ],
+    "2nd Person": [
+        "Finally, you force open her cervix and punch into her womb. She collapses, her whole body shaking.",
+        "{PRIMARY}'s {PUSSY} is convulsing and {CREAM} is pouring down her legs. She just came!",
+        "{PRIMARY} finally collapses, no longer able to take the strain as her body spasms in shock."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s arms give out and she drop to her elbows, her whole body shuddering in exhaustion and climax.",
+        "He's so deep... Most of his forearm is pushing inside {PRIMARY} now...",
+        "{PRIMARY} collapses, sobbing, wishing for this to end.",
+        "with a shudder, {PRIMARY}'s orgasm thunders through her, and she moans in shame and release combined.",
+        "As her orgasm breaks {PRIMARY} lets out a guttural cry of pain.",
+        "Ugh! Gods... He's in... his whole fist must be all the way into her womb!"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "I lean back into my brutish lover, fully absorbed in the lewd pleasure of having sex with a monster.",
+        "Mmmm, that's it... FUck me with your {BEAST} {COCK}.... I want your {CUM}... inside me...",
+        "The intensity and rhythm of its breath is echoed by the throbbing beast lodged between my legs.",
+        "It feels like my cervix is being pushed up into my guts, the penetration is so deep.",
+        "I've yearned to be used in this way, and the fact that it's a {BEAST} beast makes it that much more kinky!",
+        "I dare myself to let it cum inside me! To take all of its {THICK} {CUM}!",
+        "I ready myself for the now-familiar feeling of its {CUM} blasting forth and coating my insides."
+    ],
+    "2nd Person" :
+    [
+        "You lean back into your brutish lover, fully absorbed in the lewd pleasure of having sex with a monster.",
+        "({PRIMARY}) Mmmm, that's it... FUck me with your {BEAST} {COCK}.... I want your {CUM}... inside me...",
+        "The intensity and rhythm of its breath is echoed by the throbbing beast lodged between your legs.",
+        "It feels like your cervix is being pushed up into your guts, the penetration is so deep.",
+        "You've yearned to be used in this way, and the fact that it's a {BEAST} beast makes it that much more kinky!",
+        "You dare yourself to let it cum inside you! To take all of its {THICK} {CUM}!",
+        "You ready yourself for the now-familiar feeling of its {CUM} blasting forth and coating your insides."
+    ],
+    "3rd Person" :
+    [
+        "This is so dirty, but it looks so passionate!",
+        "{PRIMARY} leans back, obviously about to cum hard on the {ACTIVE}'s thick {PENIS}.",
+        "What stamina! That brute could fuck a girl for days! Surely it's going to cum soon?"
+    ]
+}

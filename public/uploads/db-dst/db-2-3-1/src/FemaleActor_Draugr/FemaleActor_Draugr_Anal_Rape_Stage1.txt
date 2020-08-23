@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "My knees are spread and my arms held back painfully. I can't stop the {ACTIVE} from {PENETRAT}ing my {ASSHOLE}.",
+        "The {ACTIVE} grabs me {ROUGH}ly, dragging my hips back painfully, its {COCK} {SLOW}ly {PENETRAT}ing my {ASSHOLE}.",
+        "I'm held in place, my head dangling limply as {DEAD} flesh spreads my {WTANAL} {ASSHOLE}.",
+        "My arms are painfully wrenched up behind me, but it's nothing compared to the {PAIN} in my {ASSHOLE}."
+    ],
+    "2nd Person" :
+    [
+        "Your knees are spread, your arms held back painfully. You can't stop the {ACTIVE} from {PENETRAT}ing your {ASSHOLE}.",
+        "The {ACTIVE} grabs you {ROUGH}ly, dragging your hips back painfully, its {COCK} {SLOW}ly {PENETRAT}ing your {ASSHOLE}.",
+        "You're held in place, your head dangling limply as {DEAD} flesh spreads your {WTANAL} {ASSHOLE}.",
+        "Your arms are painfully wrenched up behind you, but it's nothing compared to the {PAIN} in your {ASSHOLE}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is restrained {ROUGH}ly, and {SCREAM}s as the {ACTIVE}'s {DEAD} {COCK} {INSERT}s into her {ASSHOLE}.",
+        "The sight of {PRIMARY}'s {HEAVING} {FLESH} being {RAP}ed by this {DEAD} {MONSTER} is horrible, but somehow erotic.",
+        "The {ACTIVE} looks {DEAD}, and {PRIMARY} {SCREAM}s as it {RAP}es her."
+    ]
+}

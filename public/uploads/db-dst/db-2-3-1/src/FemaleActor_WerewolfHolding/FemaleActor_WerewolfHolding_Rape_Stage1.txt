@@ -1,0 +1,35 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} holds my waist tightly, pumping me quickly on his {BEASTLY} {COCK}.",
+        "The {ACTIVE} lifts me {ROUGH}ly before thrusting himself {ROUGH}ly between my spread legs.",
+        "The first thrust is deep, all the way to the knot, and I {SCREAM} in {PAIN}. The {MONSTER} doesn't stop, nor do I.",
+        "As I'm lifted and impaled on the {BEASTLY} {COCK}, all fight goes from my body, and I hang {SUBMISSIVE}.",
+        "I stare up, terrified, at the monstrous slavering {MONSTER} that pounding {ROUGH}ly into my {PUSSY}.",
+        "Ah! This isn't real! I'm being {PENETRAT}ed by a {MONSTER}'s {COCK}....",
+        "My {SCREAM}s go ignored, as the werewolf {PENETRAT}es his {BEASTLY} {COCK} into my {WTVAGINAL} {PUSSY}.",
+        "Please! Not like this! (sob) No... {PLEADING}...",
+        "The {ACTIVE} slides me wide open and plugs me fully with its {BEASTLY} {GIRTH}.",
+        "The {MONSTER} lifts me up and begins to thrust the full length of it into my womb."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} holds your waist tightly, pumping you quickly on his {BEASTLY} {COCK}.",
+        "The {ACTIVE} lifts you {ROUGH}ly before thrusting himself {ROUGH}ly between your spread legs.",
+        "The first thrust is deep, all the way to the knot, and you {SCREAM} in {PAIN}. The {MONSTER} doesn't stop, nor do you.",
+        "As you're lifted and impaled on the {BEASTLY} {COCK}, all fight goes from your body, and you hang {SUBMISSIVE}.",
+        "You stare up, terrified, at the monstrous slavering {MONSTER} that pounding {ROUGH}ly into your {PUSSY}.",
+        "Ah! This isn't real! You're being {PENETRAT}ed by a {MONSTER}'s {COCK}....",
+        "Your {SCREAM}s go ignored, as the werewolf {PENETRAT}es his {BEASTLY} {COCK} into your {WTVAGINAL} {PUSSY}.",
+        "({PRIMARY}) Please! Not like this! (sob) No... {PLEADING}...",
+        "The {ACTIVE} slides you wide open and plugs you fully with its {BEASTLY} {GIRTH}.",
+        "The {MONSTER} lifts you up and begins to thrust the full length of it into your womb."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s arms hang {SUBMISSIVE} as the {ACTIVE} spears her on its {BEASTLY} {COCK}.",
+        "All fight disappears from {PRIMARY} with the first monstrous thrust.",
+        "The {ACTIVE} effortlessly picks up {PRIMARY} by the waist, ignoring her {SCREAM}s as it pushes between her legs.",
+        "Oh my, it went all the way to the base in one thrust! That must have hurt..."
+    ]
+}

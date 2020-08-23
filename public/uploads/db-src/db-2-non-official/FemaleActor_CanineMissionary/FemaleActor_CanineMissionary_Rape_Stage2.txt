@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "I can't believe I'm doing this, but if it keeps me safe, I'll have sex with a dog...",
+        "I brace myself and raise my hips, hoping {ACTIVE} would rather {FUCK} me than attack me...",
+        "Lost to the sheer wrongness of the situation, I start to thrust back, {HORNY} for my own release.",
+        "I wonder how dog-{COCK} tastes. Before I can {ACCEPT} it in my {MOUTH}, the {ANIMAL} begins to {BREED} me.",
+        "Ah! Ugh...  ugh... he's in me... and he's {HUGE}...",
+        "The feeling of this dog-{COCK} is intense, I can't think straight.",
+        "Aah... ahhh... what am I doing? What would my {MFAMILY} think of me, if he saw me like this?"        
+    ],
+    "2nd Person" :
+    [
+        "You can't believe you're doing this, but if it keeps you safe, you'll have sex with a dog...",
+        "You brace yourself and raise your hips, hoping {ACTIVE} would rather {FUCK} you than attack you...",
+        "Lost to the sheer wrongness of the situation, you start to thrust back, {HORNY} for your own release.",
+        "You wonder how dog-{COCK} tastes. Before you can {ACCEPT} it in your {MOUTH}, the {ANIMAL} mounts you.",
+        "Ah! Ugh...  ugh... he's in you... and he's {HUGE}...",
+        "The feeling of this dog-{COCK} is intense, you can't think straight.",
+        "Aah... ahhh... what are you doing? What would your friends think of you, if they saw you like this?"
+    ],
+    "3rd Person" :
+    [
+        "Before she can flee, {ACTIVE} launches his hips forward, {PENETRAT}ing {PRIMARY} on his {BEASTLY} {COCK}.",
+        "{PRIMARY} lifts her legs, raising her hips to meet {ACTIVE}'s {COCK}. Does she want this?!"
+    ]
+}

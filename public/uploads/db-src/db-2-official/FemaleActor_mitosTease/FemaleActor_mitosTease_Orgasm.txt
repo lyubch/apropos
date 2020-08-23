@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I lie back, holding my head up, watching intently as {ACTIVE} cums all over me.",
+        "I need some relief of my own, and I finger myself quickly as {ACTIVE} rubs himself to climax.",
+        "A moment of abandon takes me, and I reach between my legs, holding myself open as {ACTIVE} cums.",
+        "I know I should move, close my legs before he cums all over my open {PUSSY}, but I can't, I want it...",
+        "The forbidden thrill of feeling {ACTIVE}'s {THICK} {CUM} splash all over my {PUSSY} drives me wild.",
+        "{ACTIVE}'s {CUM} is warm and thick to the touch, and I moan as I smear it into my {FAROUSAL} {PUSSY}."
+    ],
+    "2nd Person" :
+    [
+        "You lie back, holding your head up, watching intently as {ACTIVE} cums all over you.",
+        "You need some relief of your own, and you finger yourself quickly as {ACTIVE} rubs himself to climax.",
+        "A moment of abandon takes you, and you reach between your legs, holding yourself open as {ACTIVE} cums.",
+        "You know you should move, close your legs before he cums all over your open {PUSSY}, but you can't, you want it...",
+        "The forbidden thrill of feeling {ACTIVE}'s {THICK} {CUM} splash all over your {PUSSY} drives you wild.",
+        "{ACTIVE}'s {CUM} is warm and thick to the touch, and you moan as you smear it into your {FAROUSAL} {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "Oh wow! {PRIMARY} just spread herself wide open and let {ACTIVE} cum all over her!",
+        "{PRIMARY} lazily fingers herself, clearly enjoying the sight of {ACTIVE} finishing all over the floor.",
+        "It's so hot to watch {PRIMARY} get covered in {ACTIVE}'s {SLOPPY} {CUM}."
+    ]
+}

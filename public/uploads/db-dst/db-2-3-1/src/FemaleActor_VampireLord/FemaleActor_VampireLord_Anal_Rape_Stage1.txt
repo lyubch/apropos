@@ -1,0 +1,43 @@
+{
+    "1st Person" :
+    [
+        "My {FLESH} begins to feel strange; {SLOW}, {LEWD} and {SUBMISSIVE}. I bend over on the ground, {BUTTOCKS}-up and open.",
+        "Pushed to my hands and knees, my {SMALL} waist is gripped by the {MONSTER} and I'm pulled back onto his {COCK}.",
+        "Spread your {ASSHOLE} for me {PRIMARY}, the {ACTIVE} commands. I can't help but obey.",
+        "It's in my mind, and I {SCREAM} as it {PENETRAT}es me.",
+        "I {STRUGGLE}, but eventually {SUBMIT}, my cheeks and {ASSHOLE} spreading wide open for it.",
+        "I sink to the ground, too overcome by {LUST} to fight.",
+        "My mind is clouded, I can't think straight, but I nod weakly as the demon offers his {COCK}.",
+        "The {ACTIVE} drags his {COCK} down my pussy, and I almost cum right there, before my {ASSHOLE} is {PENETRAT}ed.",
+        "I feel {SLOW} and my head spins. I want to bend over on the ground, {BUTTOCKS}-up and open, awaiting his {COCK}.",
+        "({ACTIVE}) I know your desires, {PRIMARY}. I know you're just a {LEWD} {BITCH}. Such a {BITCH} deserves THIS!",
+        "({ACTIVE}) Such a base {MONSTER} is not worthy of my offspring, though I will still take my {LUST}...",
+        "({ACTIVE}) Grovel before me, {BITCH}. Spread your cheeks for me, your {ASSHOLE} will service me.",
+        "({ACTIVE}) A human woman is nothing more than a mewling {BITCH}, eager to be {RAP}ed. You are no different."
+    ],
+    "2nd Person" :
+    [
+        "Your {FLESH} begins to feel strange; languid and {SUBMISSIVE}. You bend over on the ground, {BUTTOCKS}-up and open.",
+        "Pushed to your hands and knees, your {SMALL} waist is gripped and you're pulled back onto his {COCK}.",
+        "Spread your {ASSHOLE} for you {PRIMARY}, the {ACTIVE} commands. You can't help but obey.",
+        "It's in your mind, and you {SCREAM} as it {PENETRAT}es you.",
+        "You {STRUGGLE}, but eventually {SUBMIT}, your cheeks and {ASSHOLE} spreading wide open for it.",
+        "You sink to the ground, too overcome by {LUST} to fight.",
+        "Your mind is clouded, you can't think straight, but you nod weakly as the demon offers his {COCK}.",
+        "The {ACTIVE} drags his {COCK} down your pussy. You almost cum right there, before your {ASSHOLE} is {PENETRAT}ed.",
+        "You feel {SLOW} and your head spins. You bend over on the ground, {BUTTOCKS}-up and open, awaiting his {COCK}.",
+        "({ACTIVE}) I know your desires, {PRIMARY}. You're just a {LEWD} {BITCH}. Such a {BITCH} deserves THIS!",
+        "({ACTIVE}) Such a base {MONSTER} is not worthy of my offspring, though I will still take my {LUST}...",
+        "({ACTIVE}) Grovel before me, {BITCH}. Spread your cheeks for me, your {ASSHOLE} will service me.",
+        "({ACTIVE}) A human woman is nothing more than a mewling {BITCH}, eager to be {RAP}ed. You are no different."
+    ],
+    "3rd Person" :
+    [
+        "Pushed to her hands and knees, {PRIMARY}'s {SMALL} waist is gripped and pulled back onto his {COCK}.",
+        "Spread your {ASSHOLE} for me {PRIMARY}, the {ACTIVE} commands. She can't help but obey.",
+        "{PRIMARY} {SCREAM}s as it {PENETRAT}es her.",
+        "{PRIMARY} struggles, but eventually {SUBMIT}s, her cheeks and {ASSHOLE} spreading wide open for it.",
+        "{PRIMARY} sinks to the ground, too overcome by {LUST} to fight.",
+        "{PRIMARY} nods weakly as the demon offers his {COCK}."
+    ]
+}

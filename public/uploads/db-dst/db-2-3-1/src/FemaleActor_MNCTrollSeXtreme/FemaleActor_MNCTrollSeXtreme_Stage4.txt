@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "I wrap my legs around the {MONSTER}, pulling its {BEASTLY} {COCK} all the way inside me. I let myself fall back, {MOAN}ing.",
+        "I lock my ankles around the {MONSTER}, eager to feel its {COCK} all the way inside me, in my womb.",
+        "Aaahh... Mmmm... Oh my... this is so good... {FUCK} me! Cum in me! Get me pregnant! I want it all!",
+        "It's {FUCK}ing me so hard, so {ROUGH}ly... It's so sexy...",
+        "I'm literally hanging from a monstrous {MONSTER}'s {COCK}, and I love it!"
+    ],
+    "2nd Person": [
+        "You wrap your legs around the {MONSTER}, pulling its {BEASTLY} {COCK} all the way inside you. You let yourself fall back, {MOAN}ing.",
+        "You lock your ankles around the {MONSTER}, eager to feel its {COCK} all the way inside you, in your womb.",
+        "({PRIMARY}) Aaahh... Mmmm... Oh my... this is so good... {FUCK} me! Cum in me! Get me pregnant! I want it all!",
+        "It's {FUCK}ing you so hard, so {ROUGH}ly... It's so sexy...",
+        "You're literally hanging from a monstrous {MONSTER}'s {COCK}, and you love it!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} wraps her legs around the {MONSTER}, pulling its {BEASTLY} {COCK} all the way inside her. She lets herself fall back, {MOAN}ing.",
+        "{PRIMARY} locks her ankles around the {MONSTER}, eager to feel its {COCK} all the way inside her, in her womb.",
+        "({PRIMARY}) Aaahh... Mmmm... Oh my... this is so good... {FUCK} me! Cum in me! Get me pregnant! I want it all!",
+        "It's {FUCK}ing {PRIMARY} so hard, so {ROUGH}ly... It's so sexy...",
+        "{PRIMARY} is literally hanging from a monstrous {MONSTER}'s {COCK}, and she loves it!"
+    ]
+}

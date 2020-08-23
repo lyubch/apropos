@@ -1,0 +1,22 @@
+{
+    "1st Person": [
+        "I spread my legs apart and begin stroking my shaft.",
+        "I lean forward, pumping my {HUGE} {COCK}.",
+        "I take out my {HUGE} {COCK} and start pumping it to its full length.",
+        "If there's no little {BITCH} willing to get me off, I'll just have to do it myself!",
+        "C'mon ladies, take a look at this! How'd you like this up you?"
+    ],
+    "2nd Person": [
+        "You spread your legs apart and begin stroking your shaft.",
+        "You lean forward, pumping your {HUGE} {COCK}.",
+        "You take out you {HUGE} {COCK} and start pumping it to its full length.",
+        "If there's no little {BITCH} willing to get you off, you'll just have to do it yourself!",
+        "({ACTIVE}) C'mon ladies, take a look at this! How'd you like this up you?"
+    ],
+    "3rd Person": [
+        "{ACTIVE} stands tall legs spread, his glorious {COCK} gripped in his huge fist.",
+        "The sight of {ACTIVE} standing naked, starting to pump his {HUGE} {COCK}, is quite a turn on.",
+        "{ACTIVE} spreads his legs apart and begins stroking his shaft.",
+        "{ACTIVE} strips and produces his {HUGE} {COCK}. Oh my..."
+    ]
+}

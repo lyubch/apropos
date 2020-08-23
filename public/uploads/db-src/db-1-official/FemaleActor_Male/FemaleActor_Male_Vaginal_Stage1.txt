@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "I let out a small moan as {ACTIVE}'s {HUGE} {COCK} enters my {WTVAGINAL} {PUSSY}.",
+        "I obediently accept {ACTIVE}'s {HUGE} {COCK} into my {PUSSY}.",
+        "I feel the head of his {COCK} press forcefully against me, and then into me as my body accepts his.",
+        "I listen to the pounding of my heart as {ACTIVE}'s {HUGE} {COCK} pushes inside my {PUSSY}.",
+        "I moan as {ACTIVE} enters me. I want this... fuck me... fuck me so hard...",
+        "I wrap my pussy lips around {ACTIVE}'s {COCK} and give him everything I have.",
+        "I want him, need him to spear me with that {HUGE} {COCK}, on the ground if necessary.",
+        "I'm so wet that {ACTIVE}'s {COCK} has no problem sliding inside me.",
+        "Maybe just a few inches? If it's just the tip, that doesn't count, does it?",
+        "I just need to be fucked, to feel your {CUM} way up in me. Ugh, Gods I want that SO bad.",
+        "I want you to fuck me, screw me like a whore... you know you want me... so what are you waiting for?",
+        "I shudder and my legs twitch uncontrollably as {ACTIVE}'s {PENIS} penetrates me."        
+    ],
+    "2nd Person" :
+    [
+        "You let out a small moan as {ACTIVE}'s {HUGE} {COCK} enters your {WTVAGINAL} {PUSSY}.",
+        "You obediently accept {ACTIVE}'s {HUGE} {COCK} into your {PUSSY}.",
+        "You feel the head of his {COCK} press forcefully against you, and then into you as your body accepts his.",
+        "You listen to the pounding of your heart as {ACTIVE}'s {HUGE} {COCK} pushes inside your {PUSSY}.",
+        "({PRIMARY}) I want this... fuck me... fuck me so hard...",
+        "You wrap your pussy lips around {ACTIVE}'s {COCK} and give him everything you have.",
+        "You want him, need him to spear you with that {HUGE} {COCK}, on the ground if necessary.",
+        "You're so wet that {ACTIVE}'s {COCK} has no problem sliding inside you.",
+        "Maybe just a few inches? If it's just the tip, that doesn't count, does it?",
+        "You just need to be fucked, to feel his {CUM} way up in you. Ugh, Gods you want that SO bad.",
+        "({PRIMARY}) I want you to fuck me, screw me like a whore... you know you want me... so what are you waiting for?",
+        "You shudder and your legs twitch uncontrollably as {ACTIVE}'s {PENIS} penetrates you."
+    ],
+    "3rd Person" :
+    [
+        "({PRIMARY}) I want this... fuck me... fuck me so hard...",
+        "{PRIMARY} lets out a small moan as {ACTIVE}'s {HUGE} {COCK} enters her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY}'s so wet that {ACTIVE}'s {COCK} has no problem sliding inside her.",
+        "({PRIMARY}) I want you to fuck me, screw me like a whore... you know you want me... so what are you waiting for?",
+        "They probably won't mind if someone watches them fuck..."        
+    ]
+}

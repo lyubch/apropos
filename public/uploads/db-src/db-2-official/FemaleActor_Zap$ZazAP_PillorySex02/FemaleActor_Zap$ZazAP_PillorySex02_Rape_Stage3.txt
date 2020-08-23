@@ -1,0 +1,51 @@
+{
+    "1st Person" :
+    [
+        "The unwanted strokes are faster now, but still so deep, and so much more painful.",
+        "Please... (sob) Why won't anyone stop this...",
+        "Ugh! There's no telling how much longer this will go on for... Or how many men are waiting in line...",
+        "I shudder every time the mystery {PENIS} drives into me, banging on my cervix insistently.",
+        "How long am I gonna be left here like this? Hours? Days? Weeks?! Just being used as a {WHORE}...",
+        "I don't even really know who's fucking me... And I'm just being used as some anonymous {WHORE}...",
+        "({ACTIVE}) Just let it go in you. As soon as someone cums in you the rest will be easier.",
+        "I sob as harsh voices cheer my rape. Fuck her raw, so she can't walk.",
+        "Harsh voices drown out my screams. Fill her {PUSSY}. Plow the {BITCH}, show her you're a man.",
+        "Oh Gods, I can't take it, I need to know... Is it a stranger fucking me? Or some I know?",
+        "My body jolts with strange feelings every time the anonymous {PENIS} rams home inside me.",
+        "He's got a firm hold around my waist, there's nothing I can do but take this deep pounding.",
+        "Locked hard to my bindings, I'm forced to take this {HUGE} {PENIS} all the way to the base.",
+        "Ngh... He's so deep... Uhhh... I feel him...AHH! hitting my cervix with every... mmmmm.... stroke...",
+        "Wet squelches echo as his {HUGE} {PENIS} slams into me harder and harder.",
+        "This bastard fucks me hard, stopping at the deepest point every few strokes to grind against my cervix."
+    ],
+    "2nd Person" :
+    [
+        "The unwanted strokes are faster now, but still so deep, and so much more painful.",
+        "({PRIMARY}) Please... (sob) Why won't anyone stop this...",
+        "Ugh! There's no telling how much longer this will go on for... Or how many men are waiting in line...",
+        "You shudder every time the mystery {PENIS} drives into you, banging on your cervix insistently.",
+        "How long are you gonna be left here like this? Hours? Days? Weeks?! Just being used as a {WHORE}...",
+        "You don't even really know who's fucking you... And you're just being used as some anonymous {WHORE}...",
+        "({ACTIVE}) Just let it go in you. As soon as someone cums in you the rest will be easier.",
+        "You sob as harsh voices cheer your rape. Fuck her raw, so she can't walk.",
+        "Harsh voices drown out your screams. Fill her {PUSSY}. Plow the {BITCH}, show her you're a man.",
+        "Oh Gods, you can't take it, you need to know... Is it a stranger fucking you? Or some you know?",
+        "Your body jolts with strange feelings every time the anonymous {PENIS} rams home inside you.",
+        "He's got a firm hold around your waist, there's nothing you can do but take this deep pounding.",
+        "Locked hard to your bindings, you're forced to take this {HUGE} {PENIS} all the way to the base.",
+        "Ngh... He's so deep... Uhhh... you feel him...AHH! hitting your cervix with every... mmmmm.... stroke...",
+        "Wet squelches echo as hiss {HUGE} {PENIS} slams into you harder and harder.",
+        "This bastard fucks you hard, stopping at the deepest point every few strokes to grind against your cervix."
+    ],
+    "3rd Person" :
+    [
+        "The idea that they might just keep {PRIMARY} bound like that for weeks is terrifying...",
+        "Small sobs are fucked steadily out of {PRIMARY}, the occasional grunt telling just how deep the {ACTIVE} is.",
+        "Isn't anyone going to stop this? It's inhuman to do this to a girl...",
+        "The {ACTIVE}'s thrusts are fast, but still look really deep.",
+        "It's such a turn on, the idea that {PRIMARY} doesn't even know whose {PENIS} is in her.",
+        "{ACTIVE} starts to pound {PRIMARY} with fast, deep strokes, all the way to the base.",
+        "{PRIMARY}'s mouth gapes open every thrust. How deep is {ACTIVE} getting inside her?",
+        "Can anyone volunteer for this? To be tied up, naked and on display, and fucked for entertainment?"
+    ]
+}

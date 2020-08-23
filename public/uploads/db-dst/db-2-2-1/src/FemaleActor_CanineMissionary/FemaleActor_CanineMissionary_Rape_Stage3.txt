@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "I stare up at {ACTIVE}, amazed at how hard he's fucking me. Is this why he attacked me, he wanted sex?",
+        "My entire body is violently rocked backwards and forwards as {ACTIVE} {BEAST} {PENIS} pounds into me.",
+        "I burn with shame and arousal, I can't believe I'm being fucked this hard by a dog.",
+        "Lost to the sensation, my hips push backwards against the {BEAST} {PENIS}, relishing the feeling.",
+        "{ACTIVE}'s balls feel so heavy as they slap against my ass. All that {CUM}...",
+        "{ACTIVE} starts to pound my {PUSSY} like no man has before, he's going to claim me as his bitch.",
+        "My body drips sweat during an exhausting fuck. I'm not sure I've ever had it this hard."        
+    ],
+    "2nd Person" :
+    [
+        "You stare up at {ACTIVE}, amazed at how hard he's fucking you. Is this why he attacked you, he wanted sex?",
+        "Your entire body is violently rocked backwards and forwards as {ACTIVE} {BEAST} {PENIS} pounds into you.",
+        "You burn with shame and arousal, you can't believe you're being fucked this hard by a dog.",
+        "Lost to the sensation, your hips push backwards against the {BEAST} {PENIS}, relishing the feeling.",
+        "{ACTIVE}'s balls feel so heavy as they slap against your ass. All that {CUM}...",
+        "{ACTIVE} starts to pound your {PUSSY} like no man has before, he's going to claim you as his bitch.",
+        "Your body drips sweat during an exhausting fuck. You're not sure you've ever had it this hard."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is being shaken like a ragdoll with the brutal pounding {ACTIVE}'s giving her.",
+        "There's something erotic about the way {PRIMARY}'s feet are in the air and shaking as she gets fucked."
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "1st Person" :
+    [
+        "Aaaahhh! Oh Gods, I'm taking a horse's {PENIS} balls deep!",
+        "My knuckles are white as my body takes the strain of a couple of feet of horsecock fucking my {PUSSY}.",
+        "The beast's strokes are slow, but so deep I feel sick, and I can feel myself filling with its {CUM}.",
+        "I can feel myself blacking out as my uterus is fucked, pain and pleasure exploding through my mind.",
+        "The {ACTIVE} piledrives into me, first forcing my cervix open and then pounding across my womb.",
+        "It's so deep inside me, its {BEAST} {PENIS} penetrating my womb.",
+        "My head whips back as the {ACTIVE} explodes deep inside me.",
+        "The {ACTIVE} continues to pound me as it cums, lubricating its {COCK}'s passage through my cervix.",
+        "The horse fucks me until it cums, but it doesn't stop thrusting. I buck and shake with my own orgasm.",
+        "The horse is fucking its {BEAST} shaft into me, and I climax shamefully.",
+        "The cock-head is all the way in, squirting {THICK} {CUM} directly into my womb.",
+        "Horse {CUM} streams down my legs as I am fucked, hard and deep, by an animal."        
+    ],
+    "2nd Person" :
+    [
+        "Aaaahhh! Oh Gods, you're taking a horse's {PENIS} balls deep!",
+        "Your knuckles are white as your body takes the strain of a couple of feet of horsecock fucking your {PUSSY}.",
+        "The beast's strokes are slow, but so deep you feel sick, and you can feel yourself filling with its {CUM}.",
+        "You can feel yourself blacking out as your uterus is fucked, pain and pleasure exploding through your mind.",
+        "The {ACTIVE} piledrives into you, first forcing your cervix open and then pounding across your womb.",
+        "It's so deep inside you, its {BEAST} {PENIS} penetrating your womb.",
+        "Your head whips back as the {ACTIVE} explodes deep inside you.",
+        "The {ACTIVE} continues to pound you as it cums, lubricating its {COCK}'s passage through your cervix.",
+        "The horse fucks you until it cums, but it doesn't stop thrusting. You buck and shake with your own orgasm.",
+        "The horse is fucking its {BEAST} shaft into you, and you climax shamefully.",
+        "The cock-head is all the way in, squirting {THICK} {CUM} directly into your womb.",
+        "Horse {CUM} streams down your legs as you am fucked, hard and deep, by an animal."
+    ],
+    "3rd Person" :
+    [
+        "Oh Gods! It's unbelievable, but the {ACTIVE} is all the way insider {PRIMARY} now!",
+        "The pain in {PRIMARY}'s face is clear as a couple of feet of horse-{COCK} disappear inside her.",
+        "The {ACTIVE} is fucking {PRIMARY} balls deep, her {PUSSY} will be ruined now..."
+    ]
+}

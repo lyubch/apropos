@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "It's the pheremones. My {PUSSY} and {ASSHOLE} are {WET} in {CREAM}.",
+	"I'm thinking strange thoughts...what if I licked this {MAROUSAL} {BUGCOCK}?",
+	"I can feel a chaurus worm climbing up my leg...is it moving towards my {PUSSY} or my {ASSHOLE}?"
+    ],
+    "2nd Person": [
+        "It's the pheremones. Your {PUSSY} and {ASSHOLE} are {WET} in {CREAM}.",
+	"You're thinking strange thoughts...what if you licked this {MAROUSAL} {BUGCOCK}?",
+	"You can feel a chaurus worm climbing up your leg...is it moving towards your {PUSSY} or your {ASSHOLE}?"
+    ],
+    "3rd Person": [
+        "Her {PUSSY} and {ASSHOLE} are {WET} in {CREAM}.",
+	"Did she just lick that {MAROUSAL} {BUGCOCK}?",
+	"A chaurus worm is climbing up her leg...is it moving towards her {PUSSY} or her {ASSHOLE}?"
+    ]
+}

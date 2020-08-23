@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "The {PENIS} starts to throb inside me as the brute grabs my head. Oh Gods, here it comes...",
+        "Fear threatens to overtake me as the creature holds me down, but I resist the urge to struggle.",
+        "Oh Gods, it's almost there! I start to pump my {WTVAGINAL} {PUSSY} faster, eager to finish and escape from this horror.",
+        "Despite my fear, my nipples are stiff as my {BOOBS} are crushed against the {ACTIVE}'s filthy fur.",
+        "Oh Gods, what's it doing?! (sob) Please don't hurt me!",
+        "I frantically thrust back into the beast's {BEAST} {COCK}, desperate to finish before it decides to kill me.",
+        "Soon yet another inhuman creature will blast a load inside me, trying to get me pregnant."
+    ],
+    "2nd Person": [
+        "The {PENIS} starts to throb inside you as the brute grabs your head. Oh Gods, here it comes...",
+        "Fear threatens to overtake you as the creature holds you down, but you resist the urge to struggle.",
+        "Oh Gods, it's almost there! You start to pump your {WTVAGINAL} {PUSSY} faster, eager to finish and escape from this horror.",
+        "Despite your fear, your nipples are stiff as your {BOOBS} are crushed against the {ACTIVE}'s filthy fur.",
+        "({PRIMARY}) Oh Gods, what's it doing?! (sob) Please don't hurt me!",
+        "You frantically thrust back into the beast's {BEAST} {COCK}, desperate to finish before it decides to kill you.",
+        "Soon yet another inhuman creature will blast a load inside you, trying to get you pregnant."
+    ],
+    "3rd Person": [
+        "The {PENIS} starts to throb inside {PRIMARY} as the brute grabs her head. Oh Gods, here it comes...",
+        "Fear threatens to overtake {PRIMARY} as the creature holds her down, but she resists the urge to struggle.",
+        "Oh Gods, it's almost there! {PRIMARY} starts to pump your {WTVAGINAL} {PUSSY} faster, eager to finish and escape from this horror.",
+        "Despite her fear, {PRIMARY}'s nipples are stiff as her {BOOBS} are crushed against the {ACTIVE}'s filthy fur.",
+        "({PRIMARY}) Oh Gods, what's it doing?! (sob) Please don't hurt me!",
+        "{PRIMARY} frantically thrusts back into the beast's {BEAST} {COCK}, desperate to finish before it decides to kill her.",
+        "Soon yet another inhuman creature will blast a load inside {PRIMARY}, trying to get her pregnant."
+    ]
+}

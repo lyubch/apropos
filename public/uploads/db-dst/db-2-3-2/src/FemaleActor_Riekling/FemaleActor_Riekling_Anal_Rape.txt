@@ -1,0 +1,48 @@
+{
+    "1st Person": [
+        "Surprised to be knocked on my {BUTTOCKS} by such a tiny {MONSTER}, I'm even more surprised to see his {COCK}.",
+        "I push hard against the {ACTIVE} as he tries to {RAP}e me, but I'm shocked at his strength.",
+        "{PLEADING}! I {MOAN} and panic as I feel the {MONSTER}'s {BEASTLY} {COCK} at my {WTANAL} {ASSHOLE}.",
+        "I realise in {FEAR} that I'm about to let this {VILE} thing {BREED} me...",
+        "({PRIMARY}) What?!! You want me to fuck you?! {PLEADING}! No way! I can't!",
+        "({PRIMARY}) (pant) Let's just get this over with...",
+        "The {ACTIVE} moves between my legs. I feel its {BEASTLY} {COCK} touch the lips of my {ASSHOLE}.",
+        "Electricity flashes through my {FLESH} as its {BEASTLY} {COCK} grazes my {ASSHOLE}. Oh my...",
+        "{SWEARING}, no... This thing wants to {FUCK} me too!",
+        "Oh my...! It has such a {HUGE} {COCK} for such a little thing...",
+        "I'm embarrassed to say, but I stop struggling and just stare at the {ACTIVE}'s {COCK}.",
+        "If I don't do something quick, I'm gonna get {FUCK}ed...",
+        "I'm seconds away from being {PENETRAT}ed. This is my last chance to stop it...",
+        "{SWEARING}, no... This thing wants to {FUCK} me too!",
+        "Whatever this thing is, it's about to {FUCK} me!",
+        "I look in {FEAR} at the {BEASTLY} {COCK}, knowing there's nothing I can do to stop it ending up inside me..."
+    ],
+    "2nd Person": [
+        "Surprised to be knocked on your {BUTTOCKS} by such a tiny {MONSTER}, you're even more surprised to see his {COCK}.",
+        "You push hard against the {ACTIVE} as he tries to {RAP}e you, but you're shocked at his strength.",
+        "{PLEADING}! You {MOAN} and panic as you feel the {MONSTER}'s {BEASTLY} {COCK} at your {ASSHOLE}.",
+        "You realise in {FEAR} that you're about to let this {VILE} thing {BREED} you...",
+        "({PRIMARY}) What?!! You want me to fuck you?! {PLEADING}! No way! I can't!",
+        "({PRIMARY}) (pant) Let's just get this over with...",
+        "The {ACTIVE} moves between your legs. You feel its {BEASTLY} {COCK} touch the lips of your {ASSHOLE}.",
+        "Electricity flashes through your {FLESH} as its {BEASTLY} {COCK} grazes your {ASSHOLE}. Oh my...",
+        "{SWEARING}, no... This thing wants to {FUCK} you too!'",
+        "Oh my...! It has such a {HUGE} {COCK} for such a little thing...",
+        "You're embarrassed to say, but you stop struggling and just stare at the {ACTIVE}'s {COCK}.",
+        "If you don't do something quick, You're gonna get {FUCK}ed...",
+        "You're seconds away from being {PENETRAT}ed. This is your last chance to stop it...",
+        "{SWEARING}, no... This thing wants to {FUCK} you too!",
+        "Whatever this thing is, it's about to {FUCK} you!",
+        "You look in {FEAR} at the {BEASTLY} {COCK}, knowing there's nothing you can do to stop it ending up inside you..."
+    ],
+    "3rd Person": [
+        "Surprised to be knocked on her {BUTTOCKS} by such a tiny {MONSTER}, {PRIMARY}'s even more surprised to see his {COCK}.",
+        "{PRIMARY} pushes hard against the {ACTIVE} as he tries to {RAP}e her, but she's shocked at his strength.",
+        "{PRIMARY} {SCREAM}s and panics as the {MONSTER}'s {BEASTLY} {COCK} aims at her {ASSHOLE}.",
+        "{PRIMARY} realises in {FEAR} that she's about to let this {VILE} thing {BREED} her...",
+        "({PRIMARY}) What?!! You want me to fuck you?! {PLEADING}! No way! I can't!",
+        "({PRIMARY}) (pant) Let's just get this over with...",
+        "{SWEARING}, no... This thing wants to {FUCK} {PRIMARY} too!",
+        "Oh my...! It has such a {HUGE} {COCK} for such a little thing..."
+    ]
+}

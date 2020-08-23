@@ -1,0 +1,22 @@
+{
+    "1st Person": [
+        "Oww!! Oh Gods! They just slipped in! I'm being fingerfucked by a {ACTIVE}!",
+        "I pant and sob, fucked steadily by two {BEAST} fingers, each bigger than a cock.",
+        "Ugh... Is it trying to stretch me out? To... ahh! to take it's {COCK}?",
+        "The beast's fingers pop painfully inside me, and my whole body goes limp, all fight beaten from me.",
+        "The strain of taking two of these {BEAST} fingers inside me is too much, and I cum hard.",
+        "Even as I cum around the beast's fingers, I glance down at its {COCK}. It's still hard..."
+    ],
+    "2nd Person": [
+        "Oww!! Oh Gods! They just slipped in! You're being fingerfucked by a {ACTIVE}!",
+        "You pant and sob, fucked steadily by two {BEAST} fingers, each bigger than a cock.",
+        "Ugh... Is it trying to stretch you out? To... ahh! to take it's {COCK}?",
+        "The beast's fingers pop painfully inside you, and your whole body goes limp, all fight beaten from you.",
+        "The strain of taking two of these {BEAST} fingers inside you is too much, and you cum hard.",
+        "Even as you cum around the beast's fingers, you glance down at its {COCK}. It's still hard..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} suddenly stops struggling, and it's obvious why; the beast's fingers are now fucking her.",
+        "{PRIMARY} goes limp, her slender legs dangling lifelessly as the {ACTIVE} fucks her with two fingers."
+    ]
+}

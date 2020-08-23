@@ -1,0 +1,16 @@
+{
+    "1st Person": [
+        "The {ACTIVE} thrusts hard and holds his {COCK} as deep inside as he can. I gasp at the force of his cumshot.",
+        "A series of slow, deep thrusts jerks my body forward, and {SLIMY} {CUM} fills my guts.",
+        "I feel my {ASS} fill with {SLIMY} {CUM}, and I shiver as some drips down my {PUSSY} and legs."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} thrusts hard and holds his {COCK} as deep as he can. You gasp at the force of his cumshot.",
+        "A series of slow, deep thrusts jerks your body forward, and {SLIMY} {CUM} fills your guts.",
+        "You feel your {ASS} fill with {SLIMY} {CUM}, and you shiver as some drips down your {PUSSY} and legs."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} is thrusting more slowly now, and as deep as it can. It must be {CUMMING}.",
+        "Oh my... huge amounts of {SLIMY} {CUM} drip down {PRIMARY}'s legs. Is that stuff filling her {ASS}?"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "1st Person" :
+    [
+        "My hand is moving of its own volition now; this {ACTIVE}'s {CUM} is mine!",
+	"The {ACTIVE} and I lock eyes, and I feel what seems like {LOVE} for a moment.",
+	"It occurs to me that I've never seen a female {ACTIVE}...is that why they're so fond of {HEAVING} {NUDE} girls?"
+    ],
+    "2nd Person" :
+    [
+        "Your hand is moving of its own volition now; this {ACTIVE}'s {CUM} is yours!",
+	"The {ACTIVE} and you lock eyes, and you feel what seems like {LOVE} for a moment.",
+	"It occurs to you that you've never seen a female {ACTIVE}...is that why they're so fond of {HEAVING} {NUDE} girls?"
+    ],
+    "3rd Person" :
+    [
+	"The {ACTIVE} and {PRIMARY} lock eyes...is that {LOVE} between them?"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "({PRIMARY}) Please... I beg you... Not inside me!",
+        "I hope you want kids, {BITCH}!",
+        "{PRIMARY}'s sobs have been replaced with panting. This {BITCH} is getting into it now!",
+        "I start fucking even faster, and I feel my {COCK} slamming into her cervix. She grunts in pain."
+    ],
+    "2nd Person": [
+        "({PRIMARY}) Please... I beg you... Not inside me!",
+        "({ACTIVE}) I hope you want kids, {BITCH}!",
+        "{PRIMARY}'s sobs have been replaced with panting. This {BITCH} is getting into it now!",
+        "You start fucking even faster, and you feel your {COCK} slamming into her cervix. She grunts in pain."
+    ],
+    "3rd Person": [
+        "{PRIMARY} tries to close her spread legs, but {ACTIVE}'s brutal thrusts take her breath away.",
+        "{PRIMARY} sobs as harsh voices cheer her rape. Fuck her raw, so she can't walk.",
+        "Harsh voices drown out {PRIMARY}'s screams. Fill her {PUSSY}. Plow the {BITCH}, show her you're a man.",
+        "({PRIMARY}) Please, {ACTIVE}, just don't cum inside me.... I'll do anything. I'm serious...",
+        "He dominates {PRIMARY}, taking his pleasure with huge violent thrusts that seem to fill her whole body.",
+        "({ACTIVE}) You're not walking out of here without a baby, {BITCH}.",
+        "({ACTIVE}) We're have to fuck you again and again until you're knocked up!",
+        "{ACTIVE} withdraws slowly, almost fully out of {PRIMARY} before pushing his cum-coated {COCK} back into her.",
+        "({ACTIVE}) The way you just rolled over and spread your legs, I bet you wanted this!",
+        "({PRIMARY}) More! More! Harder!"
+    ]
+}

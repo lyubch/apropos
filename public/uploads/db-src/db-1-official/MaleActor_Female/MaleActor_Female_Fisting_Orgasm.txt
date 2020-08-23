@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "Her final barrier gives way, and my entire fist enters {PRIMARY}'s womb. She collapses with strain.",
+        "Most of my arm now in her, {PRIMARY}'s {WTVAGINAL} {PUSSY} spasms around me as she cums.",
+        "{PRIMARY}'s entire body is convulsing in orgasm, and dripping with sweat."
+    ],
+    "2nd Person": [
+        "Her final barrier gives way, and your entire fist enters {PRIMARY}'s womb. She collapses with strain.",
+        "Most of your arm now in her, {PRIMARY}'s {WTVAGINAL} {PUSSY} spasms around you as she cums.",
+        "{PRIMARY}'s entire body is convulsing in orgasm, and dripping with sweat."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s arms give out and she drops to her elbows, her whole body shuddering in exhaustion and climax.",
+        "He's so deep... Most of his forearm is pushing inside {PRIMARY} now...",
+        "{PRIMARY} collapses, sobbing, wishing for this to end.",
+        "with a shudder, {PRIMARY}'s orgasm thunders through her, and she moans in shame and release combined.",
+        "As her orgasm breaks {PRIMARY} lets out a guttural cry of delight.",
+        "Ugh! Gods... He's in... his whole fist must be all the way into her womb!"
+    ]
+}

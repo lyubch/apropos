@@ -1,0 +1,13 @@
+{
+    "1st Person": [
+        "I scream and sob as I'm violated in a way that I didn't even think was possible.",
+        "My {ASS} burns and I feel sick as {ACTIVE} fills my guts for the first time."
+    ],
+    "2nd Person": [
+        "You scream and sob as you're violated in a way that you didn't even think was possible.",
+        "Your {ASS} burns and you feel sick as {ACTIVE} fills your guts for the first time."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is crying and obviously in pain. That must have been her first time in the {ASS}..."
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "I roll over, letting {ACTIVE} straddle my legs and start to sensually rub my back and ass.",
+        "I can feel his {PENIS} at the entrance to my {PUSSY}... Is he going to... OH!",
+        "I make no attempt to resist as {ACTIVE} puts his {PENIS} inside me me without asking...",
+        "I'm so wet that {ACTIVE} slips inside me easily, surprising me a little.",
+        "It's okay if you want to... stick it in... I won't mind...",
+        "I'm a little bit surprised as {ACTIVE} pushes his {HUGE} {PENIS} inside me, and I rise with a start.",
+        "I'm really turned right now, and I feel his {PENIS} between my legs. I want him to..."
+    ],
+    "2nd Person" :
+    [
+        "You roll over, letting {ACTIVE} straddle your legs and start to sensually rub your back and ass.",
+        "You can feel his {PENIS} at the entrance to your {PUSSY}... Is he going to... OH!",
+        "You make no attempt to resist as {ACTIVE} puts his {PENIS} inside you you without asking...",
+        "You're so wet that {ACTIVE} slips inside you easily, surprising you a little.",
+        "({PRIMARY}) It's okay if you want to... stick it in... I won't mind...",
+        "You're a little bit surprised as {ACTIVE} pushes his {HUGE} {PENIS} inside you, and you rise with a start.",
+        "You're really turned right now, and you feel his {PENIS} between your legs. You want him to..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s head jerks up as {ACTIVE} pushes his {PENIS} inside her, but she doesn't tell him to stop.",
+        "He's not really going to... Oh my goodness, he did it!",
+        "Oh my, did {PRIMARY} know he was going to do that? Did she say it was okay?",
+        "It's not hard to see how that kind of massage could lead to sex..."
+    ]
+}

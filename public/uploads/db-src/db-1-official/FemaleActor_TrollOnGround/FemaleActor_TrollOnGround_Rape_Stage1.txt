@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} holds me by the waist, and I squeal as the head of its {PENIS} starts to fuck slowly into me.",
+        "I'm pinned under the {ACTIVE}'s bulk, powerless to stop it pushing its {BEAST} {PENIS} into my {PUSSY}.",
+        "I'm bruised and exposed, about to be brutally raped by an animal. Then why is it sliding in so easily? Why am I wet?",
+        "I've heard stories of country girls who had been caught in the woods by trolls... I can't believe it's true!",
+        "My heart is racing, I can't escape, this {ACTIVE} can do whatever it wants to me.",
+        "Insistently, aggressively, the first few inches of its impossibly {BEAST} {COCK} slide up inside of me.",
+        "The air smells of sex, thick and musky. How many other girls have been fucked here?"
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} holds you by the waist, and you squeal as the head of its {PENIS} starts to fuck slowly into you.",
+        "You're pinned under the {ACTIVE}'s bulk, powerless to stop it pushing its {BEAST} {PENIS} into your {PUSSY}.",
+        "You're bruised and exposed, about to be brutally raped by an animal. Then why is it sliding in so easily? Why are you wet?",
+        "You've heard stories of country girls who had been caught in the woods by trolls... You can't believe it's true!",
+        "Your heart is racing, you can't escape, this {ACTIVE} can do whatever it wants to you.",
+        "Insistently, aggressively, the first few inches of its impossibly {BEAST} {COCK} slide up inside of you.",
+        "The air smells of sex, thick and musky. How many other girls have been fucked here?"
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} holds {PRIMARY} by the waist, and she squeals as the head of its {PENIS} starts to fuck slowly into her.",
+        "{PRIMARY}'s pinned under the {ACTIVE}'s bulk, powerless to stop it pushing its {BEAST} {PENIS} into her {PUSSY}.",
+        "There are stories of country girls who get caught in the woods by trolls... It looks like they're true..."
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "1st Person": [
+        "I know I can't wait here for something else to find me, I need to get back to safety...",
+        "I {QUIVER} as {CUM} runs from my {WTVAGINAL} {PUSSY} as I stand up, running down my legs..."
+    ],
+    "2nd Person": [
+        "You know you can't wait here for something else to find you, you need to get back to safety...",
+        "You {QUIVER} as {CUM} runs from your {WTVAGINAL} {PUSSY} as you stand up, running down your legs..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} knows she can't wait here for something else to find her, she needs to get back to safety...",
+        "{PRIMARY} {QUIVER}s as {CUM} runs from her {WTVAGINAL} {PUSSY} as she stands up, running down her legs..."
+    ]
+}

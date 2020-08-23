@@ -1,0 +1,45 @@
+{
+    "1st Person": [
+        "My body is tilted upwards, sliding down more heavily onto the beast's {COCK}.",
+        "Oh my goodness, he's huge...! Ugh! Ugh! AAAH!!",
+        "This is certainly one way to tame a dragon...",
+        "My teeth clench painfully, but I'm determined to take this. I won't be beaten by this {ACTIVE}...",
+        "I grit my teeth and strain as more of the beast enters me.",
+        "Perhaps this is the true fate of the Dragonborn, to be impregnated by a dragon...",
+        "A cold sweat flashes over me as I question my actions. Can I really survive this?",
+        "My Voice is powerful, but there's another shout you can pull from my throat...",
+        "({ACTIVE}) Let me see your Voice, Dovahkiin! Shout as I fuck you! Shout as you cum!",
+        "My {BOOBS} and clit rub fiercely against the beast's scales. There's a lot of pain, and a little pleasure.",
+        "I shouldn't be surprised at this, wanting to fuck a dragon... This must be my heritage...",
+        "The {ACTIVE} doesn't go easy on my tiny human body, and pounds me violently.",
+        "Each colossal thrust pounds into my cervix and rocking my whole body forwards painfully."
+    ],
+    "2nd Person": [
+        "Your body is tilted upwards, sliding down more heavily onto the beast's {COCK}.",
+        "Oh my goodness, he's huge...! Ugh! Ugh! AAAH!!",
+        "This is certainly one way to tame a dragon...",
+        "Your teeth clench painfully, but you're determined to take this. You won't be beaten by this {ACTIVE}...",
+        "You grit your teeth and strain as more of the beast enters you.",
+        "Perhaps this is the true fate of the Dragonborn, to be impregnated by a dragon...",
+        "A cold sweat flashes over you as you question your actions. Can you really survive this?",
+        "({PRIMARY}) My Voice is powerful, but there's another shout you can pull from my throat...",
+        "({ACTIVE}) Let me see your Voice, Dovahkiin! Shout as I fuck you! Shout as you cum!",
+        "Your {BOOBS} and clit rub fiercely against the beast's scales. There's a lot of pain, and a little pleasure.",
+        "You shouldn't be surprised at this, wanting to fuck a dragon... This must be your heritage...",
+        "The {ACTIVE} doesn't go easy on your tiny human body, and pounds you violently.",
+        "Each colossal thrust pounds into your cervix and rocking your whole body forwards painfully."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s body is tilted upwards, sliding down more heavily onto the beast's {COCK}.",
+        "Oh my goodness, he's huge...! Ugh! Ugh! AAAH!!",
+        "That's is certainly one way to tame a dragon...",
+        "{PRIMARY}'s teeth clench painfully, but she's determined to take this. She won't be beaten by this {ACTIVE}.",
+        "{PRIMARY} grits her teeth and strains as more of the beast enters her.",
+        "Perhaps this is the true fate of human women, to be impregnated by dragons...",
+        "A looks of panic appears as {PRIMARY} questions her actions. Can she really survive this?",
+        "Her {BOOBS} and clit rub fiercely against the beast's scales.",
+        "{PRIMARY} shouldn't be surprised at this, wanting to fuck a dragon... Is this how Dragonborn are made?",
+        "The {ACTIVE} doesn't go easy on {PRIMARY}'s tiny human body, and pounds her violently.",
+        "Each colossal thrust pounds into {PRIMARY}'s cervix, rocking her whole body forwards painfully."
+    ]
+}

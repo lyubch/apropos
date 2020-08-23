@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} lets go of my hips, but his snarl in my ear tells me I shouldn't try to flee...",
+        "Ahh ahh! Maybe I should... should let him finish...",
+        "(sob) I'm a good girl, this shouldn't be happening to me...",
+        "Oh my goodness, I'm being raped by a dog! Oh oh fuck! Oh it's too big! Ow ow ow ow! Pleeeeassse get off me!",
+        "{ACTIVE} puts his front legs to the ground, looking for extra grip to fuck me all the harder.",
+        "{ACTIVE} snarls angrily and his haunches slam forward. My whole body rocks and I gasp.",
+        "I imagine how much {CUM} he's about to put into my {FAROUSAL} {PUSSY}."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} lets go of your hips, but his snarl in your ear tells you you shouldn't try to flee...",
+        "Ahh ahh! Maybe you should... should let him finish...",
+        "You're a good girl, this shouldn't be happening to you...",
+        "({PRIMARY}) Oh Gods, I'm being raped by a dog! Oh fuck! Oh it's too big! Ow ow ow! Pleeeeassse get off me!",
+        "{ACTIVE} puts his front legs to the ground, looking for extra grip to fuck you all the harder.",
+        "{ACTIVE} snarls angrily and his haunches slam forward. Your whole body rocks and you gasp.",
+        "You imagine how much {CUM} he's about to put into your {FAROUSAL} {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} snarls and pants at {PRIMARY}'s ear as he fucks his {PENIS} into her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} looks scared, but a little turned on..."
+    ]
+}

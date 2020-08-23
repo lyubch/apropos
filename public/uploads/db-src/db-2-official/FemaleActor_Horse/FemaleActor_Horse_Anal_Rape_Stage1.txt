@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} is excited and horny... I raise my ass to its {PENIS}, trying to calm it down.",
+        "My knees tremble as I back up to the berserk beast's {PENIS}, lining it up with my {ASS}.",
+        "My head low, I grit my teeth as the {ACTIVE}'s huge crown spreads my {WTANAL} {ASS}.",
+        "I brace myself underneath the beast, holding its leg and spreading my toes for leverage. This will hurt...",
+	"I reach between my legs and guide the flared head to my {ASS} myself, hoping it will hurt less...",
+        "Ugh... ngh... AH! It's in...",
+        "Slowly, an inch at a time, the inhumanly large phallus pushes into my trembling body..."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} is excited and horny... you raise your ass to its {PENIS}, trying to calm it down.",
+        "Your knees tremble as you back up to the berserk beast's {PENIS}, lining it up with your {ASS}.",
+        "Your head low, you grit your teeth as the {ACTIVE}'s huge crown spreads your {WTANAL} {ASS}.",
+        "You brace yourself underneath the beast, holding on and spreading your toes for leverage. This will hurt...",
+	"You reach between your legs and guide the flared head to your {ASS} myself, hoping it will hurt less...",
+        "Ugh... ngh... AH! It's in...",
+        "Slowly, an inch at a time, the inhumanly large phallus pushes into your trembling body..."
+    ],
+    "3rd Person" :
+    [
+        "Beaten and bruised, {PRIMARY} submits, raising her {ASS} and giving the {ACTIVE} what it wants.",
+        "{PRIMARY} sobs as she reaches between her legs, guiding the {BEAST} horsecock between her cheeks.",
+        "Holding tight and shaking with fear, {PRIMARY} prepares herself for what's gonna be a painful fuck."
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "1st Person": [
+        "I open as wide as I can, but I gag and splutter as the {BEASTLY} {COCK} chokes me.",
+        "The {ACTIVE} takes control, a massive, clawed hand on top of my head to hold me while he {FUCK}s my {MOUTH}.",
+        "I really can't do this, it's too {HUGE}... I strain my jaw, but I can't even take half the length...",
+        "The {BEASTLY} {COCK} is red hot... So much hotter than a human {COCK}, and already leaking pre-cum.",
+        "The {COCK} tastes strange, I'm not sure if I like it or not, but there's no denying how {HORNY} I'm getting.",
+        "I'm already swallowing a constant stream of {THICK} pre-cum. What will it be like when it {EJACULATE}s?",
+        "The {COCK} is {BEASTLY}, and I feel it hit the back of my throat with every thrust.",
+        "I can't believe I'm on my knees, {SUCK}ing a {MONSTER} like this... I'm such a {BITCH}..."
+    ],
+    "2nd Person": [
+        "You open as wide as you can, but you gag and splutter as the {BEASTLY} {COCK} chokes you.",
+        "The {ACTIVE} takes control, a massive, clawed hand on top of your head to hold you while he {FUCK}s your {MOUTH}.",
+        "You really can't do this, it's too {HUGE}... You strain your jaw, but you can't even take half the length...",
+        "The {BEASTLY} {COCK} is red hot... So much hotter than a human {COCK}, and already leaking pre-cum.",
+        "The {COCK} tastes strange, You're not sure if you like it or not, but there's no denying how {HORNY} you're getting.",
+        "You're already swallowing a constant stream of {THICK} pre-cum. What will it be like when it {EJACULATE}s?",
+        "The {COCK} is {BEASTLY}, and you feel it hit the back of your throat with every thrust.",
+        "You can't believe you're on your knees, {SUCK}ing a {MONSTER} like this... You're such a {BITCH}..."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s really doing it, she's {SUCK}ing a {MONSTER}'s {COCK}!",
+        "The {ACTIVE} holds {PRIMARY} steady, {FUCK}ing her {MOUTH} steadily as she {MOAN}s her approval.",
+        "It sounds like {PRIMARY}'s choking already, and she's barely even taken the {COCKHEAD}...",
+        "Watching {PRIMARY}'s {HEAVING} {FLESH} as she's {SUCK}ing such a {BEASTLY} {COCK} is strangely erotic..."
+    ]
+}

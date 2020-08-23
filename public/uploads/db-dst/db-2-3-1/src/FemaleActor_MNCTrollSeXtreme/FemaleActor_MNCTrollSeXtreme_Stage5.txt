@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "{SWEARING}, this is so obscene, unnatural, so {LEWD}... and so good... This is why girls {FUCK} monsters! For this feeling!",
+        "I spread my legs wide, almost cumming every time I'm {PENETRAT}ed by the {ACTIVE}'s {BEASTLY} {COCK}...",
+        "I struggle to keep my thoughts straight, every long stroke threatening to break my mind.",
+        "I can feel it... the {MONSTER} is almost there...",
+        "The {MONSTER} quickens its strokes, {FUCK}ing me balls deep, and I realize what's about to happen.",
+        "The {MONSTER} {FUCK}s me {ROUGH}ly. My heart races, I know that soon I will be carrying the {MONSTER}'s child."
+    ],
+    "2nd Person": [
+        "{SWEARING}, this is so obscene, unnatural, so {LEWD}... and so good... This is why girls {FUCK} monsters! For this feeling!",
+        "You spread your legs wide, almost cumming every time you're {PENETRAT}ed by the {ACTIVE}'s {BEASTLY} {COCK}...",
+        "You struggle to keep your thoughts straight, every long stroke threatening to break your mind.",
+        "You can feel it... the {MONSTER} is almost there...",
+        "The {MONSTER} quickens its strokes, {FUCK}ing you balls deep, and you realize what's about to happen.",
+        "The {MONSTER} {FUCK}s you {ROUGH}ly. Your heart races, you know that soon you will be carrying the {MONSTER}'s child."
+    ],
+    "3rd Person": [
+        "{SWEARING}, this is so obscene, unnatural, so {LEWD}... and so good... This is why girls {FUCK} monsters! For this feeling!",
+        "{PRIMARY} spreads her legs wide, almost cumming every time she's {PENETRAT}ed by the {ACTIVE}'s {BEASTLY} {COCK}...",
+        "{PRIMARY} struggles to keep her thoughts straight, every long stroke threatening to break her mind.",
+        "{PRIMARY} can feel it... the {MONSTER} is almost there...",
+        "The {MONSTER} quickens its strokes, {FUCK}ing {PRIMARY} balls deep, and she realizes what's about to happen.",
+        "The {MONSTER} {FUCK}s {PRIMARY} {ROUGH}ly. Her heart races, she knows that soon she will be carrying the {MONSTER}'s child."
+    ]
+}

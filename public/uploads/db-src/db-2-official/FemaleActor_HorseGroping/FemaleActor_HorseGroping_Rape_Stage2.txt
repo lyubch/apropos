@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "Its {BEAST} {PENIS} looks sore... Maybe it will calm down if I relieve its stress?",
+        "I kneel down, showing the beast it shouldn't be scared... Wow... Is that it's.. {COCK}...?!",
+        "This isn't right, I shouldn't be getting turned on from this... What am I thinking?",
+        "I drop to my knees, coming face to face with the {ACTIVE}'s {BEAST} {PENIS}.",
+        "The stench of the beast's {PENIS} is strong, and I finger myself a little faster.",
+        "That's really big. Really, really big. I pause for a moment, trying to remember what I was doing.",
+        "What?! It's getting aroused by me? What is it expecting me to do?",
+        "My {PUSSY} is {FAROUSAL} at the sight of this {BEAST} {PENIS}. What should I do...?",
+        "Oh my... My {PUSSY} flushes at the thought that such a magnificent animal is getting turned on by me.",
+        "For a split second, I want that {BEAST} {PENIS}. I shake the perverted thought from my head.",
+        "Its {PENIS} is rock hard... Oh my, what does it think I'm going to do? And what will it do if I don't?"
+    ],
+    "2nd Person" :
+    [
+        "Its {BEAST} {PENIS} looks sore... Maybe it will calm down if you relieve its stress?",
+        "You kneel down, showing the beast it shouldn't be scared... Wow... Is that it's.. {COCK}...?!",
+        "This isn't right, you shouldn't be getting turned on from this... What are you thinking?",
+        "You drop to your knees, coming face to face with the {ACTIVE}'s {BEAST} {PENIS}.",
+        "The stench of the beast's {PENIS} is strong, and you finger yourself a little faster.",
+        "That's really big. Really, really big. You pause for a moment, trying to remember what you were doing.",
+        "What?! It's getting aroused by you? What is it expecting you to do?",
+        "Your {PUSSY} is {FAROUSAL} at the sight of this {BEAST} {PENIS}. What should you do...?",
+        "Oh my... Your {PUSSY} flushes at the thought that such a magnificent animal is getting turned on by you.",
+        "For a split second, you want that {BEAST} {PENIS}. You shake the perverted thought from your head.",
+        "Its {PENIS} is rock hard... Oh your, what does it think you're going to do? And what will it do if you don't?"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} kneels down beside the animal, her mouth opening wide in shock as she sees its {PENIS}.",
+        "Oh Gods, what's {PRIMARY} doing? She had a chance to escape...",
+        "Oh my, is {PRIMARY} really thinking of doing... that... to a horse?"
+    ]
+}

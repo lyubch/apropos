@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE}'s huge arm wraps around me, holding me tightly to his chest. My nipples thrill at the touch.",
+        "We lie together, and I lovingly play with his balls. I'd love to feel them explode inside me...",
+        "I fondle his balls, and slip a finger up his ass. I bet I could get him to cum really hard like this!",
+        "{ACTIVE}'s {PENIS} stands impressively to attention, and I give his balls a gentle squeeze.",
+        "I cuddle into the side of {ACTIVE}, my head on his muscular chest, my hands eagerly playing with him.",
+        "Um, I guess he wants me to play with his {PENIS}? Okay... It'd be okay if I did that..."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE}'s huge arm wraps around you, holding you tightly to his chest. Your nipples thrill at the touch.",
+        "You lie together, and you lovingly play with his balls. You'd love to feel them explode inside you...",
+        "You fondle his balls, and slip a finger up his ass. You bet you could get him to cum hard like this!",
+        "{ACTIVE}'s {PENIS} stands impressively to attention, and you give his balls a gentle squeeze.",
+        "You cuddle into the side of {ACTIVE}, your head on his muscular chest, your hands eagerly playing with him.",
+        "Um, You guess he wants you to play with his {PENIS}? Okay... It'd be okay if you did that..."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} leans back, clearly enjoying the attention of the beautiful {BITCH} in his arms.",
+        "It's hard to see what {PRIMARY} is doing with her other hand, but it sure is making {ACTIVE}'s {COCK} hard!",
+        "{PRIMARY} gently fondles {ACTIVE}'s balls, his {PENIS} twitching as she does."
+    ]
+}

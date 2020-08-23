@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "{ACTIVE} hikes my ass up even higher, and fucks me even more brutally than before.",
+        "I squeal and pant as {ACTIVE} starts to drive his {PENIS} even harder into my {WTVAGINAL} {PUSSY}.",
+        "Oh Gods, yes! Fuck me like a {WHORE}! I'm yours, your stupid little {BITCH} to use and throw away!",
+        "Ungghhh, ungghhh, unggghhh, unggghhh, unggghhh, ungghhh, {ACTIVE}, oh Gods, fuck, fuck, fuck, fuck...",
+        "As {ACTIVE}'s {HUGE} {PENIS} mercilessly fucks me, I pant and moan like a {WHORE}.",
+        "Everyone will think I'm just some cheap little {BITCH}. The thought drives me wild.",
+        "Please fuck me harder, I've been a very bad girl.",
+        "Who else came inside you tonight? {ACTIVE} demands. Everyone, I moan. Everyone I fucked came inside me.",
+        "Loud slapping echoes as his hips pound into my ass,  followed by my screams of pleasure.",
+        "Oh fuck... oh fuck... oh fuck...",
+        "I bet you even fucked your own father, {BITCH}, he says. I blush, my clit throbbing at the thought."
+    ],
+    "2nd Person": [
+        "{ACTIVE} hikes your ass up even higher, and fucks you even more brutally than before.",
+        "You squeal and pant as {ACTIVE} starts to drive his {PENIS} even harder into your {WTVAGINAL} {PUSSY}.",
+        "({PRIMARY}) Gods, yes! Fuck me like a {WHORE}! I'm yours, your stupid little {BITCH} to use and throw away!",
+        "({PRIMARY}) Ungghhh, unggghhh, unggghhh, unggghhh, ungghhh, {ACTIVE}, oh Gods, fuck, fuck, fuck, fuck...",
+        "As {ACTIVE}'s {HUGE} {PENIS} mercilessly fucks you, you pant and moan like a {WHORE}.",
+        "Everyone will think you're just some cheap little {BITCH}. The thought drives you wild.",
+        "({PRIMARY}) Please fuck me harder, I've been a very bad girl.",
+        "Who else came inside you tonight? {ACTIVE} demands. Everyone, you moan. Everyone I fucked came inside me.",
+        "Loud slapping echoes as his hips pound into your ass,  followed by your screams of pleasure.",
+        "({PRIMARY}) Oh fuck... oh fuck... oh fuck...",
+        "I bet you even fucked your own father, {BITCH}, he says. You blush, your clit throbbing at the thought."
+    ],
+    "3rd Person": [
+        "Oh my! He's fucking her so hard, she can't possibly be enjoying that? Can she?!",
+        "It's obvious that {PRIMARY} is just a {WHORE} getting off on such rough treatment.",
+        "They're making so much noise, maybe they want to be watched?",
+        "({PRIMARY}) Maybe... ahhh! I should get my dog, so he can... AH! Show you how it's done?"
+    ]
+}

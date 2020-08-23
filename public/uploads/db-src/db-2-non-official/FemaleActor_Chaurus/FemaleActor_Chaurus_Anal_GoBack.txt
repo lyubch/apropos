@@ -1,0 +1,20 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} wants to {BREED} my {ASSHOLE} more!",
+	"{SWEARING}, this is good!  I need to keep this {BUGCOCK} in my {ASSHOLE}!",
+	"{ACTIVE} tries to pull his {BUGCOCK} out of my {ASSHOLE}, but I reach back and {GENTLE}ly coax him back in..."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} wants to {BREED} your {ASSHOLE} more!",
+	"{SWEARING}, this is good!  You need to keep this {BUGCOCK} in your {ASSHOLE}!",
+	"{ACTIVE} tries to pull his {BUGCOCK} out of your {ASSHOLE}, but you reach back and {GENTLE}ly coax him back in..."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} wants to {BREED} {PRIMARY}'s {ASSHOLE} more!",
+	"({PRIMARY}) {SWEARING}, this is good!  I need to keep this {BUGCOCK} in my {ASSHOLE}!",
+	"{ACTIVE} tries to pull his {BUGCOCK} out of {PRIMARY}'s {ASSHOLE}, but she reaches back and {GENTLE}ly coaxes him back in..."
+    ]
+}

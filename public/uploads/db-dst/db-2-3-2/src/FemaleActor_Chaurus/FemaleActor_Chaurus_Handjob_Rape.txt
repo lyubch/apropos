@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "If I don't want to leave here with a {PUSSY} full of eggs I need to figure out another way to satisfy this {BUG}.",
+        "The {ACTIVE} pushes its {MAROUSAL} {BUGCOCK} into my hand. Does it want me to {WANK} it?",
+        "I thought this {BUG} would {BREED} me for sure. I'm relieved it only wants a handjob."
+    ],
+    "2nd Person": [
+        "If you don't want to leave here with a {PUSSY} full of eggs you need to figure out another way to satisfy this {BUG}.",
+        "The {ACTIVE} pushes its {MAROUSAL} {BUGCOCK} into your hand. Does it want you to {WANK} it?",
+        "You thought this {BUG} would {BREED} you for sure. You're relieved it only wants a handjob."
+    ],
+    "3rd Person": [
+        "If she doesn't want to leave here with a {PUSSY} full of eggs she needs to figure out another way to satisfy this {BUG}.",
+        "The {ACTIVE} pushes its {MAROUSAL} {BUGCOCK} into her hand. Does it want her to {WANK} it?",
+        "You thought this {BUG} would {BREED} her for sure. She looks relieved it only wants a handjob."
+    ]
+}

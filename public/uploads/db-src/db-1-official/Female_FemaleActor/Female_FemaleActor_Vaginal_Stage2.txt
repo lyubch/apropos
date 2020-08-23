@@ -1,0 +1,15 @@
+{
+    "1st Person" :
+    [
+        "I can't believe this sexy hot girl is inside of me, fucking me...",
+        "It's not like I'm a lesbian... I've fucked lots of men and sucked lots of cocks..."
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

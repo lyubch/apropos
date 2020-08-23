@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "Ahhh! Already?! Oh Gods, I wasn't ready for this...",
+        "Before I can think of a way to escape, {ACTIVE} knots me, destroying any chance I had of getting away.",
+        "{ACTIVE} thrusts his knot into me, instantly bringing me to climax.",
+        "The knot suddenly thrusts into me, followed by a torrent of {THICK} {CUM}.",
+        "The feeling of his knot in my {PUSSY} is intense, I can't think straight.",
+        "It takes quite a bit of force, but eventually {ACTIVE} gets his entire knot in me.",
+        "Oh Gods, the knot is in me... I know what's going to happen next...",
+        "I moan as my {PUSSY} clenches around the knot, locking us together as he starts to fill me.",
+        "Here I am, impaled to the hilt, {ACTIVE}'s sack pressed against my throbbing clit.",
+        "{ACTIVE}'s knot completely plugs my {PUSSY}, the head way past my cervix."        
+    ],
+    "2nd Person" :
+    [
+        "Ahhh! Already?! Oh Gods, you weren't ready for this...",
+        "Before you can think of a way to escape, {ACTIVE} knots you, destroying any chance you had of getting away.",
+        "{ACTIVE} thrusts his knot into you, instantly bringing you to climax.",
+        "The knot suddenly thrusts into you, followed by a torrent of {THICK} {CUM}.",
+        "The feeling of his knot in your {PUSSY} is intense, you can't think straight.",
+        "It takes quite a bit of force, but eventually {ACTIVE} gets his entire knot in you.",
+        "Oh Gods, the knot is in you... you know what's going to happen next...",
+        "You moan as your {PUSSY} clenches around the knot, locking you together as he starts to fill you.",
+        "Here you are, impaled to the hilt, {ACTIVE}'s sack pressed against your throbbing clit.",
+        "{ACTIVE}'s knot completely plugs your {PUSSY}, the head way past your cervix."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} must be pretty wet, for {ACTIVE} to have gotten his knot into her so quickly!",
+        "{PRIMARY}'s hand is still between her legs as {ACTIVE} knots her. Is she playing with herself?!"
+    ]
+}

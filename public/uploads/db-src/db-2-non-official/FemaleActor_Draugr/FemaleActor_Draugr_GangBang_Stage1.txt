@@ -1,0 +1,47 @@
+{
+    "1st Person" :
+    [
+        "I struggle to force my {MOUTH} onto the {COCK} in front of me, wondering why I chose to do such a thing.", 
+        "I {ACCEPT} the {DEAD} {MONSTER} into my {MOUTH}, as I feel another {COCK} enter me from behind.",
+        "A pair of black, {DEAD} {COCK}s hang {DISPLAY}ed, {WET} with {CUM} and worms. I {SUBMIT} and they enter me.",
+        "I {QUIVER} as I spread myself, feeling their {DEAD} {COCK}s sink into my depths.",
+        "I eagerly taste the {ACTIVE}'s {DEAD} {COCK}, even as I am {PENETRAT}ed.",
+        "The {PAIN} of being opened up this {ROUGH}ly is enough to bring a tear to my eye.",
+        "Yes! I {MOAN}, breathing heavily. I want them, I want those things inside me!",
+        "My lips press against {DEAD} flesh and I {MOAN} {LEWD}ly while my {ASSHOLE} is {RAP}ed.",
+        "I feel a {QUIVER} run down my spine. Am I really going to do this?",
+        "This is it, no turning back now. I'm going to let myself be gangbanged by corpses.",
+        "I don't care who puts what where, just put it in...",
+        "I want them inside! Just push them in!"
+    ],
+    "2nd Person" :
+    [
+        "You force your {MOUTH} onto the {COCK} in front of you, wondering why you chose to do such a thing.", 
+        "You {ACCEPT} the {DEAD} {MONSTER} into your {MOUTH}, as you feel another {COCK} enter you from behind.",
+        "A pair of black, {DEAD} {COCK}s hang {DISPLAY}ed, {WET} with {CUM} and worms. you {SUBMIT} and they enter you.",
+        "You {QUIVER} as you spread yourself, feeling their {DEAD} {COCK}s sink into your depths.",
+        "You eagerly taste the {ACTIVE}'s {DEAD} {COCK}, even as you are {PENETRAT}ed.",
+        "The {PAIN} of being opened up this {ROUGH}ly is enough to bring a tear to your eye.",
+        "Yes! You {MOAN}, breathing heavily. You want them, you want those things inside you!",
+        "Your lips press against {DEAD} flesh and you {MOAN} {LEWD}ly while your {ASSHOLE} is {RAP}ed.",
+        "You feel a {QUIVER} run down your spine. Are you really going to do this?",
+        "This is it, no turning back now. You're going to let yourself be gangbanged by corpses.",
+        "You don't care who puts what where, just put it in...",
+        "You want them inside! Just push them in!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} forces her {MOUTH} onto the {COCK} in front of her. Why did she choose to do such a thing?", 
+        "{PRIMARY} takes the {DEAD} {MONSTER} into her {MOUTH}, as another {COCK} enter her from behind.",
+        "A pair of black, {DEAD} {COCK}s hang {DISPLAY}ed, {WET} with {CUM} and worms. {PRIMARY} {SUBMIT}s as they enter.",
+        "{PRIMARY} {QUIVER}s as she spreads herself, as their {DEAD} {COCK}s sink into her depths.",
+        "{PRIMARY} eagerly {SUCK}s the {ACTIVE}'s {DEAD} {COCK}, even as she is {PENETRAT}ed.",
+        "The {PAIN} of being opened up this {ROUGH}ly is enough to bring a tear to {PRIMARY}'s eye.",
+        "Yes! {PRIMARY} {MOAN}s, breathing heavily. She wants them, she wants those things inside her!",
+        "{PRIMARY}'s lips press against {DEAD} flesh and she {MOAN}s {LEWD}ly while her {ASSHOLE} is {RAP}ed.",
+        "{PRIMARY} {QUIVER}s {SUBMISSIVE}ly. Is she really going to do this?",
+        "This is it, no turning back now. {PRIMARY}'s going to let herself be gangbanged by corpses.",
+        "{PRIMARY} doesn't care who puts what where, as long as they put it in...",
+        "{PRIMARY} wants them inside! She wants them to just push them in!"
+    ]
+}

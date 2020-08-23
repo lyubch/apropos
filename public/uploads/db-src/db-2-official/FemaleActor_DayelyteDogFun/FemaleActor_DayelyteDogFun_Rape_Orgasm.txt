@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "I struggle to pull myself up, but his {PENIS} is tied inside me. I can't escape...",
+        "Ah! Ah! Oh fuck! Nghh! He's {CUMMING}, he's {CUMMING} inside me!",
+        "Even though we're tied, {ACTIVE} doesn't stop fucking me. The feeling is intense...",
+        "{ACTIVE} thrusts his knot into me, instantly bringing me to climax.",
+        "The tip of his {PENIS} penetrates my cervix, constantly pouring {THICK} {CUM} into me.",
+        "The dog is spurting his {THICK} {CUM} up my {PUSSY}, I gasp. He's fucking filling me with {CUM}!"        
+    ],
+    "2nd Person" :
+    [
+        "You struggle to pull yourself up, but his {PENIS} is tied inside you. You can't escape...",
+        "Ah! Ah! Oh fuck! Nghh! He's {CUMMING}, he's {CUMMING} inside you!",
+        "Even though you're tied, {ACTIVE} doesn't stop fucking you. The feeling is intense...",
+        "{ACTIVE} thrusts his knot into you, instantly bringing you to climax.",
+        "The tip of his {PENIS} penetrates your cervix, constantly pouring {THICK} {CUM} into you.",
+        "The dog is spurting his {THICK} {CUM} up your {PUSSY}, you gasp. He's fucking filling you with {CUM}!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} tries to pull away, but it's clear that {ACTIVE}'s knot is stuck inside her.",
+        "As {PRIMARY} pulls herself up, it's clear her chest is flushed and her nipples are engorged. Did she cum?"
+    ]
+}

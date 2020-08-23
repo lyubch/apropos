@@ -1,0 +1,16 @@
+{
+    "1st Person" :
+    [
+        "The Atronach is literally burning with {LUST} as I reach out to her.",
+	"I can feel her heat wash over me as I touch her, but it's warm and inviting instead of burning."
+    ],
+    "2nd Person" :
+    [
+        "The Atronach is literally burning with {LUST} as you reach out to her.",
+	"You can feel her heat wash over you as you touch her, but it's warm and inviting instead of burning."
+    ],
+    "3rd Person" :
+    [
+        "The Atronach is literally burning with {LUST} as {PRIMARY} reach out to her."
+    ]
+}

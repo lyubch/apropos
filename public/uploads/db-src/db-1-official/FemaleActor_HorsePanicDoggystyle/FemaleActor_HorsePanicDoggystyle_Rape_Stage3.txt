@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "I think I've taken as much as I can... I begin to fuck slowly, hoping it will be enough.",
+        "My {WTVAGINAL} {PUSSY} stretched around the {BEAST} {PENIS}, I'm ashamed to find I like it.",
+        "I spread my legs and brace myself before beginning to fuck the {ACTIVE}.",
+        "Now that I'm in this position, part of me wants the {ACTIVE} to fuck me, really hard and really deep.",
+        "My painfully stretched {PUSSY} convulses around its girth.",
+        "My clit feels like it's on fire as my {PUSSY} stretches. How in the world could this abuse be turning me on?",
+        "I drag my stretched {PUSSY} along my attacker's {PENIS}. My lips cling to the shaft as it moves.",
+        "The head is so swollen that it'll be a struggle to pop it back out of my {WTVAGINAL} {PUSSY}.",
+        "I'm starting to get really nervous, my knees are shaking, my muscles are clenching around his {PENIS}."        
+    ],
+    "2nd Person" :
+    [
+        "You think you've taken as much as you can... you begin to fuck slowly, hoping it will be enough.",
+        "Your {WTVAGINAL} {PUSSY} stretched around the {BEAST} {PENIS}, you're ashamed to find you like it.",
+        "You spread your legs and brace yourself before beginning to fuck the {ACTIVE}.",
+        "Now that you're in this position, part of you wants the {ACTIVE} to fuck you, really hard and really deep.",
+        "Your painfully stretched {PUSSY} convulses around its girth.",
+        "Your clit feels like it's on fire as you  stretch. How in the world could this abuse be turning you on?",
+        "You drag your stretched {PUSSY} along your attacker's {PENIS}. Your lips cling to the shaft as it moves.",
+        "The head is so swollen that it'll be a struggle to pop it back out of your {WTVAGINAL} {PUSSY}.",
+        "You're starting to get really nervous, your knees are shaking, your muscles are clenching around his {PENIS}."
+    ],
+    "3rd Person" :
+    [
+        "Her body braced and her head down in concentration, {PRIMARY} starts to slowly fuck the animal.",
+        "The tension in {PRIMARY}'s shoulders and the strain in her knees is clear. That hurts. A lot.",
+        "Right now, {PRIMARY} is managing to keep the {ACTIVE} under control, but how long will that last?",
+        "{PRIMARY} grunts and moans as she slides back and forth along the {ACTIVE}'s {PENIS}."
+    ]
+}

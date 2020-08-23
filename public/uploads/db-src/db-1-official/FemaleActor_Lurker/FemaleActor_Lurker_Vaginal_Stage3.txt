@@ -1,0 +1,45 @@
+{
+    "1st Person": [
+        "Holy Fuck, the {ACTIVE} plowed all the way past my cervix.",
+        "Ughhhhh... I didn't know I could take so much cock.",
+        "The {ACTIVE} forces himself as far into me as I can manage. My whole body is tense with the strain.",
+        "I cry out, and looking down I can see my stomach distending to accommodate his incredible size.",
+        "Using me like a human cock-sleeve, the {ACTIVE} simply holds me by the torso, pumping me up and down.",
+        "After what seemed like an age of slowly sliding down the {BEAST} {COCK}, my thighs touch its balls.",
+        "I feel the touch of the creature's ball sack, its {COCK} right up inside me.",
+        "I grunt in pleasure as the head of his {COCK} slips into my womb, fucking both my {PUSSY} and my cervix.",
+        "Oh God! Shoot your {CUM} straight into my womb!",
+        "My {PUSSY} is sore and being pounded raw. It still hurts bad and I'm not sure how much more I can take...",
+        "I squeal, struggling to comprehend how the monster's {COCK} is actually fitting inside me...",
+        "Oh my goodness, the thing's balls deep! The head must be in my throat by now!",
+        "With an immense push the head slips inside my womb.",
+        "The {ACTIVE} continues to slam its immense girth into me until I'm on the cusp of climax."
+    ],
+    "2nd Person": [
+        "Holy Fuck, the {ACTIVE} plowed all the way past your cervix.",
+        "Ughhhhh... You didn't know you could take so much cock.",
+        "The {ACTIVE} forces himself as far into you as he can manage. Your whole body is tense with the strain.",
+        "You cry out, and looking down you can see your stomach distending to accommodate his incredible size.",
+        "Using you like a human cock-sleeve, the {ACTIVE} simply holds you by the torso, pumping you up and down.",
+        "After what seemed like an age of being stretched open by {BEAST} {COCK}, your thighs touch its balls.",
+        "You felt the touch of the creature's ball sack, its {COCK} right up inside you.",
+        "You grunt in pleasure as the head of his {COCK} slips into your womb, fucking your cervix.",
+        "({PRIMARY}) Oh God! Shoot your {CUM} straight into my womb!'",
+        "Your {PUSSY} is being pounded raw. It hurts bad and you're not sure how much more you can take...",
+        "You squeal, struggling to comprehend how the monster's {COCK} is actually fitting inside you..",
+        "Oh my goodness, the thing's balls deep! The head must be in your throat by now!",
+        "With an immense push the head slips inside your womb.",
+        "The {ACTIVE} continues to slam its immense girth into you until you're on the cusp of climax."
+    ],
+    "3rd Person": [
+        "({PRIMARY}) Ughhhhh... I didn't know I could take so much cock.",
+        "The {ACTIVE} forces himself as far into {PRIMARY} as she can manage. Her whole body is tense with the strain.",
+        "{PRIMARY} cries out, her stomach distending to accommodate his incredible size.",
+        "Using her like a human cock-sleeve, the {ACTIVE} simply holds pumps {PRIMARY} up and down.",
+        "After what seemed like an age of slowly sliding down the {BEAST} {COCK}, {PRIMARY}'s thighs touch its balls.",
+        "({PRIMARY}) Oh God! Shoot your {CUM} straight into my womb!",
+        "{PRIMARY} squeals. How is the monster's {COCK} fitting inside her?",
+        "Oh my goodness, the thing's balls deep! The head must be in {PRIMARY}'s throat by now!",
+        "The {ACTIVE} continues to slam its immense girth into {PRIMARY} until she's on the cusp of climax."
+    ]
+}

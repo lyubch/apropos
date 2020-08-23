@@ -1,0 +1,35 @@
+{
+    "1st Person" :
+    [
+        "My eyes fly open in shock as both my {ASS} and {MOUTH} are entered roughly.",
+        "The {BUGCOCK} visibly throbs, eager to penetrate and enjoy me.",
+        "With a glance down, I estimate its {BUGCOCK} must be at least two feet long!",
+        "A sickening, sucking sound fills the area as the beast's {BUGCOCK} appears.",
+        "The {ACTIVE}'s {BUGCOCK} begins to worm its way free from its body, oozing slime as it sways about.",
+        "Oh fuck, I can feel it. It's actually gonna fuck me...",
+        "The insect slowly climbs on top of me, its {BUGCOCK} moving into position...",
+        "The monster spears me fully, several feet of {BUGCOCK} disappearing into my {ASS}."
+    ],
+    "2nd Person" :
+    [
+        "Your eyes fly open in shock as both your {ASS} and {MOUTH} are entered roughly.",
+        "The {BUGCOCK} visibly throbs, eager to penetrate and enjoy you.",
+        "With a glance down, you estimate its {BUGCOCK} must be at least two feet long!",
+        "A sickening, sucking sound fills the area as the beast's {BUGCOCK} appears.",
+        "The {ACTIVE}'s {BUGCOCK} begins to worm its way free from its body, oozing slime as it sways about.",
+        "Oh fuck, you can feel it. It's actually gonna fuck you...",
+        "The insect slowly climbs on top of you, its {BUGCOCK} moving into position...",
+        "The monster spears you fully, several feet of {BUGCOCK} disappearing into your {ASS}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s eyes fly open in shock as both her {ASS} and {MOUTH} are entered roughly.",
+        "The {BUGCOCK} visibly throbs, eager to penetrate and enjoy {PRIMARY}.",
+        "With a glance down, its {BUGCOCK} must be at least two feet long!",
+        "A sickening, sucking sound echoes as the beast's {BUGCOCK} appears.",
+        "The {ACTIVE}'s {BUGCOCK} begins to worm its way free from its body, oozing slime as it sways about.",
+        "It fucks right into {PRIMARY} in one thrust, causing her to arch her body in a shriek of pain.",
+        "The insect slowly climbs on top of {PRIMARY}, its {BUGCOCK} moving into position...",
+        "The monster spears {PRIMARY} fully, several feet of {BUGCOCK} disappearing into her {ASS}."
+    ]
+}

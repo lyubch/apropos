@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "I drop my head and grit my teeth, my body fighting the pain of my cervix being battered so brutally.",
+        "The {ACTIVE} is no longer fucking with such long strokes, all I feel is a fast pounding on my cervix.",
+        "I'm already exhausted and battered, and the {ACTIVE} seems to have only just begun...",
+        "My poor body wasn't made to take so much {COCK}.",
+        "The horse's {PENIS} is over two feet long, and its balls swing heavily into my thighs with every thrust.",
+        "I whimper and moan, praying for the pain to dull and the horse's thrusts to get easier.",
+        "I grunt painfully every time the {ACTIVE} thrusts into me.",
+        "The huge animal thrusts into me over and over, each time more of its {PENIS} making it inside."        
+    ],
+    "2nd Person" :
+    [
+        "You drop your head and grit your teeth, your body fighting the pain of your cervix being battered so brutally.",
+        "The {ACTIVE} is no longer fucking with such long strokes, all you feel is a fast pounding on your cervix.",
+        "You're already exhausted and battered, and the {ACTIVE} seems to have only just begun...",
+        "Your poor body wasn't made to take so much {COCK}.",
+        "The horse's {PENIS} is over two feet long, and its balls swing heavily into your thighs with every thrust.",
+        "You whimper and moan, praying for the pain to dull and the horse's thrusts to get easier.",
+        "You grunt painfully every time the {ACTIVE} thrusts into you.",
+        "The huge animal thrusts into you over and over, each time more of its {PENIS} making it inside."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} shifts backwards, steadying itself as it pounds into {PRIMARY} even faster.",
+        "The brutal pounding into {PRIMARY}'s {PUSSY} looks to be even harder now.",
+        "Gone are the beast's long strokes, now it just pounds relentlessly into {PRIMARY}'s {PUSSY}.",
+        "It's unthinkable for a horse to want to do this to a girl, and so brutally..."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "I hang my head back, enjoying {PRIMARY}'s attention. She's pretty good at this!",
+        "({ACTIVE}) Maybe if you get me off, I'll let you go!",
+        "{PRIMARY}'s hand is starting to feel really damn good..."
+    ],
+    "2nd Person": [
+        "You hang your head back, enjoying {PRIMARY}'s attention. She's pretty good at this!",
+        "({ACTIVE}) Maybe if you get me off, I'll let you go!",
+        "{PRIMARY}'s hand is starting to feel really damn good..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} rolls his head back, clearly pleased with {PRIMARY}'s ministrations.",
+        "({PRIMARY}) Is... is this okay? Do you want me to keep doing it this way?",
+        "Umm... does everyone just assume {PRIMARY}'s a {BITCH}?",
+        "If {PRIMARY} empties the {ACTIVE}'s {BALLS}, will he let her go?",
+        "Hopefully this is all the {ACTIVE} wants... {SWEARING}, what if he wants to {FUCK} {PRIMARY}?",
+        "Everyone can see how {SUBMISSIVE} {PRIMARY} is... They can see that anyone can make her their {BITCH}..."
+    ]
+}

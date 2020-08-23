@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "The {ACTIVE}'s hand firmly presses on the back of my head, forcing me to keep {SUCK}ing him.",
+        "I'm starting to feel faint, the blood rushing to my head. I need to make him {EJACULATE} soon...",
+        "I gag and splutter around the {ACTIVE}'s {SALTY} {COCK} as he forces my head down each time.",
+        "My eyes are watering as the {ACTIVE}'s stinking {BALLS} press up to my nose. I might be sick...",
+        "({ACTIVE}) That's it, {BITCH}, get my {COCK} nice and {WET}. It's gonna be up you soon!",
+        "({ACTIVE}) You're a pretty good cocksucker! Time to find out if your {PUSSY}'s just as good!",
+        "He holds my head firmly, with the {COCKHEAD} of his {SALTY} {COCK} hitting the back of my throat.",
+        "I can barely breathe, the smell of his {COCK} fills my nostrils.",
+        "Maybe I can get him to {EJACULATE} his {CUM} down my throat instead of in my {WTVAGINAL} {PUSSY}?",
+        "I {SCREAM}, until my wind is cut off by the {HUGE} {COCK} {PENETRAT}ing into my {MOUTH}."
+    ],
+    "2nd Person": [
+        "The {ACTIVE}'s hand firmly presses on the back of your head, forcing you to keep {SUCK}ing him.",
+        "You're starting to feel faint, the blood rushing to your head. You need to make him {EJACULATE} soon...",
+        "You gag and splutter around the {ACTIVE}'s {SALTY} {COCK} as he forces your head down each time.",
+        "Your eyes are watering as the {ACTIVE}'s stinking {BALLS} press up to your nose. You might be sick...",
+        "({ACTIVE}) That's it, {BITCH}, get my {COCK} nice and {WET}. It's gonna be up you soon!",
+        "({ACTIVE}) You're a pretty good cocksucker! Time to find out if your {PUSSY}'s just as good!",
+        "He holds your head firmly, with the {COCKHEAD} of his {SALTY} {COCK} hitting the back of your throat.",
+        "You can barely breathe, the smell of his {COCK} fills your nostrils.",
+        "Maybe you can get him to {EJACULATE} his {CUM} down your throat instead of in your {WTVAGINAL} {PUSSY}?",
+        "You {SCREAM}, until your wind is cut off by the {HUGE} {COCK} {PENETRAT}ing into your {MOUTH}."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s lips are all the way to the base, her nose pressed right into the {ACTIVE}'s {BALLS}.",
+        "Spluttering, choking noises can be heard as {ACTIVE} pushes {PRIMARY}'s head down hard.",
+        "The {ACTIVE}'s {COCK} must be all the way down her throat by now...",
+        "Despite her {SCREAM}s, the {ACTIVE} never stops ramming her head down on his {COCK}."
+    ]
+}

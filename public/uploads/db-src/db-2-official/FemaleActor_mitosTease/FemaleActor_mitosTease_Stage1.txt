@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "I drop to all fours, raising my backside to {ACTIVE}. I hope he takes the hint...",
+        "I'm on my hands and knees, wiggling my ass at {ACTIVE}... I blush deeply at my lewd action.",
+        "Even as I lower my head in shame and embarrassment, I raise my ass, wiggling it provocatively.",
+        "I'm ready to be taken, but all I hear are {ACTIVE}'s grunts and pants... What is he waiting for?",
+        "({ACTIVE}) C'mon, {BITCH}, show me your {PUSSY}! That's it, you like to be watched!",
+        "({ACTIVE}) What a {WHORE}! She's begging for a {COCK}, any {COCK}!"
+    ],
+    "2nd Person" :
+    [
+        "You drop to all fours, raising your backside to {ACTIVE}. You hope he takes the hint...",
+        "You're on your hands and knees, wiggling your ass at {ACTIVE}... You blush deeply at your lewd action.",
+        "Even as you lower your head in shame and embarrassment, you raise your ass, wiggling it provocatively.",
+        "You're ready to be taken, but all you hear are {ACTIVE}'s grunts and pants... What is he waiting for?",
+        "({ACTIVE}) C'mon, {BITCH}, show me your {PUSSY}! That's it, you like to be watched!",
+        "({ACTIVE}) What a {WHORE}! She's begging for a {COCK}, any {COCK}!"
+    ],
+    "3rd Person" :
+    [
+        "Oh my! {PRIMARY} is such a {WHORE}...",
+        "Is {ACTIVE} really content to just play with himself? {PRIMARY} clearly wants to be fucked...",
+        "{ACTIVE} is staring intently at {PRIMARY}'s {WTVAGINAL} {PUSSY}...",
+        "Isn't {PRIMARY} embarrassed to be doing that? Everyone can see her {PUSSY}..."
+    ]
+}

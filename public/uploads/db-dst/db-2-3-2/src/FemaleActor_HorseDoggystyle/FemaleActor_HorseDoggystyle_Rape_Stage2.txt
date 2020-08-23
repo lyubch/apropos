@@ -1,0 +1,28 @@
+{
+    "1st Person": [
+        "I drop my head and grit my teeth, my body fighting the {PAIN} of my cervix being battered so {ROUGH}ly.",
+        "The {ACTIVE} is no longer {FUCK}ing with such long strokes, all I feel is a fast pounding on my cervix.",
+        "I'm already exhausted and battered, and the {ACTIVE} seems to have only just begun...",
+        "My poor {FLESH} wasn't made to take so much {COCK}.",
+        "The {ACTIVE}'s {COCK} is over two feet long, and its {BALLS} swing heavily into my thighs with every thrust.",
+        "I {SCREAM}, praying for the {PAIN} to dull and the {ACTIVE}'s thrusts to get easier.",
+        "I {SCREAM} painfully every time the {ACTIVE} {INSERT}s into me.",
+        "The huge animal {INSERT}s into me over and over, each time more of its {COCK} making it inside."
+    ],
+    "2nd Person": [
+        "You drop your head and grit your teeth, your body fighting the {PAIN} of your cervix being battered so {ROUGH}ly.",
+        "The {ACTIVE} is no longer {FUCK}ing with such long strokes, all you feel is a fast pounding on your cervix.",
+        "You're already exhausted and battered, and the {ACTIVE} seems to have only just begun...",
+        "Your poor {FLESH} wasn't made to take so much {COCK}.",
+        "The {ACTIVE}'s {COCK} is over two feet long, and its {BALLS} swing heavily into your thighs with every thrust.",
+        "You {SCREAM}, praying for the {PAIN} to dull and the {ACTIVE}'s thrusts to get easier.",
+        "You {SCREAM} painfully every time the {ACTIVE} {INSERT}s into you.",
+        "The huge animal {INSERT}s into you over and over, each time more of its {COCK} making it inside."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} shifts backwards, steadying itself as it pounds into {PRIMARY} even faster.",
+        "The {ROUGH} {FUCK}ing into {PRIMARY}'s {PUSSY} looks to be even harder now.",
+        "Gone are the {ANIMAL}'s long strokes, now it just pounds {ROUGH}ly into {PRIMARY}'s {PUSSY}.",
+        "It's unthinkable for a {ACTIVE} to want to do this to a girl, and so {ROUGH}ly..."
+    ]
+}

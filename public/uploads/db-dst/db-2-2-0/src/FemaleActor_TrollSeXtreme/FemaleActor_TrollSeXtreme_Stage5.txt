@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "Oh Gods, this is so obscene, unnatural, so dirty... and so good... This is why girls fuck monsters! For this feeling!",
+        "I spread my legs wide, almost cumming every time I'm penetrated by the{ACTIVE}'s {BEAST} {COCK}...",
+        "I struggle to keep my thoughts straight, every long stroke threatening to break my mind.",
+        "I can feel it... the creature is almost there...",
+        "The beast quickens its strokes, fucking me balls deep, and I realize what's about to happen.",
+        "The beast fucks me relentlessly. My heart races, I know that soon I will be carrying the monster's child."
+    ],
+    "2nd Person" :
+    [
+        "Oh Gods, this is so obscene, unnatural, so dirty... and so good... This is why girls fuck monsters! For this feeling!",
+        "You spread your legs wide, almost cumming every time you're penetrated by the{ACTIVE}'s {BEAST} {COCK}...",
+        "You struggle to keep your thoughts straight, every long stroke threatening to break your mind.",
+        "You can feel it... the creature is almost there...",
+        "The beast quickens its strokes, fucking you balls deep, and you realize what's about to happen.",
+        "The beast fucks you relentlessly. Your heart races, you know that soon you will be carrying the monster's child."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s legs are spread wide, and she howls with every deep penetration.",
+        "The hulking beast violently pounds {PRIMARY}'s {WTVAGINAL} {PUSSY}.",
+        "Oh my, that's so kinky... It really looks like {PRIMARY}'s about to cum from fucking that monster!"
+    ]
+}

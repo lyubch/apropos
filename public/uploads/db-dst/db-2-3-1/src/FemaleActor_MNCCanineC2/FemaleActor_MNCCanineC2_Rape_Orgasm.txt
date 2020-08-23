@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "{SWEARING}, there's so much! I gulp down mouthfuls of {VILE} dog-{CUM}, ashamed of myself.",
+        "{ACTIVE}'s {BEASTLY} knot pulses in my hand, as he {EJACULATE}s a steady stream of {CUM} into my {WTORAL} {MOUTH}.",
+        "{SWEARING}, won't he ever stop cumming? I can't help but wonder what this would be like in my {WTVAGINAL} {PUSSY}.",
+        "I swallow as fast as I can, but rivers of {VILE} {CUM} spill from my {MOUTH} down my neck and {HEAVING} {BOOBS}."
+    ],
+    "2nd Person": [
+        "{SWEARING}, there's so much! You gulp down mouthfuls of {VILE} dog-{CUM}, ashamed of yourself.",
+        "{ACTIVE}'s {BEASTLY} knot pulses in your hand, as he {EJACULATE}s a steady stream of {CUM} into your {WTORAL} {MOUTH}.",
+        "{SWEARING}, won't he ever stop cumming? You wonder what this would be like in your {WTVAGINAL} {PUSSY}.",
+        "You swallow as fast as you can, but {VILE} {CUM} spills from your {MOUTH} down your neck and {HEAVING} {BOOBS}."
+    ],
+    "3rd Person": [
+        "{SWEARING}, there's so much! {PRIMARY} gulps down mouthfuls of {VILE} dog-{CUM}, ashamed of herself.",
+        "{ACTIVE}'s {BEASTLY} knot pulses in {PRIMARY}'s hand, as he {EJACULATE}s a steady stream of {CUM} into her {WTORAL} {MOUTH}.",
+        "{SWEARING}, won't he ever stop cumming? {PRIMARY} wonders what this would be like in her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} swallows as fast as she can, but {VILE} {CUM} spills from her {MOUTH} down her neck and {HEAVING} {BOOBS}."
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "I shiver at the feel of air on my naked body. {ACTIVE} can see my face, my {BOOBS}, my tight belly.",
+        "{ACTIVE} thrusts between my {BOOBS}. It's so degrading.",
+        "({ACTIVE}) I saw you, shaking your ass out there, trying to get guys to fuck you. You're such a {WHORE}.",
+        "{ACTIVE} can see everything; my {BOOBS}, my flat stomach, my {PUSSY}.",
+        "I feel so demeaned, so humiliated, using my {BOOBS} to pleasure a guy's {COCK}.",
+        "Naked and pushing my {BOOBS} out, all of my feminine charms are completely exposed.",
+        "The thought of just being used as some guy's {WHORE} makes my {PUSSY} tingle.",
+        "My chest is already flushed from the naughtiness of such a submissive act.",
+        "I feel like I'm putting on a show.",
+        "My nipples throb with sexual heat every time they brush {ACTIVE}'s thighs.",
+        "I don't know whether to be relieved that {ACTIVE} doesn't want to rape me, or offended.",
+        "Is this just to get him hard? (gulp) I'm terrified at what {ACTIVE} has planned for me after this."
+    ],
+    "2nd Person": [
+        "You shiver at the feel of air on your naked body. {ACTIVE} can see your face, your {BOOBS}, your tight belly.",
+        "{ACTIVE} thrusts between your {BOOBS}. It's so degrading.",
+        "({ACTIVE}) I saw you, shaking your ass out there, trying to get guys to fuck you. You're such a {WHORE}.",
+        "{ACTIVE} can see everything; your {BOOBS}, your flat stomach, your {PUSSY}.",
+        "You feel so demeaned, so humiliated, using your {BOOBS} to pleasure a guy's {COCK}.",
+        "Naked and pushing your {BOOBS} out, all of your feminine charms are completely exposed.",
+        "The thought of just being used as some guy's {WHORE} makes your {PUSSY} tingle.",
+        "Your chest is already flushed from the naughtiness of such a submissive act.",
+        "You feel like you're putting on a show.",
+        "Your nipples throb with sexual heat every time they brush {ACTIVE}'s thighs.",
+        "You don't know whether to be relieved that {ACTIVE} doesn't want to rape you, or offended.",
+        "Is this just to get him hard? (gulp) You're terrified at what {ACTIVE} has planned for you after this."
+    ],
+    "3rd Person": [
+        "{PRIMARY} shivers at the air on her naked body. {ACTIVE} can see her face, her {BOOBS}, her tight belly.",
+        "{ACTIVE} thrusts between {PRIMARY}'s {BOOBS}. It's so degrading.",
+        "({ACTIVE}) I saw you, shaking your ass out there, trying to get guys to fuck you. You're such a {WHORE}.",
+        "{ACTIVE} can see everything; {PRIMARY}'s {BOOBS}, her flat stomach, her {PUSSY}.",
+        "{PRIMARY} feels so demeaned, so humiliated, using her {BOOBS} to pleasure a guy's {COCK}.",
+        "Naked and pushing her {BOOBS} out, all of {PRIMARY}'s feminine charms are completely exposed."
+    ]
+}

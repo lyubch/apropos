@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "Suddenly, {ACTIVE} lunges forward, rolling me backwards. I {SCREAM} as he slides up inside me.",
+        "I lean back, lifting my legs into the air and spreading them wide, {MOAN}ing as {ACTIVE} begins to {FUCK} me.",
+        "My hand goes to {ACTIVE}'s face, contorting with desire as his {COCK} pumps into me.",
+        "I almost cum straight away when {ACTIVE} finally sticks his {HUGE} {COCK} into my {FAROUSAL} {PUSSY}.",
+        "I'm so {WET} from the build up that {ACTIVE}'s {HUGE} {COCK} slides easily into me, all the way to the base.",
+        "({ACTIVE}) {SWEARING}, you're so hot! I need to {FUCK} you, and I won't take no for an answer!",
+        "I'm surprised when {ACTIVE} pushes me down and starts to {FUCK} me, but I won't stop him...",
+        "Ngh! Ahhh! This is a little bit more... ahh... than just a footjob... ahhh..."
+    ],
+    "2nd Person" :
+    [
+        "Suddenly, {ACTIVE} lunges forward, rolling you backwards. You {SCREAM} as he slides up inside you.",
+        "You lean back, lifting your legs into the air and spreading them wide, {MOAN}ing as {ACTIVE} begins to {FUCK} you.",
+        "Your hand goes to {ACTIVE}'s face, contorting with desire as his {COCK} pumps into you.",
+        "You almost cum straight away when {ACTIVE} finally sticks his {HUGE} {COCK} into your {FAROUSAL} {PUSSY}.",
+        "You're so {WET} from the build up that {ACTIVE}'s {HUGE} {COCK} slides easily into you, all the way to the base.",
+        "({ACTIVE}) {SWEARING}, you're so hot! I need to {FUCK} you, and I won't take no for an answer!",
+        "You're surprised when {ACTIVE} pushes you down and starts to {FUCK} you, but you won't stop him...",
+        "({PRIMARY}) Ngh! Ahhh! This is a little bit more... ahh... than just a footjob... ahhh..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} {SCREAM}s as {ACTIVE} suddenly pushes her back, spreading her legs and {RAP}ing her right there.",
+        "As expected, it doesn't take long before {ACTIVE} and {PRIMARY} are {FUCK}ing like {ANIMAL}s.",
+        "{PRIMARY} looks almost appreciative as she reaches up and cradles {ACTIVE}'s face.",
+        "{ACTIVE} spreads {PRIMARY}'s legs wide open, {INSERT}s his {COCK} inside her and starts to {FUCK} her."
+    ]
+}

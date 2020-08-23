@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "The {ACTIVE} holds me by the waist, and I {MOAN} as the {COCKHEAD} of its {COCK} starts to {FUCK} {SLOW}ly into me.",
+        "I'm pinned under the {ACTIVE}'s bulk, powerless to stop it pushing its {COCK} into my {PUSSY}. Not that I want to...",
+        "A delighted {SCREAM} escapes my lips as the {ACTIVE} {ROUGH}ly spreads my {BUTTOCKS} and {FUCK}s its {COCK} into me.",
+        "My heart is racing, I want this, this {ACTIVE} can do whatever it wants to me.",
+        "The {MONSTER}'s {COCK} is {BEASTLY}, and as thick as my arm... No way... Can I really? Ah! {SWEARING}, it's happening!",
+        "I let out a {LEWD} {SCREAM} as I am {RAP}ed on the {MONSTER}'s {COCK}."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} holds you by the waist, and you {MOAN} as the {COCKHEAD} of its {COCK} starts to {FUCK} {SLOW}ly into you.",
+        "You're pinned under the {ACTIVE}'s bulk, powerless to stop it pushing its {COCK} into your {PUSSY}. Not that you want to...",
+        "A delighted {SCREAM} escapes your lips as the {ACTIVE} {ROUGH}ly spreads your {BUTTOCKS} and {FUCK}s its {COCK} into you.",
+        "Your heart is racing, you want this, this {ACTIVE} can do whatever it wants to you.",
+        "The {MONSTER}'s {COCK} is {BEASTLY}, and as thick as your arm... No way... Can you really? Ah! {SWEARING}, it's happening!",
+        "You let out a {LEWD} {SCREAM} as you are {RAP}ed on the {MONSTER}'s {COCK}."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} holds {PRIMARY} by the waist, and she {SCREAM}s as the {COCKHEAD} of its {COCK} starts to {FUCK} {SLOW}ly into her.",
+        "{PRIMARY}'s pinned under the {ACTIVE}'s bulk, powerless to stop it pushing its {BEASTLY} {COCK} into her {PUSSY}.",
+        "There are stories of country girls who get caught in the woods by trolls... It looks like they're true..."
+    ]
+}

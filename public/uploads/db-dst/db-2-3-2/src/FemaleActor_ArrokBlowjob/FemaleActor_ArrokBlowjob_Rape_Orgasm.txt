@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "Relief washes over me as the {ACTIVE} finally {EJACULATE}s, covering me in {THICK} {CUM}.",
+        "I narrowly avoid taking the {ACTIVE}'s load in my {MOUTH}, and it shoots right across the my cheek.",
+        "({ACTIVE}) Ahhh... I didn't... Say stop... You better clean up that {CUM}, {BITCH}.",
+        "Even after that, with his {CUM} in my hair, my {PUSSY} is {FAROUSAL}. I need to get away from here first...",
+        "I feel him {QUIVER} in my hand, and a fountain of {CUM} {EJACULATE}s right beside my face.",
+        "It's so hot... So {VILE}... I can't get enough of it..."
+    ],
+    "2nd Person": [
+        "Relief washes over you as the {ACTIVE} finally {EJACULATE}s, covering you in {THICK} {CUM}.",
+        "You narrowly avoid taking the {ACTIVE}'s load in your {MOUTH}, and it shoots right across the your cheek.",
+        "({ACTIVE}) Ahhh... I didn't... Say stop... You better clean up that {CUM}, {BITCH}.",
+        "After that, with his {CUM} in your hair, your {PUSSY} is {FAROUSAL}. You need to get away from here first...",
+        "You feel him {QUIVER} in your hand, and a fountain of {CUM} {EJACULATE}s right beside your face.",
+        "It's so hot... So {VILE}... You can't get enough of it..."
+    ],
+    "3rd Person": [
+        "That was lucky, the {ACTIVE} only came across {PRIMARY}'s face and not in her {MOUTH}...",
+        "{PRIMARY} starts to {SUCK} at the {ACTIVE}'s {COCK} as he {EJACULATE}s, licking up {THICK} dribbles.",
+        "The {ACTIVE} grunts and {EJACULATE}s, his {THICK} load covering {PRIMARY}'s face and hair."
+    ]
+}

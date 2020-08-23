@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "Before I know it, I'm the one moving my body, fucking myself on the {ACTIVE}'s {BEAST} {PENIS}.",
+        "I've lost, I know that now, burning with shame as I desperately fuck myself towards a mind-breaking climax.",
+        "Nghhh! Ahh! Please! Fuck me! Come on, you have me, what are you waiting for me! I'm so close...",
+        "I feel adrenaline rush through me. If a beast is going to fuck me, then I'm going to fuck right back!",
+        "I frantically thrust back into the beast's {BEAST} {COCK}, desperate to finish before reason returns to me.",
+        "The beast quickens its panting, its {COCK} throbbing, and I realize what's about to happen."        
+    ],
+    "2nd Person" :
+    [
+        "Before you know it, you're the one moving your body, fucking yourself on the {ACTIVE}'s {BEAST} {PENIS}.",
+        "You've lost, you know that now, burning with shame as you desperately fuck yourself towards a mind-breaking climax.",
+        "({PRIMARY}) Nghhh! Ahh! Please! Fuck me! Come on, you have me, what are you waiting for me! I'm so close...",
+        "You feel adrenaline rush through you. If a beast is going to fuck you, then you're going to fuck right back!",
+        "You frantically thrust back into the beast's {BEAST} {COCK}, desperate to finish before reason returns to you.",
+        "The beast quickens its panting, its {COCK} throbbing, and you realize what's about to happen."
+    ],
+    "3rd Person" :
+    [
+        "Oh my, {PRIMARY} is fucking back! Has she lost her mind? Or is that beast's {COCK} really that good?",
+        "It's clear now that {PRIMARY} has lost as she pumps her {PUSSY} on her attacker's {COCK}.",
+        "{PRIMARY} has a vacant, faraway look on her face as she thrusts backwards. Has her mind broken?"
+    ]
+}

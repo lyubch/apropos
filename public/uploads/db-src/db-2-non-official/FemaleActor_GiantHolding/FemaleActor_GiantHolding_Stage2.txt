@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "My legs spread as the {ACTIVE}'s massive hand feels me up.",
+        "It's too much, and I try in vain to push the {ACTIVE}'s hand away, but he's too strong.",
+        "Oh my, it's fingers are bigger than {COCK}s! Is it gonna {FUCK} me with one? More than one?!",
+        "The {MONSTER}'s {BEASTLY} fingers stroke me hard, from my clit to my {ASSHOLE}. I can feel an orgasm already...",
+        "Mmmm... Ahhh! Ahhh! {PLEADING}! It's too much! Please stop!",
+        "I struggle to stay calm as the pressure from the {ACTIVE}'s fingers brings me close to cumming."
+    ],
+    "2nd Person" :
+    [
+        "Your legs spread as the {ACTIVE}'s massive hand feels you up.",
+        "It's too much, and you try in vain to push the {ACTIVE}'s hand away, but he's too strong.",
+        "Oh my, it's fingers are bigger than {COCK}s! Is it gonna {FUCK} you with one? More than one?!",
+        "The {MONSTER}'s {BEASTLY} fingers stroke you hard, from your clit to your {ASSHOLE}. You can feel an orgasm already...",
+        "({PRIMARY}) Mmmm... Ahhh! Ahhh! {PLEADING}! It's too much! Please stop!",
+        "You struggle to stay calm as the pressure from the {ACTIVE}'s fingers brings you close to cumming."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} starts feeling {PRIMARY} up. She looks like she's going to cum already.",
+        "The {ACTIVE}'s fingers look huge... How many of them is it going to stick up {PRIMARY}?",
+	    "{PRIMARY} squirms as the {ACTIVE} fingers her. Does she want it to stop, or is it just that good?"
+    ]
+}

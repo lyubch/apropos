@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} grips me tightly around the waist and legs, and I give up the fight. I can't win.",
+        "Starting to become overwhelmed by the powerful thrusts and the {BEASTLY} {COCK}, I rest my head and allow it to {FUCK} me.",
+        "The {ACTIVE} holds my knees together, making its {BEASTLY} {COCK} feel even thicker.",
+        "Just {ACCEPT} it for now {PRIMARY}! Use this time to get your strength back.",
+        "Afraid for my life, I {SUBMIT}, and the {ACTIVE} {RAP}es me deeply, burying every inch of its {BEASTLY} {COCK} inside me."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} grips you tightly around the waist and legs, and you give up the fight. You can't win.",
+        "Starting to become overwhelmed by the powerful thrusts and the {BEASTLY} {COCK}, you rest your head and allow it to {FUCK} you.",
+        "The {ACTIVE} holds your knees together, making its {BEASTLY} {COCK} feel even thicker.",
+        "Just {ACCEPT} it for now {PRIMARY}! Use this time to get your strength back.",
+        "Afraid for your life, you {SUBMIT}, and the {ACTIVE} {FUCK}s you deeply, burying every inch of its {BEASTLY} {COCK} inside you."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} grips {PRIMARY} tightly around the waist. It's clear she can't win.",
+        "The {ACTIVE} holds {PRIMARY}'s knees together, and she {SCREAM}s and squirms around the monster's {COCK}.",
+        "It looks like {PRIMARY} is starting to give up, and letting the {MONSTER} have her. Perhaps it feels really good?"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "I can't believe what this brute wants to do, and I {SCREAM} as she tries to {PENETRAT}e her whole hand inside me.",
+        "Ohhh! {PLEADING}.... huuugh... you can't do this! Aahhhh! I can't do this!",
+        "I {SCREAM} as this bitch {PENETRAT}es her fingers inside me, before trying to push her entire hand inside me.",
+        "My attacker presses harder and harder,  until I feel my {PUSSY} give way and she {PENETRAT}es inside.",
+        "The first few fingers enter me, and I already feel my {WTVAGINAL} {PUSSY} straining.",
+        "{SWEARING}... This is so humiliating... She wants to hurt me... to really hurt me..."
+    ],
+    "2nd Person" :
+    [
+        "You can't believe what this brute wants to do, and you {SCREAM} as she tries to {PENETRAT}e her whole hand inside you.",
+        "({PRIMARY}) Ohhh! {PLEADING}.... huuugh... you can't do this! Aahhhh! I can't do this!",
+        "You {SCREAM} as this bitch {PENETRAT}es her fingers inside you, before trying to push her entire hand inside you.",
+        "Your atacker presses harder and harder,  until you feel your {PUSSY} give way and she {PENETRAT}es inside.",
+        "The first few fingers enter you, and you already feel your {WTVAGINAL} {PUSSY} straining.",
+        "{SWEARING}... This is so humiliating... She wants to hurt you... to really hurt you..."
+    ],
+    "3rd Person" :
+    [
+        "{SWEARING}, she's really going to hurt {PRIMARY} doing that...",
+        "{PRIMARY} {SCREAM}s as that bitch starts to push her fingers into her {WTVAGINAL} {PUSSY}."
+    ]
+}

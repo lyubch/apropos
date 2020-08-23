@@ -1,0 +1,16 @@
+{
+    "1st Person": [
+        "The {ACTIVE} has a grip on me, and begins to push me to my knees. Let's see where this goes...",
+        "I look down at the {ACTIVE}'s {MAROUSAL} {BEASTCOCK} and lick my lips.",
+        "I wonder if this {ACTIVE} wants a blowjob? Only one way to find out..."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} has a grip on you, and begins to push you to your knees. Let's see where this goes...",
+        "You look down at the {ACTIVE}'s {MAROUSAL} {BEASTCOCK} and lick your lips.",
+        "You wonder if this {ACTIVE} wants a blowjob? Only one way to find out..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} has a grip on her, and begins to push me to my knees. She looks {ACCEPTING}...",
+        "She looks down at the {ACTIVE}'s {MAROUSAL} {BEASTCOCK} and licks her lips."
+    ]
+}

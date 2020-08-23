@@ -1,0 +1,54 @@
+{
+    "1st Person" :
+    [
+        "I lay back and spread my legs for the {ACTIVE}, leaning up to watch him prepare to fuck me.",
+        "The {ACTIVE} straddles my leg, his {COCK} eagerly pressing at my {FAROUSAL} folds.",
+        "Oh my! I'm pleased to see that not all of the {ACTIVE} is small!",
+        "C'mon little guy, don't be shy! Human girls can give all kinds of pleasure!",
+        "Wow! Who knew a {ACTIVE} could be hiding something like this in its pants?",
+        "Don't tease, just put it in me!",
+        "Do it! Put it in! Fuck me!",
+        "He's going to put that {BEAST} {COCK} into me and drive me hard...",
+        "I strip off my clothes and lay back, my heart pounding in my chest...",
+        "I part my thighs slightly to allow the {ACTIVE} access to my body.",
+        "I wiggle out my panties and spread my legs before the {ACTIVE}.",
+        "Wow, seems you're really well geared down there!",
+        "Do it! Put it in! Fuck me!",
+        "Stripped of my clothes I lie back, my heart pounding in my chest.",
+        "I know what he wants, and I'm happy to oblige.",
+        "The creature lowers itself towards my lap, and I feel its {COCK} brush against my {WTVAGINAL} {PUSSY}."
+    ],
+    "2nd Person" :
+    [
+        "You lay back and spread your legs for the {ACTIVE}, leaning up to watch him prepare to fuck you.",
+        "The {ACTIVE} straddles your leg, his {COCK} eagerly pressing at your {FAROUSAL} folds.",
+        "Oh my! You're pleased to see that not all of the {ACTIVE} is small!",
+        "({PRIMARY}) C'mon little guy, don't be shy! Human girls can give all kinds of pleasure!'",
+        "Wow! Who knew a {ACTIVE} could be hiding something like this in its pants?",
+        "({PRIMARY}) Don't tease, just put it in me.",
+        "({PRIMARY}) Do it! Put it in! Fuck me!",
+        "He's going to put that {BEAST} {COCK} into you and drive you hard...",
+        "You strip off your clothes and lay back, your heart pounding in your chest...",
+        "You part your thighs slightly to allow the {ACTIVE} access to your body.",
+        "You wiggle out your panties and spread your legs before the {ACTIVE}.",
+        "({PRIMARY}) Wow, seems you're really well geared down there!",
+        "({PRIMARY}) Do it! Put it in! Fuck me!",
+        "Stripped of your clothes you lie back, your heart pounding in your chest.",
+        "You know what he wants, and you're happy to oblige.",
+        "The creature lowers itself towards your lap, and you feel its {COCK} brush against your {WTVAGINAL} {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} lies back and spreads her legs for the {ACTIVE}, leaning up to watch him prepare to fuck her.",
+        "The {ACTIVE} straddles {PRIMARY}'s leg, his {COCK} eagerly pressing at her {FAROUSAL} folds.",
+        "Oh my! It's pleasing to see that not all of the {ACTIVE} is small!",
+        "({PRIMARY}) C'mon little guy, don't be shy! Human girls can give all kinds of pleasure!",
+        "Wow! Who knew a {ACTIVE} could be hiding something like this in its pants?",
+        "({PRIMARY}) Don't tease, just put it in me!",
+        "({PRIMARY}) Do it! Put it in! Fuck me!",
+        "He's going to put that {BEAST} {COCK} into {PRIMARY} and drive her hard...",
+        "{PRIMARY} strips off her clothes and lies back, her heart pounding in her chest...",
+        "{PRIMARY} parts her thighs slightly to allow the {ACTIVE} access to her body.",
+        "{PRIMARY} wiggles out her panties and spreads her legs before the {ACTIVE}."
+    ]
+}

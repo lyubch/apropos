@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "I shouldn't let him do this to me, but the feeling is so... so intense... I'm so close...",
+        "I fall back limply to the ground, surprised as he pushes his hand up inside me... {SWEARING}... Nghh!",
+        "I'm shocked as I feel his hand twist {ROUGH}ly inside me, and I'm amazed at how it feels.",
+        "Oh my... I wasn't expecting this... Ah! {SWEARING}, what should I do? Mphhh! Should I stop him?",
+        "({ACTIVE}) Wow, I bet this dirty {PUSSY} has had some pretty {HUGE} {COCK}s up inside it, huh {BITCH}?",
+        "Wha... what are you doing? {SWEARING}... nghh! I can't do that... AAH!",
+        "The {PAIN} of {ACTIVE}'s hand twisting inside me is intense, but somehow... it feels good...",
+        "({ACTIVE}) That's it {BITCH}, just lie back and take it! You're such a {LEWD} {BITCH}.",
+        "I don't even look at {ACTIVE}, I just stare into space as his hand begins to part my {WTVAGINAL} {PUSSY}.",
+        "I wasn't ready for this feeling, but whoa what a feeling it is...",
+        "I bite my lip to muffle the sounds of my {SCREAM}s as {ACTIVE} {INSERT}s his hand to his wrist.",
+        "The strong arousal I felt moments earlier is quickly turning to apprehension and pain...",
+        "I thought I was pretty {LEWD}, but oh my! I certainly didn't expect anything like this..."        
+    ],
+    "2nd Person" :
+    [
+        "You shouldn't let him do this to you, but the feeling is so... so intense... You're so close...",
+        "You fall back limply to the ground, surprised as he pushes his hand up inside you... {SWEARING}... Nghh!",
+        "You're shocked as you feel his hand twist {ROUGH}ly inside you, and you're amazed at how it feels.",
+        "Oh my... you weren't expecting this... Ah! {SWEARING}, what should you do? Mphhh! Should you stop him?",
+        "({ACTIVE}) Wow, I bet this dirty {PUSSY} has had some pretty {HUGE} {COCK}s up inside it, huh {BITCH}?",
+        "({PRIMARY}) Wha... what are you doing? {SWEARING}... nghh! I can't do that... AAH!",
+        "The {PAIN} of {ACTIVE}'s hand twisting inside you is intense, but somehow... it feels good...",
+        "({ACTIVE}) That's it {BITCH}, just lie back and take it! You're such a {LEWD} {BITCH}.",
+        "You don't even look at {ACTIVE}, you just stare into space as his hand begins to part your {WTVAGINAL} {PUSSY}.",
+        "You weren't ready for this feeling, but whoa what a feeling it is...",
+        "You bite your lip to muffle the sounds of your {SCREAM}s as {ACTIVE} {INSERT}s his hand to his wrist.",
+        "The strong arousal you felt moments earlier is quickly turning to apprehension and pain...",
+        "You thought you were pretty {LEWD}, but oh my! you certainly didn't expect anything like this..."
+    ],
+    "3rd Person" :
+    [
+        "{SWEARING}! He's pushing his whole hand up inside her! Why isn't she stopping him?",
+        "{PRIMARY} {SCREAM}s in surprise as {ACTIVE} pushes his hand further up inside her, but she doesn't stop him.",
+        "Oh my, doesn't that hurt? It looks like it must hurt..."
+    ]
+}

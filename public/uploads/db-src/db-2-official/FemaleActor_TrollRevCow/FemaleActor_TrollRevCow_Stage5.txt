@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "I slump forward onto my hands and knees, too exhausted to move my hips, letting the brute continue to fuck me.",
+        "I should stop now, but I don't. I stay, needy and sweating, addicted to this monster's {COCK}.",
+        "The {ACTIVE} releases me and I slump forward onto my hands and knees, ass still planted on its {BEAST} {COCK}.",
+        "Its huge, heavy balls of are about to pump more {CUM} into me than any man could ever produce.",
+        "I feel uncomfortably full, and the notion of being filled even a little bit more makes my belly ache."        
+    ],
+    "2nd Person" :
+    [
+        "You slump forward onto your hands and knees, too exhausted to move your hips, letting the brute continue to fuck you.",
+        "You should stop now, but you don't. You stay, needy and sweating, addicted to this monster's {COCK}.",
+        "The {ACTIVE} releases you and you slump forward onto your hands and knees, ass still planted on its {BEAST} {COCK}.",
+        "Its huge, heavy balls of are about to pump more {CUM} into you than any man could ever produce.",
+        "You feel uncomfortably full, and the notion of being filled even a little bit more makes your belly ache."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} slumps forward onto her hands and knees, letting the brute continue to fuck her.",
+        "The {ACTIVE} releases {PRIMARY}, who collapses forward, exhausted and sweating, the troll-{COCK} still pounding away.",
+        "{PRIMARY} looks completely drained, and about to pass out. Surely it won't be much longer now?"
+    ]
+}

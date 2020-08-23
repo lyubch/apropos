@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "Good, no one else in sight... I hop up onto the crate, spreading my legs as I beckon the {ACTIVE} forward... time for some fun...",
+        "A very dirty idea comes to mind as I realise I'm all alone here with {ACTIVE}... This crate even looks to be the perfect height...",
+        "Spreading my {NUDE} legs wide, I watch with {SUBMISSIVE} {LUST} as the {ACTIVE} approaches, drawn in by the scent of my arousal...",
+        "With one last glance to make sure we're alone, I spread my legs and lean back, {DISPLAY}ing my {PUSSY} completely for my next partner."
+    ],
+    "2nd Person": [
+        "Good, no one else in sight... You hop up onto the crate, spreading your legs as you beckon the {ACTIVE} forward... time for some fun...",
+        "A very dirty idea comes to mind as you realise you're all alone with {ACTIVE}... This crate even looks to be the perfect height...",
+        "Spreading your {NUDE} legs wide, you watch with {SUBMISSIVE} {LUST} as the {ACTIVE} approaches, drawn in by the scent of your arousal...",
+        "With one last glance to make sure you're alone, you spread your legs, {DISPLAY}ing your {PUSSY} completely for your next partner."
+    ],
+    "3rd Person": [
+        "Good, no one else in sight... {PRIMARY} hops up onto the crate, spreading her legs as she beckons the {ACTIVE} forward... time for some fun...",
+        "A very dirty idea comes to {PRIMARY}'s mind as she realises she's all alone with {ACTIVE}... This crate even looks to be the perfect height...",
+        "Spreading {PRIMARY}'s {NUDE} legs wide, she watches with {SUBMISSIVE} {LUST} as the {ACTIVE} approaches, drawn in by the scent of {PRIMARY}'s arousal...",
+        "With one last glance to make sure she's alone, {PRIMARY} spreads her legs, {DISPLAY}ing her {PUSSY} completely for her next partner."
+    ]
+}

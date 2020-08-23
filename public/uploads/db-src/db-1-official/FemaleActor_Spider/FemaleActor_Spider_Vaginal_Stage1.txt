@@ -1,0 +1,56 @@
+{
+    "1st Person" :
+    [
+        "Here... almost... It's in, a {ACTIVE} has stuck its things into me and it's fucking me!",
+        "I can't believe I even want to fuck bugs!",
+        "The {ACTIVE} crawls atop me, pinning me to the ground. I gasp as it enters my body",
+        "I arch my back as it forces what feels like a long, lubricated, bulbous cock into my {PUSSY}.",
+        "I feel a surge of strange shame as I present myself to the creature. Is there nothing I won't fuck?.",
+        "I'm about to have sex with a spider... The thought sends shivers down my spine.",
+        "Offering myself to such a horrific monster... being in a situation like this really turns me on.",
+        "I must be the horniest {BITCH} in the world that I'm even thinking this, let alone going through with it!",
+        "I'm so horny, I need to have sex. This {ACTIVE} will have to do.",
+        "The bug climbs atop my naked body, and slowly, gently, slides its {BUGCOCK} into my {FAROUSAL} {PUSSY}.",
+        "My body begins to feel strange; languid, sensual and submissive. I bend over on the ground, ass-up and open.",
+        "A cold, paralyzing calm sweeps over my body, and I spread my legs.",
+        "The spider positions itself over my throbbing {PUSSY}, and I gasp as I feel pressure at the entrance...",
+        "My {WTVAGINAL} {PUSSY} starts to become moist as the enchanting scent fills my lungs.",
+        "I feel something probe past my lips. Long, moist and sticky. I gasp as it shoots into my {PUSSY}.",
+        "I fel something touch my labia lightly. It's covered in thick, coarse hair, rubbing me obscenely.",
+        "Something coarse and stiff brushes my clit roughly, sending waves of pain up my spine.",
+        "It gradually pushes its organ past my lips and into my {WTVAGINAL} {PUSSY}."
+    ],
+    "2nd Person" :
+    [
+        "There... almost... It's in, the {ACTIVE} has stuck its things into you and it's fucking you!'",
+        "You can't believe you even want to fuck bugs!",
+        "The {ACTIVE} crawls atop you, pinning you to the ground. You gasp as it enters your body",
+        "You arch your back as it forces what feels like a long, lubricated, bulbous cock into your {PUSSY}.",
+        "You feel a surge of strange shame as you present yourself to the creature. Is there nothing you won't fuck?.",
+        "You're about to have sex with a spider... The thought sends shivers down your spine.",
+        "Offering yourself to such a horrific monster... being in a situation like this really turns you on.",
+        "You must be the horniest {BITCH} in the world that you're thinking this, let alone going through with it!",
+        "You're so horny, you need to have sex. This {ACTIVE} will have to do.",
+        "The bug climbs atop your naked body, and slowly, gently, slides its {BUGCOCK} into your {FAROUSAL} {PUSSY}.",
+        "Your body begins to feel strange; languid and submissive. You bend over on the ground, ass-up and open.",
+        "A cold, paralyzing calm sweeps over your body, and you spread your legs.",
+        "The spider positions itself over your throbbing {PUSSY}, and you gasp as you feel pressure at the entrance...",
+        "Your {WTVAGINAL} {PUSSY} starts to become moist as the enchanting scent fills your lungs.",
+        "You feel something probe past your lips. Long, moist and sticky. You gasp as it shoots into your {PUSSY}.",
+        "You feel something touch your labia lightly. It's covered in thick, coarse hair, rubbing you obscenely.",
+        "Something coarse and stiff brushes your clit roughly, sending waves of pain up your spine.",
+        "It gradually pushes its organ past your lips and into your {WTVAGINAL} {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "Here... almost... It's in, a {ACTIVE} has stuck its things into {PRIMARY}  and it's fucking her!",
+        "The {ACTIVE} crawls atop {PRIMARY} , pinning her to the ground. She gasps as it enters her body",
+        "{PRIMARY} arches her back as it forces what looks like a long, lubricated, bulbous cock into her {PUSSY}.",
+        "{PRIMARY} 's about to have sex with a spider... The thought is terrifying, but hot.",
+        "Offering herself to such a horrific monster... being in a situation like this is a real turn on.",
+        "{PRIMARY} must be the horniest {BITCH} in the world that she's even thinking this...",
+        "She's so horny, {PRIMARY} needs to have sex. This {ACTIVE} will have to do.",
+        "The bug climbs atop {PRIMARY}'s naked body, and slowly slides its {BUGCOCK} into her {FAROUSAL} {PUSSY}.",
+        "A cold, paralyzing calm sweeps over her body, and {PRIMARY} spreads her legs."
+    ]
+}

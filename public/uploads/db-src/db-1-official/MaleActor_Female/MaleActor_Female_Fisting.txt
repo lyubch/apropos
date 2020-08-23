@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "Her {PUSSY} is drenched, but I can see the trembling in {PRIMARY}'s knees.",
+        "I push the first few fingers into {PRIMARY}'s {PUSSY}. She moans, and I start pushing.",
+        "Even though she's soaking wet, this is going to be really tight."
+    ],
+    "2nd Person": [
+        "Her {PUSSY} is drenched, but you can see the trembling in {PRIMARY}'s knees.",
+        "You push the first few fingers into {PRIMARY}'s {PUSSY}. She moans, and you start pushing.",
+        "Even though she's soaking wet, this is going to be really tight."
+    ],
+    "3rd Person": [
+        "{PRIMARY} holds her body up on her hands, staring straight up, trying to ready her body for this ordeal.",
+        "{PRIMARY} doesn't even look at {ACTIVE}, staring into space as his hand parts her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY}'s legs are spread wide, hoping this will make it easier to take, but it still hurts.",
+        "{PRIMARY} gasps as {ACTIVE} tries to force his whole hand inside her.",
+        "{PRIMARY} timidly thrusts back herself as he begins, trying to take control rather than let him force her.",
+        "({PRIMARY}) Ohhh! Don't worry.... huuugh... just do it! Aahhhh! I want you to!"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "The {ACTIVE} starts to cum inside me, but pulls out and covers me in the rest.",
+        "I sob pathetically as I'm thrown to the ground, used and discareded like a piece of trash.",
+        "I feel sick at what was just done to me. I feel bruised and sore, and I feel ashamed that I liked it.",
+        "({ACTIVE}) It's not over yet, {BITCH}. Everyone here will get to do it with you.",
+        "I gasp as I feel the {SLOPPY} liquid against my naked flesh.",
+        "I wallow in the sensation as I'm coated by {CUM}.",
+        "Cum raining down onto my ass and back, I feel a little more aroused for being so submissive.",
+        "I lie in a pool of {CUM} and {CREAM}, too weak to do anything other than pant heavily."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} starts to cum inside you, but pulls out and covers you in the rest.",
+        "You sob pathetically as you're thrown to the ground, used and discarded like a piece of trash.",
+        "You feel sick at what was just done to you. You feel bruised and sore. You feel ashamed that you liked it.",
+        "({ACTIVE}) It's not over yet, {BITCH}. Everyone here will get to do it with you.",
+        "You gasp as you feel the {SLOPPY} liquid against your naked flesh.",
+        "You wallow in the sensation as you're coated by {CUM}.",
+        "Cum raining down onto your ass and back, you feel a little more aroused for being so submissive.",
+        "You lie in a pool of {CUM} and {CREAM}, too weak to do anything other than pant heavily."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is covered with {CUM}, then kicked to the ground. It's heartbreaking to see.",
+        "The {ACTIVE} pulls out cums all over {PRIMARY}, before kicking her to the ground.",
+        "{ACTIVE} grins as he cums all over {PRIMARY}, openly admiring her cum-soaked body.",
+        "({ACTIVE}) Okay, who wants to fuck her next?",
+        "{PRIMARY} sobs and shakes in the dirt, her beautiful body marred by sweat and {CUM}."
+    ]
+}

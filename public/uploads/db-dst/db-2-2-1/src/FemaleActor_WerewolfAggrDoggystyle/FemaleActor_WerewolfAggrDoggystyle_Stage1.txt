@@ -1,0 +1,49 @@
+{
+    "1st Person" :
+    [
+        "Don't worry about me... Treat me rough... Like a poor little {BITCH}...",
+        "The {ACTIVE} spins me around, gripping my neck roughly, sending excited sparks throughout my body.",
+        "Ahhh! Nghh! Please... ow! Go slowly... Not so deep... Ughh... Nghh!",
+        "The beast starts hard and deep from the very first thrust, forcing me painfully up onto tip toes.",
+        "Even though I wanted this, I'm suddenly very afraid, I can feel the knot between my thighs already...",
+        "The {ACTIVE} starts slowly, but it's a small mercy. His strokes are hard, rough, and very, very deep.",
+        "Girls were not meant to take meat this thick into their pussies, I know, but I'm dripping in anticipation.",
+        "I press my naked ass against the {ACTIVE}'s {PENIS}. I whisper back to him, 'I want some dog-{COCK}'.",
+        "Oh my, Mr Wolf, what a big {COCK} you have!",
+        "I want you to put it in me.",
+        "I'd heard rumours that some human girls like to fuck werewolves, I wonder if it's true?",
+        "Once the knot batters inside me, I won't be able to change my mind, I'll be forced to take its cumshot.",
+        "Don't change back. Stay. I want to fuck the beast.",
+        "I want you to fuck me as hard as you can, as savagely as you can. Don't worry about me, just fuck me.",
+        "Sometimes I dream about getting it hard from a werewolf. Make sure you live up to the fantasy!",
+        "I want you to show this little human {BITCH} just how much of an animal you can be...",
+        "Um, I'm not sure about this... Wait! Ah! No, I've changed my mind! Nghh!!"  
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Don't worry about me... Treat me rough... Like a poor little {BITCH}...",
+        "The {ACTIVE} spins you around, gripping your neck roughly, sending excited sparks throughout your body.",
+        "({PRIMARY}) Ahhh! Nghh! Please... ow! Go slowly... Not so deep... Ughh... Nghh!",
+        "The beast starts hard and deep from the very first thrust, forcing you painfully up onto tip toes.",
+        "Even though you wanted this, you're suddenly very afraid, you can feel the knot between your thighs already...",
+        "The {ACTIVE} starts slowly, but it's a small mercy. His strokes are hard, rough, and very, very deep.",
+        "Girls were not meant to take meat this thick into their pussies, you know, but you're dripping in anticipation.",
+        "You press your naked ass against the {ACTIVE}'s {PENIS}. You whisper back to him, 'I want some dog-{COCK}'.",
+        "({PRIMARY}) Oh my, Mr Wolf, what a big {COCK} you have!",
+        "({PRIMARY}) I want you to put it in me.",
+        "You'd heard rumours that some human girls like to fuck werewolves, you wonder if it's true?",
+        "Once the knot batters inside you, you won't be able to change your mind, You'll be forced to take its cumshot.",
+        "({PRIMARY}) Don't change back. Stay. I want to fuck the beast.",
+        "({PRIMARY}) I want you to fuck me as hard as you can, as savagely as you can. Don't worry about me, just fuck me.",
+        "({PRIMARY}) Sometimes I dream about getting it hard from a werewolf. Make sure you live up to the fantasy!",
+        "({PRIMARY}) I want you to show this little human {BITCH} just how much of an animal you can be...",
+        "({PRIMARY}) Um, I'm not sure about this... Wait! Ah! No, I've changed my mind! Nghh!!" 
+    ],
+    "3rd Person" :
+    [
+        "The beast starts hard and deep from the very first thrust, forcing {PRIMARY} painfully up onto tip toes.",
+        "Even though {PRIMARY} is giving herself to the creature, it doesn't seem to be any gentler with her...",
+        "Oh my, the rumour that some human girls like to fuck werewolves is true!",
+        "The desire in {PRIMARY}'s face seems to have weakened now. A small amount of fear seems to be there as well."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "Don't hurt me... Look, I'll do whatever you like... I'll make you feel good...",
+        "This thug has beaten me, but it's not his ego he's interested in being stroked...",
+        "The bulge under this brute's clothes is intimidating. Oh Gods, he wants me to take it out...",
+        "This bastard's {COCK} is just plain intimidating! It has to be at least 8 inches, and it's quite thick...",
+        "Afraid for my life, I wrap my fingers around my attacker's {COCK} and gave it a gentle squeeze.",
+        "I start slow, getting a feel of the {HUGE} {COCK} in my hand. It's hot and heavy..."        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Don't hurt me... Look, I'll do whatever you like... I'll make you feel good.",
+        "This thug has beaten you, but it's not his ego he's interested in being stroked..",
+        "The bulge under this brute's clothes is intimidating. Oh Gods, he wants you to take it out.",
+        "This bastard's {COCK} is just plain intimidating! It has to be at least 8 inches, and it's quite thick.",
+        "Afraid for your life, you wrap your fingers around your attacker's {COCK} and give it a gentle squeeze.",
+        "You start slow, getting a feel of the {HUGE} {COCK} in your hand. It's hot and heavy..."
+    ],
+    "3rd Person" :
+    [
+        "({PRIMARY}) Don't hurt me... Look, I'll do whatever you like... I'll make you feel good...",
+        "That brute has beaten {PRIMARY}, but it's not his ego he's interested in being stroked..."
+    ]
+}

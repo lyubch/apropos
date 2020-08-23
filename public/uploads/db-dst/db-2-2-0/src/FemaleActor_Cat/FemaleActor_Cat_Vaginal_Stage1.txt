@@ -1,0 +1,60 @@
+{
+    "1st Person" :
+    [
+        "I willingly bend to the {ACTIVE}, eager to copulate with this big animal.",
+        "The {ACTIVE} pushes me onto my hands and knees and positions itself behind me.",
+        "The {ACTIVE} keeps me pinned beneath him as he allows his {BEAST} organ to enter me.",
+        "The animal penetrates me, sinking into me over and over.",
+        "I feel a surge of shame as I present myself to the {ACTIVE}. I want to fuck everything.",
+        "The {ACTIVE}, with its {BEAST}, spine-covered {COCK}, lines up behind me. I squeal as it rams in.",
+        "I bend over, presenting my {FAROUSAL} {PUSSY} to it the beast.",
+        "I drop down to my hands and knees, not waiting long for the {ACTIVE} to get the idea...",
+        "I feel pawing at my rear as the {ACTIVE} moves to mount me. This is it.",
+        "Offering myself to such a powerful beast... being in a situation like this really turns me on.",
+        "I bite my lip when I spy the {ACTIVE}'s {BEAST} {COCK}. My {PUSSY} starts to open.",
+        "I stare at the beast's {BEAST} {COCK}, think it over for only a second before declaring, why not?",
+        "I must be the horniest girl in the world that I'm even thinking this, let alone going through with it!",
+        "The {ACTIVE} looms over me, revealing a {BEAST}, erect {COCK}. Oh my...",
+        "I turn myself around, dropping to all fours, making it easier for the creature to enter me.",
+        "Wow, I'm so wet right now it just slid in. Ooh, yeah! Like that! This cat is incredible!",
+        "It's difficult not to think about a dick slipping inside my {FAROUSAL} {PUSSY}. So I let it."
+    ],
+    "2nd Person" :
+    [
+        "You willingly bend to the {ACTIVE}, eager to copulate with this big animal.",
+        "The {ACTIVE} pushes you onto your hands and knees and positions itself behind you.",
+        "The {ACTIVE} keeps you pinned beneath him as he allows his {BEAST} organ to enter you.",
+        "The animal penetrates you, sinking into you over and over.",
+        "You feel a surge of shame as you present yourself to the {ACTIVE}. You want to fuck everything.",
+        "The {ACTIVE}, with its {BEAST}, spine-covered {COCK}, lines up behind you. You squeal as it rams in.",
+        "You bend over, presenting your {FAROUSAL} {PUSSY} to it the beast.",
+        "You drop down to your hands and knees, not waiting long for the {ACTIVE} to get the idea...",
+        "You feel pawing at your rear as the {ACTIVE} moves to mount you. This is it.",
+        "Offering yourself to such a powerful beast... being in a situation like this really turns you on.",
+        "You bite your lip when you spy the {ACTIVE}'s {BEAST} {COCK}. Your {PUSSY} starts to open.",
+        "You stare at the beast's {BEAST} {COCK}, think it over for only a second before declaring, why not?",
+        "You must be the horniest girl in the world that you're even thinking this, let alone going through with it!",
+        "The {ACTIVE} looms over you, revealing a {BEAST}, erect {COCK}. Oh my...",
+        "You turn yourself around, dropping to all fours, making it easier for the creature to enter you.",
+        "Wow, you're so wet right now it just slid in. Ooh, yeah! Like that! That cat is incredible!",
+        "It's difficult not to think about a dick slipping inside your {FAROUSAL} {PUSSY}. So you let it."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} willingly bends to the {ACTIVE}, eager to copulate with this big animal.",
+        "The {ACTIVE} pushes {PRIMARY} onto her hands and knees and positions itself behind her.",
+        "The {ACTIVE} keeps {PRIMARY} pinned beneath him as he allows his {BEAST} organ to enter her.",
+        "The animal penetrates {PRIMARY}, sinking into her over and over.",
+        "{PRIMARY} blushes with shame as she presents herself to the {ACTIVE}. She wants to fuck everything...",
+        "The {ACTIVE}, with its {BEAST}, spine-covered {COCK}, lines up behind {PRIMARY}. She squeals as it rams in.",
+        "{PRIMARY} bends over, presenting her {FAROUSAL} {PUSSY} to it the beast.",
+        "{PRIMARY} drops down to her hands and knees, not waiting long for the {ACTIVE} to get the idea...",
+        "The {ACTIVE} paws at {PRIMARY}'s rear as it moves to mount her. This is it.",
+        "Offering herself to such a powerful beast... a situation like this is a real turn on...",
+        "{PRIMARY} bites her lip when she spies the {ACTIVE}'s {BEAST} {COCK}. Her {PUSSY} starts to open.",
+        "{PRIMARY} stares at the beast's {BEAST} {COCK}, thinking it over for only a second before she starts.",
+        "{PRIMARY} must be the horniest girl in the world that she's thinking this, let alone going through with it!",
+        "The {ACTIVE} looms over {PRIMARY}, revealing a {BEAST}, erect {COCK}. Oh my...",
+        "{PRIMARY} turns herself around, dropping to all fours, making it easier for the creature to enter her."
+    ]
+}

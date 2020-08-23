@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "Slick and obscene in its girth, I feel each ridge against my inner walls as the {ACTIVE} fucks me.",
+        "I can't see what's shoved into my {PUSSY}, but I am certain that it is not a dick...",
+        "Cold sweat washes over me as the huge bug fucks me. Why am I letting this happen?",
+        "I can feel a thick, slippery substance squirting between my legs.",
+        "Thick goo oozes from between my legs as it slowly pumps into me.",
+        "Thick slime leaks from my {PUSSY} with each thrust, dripping from my crotch to the ground.",
+        "As the slimy substance touches my inner walls, I feel my {PUSSY} twitch and spasm.",
+        "I can feel myself spreading, my body betraying me and preparing to take the full length into me.",
+        "I can feel a thick, slippery substance squirting between my legs.",
+        "Oh Gods, it's fucking me, this huge spider is fucking me!",
+        "The blood is starting to rush to my head from this position... When I cum, I'm gonna pass out..."
+    ],
+    "2nd Person": [
+        "Slick and obscene in its girth, you feel each ridge against your inner walls as the {ACTIVE} fucks you.",
+        "You can't see what's shoved into your {PUSSY}, but you are certain that it is not a dick...",
+        "Cold sweat washes over you as the huge bug fucks you. Why are you letting this happen?",
+        "You can feel a thick, slippery substance squirting between your legs.",
+        "Thick goo oozes from between your legs as it slowly pumps into you.",
+        "Thick slime leaks from your {PUSSY} with each thrust, dripping from your crotch to the ground.",
+        "As the slimy substance touches your inner walls, you feel your {PUSSY} twitch and spasm.",
+        "You can feel yourself spreading, your body betraying you and preparing to take the full length inside.",
+        "You can feel a thick, slippery substance squirting between your legs.",
+        "Oh Gods, it's fucking you, this huge spider is fucking you!",
+        "The blood is starting to rush to your head from this position... When you cum, you're gonna pass out..."
+    ],
+    "3rd Person": [
+        "Slick and obscene in its girth, {PRIMARY} bucks as each ridge rubs her {PUSSY}.",
+        "The {BUGCOCK} in {PRIMARY}'s {PUSSY} can't be seen, but it's certainly not a dick...",
+        "{PRIMARY} gasps in a silent scream as the huge bug fucks her. Why is she letting this happen?",
+        "A thick, slippery substance squirts from between {PRIMARY}'s legs.",
+        "Thick goo oozes from between {PRIMARY}'s legs as it slowly pumps into her.",
+        "Thick slime leaks from her {PUSSY} with each thrust, dripping from her crotch to the ground.",
+        "As the slimy substance touches her inner walls, {PRIMARY}'s hips twitch and spasm.",
+        "{PRIMARY}'s legs spread, her body betraying her and preparing to take the full length inside.",
+        "A thick, slippery substance squirts from between {PRIMARY}'s legs.",
+        "Oh Gods, it's fucking her, that huge spider is fucking her!",
+        "{PRIMARY}'s face starts to turn red as the blood rushes to her head... When she cums, she's gonna pass out..."
+    ]
+}

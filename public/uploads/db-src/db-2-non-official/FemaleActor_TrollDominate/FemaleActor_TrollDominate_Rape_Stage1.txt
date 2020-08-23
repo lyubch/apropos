@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "Yanking me upside down by my ankle, the {MONSTER} wastes no time in {INSERT}ing its {BEASTLY} {COCK} into my {PUSSY}.",
+        "I try with all my strength to push the {MONSTER} off me, grunting as it {INSERT}s its {COCK} into my upturned body.",
+        "Upturned, one arm pinned to the ground, I can only watch in {FEAR} as the {MONSTER}'s {COCK} splits me open.",
+        "The huge {MONSTER} pins me to the ground, with a clear intent to have its way, {INSERT}ing its {COCK} down into my {PUSSY}.",
+        "Pinning me to the ground with one huge hand, it spreads me wide open with the other.",
+        "I'm paralyzed with {FEAR} as the {ACTIVE} descends on me, feeling sick at what is happening."        
+    ],
+    "2nd Person" :
+    [
+        "Yanking you upside down by your ankle, the {MONSTER} wastes no time in {INSERT}ing its {BEASTLY} {COCK} into your {PUSSY}.",
+        "You try with all your strength to push the {MONSTER} off you, grunting as it {INSERT}s its {COCK} into your upturned body.",
+        "Upturned, one arm pinned to the ground, you can only watch in {FEAR} as the {MONSTER}'s {COCK} splits you open.",
+        "The huge {MONSTER} pins you to the ground, with a clear intent to have its way, {INSERT}ing its {COCK} down into your {PUSSY}.",
+        "Pinning you to the ground with one huge hand, it spreads you wide open with the other.",
+        "I'm paralyzed with {FEAR} as the {ACTIVE} descends on me, feeling sick at what is happening."
+    ],
+    "3rd Person" :
+    [
+        "Yanking her upside down by her ankle, the {MONSTER} wastes no time in {INSERT}ing its {BEASTLY} {COCK} into {PRIMARY}'s {PUSSY}.",
+        "The huge {MONSTER} pins {PRIMARY} to the ground, with a clear intent to have its way, {INSERT}ing its {COCK} down into her {PUSSY}.",
+        "Pinning her to the ground with one huge hand, it spreads {PRIMARY} wide open with the other."        
+    ]
+}

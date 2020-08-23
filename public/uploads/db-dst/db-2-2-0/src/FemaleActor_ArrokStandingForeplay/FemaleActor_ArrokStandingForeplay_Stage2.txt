@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "I raise my leg up and lean in, pushing myself down onto {ACTIVE}'s {HUGE} {PENIS}.",
+        "{ACTIVE} lifts up my leg, gripping my thigh firmly, his {COCK} pressing up against my {FAROUSAL} folds.",
+        "With my legs apart like this, everyone will see the moment when {ACTIVE}'s {COCK} slips inside me.",
+        "I melt into {ACTIVE}'s embrace. He could ask me to do anything right now, and I'd do it.",
+        "I'm getting wetter and wetter as {ACTIVE}'s kiss goes on, and I feel {CREAM} drip down my thighs.",
+        "Mmmm... {ACTIVE} is a really good kisser... I could let him do this all day!"
+    ],
+    "2nd Person" :
+    [
+        "You raise your leg up and lean in, pushing yourself down onto {ACTIVE}'s {HUGE} {PENIS}.",
+        "{ACTIVE} lifts up your leg, gripping you firmly, his {COCK} pressing up against your {FAROUSAL} folds.",
+        "With your legs apart like this, everyone will see the moment when {ACTIVE}'s {COCK} slips inside you.",
+        "You melt into {ACTIVE}'s embrace. He could ask you to do anything right now, and you'd do it.",
+        "You're getting wetter and wetter as {ACTIVE}'s kiss goes on, and you feel {CREAM} drip down your thighs.",
+        "Mmmm... {ACTIVE} is a really good kisser... You could let him do this all day!"
+    ],
+    "3rd Person" :
+    [
+        "Their display becomes more lewd, as {ACTIVE} lifts {PRIMARY}'s leg, exposing her {FAROUSAL} {PUSSY}.",
+        "{ACTIVE}'s {PENIS} can be seen pressing against {PRIMARY}'s {PUSSY} as they continue to kiss."
+    ]
+}

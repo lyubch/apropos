@@ -1,0 +1,22 @@
+{
+    "1st Person": [
+        "({ACTIVE}) Get to it, {BITCH}, and you better make it good!",
+        "I kneel down in the dirt, and timidly take the {ACTIVE}'s {SALTY} {PENIS} into my mouth.",
+        "I need to make this bastard cum, so he won't want to fuck my {PUSSY} or {ASS}...",
+        "I fight back my revulsion as I tongue the {ACTIVE}'s balls as I steadily wank his {PENIS}.",
+        "The {ACTIVE}'s {PENIS} is {SALTY}, and I'm not able to keep it in my mouth for long before I feel sick."
+    ],
+    "2nd Person": [
+        "({ACTIVE}) Get to it, {BITCH}, and you better make it good!",
+        "You kneel down in the dirt, and timidly take the {ACTIVE}'s {SALTY} {PENIS} into your mouth.",
+        "You need to make this bastard cum, so he won't want to fuck your {PUSSY} or {ASS}...",
+        "You fight back your revulsion as you tongue the {ACTIVE}'s balls as you steadily wank his {PENIS}.",
+        "The {ACTIVE}'s {PENIS} is {SALTY}, and you're not able to keep it in your mouth for long before you feel sick."
+    ],
+    "3rd Person": [
+        "{PRIMARY} kneels down and reluctantly starts to pleasure the {ACTIVE}.",
+        "Oh my... In that position, someone could just come up behind {PRIMARY} and fuck her {PUSSY}!",
+        "({ACTIVE}) You better get those balls in your mouth, {BITCH}!",
+        "Clearly resigned, {PRIMARY} drops down and immediately starts to work the {ACTIVE}'s {COCK} and balls."
+    ]
+}

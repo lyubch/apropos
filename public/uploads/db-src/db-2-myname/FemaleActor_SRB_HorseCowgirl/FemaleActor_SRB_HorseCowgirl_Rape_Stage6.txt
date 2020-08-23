@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "I rock back and forth urgently, desperate to get him to finish before my traitorous body climaxes from this abuse.",
+        "I let myself finally smile as the horse throws his head back in pleasure, now I just have to hold back my own climax for a little longer...",
+        "I shudder at the feeling of his balls at my ass, I can't believe I had to go this far to get out of killing someone else's horse...",
+        "Part of me wonders how I can take so much {COCK}, but at least the horse looks like he's finally satisfied..."
+    ],
+    "2nd Person": [
+        "You rock back and forth urgently, desperate to get him to finish before your traitorous body climaxes from this abuse.",
+        "You let yourself finally smile as the horse throws his head back in pleasure... just a little while longer...",
+        "You shudder at the feeling of his balls at your ass, you can't believe you had to go this far to get out of killing someone else's horse...",
+        "Part of you wonders how you can take so much {COCK}, but at least the horse looks like he's finally satisfied..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} grimaces as she rocks back and forth against the horse's crotch. The pain must be incredible.",
+        "The horse looks like it could cum any second... maybe {PRIMARY} should get it out of her womb now?"
+    ]
+}

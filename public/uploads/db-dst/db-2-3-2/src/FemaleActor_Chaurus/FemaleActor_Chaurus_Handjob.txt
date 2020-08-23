@@ -1,0 +1,15 @@
+{
+    "1st Person": [
+        "I reach out with fascination for the {BUG}'s {MAROUSAL} {BUGCOCK}.",
+        "I'm not sure why I'm doing this; I just know I want to make this {BUG} feel good.",
+        "There'll be plenty of time for the {BUG} to {FUCK} my {PUSSY} later."
+    ],
+    "2nd Person": [
+        "You reach out with fascination for the {BUG}'s {MAROUSAL} {BUGCOCK}.",
+        "You're not sure why you're doing this; You just know you want to make this {BUG} feel good.",
+        "There'll be plenty of time for the {BUG} to {FUCK} your {PUSSY} later."
+    ],
+    "3rd Person": [
+        "She reaches out for the {BUG}'s {MAROUSAL} {BUGCOCK}."
+    ]
+}

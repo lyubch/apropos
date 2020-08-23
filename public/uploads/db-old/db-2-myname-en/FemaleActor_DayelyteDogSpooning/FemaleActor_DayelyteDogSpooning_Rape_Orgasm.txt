@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "AAAHH! NGHHH! It's in, Oh Gods it's in! It's too much!",
+        "I scream, feeling my {PUSSY} spread painfully around {ACTIVE}'s knot, and his {PENIS} spearing my cervix.",
+        "I'm sobbing and crying, but my nipples are stiff and erect as I receive a deep insemination from a dog.",
+        "It's going directly into my womb! Please, someone help me!",
+        "My cervix has opened up and the head of {ACTIVE}'s {PENIS} is pumping load after load into my {PUSSY}.",
+        "{ACTIVE}'s knot stretches my {PUSSY} obscenely, and the strain forces me to climax.",
+        "{ACTIVE}'s {BEAST} {PENIS} stuffs my insides, all the while pumping {THICK} {CUM} into me."        
+    ],
+    "2nd Person" :
+    [
+        "AAAHH! NGHHH! It's in, Oh Gods it's in! It's too much!",
+        "You scream, feeling your {PUSSY} spread painfully around {ACTIVE}'s knot, his {PENIS} spearing your cervix.",
+        "You're sobbing and crying, but your nipples are stiff as you receive a deep insemination from a dog.",
+        "({PRIMARY}) It's going directly into my womb! Please, someone help me!",
+        "Your cervix has opened up and the head of {ACTIVE}'s {PENIS} is pumping load after load into your {PUSSY}.",
+        "{ACTIVE}'s knot stretches your {PUSSY} obscenely, and the strain forces you to climax.",
+        "{ACTIVE}'s {BEAST} {PENIS} stuffs your insides, all the while pumping {THICK} {CUM} into you."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} screams as her {PUSSY} stretches around {ACTIVE}'s knot.",
+        "Even though the knot's already in, {ACTIVE} keeps pumping. {PRIMARY}'s face is a mask of pain."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "1st Person": [
+        "{ACTIVE}'s {ROUGH} pace brings me to a {QUIVER}ing orgasm.",
+        "What? You've came already, just from that?",
+        "Thick {CREAM} has started to spill from my {FAROUSAL} {PUSSY}. We don't stop fucking.",
+        "Just have to say... I love it when a girl pops her thumb into my {ASSHOLE} while I cum.",
+        "{SWEARING}, yes! Don't worry, I won't tell your {MFAMILY}!"
+    ],
+    "2nd Person": [
+        "{ACTIVE}'s {ROUGH} pace brings you to a {QUIVER}ing orgasm.",
+        "What? You've came already, just from that?",
+        "Thick {CREAM} has started to spill from your {FAROUSAL} {PUSSY}. You don't stop fucking.",
+        "You love it when a girl pops her thumb into your {ASSHOLE} while you cum.",
+        "{SWEARING}, yes! Don't worry, I won't tell your {MFAMILY}!"
+    ],
+    "3rd Person": [
+        "{ACTIVE}'s {ROUGH} pace brings {PRIMARY} to a {QUIVER}ing orgasm.",
+        "What? You've came already, just from that?",
+        "Thick {CREAM} has started to spill from {PRIMARY}'s {FAROUSAL} {PUSSY}. They don't stop fucking.",
+        "{SWEARING}, yes! Don't worry, I won't tell your {MFAMILY}!"
+    ]
+}

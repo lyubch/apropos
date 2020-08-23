@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "I hang {SUBMISSIVE}ly from the {ACTIVE}'s grip as it {EJACULATE}s into my {ASSHOLE}.",
+        "I let out a long {MOAN} of {LUST} as I cum with the {ACTIVE} still pumping away inside me.",
+        "The {ACTIVE} {FUCK}s me until it pollutes my body with its {THICK} {CUM}.",
+        "The {VILE} {MONSTER} keeps {MOAN}ing as his {COCK} spills {CUM} into my {WTANAL} {ASSHOLE}.",
+        "I lose track of time as I {SLOW}ly pump against the {MONSTER}'s {COCK}, spreading his {CUM} inside me.",
+        "I don't even know how many times he's {EJACULATE}ed inside me.",
+        "Just when I think I can't stand it any more he starts {EJACULATE}ing his {CUM} into me.",
+        "The {MONSTER}'s {THICK} {CUM} squelches out my {ASSHOLE}, dripping down into my {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} {FUCK}s me {ROUGH}ly, and I can hear the sloppy noises of {CUM} splattering my {ASSHOLE}.",
+        "Ugh! It's finally {EJACULATE}ing... I wonder how many of its friends are waiting in the shadows for their turn?"
+    ],
+    "2nd Person": [
+        "You hang {SUBMISSIVE}ly from the {ACTIVE}'s grip as it {EJACULATE}s into your {ASSHOLE}.",
+        "You let out a long {MOAN} of {LUST} as you cum with the {ACTIVE} still pumping away inside you.",
+        "The {ACTIVE} {FUCK}s you until it pollutes your body with its {THICK} {CUM}.",
+        "The {VILE} {MONSTER} keeps {MOAN}ing as his {COCK} spills {CUM} into your {WTANAL} {ASSHOLE}.",
+        "You lose track of time as you {SLOW}ly pump against the {MONSTER}'s {COCK}, spreading his {CUM} inside you.",
+        "You don't even know how many times he's {EJACULATE}ed inside you.",
+        "Just when you think you can't stand it any more he starts {EJACULATE}ing his {CUM} into you.",
+        "The {MONSTER}'s {THICK} {CUM} squelches out your {ASSHOLE}, dripping down into your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} {FUCK}s you {ROUGH}ly, and you can hear the sloppy noises of {CUM} splattering your {ASSHOLE}.",
+        "Ugh! It's finally {EJACULATE}ing... You wonder how many of its friends are waiting in the shadows for their turn?"
+    ],
+    "3rd Person": [
+        "{PRIMARY} hangs limply from the {ACTIVE}'s grip as it {EJACULATE}s into her {ASSHOLE}.",
+        "{PRIMARY} lets out a long {MOAN} of {LUST} as she cums with the {ACTIVE} still pumping away inside her.",
+        "The {ACTIVE} {FUCK}s her until it pollutes her body with its {THICK} {CUM}.",
+        "The {VILE} {MONSTER} keeps {MOAN}ing as his {COCK} spills {CUM} into her {WTANAL} {ASSHOLE}.",
+        "{PRIMARY} {SLOW}ly pumps against the {MONSTER}'s {COCK}, spreading his {CUM} inside her.",
+        "How many times has the {ACTIVE} cum inside her now?",
+        "Just when {PRIMARY} thinks she can't stand it any more he starts {EJACULATE}ing his {CUM} into her.",
+        "The {MONSTER}'s {THICK} {CUM} squelches out her {ASSHOLE}, dripping down into her {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} {FUCK}s her {ROUGH}ly, the sloppy noises of {CUM} splattering her {ASSHOLE} can be heard.",
+        "It's finally {EJACULATE}ing... But how many of its friends are waiting in the shadows for their turn?"
+    ]
+}

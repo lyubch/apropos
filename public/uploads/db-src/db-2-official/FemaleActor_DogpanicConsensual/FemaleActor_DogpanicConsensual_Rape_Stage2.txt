@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "I reach back, making sure his {PENIS} enters the right {OPENING}, this would hurt even more in the {ASS}...",
+        "I start to flick my clit, trying to make myself wetter so that this rough fuck doesn't hurt as much.",
+        "I cry out in shock as {ACTIVE} jams its {BEAST} {PENIS} inside my {WTVAGINAL} {PUSSY}.",
+        "Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off me now!",
+        "Oh my goodness, I'm being raped by a dog! Oh oh fuck! Oh it's too big! Ow ow ow ow! Pleeeeassse get off me!"  
+    ],
+    "2nd Person" :
+    [
+        "You reach back, making sure his {PENIS} enters the right {OPENING}, this would hurt even more in the {ASS}...",
+        "You start to flick your clit, trying to make yourself wetter so that this rough fuck doesn't hurt as much.",
+        "You cry out in shock as {ACTIVE} jams its {BEAST} {PENIS} inside your {WTVAGINAL} {PUSSY}.",
+        "({PRIMARY}) Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off you now!",
+        "({PRIMARY}) Oh Gods, I'm being raped by a dog! Oh fuck! Oh it's too big! Ow ow ow! Pleeeeassse get off me!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} reaches back between her legs. Is she trying to stop {ACTIVE}, or help him?",
+        "Suddenly, {ACTIVE} lurches forward, his {BEAST} {PENIS} going straight up {PRIMARY}."
+    ]
+}

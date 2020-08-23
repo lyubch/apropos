@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "The beast has his entire weight on me now, driving deep into my {ASS} as it unloads.",
+        "Deep gurgling sounds emanate from my tummy as my bowels are filled.",
+        "I lose track of time as I languidly pump against the monster's {COCK}, my {ASS} eagerly slurping {CUM}.",
+        "I don't even know how many times it's cum inside me.",
+        "After what seems like hours of forceful penetration, I can't hold back any more, an orgasm exploding in me.",
+        "Rivers of {CUM} flow down my legs. How much more {CUM} do I have to take?",
+        "My eyes bulge and I let out a cry as I feel it pump load after load of demonic {CUM} into me.",
+        "I swoon, belly swelling as the demon's orgasm fills me with an unnatural quantity of {THICK} {CUM}.",
+        "I'm dripping sweat and monstrous {CUM} from the murderous fuck.",
+        "The demon's {THICK}, black {CUM} begins to spew forth inside my desecrated body.",
+        "The beast thrusts in deep, driving my face into the ground, screaming as the {ACTIVE} cums."
+    ],
+    "2nd Person": [
+        "The beast has his entire weight on you now, driving deep into your {ASS} as it unloads.",
+        "Deep gurgling sounds emanate from your tummy as your bowels are filled.",
+        "You lose track of time as you languidly pump against the monster's {COCK}, your {ASS} eagerly slurping {CUM}.",
+        "You don't even know how many times it's cum inside you.",
+        "After what seems like hours of forceful penetration, you can't hold back, an orgasm exploding in you.",
+        "Rivers of {CUM} flow down your legs. How much more {CUM} do you have to take?",
+        "Your eyes bulge and you let out a cry as you feel it pump load after load of demonic {CUM} into you.",
+        "You swoon, belly swelling as the demon's orgasm fills you with an unnatural quantity of {THICK} {CUM}.",
+        "You're dripping sweat and monstrous {CUM} from the murderous fuck.",
+        "The demon's {THICK}, black {CUM} begins to spew forth inside your desecrated body.",
+        "The beast thrusts in deep, driving your face into the ground, screaming as the {ACTIVE} cums."
+    ],
+    "3rd Person": [
+        "The beast has his entire weight on {PRIMARY} now, driving deep into her {ASS} as it unloads.",
+        "Deep gurgling sounds emanate from {PRIMARY}'s tummy as her bowels are filled.",
+        "{PRIMARY} languidly pumps against the monster's {COCK}, her {ASS} eagerly slurping {CUM}.",
+        "How many times has the {ACTIVE} cum inside her now?",
+        "After what seems like hours of forceful penetration, {PRIMARY} can't hold back, an orgasm exploding in her.",
+        "Rivers of {CUM} flow down {PRIMARY}'s legs. How much more {CUM} does she have to take?",
+        "{PRIMARY}'s eyes bulge and she lets out a cry as it pumps load after load of demonic {CUM} into her.",
+        "{PRIMARY} swoons, belly swelling as the demon's orgasm fills her with an unnatural quantity of {THICK} {CUM}.",
+        "{PRIMARY}'s dripping sweat and monstrous {CUM} from the murderous fuck.",
+        "The demon's {THICK}, black {CUM} begins to spew forth inside {PRIMARY}'s desecrated body.",
+        "The beast thrusts in deep, driving {PRIMARY}'s face into the ground, screaming as the {ACTIVE} cums."
+    ]
+}

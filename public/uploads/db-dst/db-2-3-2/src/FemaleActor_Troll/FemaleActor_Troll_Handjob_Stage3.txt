@@ -1,0 +1,15 @@
+{
+    "1st Person": [
+        "The {ACTIVE}'s grunts drive me onward. My head swirls with {LUST} and {LOVE}.",
+        "My {PUSSY} is {WET} with {CREAM}. Having such control over a {MONSTER} makes me incredibly {HORNY}.",
+        "I'm hypnotized by the swaying motion of the {BEASTLY} {BEASTCOCK} in my hand."
+    ],
+    "2nd Person": [
+        "The {ACTIVE}'s grunts drive you onward. Your head swirls with {LUST} and {LOVE}.",
+        "Your {PUSSY} is {WET} with {CREAM}. Having such control over a {MONSTER} makes you incredibly {HORNY}.",
+        "You're hypnotized by the swaying motion of the {BEASTLY} {BEASTCOCK} in your hand."
+    ],
+    "3rd Person": [
+        ""
+    ]
+}

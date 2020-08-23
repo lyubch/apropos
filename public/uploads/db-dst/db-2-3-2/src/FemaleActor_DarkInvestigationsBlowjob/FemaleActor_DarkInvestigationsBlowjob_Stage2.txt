@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "I look up briefly, my eyes pleading with {ACTIVE}, before he pulls my head down onto his {COCK}.",
+        "I will my throat to relax as {ACTIVE} pulls me down onto his {SALTY} {COCK}.",
+        "I brace myself against {ACTIVE}'s thigh as his {SALTY} {COCK} pushes to the back of my throat.",
+        "Timidly, I open my {MOUTH} and let {ACTIVE} control me, {GENTLE}ly pumping into my throat.",
+        "My heart is racing as {ACTIVE} guides me, and begins pumping into my {MOUTH}.",
+        "{ACTIVE}'s steady thrusts hit the back of my throat, each strike pushing a little deeper.",
+        "I strain to {ACCEPT} {ACTIVE}'s {COCK} in my {MOUTH}.",
+        "Tentatively I lean forward and {ACCEPT} {ACTIVE}'s {COCK} in my {MOUTH}.",
+        "His {COCK} is {TASTY}... My heart pounding, I open my {MOUTH} wide and {ACCEPT} it all in.",
+        "Urgh... His {COCK} is {TASTY}! I scrunch my eyes shut and begin to {SUCK} at the {VILE} {COCK}.",
+        "({ACTIVE}) Come on, {BITCH}, take it all the way to the base!"
+    ],
+    "2nd Person": [
+        "You look up briefly, your eyes pleading with {ACTIVE}, before he pulls your head down onto his {COCK}.",
+        "You will your throat to relax as {ACTIVE} pulls you down onto his {SALTY} {COCK}.",
+        "You brace yourself against {ACTIVE}'s thigh as his {SALTY} {COCK} pushes to the back of your throat.",
+        "Timidly, you open your {MOUTH} and let {ACTIVE} control you, {GENTLE}ly pumping into your throat.",
+        "Your heart is racing as {ACTIVE} guides you, and begins pumping into your {MOUTH}.",
+        "{ACTIVE}'s steady thrusts hit the back of your throat, each strike pushing a little deeper.",
+        "You strain to {ACCEPT} {ACTIVE}'s {COCK} in your {MOUTH}.",
+        "Tentatively you lean forward and {ACCEPT} {ACTIVE}'s {COCK} in your {MOUTH}.",
+        "His {COCK} is {TASTY}... Your heart pounding, you open your {MOUTH} wide and {ACCEPT} it all in.",
+        "Urgh... His {COCK} is {TASTY}! You scrunch your eyes shut and begin to {SUCK} at the {VILE} {COCK}.",
+        "({ACTIVE}) Come on, {BITCH}, take it all the way to the base!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} looks up at {ACTIVE}, {ACCEPTING}ly opening her {MOUTH} as he guides her onto his {COCK}.",
+        "{PRIMARY} puts one hand up on {ACTIVE}'s thigh. Is he trying to go too deep for her?",
+        "The tension in {PRIMARY}'s shoulders is clear. {ACTIVE}'s {COCK} must be down her throat...",
+        "It's unbelievable that {PRIMARY} is taking so much of that {HUGE} {COCK} into her {MOUTH}!"
+    ]
+}

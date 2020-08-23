@@ -1,0 +1,15 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE}'s {BOOBS} look good, I have to admit, although I think mine are better.",
+        "If I was {ACTIVE}, I'd be topless all the time. I'm so envious of her {BOOBS}."
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

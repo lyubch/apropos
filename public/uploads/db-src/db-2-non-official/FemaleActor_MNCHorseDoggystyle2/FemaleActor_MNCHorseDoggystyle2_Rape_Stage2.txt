@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "Ugh! It's so {HUGE}... I grab on with both hands, struggling to stand up on {QUIVER}ing knees.",
+        "Ah... ah... maybe if I fuck back, it won't? AAHHH! {SWEARING}.... maybe not...",
+        "The {BEASTLY} {COCKHEAD} now past my {ASSHOLE}, I start painfully pushing back along the {BEASTLY} {COCK}.",
+        "My heart is in my throat every time the {ACTIVE} thrusts...",
+        "I grip tightly to the {ANIMAL}'s leg, filling with {FEAR} at each thrust."
+    ],
+    "2nd Person": [
+        "Ugh! It's so {HUGE}... You grab on with both hands, struggling to stand up on {QUIVER}ing knees.",
+        "Ah... ah... maybe if you fuck back, it won't? AAHHH! {SWEARING}.... maybe not...",
+        "The {BEASTLY} {COCKHEAD} now past your {ASSHOLE}, you start painfully pushing back along the {BEASTLY} {COCK}.",
+        "Your heart is in your throat every time the {ACTIVE} thrusts...",
+        "You grip tightly to the {ANIMAL}'s leg, filling with {FEAR} at each thrust."
+    ],
+    "3rd Person": [
+        "Ugh! It's so {HUGE}... {PRIMARY} grabs on with both hands, struggling to stand up on {QUIVER}ing knees.",
+        "Ah... ah... maybe if {PRIMARY} fucks back, it won't? AAHHH! {SWEARING}.... maybe not...",
+        "The {BEASTLY} {COCKHEAD} now past {PRIMARY}'s {ASSHOLE}, she starts painfully pushing back along the {BEASTLY} {COCK}.",
+        "{PRIMARY}'s heart is in her throat every time the {ACTIVE} thrusts...",
+        "{PRIMARY} grips tightly to the {ANIMAL}'s leg, filling with {FEAR} at each thrust."
+    ]
+}

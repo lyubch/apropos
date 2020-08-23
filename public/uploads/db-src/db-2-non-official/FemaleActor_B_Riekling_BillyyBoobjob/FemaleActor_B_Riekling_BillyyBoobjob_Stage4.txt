@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "Are you getting close? Come on then, drench my {BOOBS} with your {CUM}!",
+        "I notice {ACTIVE} getting tense and realize he is ready to burst all over me. I start {WANK}ing him fast and tight...",
+        "I rapidly rock its {BEASTCOCK} with my {BOOBS} like a {BITCH} knowing its about to coat me with its {CUM}."
+    ],
+    "2nd Person": [
+        "({PRIMARY}) Are you getting close? Come on then, drench my {BOOBS} with your {CUM}!",
+        "You notice {ACTIVE} getting tense and realize he is ready to burst all over you. You start {WANK}ing him fast and tight...",
+        "You rapidly rock its {BEASTCOCK} with your {BOOBS} like a {BITCH} knowing its about to coat you with its {CUM}."
+    ],
+    "3rd Person": [
+        "({PRIMARY}) Are you getting close? Come on then, drench my {BOOBS} with your {CUM}!",
+        "{PRIMARY} notices {ACTIVE} getting tense and realize he is ready to burst all over her. She starts {WANK}ing him fast and tight...",
+        "{PRIMARY} rapidly rocks its {BEASTCOCK} with her {BOOBS} like a {BITCH} knowing its about to coat her with its {CUM}."
+    ]
+}

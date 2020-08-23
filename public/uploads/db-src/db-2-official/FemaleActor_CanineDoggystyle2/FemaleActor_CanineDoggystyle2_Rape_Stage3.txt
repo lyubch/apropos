@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "I struggle, the pain overcoming my fear as I try to rise and get away.",
+        "My whole body reacts as more and more {BEAST} {PENIS} pushes into my {WTANAL} {ASS}.",
+        "Oh Gods, I can feel his knot at my {ASS}... He can't be trying to... Nghhhh!!",
+        "{ACTIVE}'s balls feel so heavy as they slap against my {PUSSY}.",
+        "My bruised hips get a break when {ACTIVE} drops his feet to the ground, but my {ASS} isn't so lucky.",
+        "I try in vain to push myself up, but the weight of the horny brute keeps me pinned down."        
+    ],
+    "2nd Person" :
+    [
+        "You struggle, the pain overcoming your fear as you try to rise and get away.",
+        "Your whole body reacts as more and more {BEAST} {PENIS} pushes into your {WTANAL} {ASS}.",
+        "Oh Gods, you can feel his knot at your {ASS}... He can't be trying to... Nghhhh!!",
+        "{ACTIVE}'s balls feel so heavy as they slap against your {PUSSY}.",
+        "Your bruised hips get a break when {ACTIVE} drops his feet to the ground, but your {ASS} isn't so lucky.",
+        "You try in vain to push yourself up, but the weight of the horny brute keeps you pinned down."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} struggles desperately, but {ACTIVE} remains over her, snarling as he fucks her.",
+        "{PRIMARY} seems to be trying to break free. IS that a good idea? Maybe she should just let {ACTIVE} finish."
+    ]
+}

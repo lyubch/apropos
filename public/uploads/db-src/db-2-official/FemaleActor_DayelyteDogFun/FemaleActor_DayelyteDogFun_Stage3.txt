@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "I plant both hands on {ACTIVE}'s chest and push myself up off his {PENIS} before screwing myself back down.",
+        "I twist my hips eagerly as I push myself down, feeling his {BEAST} {PENIS} touch every part of me.",
+        "I decide to slow the pace, and relish the feel of every inch of {ACTIVE}'s {BEAST} dog-{COCK}.",
+        "My toes are spread, digging into the ground as I work my whole body up and down on {ACTIVE}'s {PENIS}.",
+        "I shouldn't be doing this. But I am. It's so wrong that it's perfect.",
+        "This dog cock is so strangely shaped, hitting my insides in amazing new places...",
+        "It's such a depraved thing to do, and I flush with excitement.",
+        "I'm committing bestiality... Am I really into that sick stuff?"        
+    ],
+    "2nd Person" :
+    [
+        "You plant both hands on {ACTIVE}'s chest and push yourself up off his {PENIS} before screwing back down.",
+        "You twist your hips eagerly as you push yourself down, feeling his {BEAST} {PENIS} touch every part of you.",
+        "You decide to slow the pace, and relish the feel of every inch of {ACTIVE}'s {BEAST} dog-{COCK}.",
+        "Your toes are spread, digging into the ground as you work your whole body up and down on {ACTIVE}'s {PENIS}.",
+        "You shouldn't be doing this. But you are. It's so wrong that it's perfect.",
+        "This dog cock is so strangely shaped, hitting your insides in amazing new places...",
+        "It's such a depraved thing to do, and you flush with excitement.",
+        "You're committing bestiality... Are you really into that sick stuff?"
+    ],
+    "3rd Person" :
+    [
+        "Wow, she's getting his {PENIS} so far up inside her! That must feel really good...",
+        "{PRIMARY}'s legs strain and her toes spread as she lifts herself up, before screwing lewdly back down.",
+        "It's almost as if {PRIMARY} is showing off her fucked {PUSSY}, letting everyone know what a {WHORE} she is.",
+        "{PRIMARY} sways and twists her hips from side to side as she pushes down onto {ACTIVE}."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "1st Person" :
+    [
+        "Mmmmmm! I bite his lip {GENTLE}ly as I feel his {COCK} spurt {THICK} {CUM} right past my {PUSSY}.",
+        "My heart jumps as I feel his {COCK} {QUIVER}, jets of {THICK} {CUM} just inches from my {PUSSY}.",
+        "I'd be disappointed that he's {EJACULATE}ed already, but the feeling was just so thrilling!",
+        "I {MOAN} into {ACTIVE}'s mouth as I feel his {THICK} {CUM} splatter all over my {BUTTOCKS}."
+    ],
+    "2nd Person" :
+    [
+        "Mmmmmm! You bite his lip {GENTLE}ly as you feel his {COCK} spurt {THICK} {CUM} right past your {PUSSY}.",
+        "Your heart jumps as you feel his {COCK} {QUIVER}, jets of {THICK} {CUM} just inches from your {PUSSY}.",
+        "You'd be disappointed that he's {EJACULATE}ed already, but the feeling was just so thrilling!",
+        "You {MOAN} into {ACTIVE}'s mouth as you feel his {THICK} {CUM} splatter all over your {BUTTOCKS}."
+    ],
+    "3rd Person" :
+    [
+        "Wow, {PRIMARY} must be a really good kisser to make a man cum just from that!",
+        "It's a little disappointing to see {ACTIVE} cum, wouldn't it have been better inside {PRIMARY}?",
+        "{PRIMARY} continues kissing {ACTIVE} deeply as his {THICK} {CUM} rains down on her back."
+    ]
+}

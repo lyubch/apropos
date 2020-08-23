@@ -1,0 +1,28 @@
+{
+    "1st Person": [
+        "I'm roughly pushed to the ground, and I kick wildly as I feel the {ACTIVE} start to fuck me.",
+        "I try to struggle free, but the {ACTIVE} just lifts up my hips and fucks me hard.",
+        "The {ACTIVE} pushes me to the filthy ground, and fucks me like a dog.",
+        "Next thing I know, I'm on my knees, and this bastard is dogging me like a mongrel.",
+        "({ACTIVE}) Stop fighting, we both know how this ends; with you squealing on the end of my {COCK}.",
+        "I don't even try to resist this time, and let him push his {HUGE} {PENIS} into my {PUSSY}.",
+        "All illusions of gentility are soon ended by a thrust that delves greedily and deeply into my {PUSSY}.",
+        "I cringe as my {PUSSY}, still puffy and slick with {CUM} from my last fucking, is penetrated roughly."
+    ],
+    "2nd Person": [
+        "You're roughly pushed to the ground, and you kick wildly as you feel the {ACTIVE} start to fuck you.",
+        "You try to struggle free, but the {ACTIVE} just lifts up your hips and fucks you hard.",
+        "The {ACTIVE} pushes you to the filthy ground, and fucks you like a dog.",
+        "Next thing you know, you're on your knees, and this bastard is dogging you like a mongrel.",
+        "({ACTIVE}) Stop fighting, we both know how this ends; with you squealing on the end of my {COCK}.",
+        "You don't even try to resist this time, and let him push his {HUGE} {PENIS} into your {PUSSY}.",
+        "All illusions of gentility are soon ended by a thrust that delves greedily and deeply into your {PUSSY}.",
+        "You cringe as your {PUSSY}, still puffy and slick with {CUM} from my last fucking, is penetrated roughly."
+    ],
+    "3rd Person": [
+        "{PRIMARY} screams and struggles, but it's no use, and the {ACTIVE}'s {PENIS} is soon in her {PUSSY}.",
+        "{PRIMARY}'s feet kick wildly as the {ACTIVE} forces his {HUGE} {PENIS} between her legs.",
+        "The {ACTIVE} is really rough with {PRIMARY}, hammering her {PUSSY} like he wants to hurt her.",
+        "This is what happens to young girls who get caught by big, violent men..."
+    ]
+}

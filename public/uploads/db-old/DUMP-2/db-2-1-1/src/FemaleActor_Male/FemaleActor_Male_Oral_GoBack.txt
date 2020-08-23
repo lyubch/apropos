@@ -1,0 +1,14 @@
+{
+    "1st Person" :
+    [
+        "Он хочет {FUCK} мой {FAROUSAL}ый ротик еще!"
+    ],
+    "2nd Person" :
+    [
+        "Он хочет {FUCK} твой {FAROUSAL}ый ротик еще!"
+    ],
+    "3rd Person" :
+    [
+        "Он хочет {FUCK} ее {FAROUSAL}ый ротик еще!"
+    ]
+}

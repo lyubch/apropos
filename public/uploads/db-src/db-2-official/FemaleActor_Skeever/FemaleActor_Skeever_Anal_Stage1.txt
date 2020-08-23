@@ -1,0 +1,42 @@
+{
+    "1st Person" :
+    [
+        "Dropping to hands and knees, I feel the {ACTIVE}'s front legs across my shoulders as I am mounted.",
+        "A {BEAST} {COCK} is pressed against my {ASS}, grinding between my cheeks with urgency.",
+        "The rodent mounts me, and begins humping my ass. My head whips back and I shriek as it hits its mark.",
+        "I remove my clothing and drop to all fours and timidly present my back end.",
+        "I drop naked to the ground, wagging my backside, mimicking what I think such a rodent would do.",
+        "I drop down to my hands and knees, and feel pawing at my rear as the {ACTIVE} moves to mount me.",
+        "I assume the position, and feel the {ACTIVE} pawing at my backside. This is it...",
+        "Arching my back, I let the {ACTIVE} climb onto me and take me in the {ASS}.",
+        "My heart races as I drop to the ground, signalling my submission to {ACTIVE}. I feel like a {WHORE}.",
+        "I can't believe I'm about to let a {ACTIVE} fuck my {ASS}, but I'm excited at the prospect.",
+        "There's no way I should take animal-{CUM} in my {PUSSY}, but maybe in the {ASS} would be okay?",
+        "Having sex with a {ACTIVE} is depraved, but taking one in the {ASS}? I have to try it!"
+    ],
+    "2nd Person" :
+    [
+        "Dropping to hands and knees, you feel the {ACTIVE}'s front legs across your shoulders as you are mounted.",
+        "A {BEAST} {COCK} is pressed against your {ASS}, grinding between your cheeks with urgency.",
+        "The rodent mounts you, and begins humping your ass. Your head whips back and you shriek as it hits its mark.",
+        "You remove your clothing and drop to all fours and timidly present your back end.",
+        "You drop naked to the ground, wagging your backside, mimicking what you think such a rodent would do.",
+        "You drop down to your hands and knees, and feel pawing at your rear as the {ACTIVE} moves to mount you.",
+        "You assume the position, and feel the {ACTIVE} pawing at your backside. This is it...",
+        "Arching your back, you let the {ACTIVE} climb onto you and take you in the {ASS}.",
+        "Your heart races as you drop to the ground, signalling your submission to {ACTIVE}. You feel like a {WHORE}.",
+        "You can't believe you're about to let a {ACTIVE} fuck your {ASS}, but you're excited at the prospect.",
+        "There's no way you should take animal-{CUM} in your {PUSSY}, but maybe in the {ASS} would be okay?",
+        "Having sex with a {ACTIVE} is depraved, but taking one in the {ASS}? You have to try it!"
+    ],
+    "3rd Person" :
+    [
+        "Dropping to hands and knees, {PRIMARY} feels the {ACTIVE}'s front legs across her shoulders as she's mounted.",
+        "A {BEAST} {COCK} is pressed against {PRIMARY}'s {ASS}, grinding between her cheeks with urgency.",
+        "The rodent mounts {PRIMARY}, and begins humping her ass. She shrieks as it hits its mark.",
+        "{PRIMARY} removes her clothing and drop to all fours and timidly present her back end.",
+        "{PRIMARY} drops naked to the ground, wagging her backside, mimicking what such a rodent would do.",
+        "{PRIMARY} drops down to her hands and knees, and feels pawing at her rear as the {ACTIVE} moves to mount her.",
+        "{PRIMARY} assumes the position, and feels the {ACTIVE} pawing at her backside. This is it..."
+    ]
+}

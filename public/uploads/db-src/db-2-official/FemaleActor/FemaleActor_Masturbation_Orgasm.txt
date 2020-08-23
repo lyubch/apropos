@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "My toes curl painfully and my whole body convulses as I pleasure myself to orgasm.",
+        "My fingers piston deeply into my {FAROUSAL} {PUSSY}, as I finger fuck myself to climax.",
+        "I draw in a sharp breath and hold it. My pelvis spasms and thrusts against my fingers.",
+        "To anyone paying attention, it's obvious that the naked girl writhing on the floor is cumming, hard.",
+        "My body shakes violently, driven to one thunderous climax after another.",
+        "I feel my breath catch in my chest, and my heart pounds so hard I think I'm going to die.",
+        "My vision fails me, and everything burns white as my exhausted body shakes in climax.",
+        "My orgasm erupts violently, my clit painfully sensitive as my fingers continue their assault.",
+        "My eyes roll back into my head, my toes curl and my free hand clenches painfully as I cum.",
+        "The whole world goes silent, just before I hear my own cries rip out of my throat."
+    ],
+    "2nd Person": [
+        "Your toes curl painfully and your whole body convulses as you pleasure yourself to orgasm.",
+        "Your fingers piston deeply into your {FAROUSAL} {PUSSY}, as you finger fuck yourself to climax.",
+        "You draw in a sharp breath and hold it. Your pelvis spasms and thrusts against your fingers.",
+        "To anyone paying attention, it's obvious that the naked girl writhing on the floor is cumming, hard.",
+        "Your body shakes violently, driven to one thunderous climax after another.",
+        "You feel your breath catch in your chest, and your heart pounds so hard you think you're going to die.",
+        "Your vision fails you, and everything burns white as your exhausted body shakes in climax.",
+        "Your orgasm erupts violently, your clit painfully sensitive as your fingers continue their assault.",
+        "Your eyes roll back into your head, your toes curl and your free hand clenches painfully as you cum.",
+        "The whole world goes silent, just before you hear your own cries rip out of your throat."
+    ],
+    "3rd Person": [
+        "Her toes curl and her whole body convulses as she pleasures herself to orgasm.",
+        "Her fingers piston deeply into her {FAROUSAL} {PUSSY}, as she finger fucks herself to climax.",
+        "{PRIMARY} draws in a sharp breath and holds it. Her pelvis spasms and thrusts against her fingers.",
+        "To anyone paying attention, it's obvious that the naked girl writhing on the floor is cumming, hard.",
+        "{PRIMARY}'s body shakes violently, driven to one thunderous climax after another.",
+        "Breath is held as {PRIMARY} starts to convulse, seemingly in time to a thunderous heartbeat.",
+        "Her eyes roll back, and her head falls limp as her exhausted body shakes in climax.",
+        "Her orgasm erupts violently, her clit pulling away as her fingers continue their assault.",
+        "Her eyes roll back into her head, her toes curl and her free hand clenches as she cums.",
+        "The whole world seems to go silent, just before {PRIMARY}'s cries rip out of her throat."
+    ]
+}

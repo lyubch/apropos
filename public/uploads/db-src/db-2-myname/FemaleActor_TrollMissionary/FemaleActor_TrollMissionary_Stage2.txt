@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} thunders into my {PUSSY}. It's intense, and I quickly start to feel familiar heat rising inside me.",
+        "Ngh! Ah! Oh Gods, its {BEAST} {COCK} is... and its chest is so broad... Trolls really are the best lovers!",
+        "Terror and excitement compete in my head, as the hulking brute hunched over me drives me to madness.",
+        "The {BEAST} {COCK} forces my pulsating clit out to rub against coarse hair, driving my wild.",
+        "Hot spittle drips onto my flesh as the {ACTIVE} ruts me hard and fast.",
+        "Yes, yes! Harder, deeper! Oh Gods yes!",
+        "The beast howls as my {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEAST} {COCK}.",
+        "The odor is incredibly strong, its musk is as thick as the {ACTIVE}'s {COCK} itself."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} thunders into your {PUSSY}. It's intense, and you quickly start to feel familiar heat rising inside you.",
+        "Ngh! Ah! Oh Gods, its {BEAST} {COCK} is... and its chest is so broad... Trolls really are the best lovers!",
+        "Terror and excitement compete in your head, as the hulking brute hunched over you drives you to madness.",
+        "The {BEAST} {COCK} forces your pulsating clit out to rub against coarse hair, driving your wild.",
+        "Hot spittle drips onto your flesh as the {ACTIVE} ruts you hard and fast.",
+        "({PRIMARY}) Yes, yes! Harder, deeper! Oh Gods yes!",
+        "The beast howls as your {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEAST} {COCK}.",
+        "The odor is incredibly strong, its musk is as thick as the {ACTIVE}'s {COCK} itself." 
+    ],
+    "3rd Person" :
+    [
+        "Hot spittle drips onto {PRIMARY}'s face and chest as the {ACTIVE} ruts hard and fast.",
+        "The creature starts to roughly fuck {PRIMARY}, like a wild animal taking a mate.",
+        "The {ACTIVE} thunders into {PRIMARY}'s {PUSSY}. Her cries are pained, but becoming increasingly sensual."
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "Clutching my waist in one massive clawed hand, the {ACTIVE} continues to pump me up and down on its {COCK}.",
+        "I feel giddy every time I reach the bottom, with over a foot of troll-{COCK} inside me, its head punching my womb.",
+        "I {MOAN} every time the {BEASTLY} {COCK} bottom out in my {FAROUSAL} {PUSSY}, spreading me obscenely, wonderfully.",
+        "Yes... in all the way... I can take it... I want it...",
+        "The {ACTIVE} grunts as it tries to {FUCK} his whole {COCK} into me, pounding my cervix.",
+        "I clench my teeth and concentrate on my building orgasm, revelling in every inch of {COCK} that {FUCK}s into me.",
+        "The {MONSTER} {FUCK}s itself into me again and again, and the more I {MOAN} and gasp the more {HORNY} it seems to get."
+    ],
+    "2nd Person" :
+    [
+        "Clutching your waist in one massive clawed hand, the {ACTIVE} continues to pump you up and down on its {COCK}.",
+        "You feel giddy every time you reach the bottom, with over a foot of troll-{COCK} inside you, its head punching your womb.",
+        "You {MOAN} every time the {BEASTLY} {COCK} bottom out in your {FAROUSAL} {PUSSY}, spreading you obscenely, wonderfully.",
+        "({PRIMARY}) Yes... in all the way... I can take it... I want it...",
+        "The {ACTIVE} grunts as it tries to {FUCK} his whole {COCK} into you, pounding your cervix.",
+        "You clench your teeth and concentrate on your building orgasm, revelling in every inch of {COCK} that pounds into you.",
+        "The {MONSTER} {FUCK}s itself into you again and again, and the more you {MOAN} and gasp the more {HORNY} it seems to get."
+    ],
+    "3rd Person" :
+    [
+        "Clutching {PRIMARY}'s waist in one massive clawed hand, the {ACTIVE} continues to pump her up and down on its {COCK}.",
+        "{PRIMARY} {MOAN}s every time the {BEASTLY} {COCK} bottoms out in her {WTVAGINAL} {PUSSY}, spreading it {LEWD}ly.",
+        "The {MONSTER} {FUCK}s itself into {PRIMARY} again and again, and the more she {MOAN}s the more {HORNY} it seems to get."
+    ]
+}

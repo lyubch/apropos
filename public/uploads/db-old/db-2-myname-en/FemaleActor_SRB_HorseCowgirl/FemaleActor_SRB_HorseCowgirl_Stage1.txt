@@ -1,0 +1,24 @@
+{
+    "1st Person": [
+        "I run my hand along the length of his {COCK}, marvelling at the size of it. I wonder... could I take it all?",
+        "I shiver with barely suppressed lust as the {ACTIVE}'s {COCK} hardens in my hand... I want it inside me...",
+        "Oh Gods! The smell just makes me want to go wild! Maybe I'll decide after I fondle him a little...",
+        "I feel my {PUSSY} twitching as the {ACTIVE}'s {COCK} throbs in my hand, gradually extending to a dizzying length...",
+        "I can't even get my hand all the way around it... will this even fit in my {PUSSY}?",
+        "My heart flutters with anticipation as I jerk the {ACTIVE} to full hardness... I can't wait to take him inside me...",
+        "I feel some {CREAM} trickle down my thigh as I pump my hand up and down his {COCK}... it's so big..."
+    ],
+    "2nd Person": [
+        "You run your hand along the length of his {COCK}, marvelling at the size of it. You wonder... could you take it all?",
+        "You shiver with barely suppressed lust as the {ACTIVE}'s {COCK} hardens in your hand... You want it inside you...",
+        "Oh Gods! The smell just makes you want to go wild! Maybe you'll decide after you fondle him a little...",
+        "You feel your {PUSSY} twitching as the {ACTIVE}'s {COCK} throbs in your hand, gradually extending to a dizzying length...",
+        "You can't even get your hand all the way around it... will this even fit in your {PUSSY}?",
+        "Your heart flutters with anticipation as you jerk the {ACTIVE} to full hardness... You can't wait to take him inside you...",
+        "You feel some {CREAM} trickle down your thigh as you pump your hand up and down his {COCK}... it's so big..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} easily coaxes the horse's {COCK} from its sheath, stroking it to it's full, throbbing length.",
+        "With the horse on its side, the full length of its {BEAST} {COCK} is exposed to {PRIMARY} hands."
+    ]
+}

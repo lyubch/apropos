@@ -1,0 +1,30 @@
+{
+    "1st Person": [
+        "The {ACTIVE} climaxes into me painfully, but with him inside me I can only thrash along his length.",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes me over the edge, and I explode into orgasm.",
+        "{SWEARING}! Ahhh! I'm cumming as I'm being filled up!",
+        "My muscles burning, I jerk my hips backwards, fighting exhaustion to finally reach my climax.",
+        "Ugh... {SWEARING}... I'm being {FUCK}ed too hard, and I cum.",
+        "Ugh... ahhh... no.... at this rate... it's gonna make me... {SWEARING}... nnnnnnnnnnnnn... AAAAHHHH!",
+        "I pull my legs wider, allowing the {ACTIVE} to get deeper and deeper into my {PUSSY}, and I cum hard.",
+        "{SWEARING}! Nghhh! Ahhh! Ahh...!"
+    ],
+    "2nd Person": [
+        "The {ACTIVE} climaxes into you painfully, but with him inside you you can only thrash along his length.",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes you over the edge, and you explode into orgasm.",
+        "{SWEARING}! Ahhh! You're cumming as you're being filled up!'",
+        "Your muscles burning, you jerk your hips backwards, fighting exhaustion to finally reach your climax.",
+        "Ugh... {SWEARING}... You're being {FUCK}ed too hard, and you cum.",
+        "({PRIMARY}) Ugh... ahhh... no.... at this rate... it's gonna make me... {SWEARING}... nnnnnnnnnn... AAAAHHHH!'",
+        "You pull your legs wider, allowing the {ACTIVE} to get deeper and deeper into your {PUSSY}, and you cum hard.",
+        "({PRIMARY}) {SWEARING}! Ngh! Ahhh! Ahh!"
+    ],
+    "3rd Person": [
+        "The {ACTIVE} climaxes into {PRIMARY} painfully, but with him inside her she can only thrash along his length.",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes {PRIMARY} over the edge, and she explodes into orgasm.",
+        "{SWEARING}! Ahhh! {PRIMARY}'s cumming as I'm being filled up!",
+        "Her muscles burning, {PRIMARY} jerks her hips backwards, fighting exhaustion to finally reach her climax.",
+        "Ugh... {SWEARING}... {PRIMARY}'s being {FUCK}ed too hard, and she cums.",
+        "({PRIMARY}) Ugh... ahhh... no.... at this rate... it's gonna make me... {SWEARING}... nnnnnnnnnn... AAAAHHHH!"
+    ]
+}

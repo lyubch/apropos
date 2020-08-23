@@ -1,0 +1,21 @@
+{
+    "1st Person" :
+    [
+        "Oh Gods, there's so much! I gulp down mouthfuls of {VILE} dog-{CUM}, ashamed of myself.",
+        "{ACTIVE}'s {BEAST} knot pulses in my hand, as he squirts a steady stream of {CUM} into my {MOUTH}.",
+        "Oh my goodness, won't he ever stop {CUMMING}? I can't help but wonder what this would be like in my {PUSSY}.",
+        "I swallow as fast as I can, but rivers of {VILE} {CUM} spill from my mouth down my neck and {BOOBS}."
+    ],
+    "2nd Person" :
+    [
+        "Oh Gods, there's so much! You gulp down mouthfuls of {VILE} dog-{CUM}, ashamed of yourself.",
+        "{ACTIVE}'s {BEAST} knot pulses in your hand, as he squirts a steady stream of {CUM} into your {MOUTH}.",
+        "Oh my goodness, won't he ever stop {CUMMING}? You wonder what this would be like in your {PUSSY}.",
+        "You swallow as fast as you can, but {VILE} {CUM} spills from your mouth down your neck and {BOOBS}."
+    ],
+    "3rd Person" :
+    [
+        "Streams of {SLOPPY} {CUM} drip from {PRIMARY}'s mouth. Has she done enough?",
+        "{PRIMARY} holds on tight, eyes clenched as she gulps it down the dog's {CUM}."
+    ]
+}

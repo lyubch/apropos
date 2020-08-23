@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "At last the beast allows me to relax my sore legs, and I pant in relief...",
+        "My legs now hang limp in the creature's grip as it continues to pound deep into my {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} continues to batter its {COCK} against my cervix, and I hold my breath in fear and anticipation.",
+        "Oh Gods, how much {COCK} does it expect me to be able to take?",
+        "I can't hold back a moan at the intense pleasure at being filled with the creature's {BEAST} {COCK}.",
+        "The {BEAST} {COCK} stretches me with every terrible thrust."        
+    ],
+    "2nd Person" :
+    [
+        "At last the beast allows you to relax your sore legs, and you pant in relief...",
+        "Your legs now hang limp in the creature's grip as it continues to pound deep into your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} continues to batter its {COCK} against your cervix, and you hold your breath in fear and anticipation.",
+        "Oh Gods, how much {COCK} does it expect you to be able to take?",
+        "You can't hold back a moan at the intense pleasure at being filled with the creature's {BEAST} {COCK}.",
+        "The {BEAST} {COCK} stretches you with every terrible thrust."     
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s legs now hang limp in the creature's grip as it continues to pound deep into her {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} continues to batter its {COCK} into {PRIMARY}, so deep that it must be fucking her womb!",
+        "{PRIMARY} can't hold back a moan as she's filled with the creature's {BEAST} {COCK}."        
+    ]
+}

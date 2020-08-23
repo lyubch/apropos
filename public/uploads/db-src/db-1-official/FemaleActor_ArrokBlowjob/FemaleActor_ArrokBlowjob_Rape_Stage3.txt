@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "({ACTIVE}) Who would have guessed the Dragonborn would be such an expert cock-handler?",
+        "Oh Gods, this is all starting to get me wet! I hope no one notices...",
+        "He's starting to twitch. I need to time this right, I don't want to swallow this bastard's {CUM}!",
+        "He's almost there... A little more... Hopefully he cums before he decides to fuck me...",
+        "His {SALTY} {PENIS} is rock hard now, and a little part of me wants him inside.",
+        "The {ACTIVE}'s balls are getting tight now, and his {PENIS} feels red hot.",
+        "As I'm forced to suck {ACTIVE}'s {PENIS}, my body betrays me, my {PUSSY} becoming hot and wet.",
+        "My eyes water as I lick this bastard's {PENIS}, and it slides down my throat.",
+        "I find myself starting to get into it as I lick and slurp, humming with pleasure.",
+        "I'm so willing to please {ACTIVE} in the hopes that he will fuck me.",
+        "My secret inner {WHORE} hopes that they force me to fuck them all, doing all sorts of unimaginable things.",
+        "I do my best to suppress my gag reflex and shove forwards, ramming his {PENIS} as deeply as I can."
+    ],
+    "2nd Person": [
+        "({ACTIVE}) Who would have guessed the Dragonborn would be such an expert cock-handler?",
+        "Oh Gods, this is all starting to get you wet! You hope no one notices...",
+        "He's starting to twitch. You need to time this right, you don't want to swallow this bastard's {CUM}!",
+        "He's almost there... A little more... Hopefully he cums before he decides to fuck you...",
+        "His {SALTY} {PENIS} is rock hard now, and a little part of you wants him inside.",
+        "The {ACTIVE}'s balls are getting tight now, and his {PENIS} feels red hot.",
+        "As you're forced to suck {ACTIVE}'s {PENIS}, your body betrays you, your {PUSSY} becoming hot and wet.",
+        "Your eyes water as you lick this bastard's {PENIS}, and it slides down your throat.",
+        "You find yourself starting to get into it as you lick and slurp, humming with pleasure.",
+        "You're so willing to please {ACTIVE} in the hopes that he will fuck you.",
+        "Your secret inner {WHORE} hopes that they force you to fuck them all, doing all sorts of unimaginable things.",
+        "You do your best to suppress your gag reflex and shove forwards, ramming his {PENIS} as deeply as you can."
+    ],
+    "3rd Person": [
+        "Is the {ACTIVE} going to make {PRIMARY} swallow his cum? Or is he gonna coat her face?",
+        "{PRIMARY} continues her ministrations, clearly eager to have this bastard cum quickly.",
+        "{PRIMARY}'s face is contorted, the {ACTIVE}'s junk must taste revolting..."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "I stop moving, and let {PRIMARY} slowly pump back, stretching herself out.",
+        "{PRIMARY}'s head hangs limp, but her thighs keep pushing. Can she really take this?",
+        "{PRIMARY}'s {PUSSY} is straining at my knuckles. Any second now, they're going to pop inside."
+    ],
+    "2nd Person": [
+        "You stop moving, and let {PRIMARY} slowly pump back, stretching herself out.",
+        "{PRIMARY}'s head hangs limp, but her thighs keep pushing. Can she really take this?",
+        "{PRIMARY}'s {PUSSY} is straining at your knuckles. Any second now, they're going to pop inside."
+    ],
+    "3rd Person": [
+        "{PRIMARY} pumps her whole body against {ACTIVE}'s fist, straining her {FAROUSAL} {PUSSY} to take it all.",
+        "{ACTIVE} has stopped moving, letting {PRIMARY} work her body slowly onto his hand.",
+        "{PRIMARY}'s strength is already leaving her, and her head hangs limply back as tears fall from her eyes.",
+        "{PRIMARY} bites her lip to muffle the sounds of her screams as {ACTIVE} buries his hand to his wrist.",
+        "A moment of pain and his fist pops inside, lubricated by the {CUM} that seeps out.",
+        "{PRIMARY} lets out a gasp as the pressure between her legs increases."
+    ]
+}

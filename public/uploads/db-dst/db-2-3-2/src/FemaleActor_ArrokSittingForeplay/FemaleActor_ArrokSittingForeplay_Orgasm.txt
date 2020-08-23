@@ -1,0 +1,16 @@
+{
+    "1st Person": [
+        "It's such a rush to look into a man's eyes as he {EJACULATE}s. It almost makes me cum, too.",
+        "I feel {ACTIVE}'s {COCK} {QUIVER} in my hand, his {THICK} {CUM} {EJACULATE}ing over my hip and fingers.",
+        "That's it... Cum for me..."
+    ],
+    "2nd Person": [
+        "It's such a rush to look into a man's eyes as he {EJACULATE}s. It almost makes you cum, too.",
+        "You feel {ACTIVE}'s {COCK} {QUIVER} in your hand, his {THICK} {CUM} {EJACULATE}ing over your hip and fingers.",
+        "({PRIMARY}) That's it... Cum for me..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is such a tease, {WANK}ing off a guy and not letting him {FUCK} her...",
+        "{PRIMARY} smiles as {ACTIVE} {EJACULATE}s in her hand. Is she that kind of {BITCH}?"
+    ]
+}

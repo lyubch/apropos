@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "Ughh... No, wait.... AAHHH! It's too much! I can't take it!",
+        "Both hands grasp the {ACTIVE}'s muscled chest as more and more of his {PENIS} pushes inside me.",
+        "My mouth hangs open and I gasp wordlessly as the {ACTIVE}'s {BEAST} {PENIS} fucks me steadily.",
+        "The {ACTIVE} begins to fuck me, steady and deep. I'm surprised I can take something so big...",
+        "Slowly, agonisingly, I watch my body accept his, his immense size bulging my flat tummy.",
+        "I've had never had such an enormous one before, the sensation almost giving me an orgasm right away.",
+        "Does it turn you on to fuck little human girls? To stick your {HUGE} {PENIS} way up inside us?",
+        "Are you gonna fuck your {HUGE} {PENIS} right up me, all the way to my throat? I can't wait!",
+        "Oh Gods, I can't do this... his {COCK} is really too big... AAAHHHHH!",
+        "How much have I taken? It feels like there's so much inside of me...",
+        "Ugh! Ahhhhhhh! The {ACTIVE}'s {PENIS} makes me feel like a virgin again as it stretches my {PUSSY}..."        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Ughh... No, wait.... AAHHH! It's too much! I can't take it!",
+        "Both hands grasp the {ACTIVE}'s muscled chest as more and more of his {PENIS} pushes inside you.",
+        "Your mouth hangs open and you gasp wordlessly as the {ACTIVE}'s {BEAST} {PENIS} fucks you steadily.",
+        "The {ACTIVE} begins to fuck you, steady and deep. You're surprised you can take something so big...",
+        "Slowly, agonisingly, you watch your body accept his, his immense size bulging your flat tummy.",
+        "You've had never had such an enormous one before, the sensation almost giving you an orgasm right away.",
+        "({PRIMARY}) Does it turn you on to fuck little human girls? To stick your {HUGE} {PENIS} way up inside us?",
+        "({PRIMARY}) Are you gonna fuck your {HUGE} {PENIS} right up me, all the way to my throat? I can't wait!",
+        "Oh Gods, you can't do this... his {COCK} is really too big... AAAHHHHH!",
+        "How much have you taken? It feels like there's so much inside of you...",
+        "Ugh! Ahhhhhhh! The {ACTIVE}'s {PENIS} makes you feel like a virgin again as it stretches your {PUSSY}..."
+    ],
+    "3rd Person" :
+    [
+        "Oh Gods, that must feel so intense... ",
+        "{PRIMARY} holds on to the {ACTIVE}'s chest, letting the beast stick more of his {COCK} up inside her.",
+        "It's amazing that {PRIMARY} can take something so big..."
+    ]
+}

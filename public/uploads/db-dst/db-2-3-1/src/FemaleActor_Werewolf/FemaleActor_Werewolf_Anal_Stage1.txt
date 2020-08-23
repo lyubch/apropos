@@ -1,0 +1,43 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} holds me firmly by the waist, and guides his {BEASTLY} {COCK} into my {ASSHOLE}.",
+        "({PRIMARY}) I want you on top of me. I want to be {FUCK}ed like a {ANIMAL}.",
+        "The {ACTIVE} {SLOW}ly {INSERT}s his {COCK} past my {ASSHOLE} and inside. I {SCREAM} and then {MOAN} in {LUST}.",
+        "As the {ACTIVE} presses harder and harder, I relax my {ASSHOLE} and he {INSERT}s inside.",
+        "My {BUTTOCKS} juts upwards, round, {HEAVING} and flawless, and {NUDE} and {DISPLAY}ed for my monstrous lover.",
+        "I tense, feeling immense pressure at my {ASSHOLE}, followed by a sharp {PAIN} as the bulge forces its way inside.",
+        "I {MOAN} as the {COCKHEAD} nestles between my {BUTTOCKS}. Roughly he {INSERT}s the {COCKHEAD} inside.",
+        "({PRIMARY}) Hmm... Let's try something different... How about I {ACCEPT} you in my {ASSHOLE}?",
+        "({PRIMARY}) I bet loads of {HORNY} {HEAVING} {NUDE} girls jump on your {BEASTLY} {COCK}, but how many let you {FUCK} them in the {ASSHOLE}?",
+        "({PRIMARY}) I want you to throw me to the ground and {FUCK} my {ASSHOLE}, hard. Show me no mercy...",
+        "({PRIMARY}) (giggle) Even a {MONSTER} is eyeing up my {ASSHOLE}! You like it? Okay, you can have it!",
+        "({PRIMARY}) Go {GENTLE}ly... You're a lot bigger than a normal guy... I'm not sure my {ASSHOLE} will be able to take you."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} holds you firmly by the waist, and guides his {BEASTLY} {COCK} into your {ASSHOLE}.",
+        "({PRIMARY}) I want you on top of me. I want to be {FUCK}ed like a {ANIMAL}.",
+        "The {ACTIVE} {SLOW}ly {INSERT}s his {COCK} past your {ASSHOLE} and inside. You {SCREAM} and then {MOAN} in {LUST}.",
+        "As the {ACTIVE} presses harder and harder, you relax your {ASSHOLE} and he {INSERT}s inside.",
+        "Your {BUTTOCKS} juts upwards, round, {HEAVING} and flawless, and {NUDE} and {DISPLAY}ed for your monstrous lover.",
+        "You tense, feeling immense pressure at your {ASSHOLE}, followed by a sharp {PAIN} as he forces his way inside.",
+        "You {MOAN} as the {COCKHEAD} nestles between your {BUTTOCKS}. Roughly he {INSERT}s the {COCKHEAD} inside.",
+        "({PRIMARY}) Hmm... Let's try something different... How about you take me in the {ASSHOLE}?",
+        "({PRIMARY}) I bet loads of {HEAVING} {NUDE} girls jump on your {COCK}, but how many let you {FUCK} them in the {ASSHOLE}?'",
+        "({PRIMARY}) I want you to throw me to the ground and {FUCK} my {ASSHOLE}, hard. Show me no mercy.",
+        "Even a {MONSTER} is eyeing up your {ASSHOLE}! You should let him {FUCK} it!",
+        "({PRIMARY}) You're staring at my {ASSHOLE}! You like it? Okay, you can have it!",
+        "({PRIMARY}) Go {GENTLE}ly... You're a lot bigger than a normal guy... I'm not sure my {ASSHOLE} can take you."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} holds {PRIMARY} firmly by the waist, and guides his {BEASTLY} {COCK} into her {ASSHOLE}.",
+        "({PRIMARY}) I want you on top of me. I want to be {FUCK}ed like a {ANIMAL}.",
+        "The {ACTIVE} {SLOW}ly {INSERT}s his {COCK} past {PRIMARY}'s {ASSHOLE}. {PRIMARY} {MOAN}s and {SCREAM}s in {LUST}.",
+        "As the {ACTIVE} presses harder and harder, {PRIMARY} relaxes her {ASSHOLE} and he {INSERT}s inside.",
+        "{PRIMARY}'s {BUTTOCKS} juts upwards, {HEAVING} and flawless, and {NUDE} and {DISPLAY}ed for her monstrous lover.",
+        "{PRIMARY} {MOAN}s as the {COCKHEAD} nestles between her {BUTTOCKS}. Roughly he {INSERT}s the {COCKHEAD} inside.",
+        "({PRIMARY}) Hmm... Let's try something different... How about I {ACCEPT} you in my {ASSHOLE}?"
+    ]
+}

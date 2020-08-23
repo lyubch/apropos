@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} looks down into my eyes again, and I can tell he's almost there.",
+        "{ACTIVE} tries to maintain eye contact, but my nimble fingers cause him to tip his head back and {MOAN}.",
+        "I can feel it, he's almost there...",
+        "Where do you want to {EJACULATE}? In my {MOUTH} or across my {BOOBS}?",
+        "({ACTIVE}) I know you want it. Because now I know what a {CUM}-hungry {BITCH} you are.",
+        "I know this moment well, and love it every time. He's about to {EJACULATE}!",
+        "I want him to use me like a dirty book, just a {BITCH} to {EJACULATE} on...",
+        "{ACTIVE}'s {COCK} is getting bigger, harder and throbbing with power.",
+        "I can't believe how wet I'm getting from this, I can hear my {CREAM} dripping in the ground...",
+        "I'm wet as fuck right now just imagining it {EJACULATE}ing on me... or... mmmmm... in me!",
+        "Don't like me talking dirty? Well I guess you better wash my {MOUTH} out with {CUM} then.",
+        "{SWEARING}, his {COCK} is still hard! I really need to make him {EJACULATE} before he wants more...",
+        "He's using me like a dirty book, just a {BITCH} to {EJACULATE} on..."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} looks down into your eyes again, and you can tell he's almost there.",
+        "{ACTIVE} tries to maintain eye contact, but your nimble fingers cause him to tip his head back and {MOAN}.",
+        "You can feel it, he's almost there...",
+        "({PRIMARY}) Where do you want to {EJACULATE}? In my {MOUTH} or across my {BOOBS}?",
+        "({ACTIVE}) I know you want it. Because now I know what a {CUM}-hungry {BITCH} you are.",
+        "You know this moment well, and love it every time. He's about to {EJACULATE}!",
+        "You want him to use you like a dirty book, just a {BITCH} to {EJACULATE} on...",
+        "{ACTIVE}'s {COCK} is getting bigger, harder and throbbing with power.",
+        "You can't believe how wet you're getting from this, you can hear your {CREAM} dripping on the ground...",
+        "You're wet as fuck right now just imagining it {EJACULATE}ing on you... or... mmmmm... in you!",
+        "({PRIMARY}) Don't like me talking dirty? Well I guess you better wash my {MOUTH} out with {CUM} then.",
+        "{SWEARING}, his {COCK} is still hard! you really need to make him {EJACULATE} before he wants more...",
+        "He's using you like a dirty book, just a {BITCH} to {EJACULATE} on..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s getting {HORNY}, her {CREAM} is dripping down her thighs...",
+        "{ACTIVE} looks like he's trying to hold it back, but it's clear he's going to cum any second.",
+        "{PRIMARY}'s confidence is so sexy. How many men has she gotten off this way?"
+    ]
+}

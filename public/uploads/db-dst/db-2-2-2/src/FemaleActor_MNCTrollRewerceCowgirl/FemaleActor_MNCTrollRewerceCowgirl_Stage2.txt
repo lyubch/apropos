@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "With a little fear, I climb up, hands on the {ACTIVE}'s muscled stomach, and slowly slide down the {BEAST} {PENIS}.",
+        "The first time my ass touches the brute's stomach, I whimper. By the third time down, I'm moaning.",
+        "I can't believe its {PENIS} is so big... And I really can't believe I just took the whole thing in my {FAROUSAL} {PUSSY}...",
+        "Slowly I begin to push up and down on the monster's {PENIS}, the brute seeming to urge me to take it all.",
+        "I'm startled when I feel the creature's fur on my ass... Am I really taking the entire {BEAST} thing?",
+        "I let out a primal grunt as I am impaled on the creature's {BEAST} {COCK}.",
+        "I shudder as the hot fluid dripping from its {COCK} smears and lubricates the inside of my {FAROUSAL} {PUSSY}.",
+        "I can do this... It will fit... The {ACTIVE}'s {BEAST} {COCK} stretches me going on.",
+        "I'm practically cumming by the time I reach the base of the {ACTIVE}'s {BEAST} {COCK}."
+    ],
+    "2nd Person": [
+        "With a little fear, you climb up, hands on the {ACTIVE}'s muscled stomach, and slowly slide down the {BEAST} {PENIS}.",
+        "The first time your ass touches the brute's stomach, you whimper. By the third time down, you're moaning.",
+        "You can't believe its {PENIS} is so big... And you really can't believe you just took the whole thing in your {FAROUSAL} {PUSSY}...",
+        "Slowly you begin to push up and down on the monster's {PENIS}, the brute seeming to urge you to take it all.",
+        "You're startled when you feel the creature's fur on your ass... Are you really taking the entire {BEAST} thing?",
+        "You let out a primal grunt as you are impaled on the creature's {BEAST} {COCK}.",
+        "You shudder as the hot fluid dripping from its {COCK} smears and lubricates the inside of your {FAROUSAL} {PUSSY}.",
+        "You can do this... It will fit... The {ACTIVE}'s {BEAST} {COCK} stretches you going on.",
+        "You're practically cumming by the time you reach the base of the {ACTIVE}'s {BEAST} {COCK}."
+    ],
+    "3rd Person": [
+        "With a little fear, {PRIMARY} climbs up, hands on the {ACTIVE}'s muscled stomach, and slowly slide down the {BEAST} {PENIS}.",
+        "The first time {PRIMARY}'s ass touches the brute's stomach, she whimpers. By the third time down, she's moaning.",
+        "{PRIMARY} can't believe its {PENIS} is so big... And she really can't believe she just took the whole thing in her {FAROUSAL} {PUSSY}...",
+        "Slowly {PRIMARY} begins to push up and down on the monster's {PENIS}, the brute seeming to urge her to take it all.",
+        "{PRIMARY} is startled when she feels the creature's fur on her ass... Is she really taking the entire {BEAST} thing?",
+        "{PRIMARY} lets out a primal grunt as she is impaled on the creature's {BEAST} {COCK}.",
+        "{PRIMARY} shudders as the hot fluid dripping from its {COCK} smears and lubricates the inside of her {FAROUSAL} {PUSSY}.",
+        "{PRIMARY} can do this... It will fit... The {ACTIVE}'s {BEAST} {COCK} stretches her going on.",
+        "{PRIMARY} is practically cumming by the time she reaches the base of the {ACTIVE}'s {BEAST} {COCK}."
+    ]
+}

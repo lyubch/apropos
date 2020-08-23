@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "Load after load of {THICK} {CUM} squirts into me, like it's never going to end.",
+        "Desperate and afraid, I finally muster the courage to try to pull away, but I'm stuck to {ACTIVE}'s knot.",
+        "Tied to a dog's ejaculating {PENIS}... My nipples stiffen at my predicament.",
+        "Each time the dog squirts another shot of {CUM} up me, my {PUSSY} convulses again and again.",
+        "I settle back, panting and defeated, {PUSSY} clenched around {ACTIVE}'s knot.",
+        "{ACTIVE}'s knot still stuck in me, I tremble and buck in orgasm.",
+        "I pant hard as I'm pumped full of {THICK} dog-{CUM} and {ACTIVE}'s {BEAST} knot plugs me shut.",
+        "A great wash of dog-{CUM} and {CREAM} flows down from my crotch.",
+        "Oh fuck me! I've got to... OH! OH... try and get up! I can't let this dog cum in me!"        
+    ],
+    "2nd Person" :
+    [
+        "Load after load of {THICK} {CUM} squirts into you, like it's never going to end.",
+        "Desperate and afraid, you finally muster the courage to try to pull away, but you're stuck to his knot.",
+        "Tied to a dog's ejaculating {PENIS}... your nipples stiffen at your predicament.",
+        "Each time the dog squirts another shot of {CUM} up you, your {PUSSY} convulses again and again.",
+        "You settle back, panting and defeated, {PUSSY} clenched around {ACTIVE}'s knot.",
+        "{ACTIVE}'s knot still stuck in you, you tremble and buck in orgasm.",
+        "You pant hard as you're pumped full of {THICK} dog-{CUM} and {ACTIVE}'s {BEAST} knot plugs you shut.",
+        "A great wash of dog-{CUM} and {CREAM} flows down from your crotch.",
+        "Oh fuck you! You've got to... OH! OH... try and get up! you can't let this dog cum in you!"
+    ],
+    "3rd Person" :
+    [
+        "There must be so much {CUM} inside {PRIMARY} by now, it's no wonder she looks so distressed.",
+        "{PRIMARY} pants hard, her brow furrowed, her belly starting to swell slightly."
+    ]
+}

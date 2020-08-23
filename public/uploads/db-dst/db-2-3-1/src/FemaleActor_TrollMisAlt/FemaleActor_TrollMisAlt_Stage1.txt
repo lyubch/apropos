@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "The {MONSTER} towers over me, terrifying and {MAROUSAL}. I do the only thing I can; I spread my legs.",
+        "I stare up at the monstrous {MONSTER}, its {BEASTLY} {COCK} {MAROUSAL}. I {MOAN} a little as it pushes it inside me.",
+        "The {ACTIVE} kneels over me, holding my legs spread as it {ROUGH}ly {PENETRAT}es me. {SWEARING}, it's big...",
+        "I lie back, spreading my legs in submission, {MOAN}ing as the {MONSTER} drops to its knees and spears me with its {BEASTLY} {COCK}.",
+        "Ngh! I can feel my stomach bulge at the very first stroke, and I break out in a cold sweat. Too late for second thoughts...",
+        "You like me? I'll spread my legs for you... My {PUSSY} is yours! Take me, give me your {BEASTLY} {COCK}!",
+        "I lie back on the ground and spread my legs wide, inviting the monstrous {ACTIVE} to {FUCK} me.",
+        "My legs are now spread, hiding nothing from the {ACTIVE}'s view as it kneels down and {PENETRAT}es me.",
+        "Horny and {QUIVER}ing, I {DISPLAY} myself to the monstrous {LUST} of this {MONSTER}. I almost cum as it {INSERT}s inside me."        
+    ],
+    "2nd Person" :
+    [
+        "The {MONSTER} towers over you, terrifying and {MAROUSAL}. You do the only thing you can; you spread your legs.",
+        "You stare up at the monstrous {MONSTER}, its {BEASTLY} {COCK} {MAROUSAL}. You {MOAN} a little as it pushes it inside you.",
+        "The {ACTIVE} kneels over you, holding your legs spread as it {ROUGH}ly {PENETRAT}es you. {SWEARING}, it's big...",
+        "You spread your legs in submission, {MOAN}ing as the {MONSTER} drops to its knees and spears you with its {BEASTLY} {COCK}.",
+        "You can feel your stomach bulge at the very first stroke, and you break out in a cold sweat. Too late for second thoughts...",
+        "({PRIMARY}) You like me? I'll spread my legs for you... my {PUSSY} is yours! Take me, give me your {BEASTLY} {COCK}!",
+        "You lie back on the ground and spread your legs wide, inviting the monstrous {ACTIVE} to {FUCK} you.",
+        "Your legs are now spread, hiding nothing from the {ACTIVE}'s view as it kneels down and {PENETRAT}es you.",
+        "Horny and {QUIVER}ing, you {DISPLAY} yourself to the monstrous {LUST} of this {MONSTER}. You almost cum as it {INSERT}s inside you."
+    ],
+    "3rd Person" :
+    [
+        "The {MONSTER} towers over {PRIMARY}, terrifying and {MAROUSAL}. She does the only thing she can; she spreads her legs.",
+        "{PRIMARY}'s legs are now completely spread, hiding nothing from the {ACTIVE}'s view as it towers over her.",
+        "{PRIMARY} lies back on the ground and spreads her legs wide, inviting the {ACTIVE} to {FUCK} her."
+    ]
+}

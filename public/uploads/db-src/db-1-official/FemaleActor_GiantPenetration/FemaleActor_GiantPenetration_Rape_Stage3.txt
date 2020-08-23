@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "Ugh... I don't think I've ever been fucked this hard by such a huge {PENIS}...",
+        "The {ACTIVE} pumps me furiously on his {PENIS}, using me as nothing more than a rag to cum into...",
+        "The pounding between my legs is intense, and I feel that I'm going to break in half any moment.",
+        "Both the size of the {PENIS} and the speed of the fucking push me past my limits, and I scream.",
+        "The intensity of the sensation builds thunderously. I'm either going to die, or cum.",
+        "AAAAAHHH! UUURGHH!! You're stretching my fucking womb!",
+        "Holy fuck, the {ACTIVE} plowed all the way past my cervix.",
+        "Please I beg you... stop... you'll break my womb...",
+        "Using me like a human cock-sleeve, the giant simply holds me by the torso and begins pumping me up and down.",
+        "The {ACTIVE} continues to slam its immense girth into me until I'm on the cusp of climax.",
+        "I grunt in pain as the head of his {PENIS} slips into my womb, fucking both my {PUSSY} and my cervix."        
+    ],
+    "2nd Person" :
+    [
+        "Ugh... you don't think you've ever been fucked this hard by such a huge {PENIS}...",
+        "The {ACTIVE} pumps you furiously on his {PENIS}, using you as nothing more than a rag to cum into...",
+        "The pounding between your legs is intense, and you feel that you're going to break in half any moment.",
+        "Both the size of the {PENIS} and the speed of the fucking push you past your limits, and you scream.",
+        "The intensity of the sensation builds thunderously. You're either going to die, or cum.",
+        "({PRIMARY}) AAAAAHHH! UUURGHH!! You're stretching my fucking womb!",
+        "Holy fuck, the {ACTIVE} plowed all the way past your cervix.",
+        "({PRIMARY}) Please I beg you... stop... you'll break my womb...",
+        "Using you like a human cock-sleeve, the giant simply holds you by the torso and begins pumping you up and down.",
+        "The {ACTIVE} continues to slam its immense girth into you until you're on the cusp of climax.",
+        "You grunt in pain as the head of his {PENIS} slips into your womb, fucking both your {PUSSY} and your cervix."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is being pumped on the {ACTIVE}'s {COCK} in a blur.",
+        "That looks brutal. Is {PRIMARY} going to survive this?",
+        "The {ACTIVE} pumps furiously, {PRIMARY} being nothing but a cum rag for the monster's lusts."
+    ]
+}

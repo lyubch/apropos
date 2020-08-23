@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I completely lose it, {JIGGL}ing and thrashing as the {ANIMAL} {FUCK}s my {PUSSY}, {FUCK}ing a monster orgasm out of me.",
+        "At last, the {ACTIVE} loses it, erratically {INSERT}ing into me as it {EJACULATE}s, bellowing above me in triumph.",
+        "The {ACTIVE} climaxes into me painfully, but with him inside me I can only thrash along his length.",
+        "My {FLESH} is racked by the throws of an incredibly {LEWD} orgasm...",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes me over the edge, and I explode into orgasm.",
+        "The {ACTIVE} keeps {FUCK}ing my {PUSSY}, which prolongs my orgasm for a ridiculous length of time."
+    ],
+    "2nd Person": [
+        "You completely lose it, {JIGGL}ing and thrashing as the {ANIMAL} {FUCK}s your {PUSSY}, {FUCK}ing a monster orgasm out of you.",
+        "At last, the {ACTIVE} loses it, erratically {INSERT}ing into you as it {EJACULATE}s, bellowing above you in triumph.",
+        "The {ACTIVE} climaxes into you painfully, but with him inside you you can only thrash along his length.",
+        "Your {FLESH} is racked by the throws of an incredibly {LEWD} orgasm...",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes you over the edge, and you explode into orgasm.",
+        "The {ACTIVE} keeps {FUCK}ing your {PUSSY}, which prolongs your orgasm for a ridiculous length of time."
+    ],
+    "3rd Person": [
+        "{PRIMARY} completely loses it, {JIGGL}ing and thrashing as the {ANIMAL} {FUCK}s her {PUSSY}, {FUCK}ing a monster orgasm out of her.",
+        "At last, the {ACTIVE} loses it, erratically {INSERT}ing into {PRIMARY} as it {EJACULATE}s, bellowing above her in triumph.",
+        "The {ACTIVE} climaxes into {PRIMARY} painfully, but with him inside her she can only thrash along his length.",
+        "{PRIMARY}'s body is racked by the throws of an incredibly {LEWD} orgasm...",
+        "The {ACTIVE}'s {ROUGH} {FUCK}ing pushes {PRIMARY} over the edge, and she explodes into orgasm.",
+        "The {ACTIVE} keeps {FUCK}ing {PRIMARY}'s {PUSSY}, which prolongs her orgasm for a ridiculous length of time."
+    ]
+}

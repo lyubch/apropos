@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} keeps a steady rhythm as it is obviously enjoying my {MOUTH}.",
+        "I concentrate and let {ACTIVE} have his fun with my {MOUTH}.",
+        "As its {VILE} {COCK} pushes deeper in my {MOUTH}, I taste an intense aroma of its slime around my tongue.",
+        "It's {SALTY} precum is coating my mouth deeper and deeper, I try not to focus on it and try to relieve him with my tongue.",
+        "{ACTIVE}'s thrusts keep getting stronger and deeper, I can't imagine the pleasure my {MOUTH} gives to him.",
+        "It's {COCK} seems to be enlarging with every inch it goes further in, I think he has been keeping a large load in him.",
+        "With the way {ACTIVE} is {FUCKING} my mouth, I think it won't let me go anywhere for awhile.",
+        "{ACTIVE} finally gives me more of its {VILE} {COCK}, now I can properly suck it!",
+        "It buries its {MAROUSAL} {COCK} even deeper and faster, pulling its balls closer to my nose. The odor is making it difficult."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} keeps a steady rhythm as it is obviously enjoying your {MOUTH}.",
+        "You concentrate and let {ACTIVE} have his fun with your {MOUTH}.",
+        "As its {VILE} {COCK} pushes deeper in your {MOUTH}, you taste an intense aroma of its slime around your tongue.",
+        "It's {SALTY} precum is coating your mouth deeper and deeper, you try not to focus on it and try to relieve him with your tongue.",
+        "{ACTIVE}'s thrusts keep getting stronger and deeper, you can't imagine the pleasure your {MOUTH} gives to him.",
+        "It's {COCK} seems to be enlarging with every inch it goes further in, you think he has been keeping a large load in him.",
+        "With the way {ACTIVE} is {FUCKING} your mouth, you believe it won't let you go anywhere for awhile.",
+        "{ACTIVE} finally gives you more of its {VILE} {COCK}, now you can properly suck it!",
+        "It buries its {MAROUSAL} {COCK} even deeper and faster, pulling its balls closer to your nose. The odor is making it difficult."   
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} increases its rhythm, clearly enjoying {PRIMARY}'s {MOUTH}",
+        "{ACTIVE} forces its {VILE} rat {COCK} deeper into {PRIMARY}'s {MOUTH}."
+    ]
+}

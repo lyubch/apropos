@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "I happily spread my legs as the wolf starts sniffing at my {PUSSY}, unaware of the other's approach until its {COCK} is in my face.",
+        "My view of the wolf eyeing my {PUSSY} is suddenly broken, his packmate looming over me as his {COCK} drips pre into my open mouth.",
+        "I {LEWD}ly lap up the pre leaking from the {COCK} above me, forgetting about the other wolf until he starts sniffing at my {PUSSY}."
+    ],
+    "2nd Person": [
+        "You happily spread your legs as the wolf starts sniffing at your {PUSSY}, unaware of the other's approach until its {COCK} is in your face.",
+        "Your view of the wolf eyeing your {PUSSY} is suddenly broken, his packmate looming over you as his {COCK} drips pre onto your lips.",
+        "You {LEWD}ly lap up the pre leaking from the {COCK} above you, forgetting about the other wolf until he starts sniffing at your {PUSSY}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} happily spreads her legs as the wolf starts sniffing at her {PUSSY}, unaware of the other's approach until its {COCK} is in her face.",
+        "{PRIMARY}'s view of the wolf eyeing her {PUSSY} is suddenly broken, his packmate looming over her as his {COCK} drips pre onto her lips.",
+        "{PRIMARY} {LEWD}ly laps up the pre leaking from the {COCK} above her, forgetting about the other wolf until he starts sniffing at her {PUSSY}."
+    ]
+}

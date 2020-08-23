@@ -1,0 +1,44 @@
+{
+    "1st Person": [
+        "{SWEARING}, what is happening to me... It's not even {FUCK}ing me yet and I'm {MOAN}ing like a {BITCH}...",
+        "I can't deny how much my {FLESH} is enjoying this horrible {PAIN}... {SWEARING}, it's going to make me cum...",
+        "I hate myself for admitting it, but those knubs on its tentacle feel really, really good rubbing across my clit like that...",
+        "I try to fight my building {LUST}, but I know it's pointless. Once I'm trapped, the only way I'm getting out is with a {PUSSY} full of eggs...",
+        "I try to shake them off my arms and legs, but only suceed in spreading its {SLIME} across my {FLESH}.",
+        "I writhe in my restraints, trying to stall my rising {LUST}, but I know it's no use. It'll have me good and {FAROUSAL} for when the eggs come...",
+        "I'm so confused... Hahhh... Why is it doing this to me...? What does it want?",
+        "My eyes scan the area frantically, looking for anyone who could pull this {MONSTER} off me, but I'm all alone out here...",
+        "My {PUSSY} clenches at nothing... I hate myself for admitting it, but I want this thing to {FUCK} me...",
+        "Securely held in their grip, I can only watch as it goes to town on my {PUSSY} and clit, its {SLIME} quickly mixing with my {CREAM}.",
+        "The {LUST} from it rubbing my entire {PUSSY} like that is overwhelming, but even as I {QUIVER} and squirm, it stays right on my {PUSSY}...",
+        "The tentacle just keeps rubbing faster and faster, every knub flicking my clit over and over... {SWEARING}, I'm about to cum!"
+    ],
+    "2nd Person": [
+        "{SWEARING}, what is happening to you... It's not even {FUCK}ing you yet and you're {MOAN}ing like a {BITCH}...",
+        "Securely held in their grip, you can only watch as it goes to town on your {PUSSY} and clit, its {SLIME} quickly mixing with your {CREAM}.",
+        "The {LUST} from it rubbing your entire {PUSSY} is overwhelming, but even as you {QUIVER} and squirm, it stays right on your pussy.",
+        "The tentacle just keeps rubbing faster and faster, every knub flicking your clit over and over... {SWEARING}, you're about to cum!",
+        "You can't deny how much your {FLESH} is enjoying this horrible {PAIN}... {SWEARING}, it's going to make you cum...",
+        "You hate yourself for admitting it, but those knubs on its tentacle feel really, really good rubbing across your clit like that...",
+        "You try to fight your building {LUST}, but it's pointless. Once you're trapped, the only way you're getting out is with a {PUSSY} full of eggs...",
+        "You try to shake them off your arms and legs, but only suceed in spreading its {SLIME} across your {FLESH}.",
+        "You writhe in your restraints, trying to stall your rising {LUST}, but it's no use. It'll have you good and {FAROUSAL} for when the eggs come...",
+        "You're so confused... Hahhh... Why is it doing this to you...? What does it want?",
+        "Your eyes scan the area frantically, looking for anyone who could pull this {MONSTER} off you, but you're all alone out here...",
+        "Your {PUSSY} clenches at nothing... You hate yourself for admitting it, but you want this thing to {FUCK} you..."
+    ],
+    "3rd Person": [
+        "{SWEARING}, what is happening to {PRIMARY}... It's not even {FUCK}ing her yet and she's {MOAN}ing like a {BITCH}...",
+        "Securely held in their grip, {PRIMARY} can only watch as it goes to town on her {PUSSY} and clit, its {SLIME} quickly mixing with her {CREAM}.",
+        "The {LUST} from it rubbing {PRIMARY}'s entire {PUSSY} is overwhelming, but even as she {QUIVER}s and squirms, it stays right on her pussy.",
+        "The tentacle just keeps rubbing faster and faster, every knub flicking {PRIMARY}'s clit over and over... {SWEARING}, she's about to cum!",
+        "{PRIMARY} can't deny how much her {FLESH} is enjoying this horrible {PAIN}... {SWEARING}, it's going to make her cum...",
+        "{PRIMARY} hates herself for admitting it, but those knubs on its tentacle feel really, really good rubbing across her clit like that...",
+        "{PRIMARY} tries to fight her building {LUST}, but it's pointless. Once she's trapped, the only way she's getting out is with a {PUSSY} full of eggs...",
+        "{PRIMARY} tries to shake them off her arms and legs, but only suceed in spreading its {SLIME} across her {FLESH}.",
+        "{PRIMARY} writhes in her restraints, trying to stall her rising {LUST}, but it's no use. It'll have her good and {FAROUSAL} for when the eggs come...",
+        "{PRIMARY} is so confused... Hahhh... Why is it doing this to her...? What does it want?",
+        "{PRIMARY}'s eyes scan the area frantically, looking for anyone who could pull this {MONSTER} off her, but she's all alone out here...",
+        "{PRIMARY}'s {PUSSY} clenches at nothing... She hates herself for admitting it, but she wants this thing to {FUCK} her..."
+    ]
+}

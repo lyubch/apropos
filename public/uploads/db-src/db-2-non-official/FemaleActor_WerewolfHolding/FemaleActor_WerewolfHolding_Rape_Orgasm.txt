@@ -1,0 +1,37 @@
+{
+    "1st Person" :
+    [
+        "My head rocks back and all breath is knocked from me as the {BEASTLY} knot {INSERT}s itself in my {PUSSY}.",
+        "The {ACTIVE} roars above me as it {EJACULATE}s, {FEAR} driving my own {LEWD} orgasm.",
+        "The {ACTIVE} drives me all the way down onto his {COCK}, {PENETRAT}ing me fully. The {PAIN} is absolute.",
+        "The {MONSTER}'s {BEASTLY} {COCK} thunders up inside me, piercing my cervix to {EJACULATE} straight into my womb.",
+        "An uncomfortably hot sensation grows in me as more and more of its {THICK} {CUM} is {EJACULATE}ed into my {FLESH}.",
+        "The {MONSTER} howls and I feel its incredibly {THICK} {CUM} pour into me. I {SCREAM} as my insides begin to heat up.",
+        "My stomach begins to round out from the sheer amount of wolf-{CUM} being {EJACULATE}ed into my belly.",
+        "I {QUIVER} in orgasm as {LARGELOAD} quantities of {THICK} {CUM} escape my {WTVAGINAL} {PUSSY}.",
+        "The flow of {CUM} is never-ending, filling my womb completely with his {CUM}.",
+        "The {ACTIVE} tenses, and I feel the first shot fire through and splash against the back of my uterus.",
+        "Its {BEASTLY} {COCK} is buried to the hilt in me, the {MONSTER} howling as it {EJACULATE}s."
+    ],
+    "2nd Person" :
+    [
+        "Your head rocks back and all breath is knocked from you as the {BEASTLY} knot {INSERT}s itself in your {PUSSY}.",
+        "The {ACTIVE} roars above you as it {EJACULATE}s, {FEAR} driving your own {LEWD} orgasm.",
+        "The {ACTIVE} drives you all the way down onto his {COCK}, {PENETRAT}ing you fully. The {PAIN} is absolute.",
+        "The {MONSTER}'s {BEASTLY} {COCK} thunders up inside you, piercing your cervix to {EJACULATE} straight into your womb.",
+        "An uncomfortably hot sensation grows in you as more and more of its {THICK} {CUM} is {EJACULATE}ed into your body.",
+        "The {MONSTER} howls and you feel its incredibly {THICK} {CUM} pour into you. You {SCREAM} as your insides begin to heat up.",
+        "Your stomach begins to round out from the sheer amount of wolf-{CUM} being {EJACULATE}ed into your belly.",
+        "You {QUIVER} in orgasm as {LARGELOAD} quantities of {THICK} {CUM} escape your {WTVAGINAL} {PUSSY}.",
+        "The flow of {CUM} is never-ending, filling your womb completely with his {CUM}.",
+        "The {ACTIVE} tenses, and you feel the first shot fire through and splash against the back of your uterus.",
+        "Its {BEASTLY} {COCK} is buried to the hilt in you, the {MONSTER} howling as it {EJACULATE}s."
+    ],
+    "3rd Person" :
+    [
+        "The {MONSTER}'s angry roar drowns out {PRIMARY}'s own reluctant {SCREAM}s as she climaxes on the monster's {COCK}.",
+        "{PRIMARY}'s head falls back, a painful look on her face as the {MONSTER} {INSERT}s its entire {COCK} inside her.",
+        "The {ACTIVE}'s tight grip on {PRIMARY}'s waist draws a little blood as it holds her all the way down.",
+        "Oh my, it's doing it! The {ACTIVE} is inseminating {PRIMARY} right now!"
+    ]
+}

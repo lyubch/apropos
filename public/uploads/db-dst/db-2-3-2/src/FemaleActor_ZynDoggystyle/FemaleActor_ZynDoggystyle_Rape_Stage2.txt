@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "I reluctantly bend over, stifling a {SCREAM} as the {ACTIVE} {PENETRAT}es his {COCK} into me.",
+        "{SWEARING}, he's putting it in! I'm being {RAP}ed!",
+        "The {ACTIVE} grips my hips {ROUGH}ly, pulling me back onto his {MAROUSAL} {COCK}. {SWEARING}, he's {HUGE}!",
+        "I'm relieved when he goes slow, but I doubt this will last...",
+        "I {SCREAM} as I feel the {COCKHEAD} of that {HUGE} {COCK} find the {WTVAGINAL} {HOLE} to my {PUSSY}.",
+        "I {SCREAM} as I realise he's done it. He's in me, he's inside my {PUSSY}!",
+        "In no time at all, I'm bent over with a {COCK} up my {PUSSY}.",
+        "I offer only slight resistance as {ACTIVE} takes me.",
+        "It feels so good in my {PUSSY}, I let {ACTIVE} thrust a few times. What's the harm in that?",
+        "{ACTIVE} starts {FUCK}ing me with his {HUGE} {COCK} and I'm letting him.",
+        "{PLEADING}... I plead. I know you're going to {FUCK} me but please, don't {EJACULATE} inside me!"
+    ],
+    "2nd Person": [
+        "You reluctantly bend over, stifling a {SCREAM} as the {ACTIVE} {PENETRAT}es his {COCK} into you.",
+        "{SWEARING}, he's putting it in! You're being {RAP}ed!",
+        "The {ACTIVE} grips your hips {ROUGH}ly, pulling you back onto his {MAROUSAL} {COCK}. {SWEARING}, he's {HUGE}!",
+        "You're relieved when he goes slow, but you doubt this will last...",
+        "You {SCREAM} the {COCKHEAD} of that {HUGE} {COCK} finds the {WTVAGINAL} {HOLE} to your {PUSSY}.",
+        "You {SCREAM} as you realise he's done it. He's in you, he's inside your {PUSSY}!",
+        "In no time at all, you're bent over with a {COCK} up your {PUSSY}.",
+        "You offer only slight resistance as {ACTIVE} takes you.",
+        "It feels so good in your {PUSSY}, you let {ACTIVE} thrust a few times. What's the harm in that?",
+        "{ACTIVE} starts {FUCK}ing you with his {HUGE} {COCK} and you're letting him.",
+        "({PRIMARY}) {PLEADING}... I know you're going to {FUCK} me but please, don't {EJACULATE} inside me!"
+    ],
+    "3rd Person": [
+        "Why isn't {PRIMARY} fighting back? She's just bending over and letting the {ACTIVE} {FUCK} her!",
+        "The {ACTIVE} starts to {FUCK} {PRIMARY}, going {SLOW}ly. Maybe this won't be so bad after all...",
+        "{PRIMARY} just bends over and lets the {ACTIVE} {FUCK} her. Whatever stops her from getting killed...",
+        "({ACTIVE}) Bend over, {BITCH}, let me see your {PUSSY}."
+    ]
+}

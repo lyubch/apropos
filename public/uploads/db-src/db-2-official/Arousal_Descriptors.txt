@@ -1,0 +1,114 @@
+{
+    "{READINESS}" :
+    {
+        "level0" :
+        [
+            "unprepared",
+            "fresh"
+        ],
+        "level1" :
+        [
+            "ready"
+        ],
+        "level2" :
+        [
+            "eager"
+        ],
+        "level3" :
+        [
+            "needy"
+        ],
+        "level4" :
+        [
+            "desperate"
+        ]
+    },
+    "{FAROUSAL}" :
+    {
+        "level0" :
+        [
+            "dry",
+            "unprepared",
+            "tiny",
+            "unprotected",
+            "tight",
+            "fresh",
+            "taut",
+            "fertile"
+        ],
+        "level1" :
+        [
+            "slick",
+            "damp",
+            "sopping",
+            "quivering",
+            "fertile",
+            "willing",
+            "warm",
+            "lubricated",
+            "ready"
+        ],
+        "level2" :
+        [
+            "wet",
+            "slippery",
+            "hot",
+            "dirty",
+            "hungry",
+            "trembling",
+            "sodden",
+            "waiting",
+            "burning"
+        ],
+        "level3" :
+        [
+            "dirty",
+            "dripping",
+            "drenched",
+            "needy",
+            "oozing",
+            "soaking",
+            "inflamed"
+        ],
+        "level4" :
+        [
+            "aching",
+            "gushing",
+            "steaming",
+            "desperate",
+            "convulsing",
+            "throbbing"
+        ]
+    },
+    "{MAROUSAL}" :
+    {
+        "level0" :
+        [
+            "eager",
+            "still-hard"
+        ],
+        "level1" :
+        [
+            "enlarged",
+            "erect"
+        ],
+        "level2" :
+        [
+            "firm",
+            "rigid",
+            "hard",
+            "engorged"
+        ],
+        "level3" :
+        [
+            "raging",
+            "stiff"
+        ],
+        "level4" :
+        [
+            "painfully hard",
+            "throbbing",
+            "rock hard"
+        ]
+    }
+}

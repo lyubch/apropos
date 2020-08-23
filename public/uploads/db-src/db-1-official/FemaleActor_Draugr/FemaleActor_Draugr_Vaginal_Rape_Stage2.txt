@@ -1,0 +1,53 @@
+{
+    "1st Person": [
+        "My thighs open further as the creature presses against my impaled {PUSSY}.",
+        "I'm lost to the sensation, pleasurable despite how disgusting it may be.",
+        "I feel sick as the undead {COCK} moves within me.",
+        "The {ACTIVE} gropes me roughly as he rapes me, my body recoiling at the touch.",
+        "Its hands feel bony and wet as it roughly gropes my soft flesh. I struggle vainly at the touch.",
+        "The dead thing pumps away, thrusting himself into my {WTVAGINAL} {PUSSY}.",
+        "I feel myself clench around the {DEAD} flesh buried between my legs.",
+        "The {ACTIVE} gazes cruelly down at me, seemingly relishing the sight of my naked body.",
+        "It's mouth hangs open, washing rancid breath across me. I scream.",
+        "The {ACTIVE}'s hips rock lewdly between my thighs, as it pushes deeper into my {PUSSY}.",
+        "I stare, panting uncontrollably as my body is filled with the undead monster's {COCK}.",
+        "Wet, slurping sound fills the room as the creature pushes down into me, pounding into me over and over.",
+        "The flesh of the thing writhes as untold numbers of maggots and worms fall from his {DEAD} {COCK}.",
+        "The dead creature growls in pleasure, enjoying the sensation of my tightness around it.",
+        "Bony fingers tighten around my flesh as the monster fucks me.",
+        "The {ACTIVE} speaks in an unknown tongue, and I feel my {WTVAGINAL} {PUSSY} start to gush.",
+        "I want to say that I fought it off, that I resisted. But no, I lie here and let a corpse fuck me.",
+        "The creature's flesh is severely rotted with gaping holes revealing muscle, guts, and maggots beneath.",
+        "Its gut is torn open and the organs within squirm disgustingly, oozing down.",
+        "NOOO!!! I don't want this!",
+        "Growling in pleasure, the dead thing begins to slowly pump himself into me."
+    ],
+    "2nd Person": [
+        "Your thighs open further as the creature presses against your impaled {PUSSY}.",
+        "You're lost to the sensation, pleasurable despite how disgusting it may be.",
+        "You feel sick as the undead {COCK} moves within you.",
+        "The {ACTIVE} gropes you roughly as he rapes you, your body recoiling at the touch.",
+        "Its hands feel bony and wet as it roughly gropes your soft flesh. You struggle vainly at the touch.",
+        "The dead thing pumps away, thrusting himself into your {WTVAGINAL} {PUSSY}.",
+        "You feel yourself clench around the {DEAD} flesh buried between your legs.",
+        "The {ACTIVE} gazes cruelly down at you, seemingly relishing the sight of your naked body.",
+        "It's mouth hangs open, washing rancid breath across you. You scream.",
+        "The {ACTIVE}'s hips rock lewdly between your thighs, as it pushes deeper into your {PUSSY}.",
+        "You stare, panting uncontrollably as your body is filled with the undead monster's {COCK}.",
+        "Wet, slurping sound fills the room as the creature pushes down into you, pounding into you over and over.",
+        "The flesh of the thing writhes as untold numbers of maggots and worms fall from his {DEAD} {COCK}.",
+        "The dead creature growls in pleasure, enjoying the sensation of your tightness around it.",
+        "Bony fingers tighten around your flesh as the monster fucks you.",
+        "The {ACTIVE} speaks in an unknown tongue, and you feel your {WTVAGINAL} {PUSSY} start to gush.",
+        "You want to say that you fought it off, that you resisted. But no, you lie there and let a corpse fuck you.",
+        "The creature's flesh is severely rotted with gaping holes revealing muscle, guts, and maggots beneath.",
+        "Its gut is torn open and the organs within squirm disgustingly, oozing down.",
+        "NOOO!!! You don't want this!",
+        "Growling in pleasure, the dead thing begins to slowly pump himself into you."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s thighs open further as the creature presses against her impaled {PUSSY}.",
+        "{PRIMARY}'s lost to the sensation, pleasurable despite how disgusting it may be.",
+        "{PRIMARY} feels sick as the undead {COCK} moves within her."
+    ]
+}

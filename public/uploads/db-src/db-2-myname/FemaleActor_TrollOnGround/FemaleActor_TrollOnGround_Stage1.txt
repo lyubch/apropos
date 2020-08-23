@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} holds me by the waist, and I sigh as the head of its {PENIS} starts to fuck slowly into me.",
+        "I'm pinned under the {ACTIVE}'s bulk, powerless to stop it pushing its {PENIS} into my {PUSSY}. Not that I want to...",
+        "A delighted squeal escapes my lips as the {ACTIVE} roughly spreads my cheeks and fucks its {COCK} into me.",
+        "My heart is racing, I want this, this {ACTIVE} can do whatever it wants to me.",
+        "The beast's {COCK} is {BEAST}, and as thick as my arm... No way... Can I really? Ah! Oh Gods, it's happening!",
+        "I let out a primal grunt as I am impaled on the creature's {COCK}."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} holds you by the waist, and you sigh as the head of its {PENIS} starts to fuck slowly into you.",
+        "You're pinned under the {ACTIVE}'s bulk, powerless to stop it pushing its {PENIS} into your {PUSSY}. Not that you want to...",
+        "A delighted squeal escapes your lips as the {ACTIVE} roughly spreads your cheeks and fucks its {COCK} into you.",
+        "Your heart is racing, you want this, this {ACTIVE} can do whatever it wants to you.",
+        "The beast's {COCK} is {BEAST}, and as thick as your arm... No way... Can you really? Ah! Oh Gods, it's happening!",
+        "You let out a primal grunt as you are impaled on the creature's {COCK}."  
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} holds {PRIMARY} by the waist, and she squeals as the head of its {PENIS} starts to fuck slowly into her.",
+        "{PRIMARY}'s pinned under the {ACTIVE}'s bulk, powerless to stop it pushing its {BEAST} {PENIS} into her {PUSSY}.",
+        "There are stories of country girls who get caught in the woods by trolls... It looks like they're true..."
+    ]
+}

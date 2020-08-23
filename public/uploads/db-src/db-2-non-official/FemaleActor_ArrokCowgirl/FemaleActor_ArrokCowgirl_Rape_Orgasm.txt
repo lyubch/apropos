@@ -1,0 +1,24 @@
+{
+    "1st Person": [
+        "Relief washes over me as the {ACTIVE} finally starts to {EJACULATE} in my {PUSSY}.",
+        "My {PUSSY} is {WTVAGINAL}, and I actually feel joy when the {ACTIVE}'s first shots hit my insides.",
+        "I'm tired and sore, and can barely move as the {ACTIVE} finishes inside me.",
+        "I don't mind {ACTIVE} {FUCK}ing me for a little while. Then he {EJACULATE}s his {CUM} way up in me.",
+        "He fills me up with so much {CUM} that it pours out of my {PUSSY}, there's nowhere else for it go.",
+        "{ACTIVE} {MOAN}s, and I feel his {CUM} {EJACULATE}ing up into me."
+    ],
+    "2nd Person": [
+        "Relief washes over you as the {ACTIVE} finally starts to {EJACULATE} in your {PUSSY}.",
+        "Your {PUSSY} is {WTVAGINAL}, and you actually feel joy when the {ACTIVE}'s first shots hit your insides.",
+        "You're tired and sore, and can barely move as the {ACTIVE} finishes inside you.",
+        "You don't mind {ACTIVE} {FUCK}ing you for a little while. Then he {EJACULATE}s his {CUM} way up in you.",
+        "He fills you up with so much {CUM} that it pours out of your {PUSSY}, there's nowhere else for it go.",
+        "{ACTIVE} grunts, and you feel his {CUM} {EJACULATE}ing up into you."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} bucks his hips up, his legs straining as he {INSERT}s his {COCK} as far up {PRIMARY} as he can.",
+        "The {ACTIVE} grunts {ROUGH}ly as he thrusts deeply up {PRIMARY}.",
+        "({ACTIVE}) I don't see how any guy can stick his {COCK} up you and not cum!",
+        "({PRIMARY}) You.. you've {EJACULATE} inside me... Can I go home now? Please?"
+    ]
+}

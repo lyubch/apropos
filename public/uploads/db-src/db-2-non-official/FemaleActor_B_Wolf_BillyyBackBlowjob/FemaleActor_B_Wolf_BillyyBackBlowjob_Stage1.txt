@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Seeing that {MAROUSAL} {COCK} standing proud, I can't help myself from crawling towards it for a taste.",
+        "Wow, he must be really pent up if his {COCK} is already this hard, I only wish I had noticed sooner!",
+        "I smile to myself as the wolf obidiently rolls over, leaning over towards his towering {COCK} to give him his 'reward'.",
+        "I press myself into his fur as I {ACCEPT} his tip between my lips, enjoying the warmth while I help myself to his leaking pre-cum.",
+        "I {MOAN} around his {COCK}'s {COCKHEAD}, impressed with myself that I've manage to tame one of Skyrim's savage {ANIMAL}s.",
+        "I quickly start bobbing my head over his throbbing tip, already well acquainted with how to get a wolf off."
+    ],
+    "2nd Person": [
+        "Seeing that {MAROUSAL} {COCK} standing proud, you can't help yourself from crawling towards it for a taste.",
+        "Wow, he must be really pent up if his {COCK} is already this hard, you only wish you had noticed sooner!",
+        "You smile to yourself as the wolf obidiently rolls over, leaning over towards his towering {COCK} to give him his 'reward'.",
+        "You press yourself into his fur as you {ACCEPT} his tip into your {MOUTH}, enjoying the warmth while you help yourself to his leaking pre-cum.",
+        "You {MOAN} around his {COCK}'s {COCKHEAD}, impressed with yourself that you've manage to tame one of Skyrim's savage {ANIMAL}s.",
+        "You quickly start bobbing your head over his throbbing tip, already well acquainted with how to get a wolf off."
+    ],
+    "3rd Person": [
+        "Seeing that {MAROUSAL} {COCK} standing proud, {PRIMARY} can't help herself from crawling towards it for a taste.",
+        "Wow, he must be really pent up if his {COCK} is already this hard, {PRIMARY} only wishes she had noticed sooner!",
+        "{PRIMARY} smiles to herself as the wolf obidiently rolls over, leaning over towards his towering {COCK} to give him his 'reward'.",
+        "{PRIMARY} presses herself into his fur as she takes his tip into her {MOUTH}, enjoying the warmth while she helps herself to his leaking pre-cum.",
+        "{PRIMARY} {MOAN}s around his {COCK}'s {COCKHEAD}, impressed with herself that she's managed to tame one of Skyrim's savage {ANIMAL}s.",
+        "{PRIMARY} quickly starts bobbing her head over his throbbing tip, already well acquainted with how to get a wolf off."
+    ]
+}

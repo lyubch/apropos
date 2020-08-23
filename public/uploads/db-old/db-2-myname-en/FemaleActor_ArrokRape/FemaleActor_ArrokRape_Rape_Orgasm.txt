@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} suddenly rolls me over, and the next thing I know, his filthy asshole and balls are in my face.",
+        "I struggle frantically, my arms pinned under my own weight, desperate to escape this indignity.",
+        "Oh Gods! This is disgusting! I would have rather he came up my {ASS}! I think I'm going to be sick...",
+        "I sob and splutter, but do my best to please the {ACTIVE}, my tongue probing his stinking asshole.",
+        "The {ACTIVE} roughly wipes his ass up and down my face even as he cums, covering me in his filth.",
+        "Mlllphhh! Tears stream down my face as I reluctantly open my mouth for {ACTIVE}."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} rolls you over, and the next thing you know, his filthy asshole and balls are in your face.",
+        "You struggle frantically, your arms pinned under your own weight, desperate to escape this indignity.",
+        "Oh Gods! This is disgusting! You would have rather he came up your {ASS}! You think you're going to be sick...",
+        "You sob and splutter, but do your best to please the {ACTIVE}, your tongue probing his stinking asshole.",
+        "The {ACTIVE} roughly wipes his ass up and down your face even as he cums, covering you in his filth.",
+        "Mlllphhh! Tears stream down your face as you reluctantly open your mouth for {ACTIVE}."
+    ],
+    "3rd Person" :
+    [
+        "Muffled screams of fear and disgust sound out as the {ACTIVE} roughly teabags {PRIMARY}.",
+        "His {CUM} spurting out along {PRIMARY}'s body, the {ACTIVE} pulls out and squats roughly on her face.",
+        "{PRIMARY} is flipped over, and the {ACTIVE} smears his ass all over her face. She struggles frantically.",
+        "{PRIMARY}'s {WTANAL} {ASS} can be seen as the {ACTIVE} pulls out. It looks like that hurt a lot...",
+        "{PRIMARY} screams desperately. What is the {ACTIVE} doing to her?!"
+    ]
+}

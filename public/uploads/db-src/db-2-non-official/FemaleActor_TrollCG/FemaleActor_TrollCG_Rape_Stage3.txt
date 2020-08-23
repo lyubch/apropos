@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "{SWEARING}, this isn't real... I don't think I'll be able to get away... I'll have to {FUCK} it all the way...",
+        "Terror washes over me as the {MONSTER} takes hold of me, one massive claw cupping my breast.",
+        "Oh no... it's getting impatient... I'm going to have to... start fucking...",
+        "I stare blankly, all too aware of the filthy paws all over me and the {BEASTLY} {COCK} inside me.",
+        "I grind my hips {QUICK}ly, feeling the filthy fur against my thighs.",
+        "Aah ah... {SWEARING}... This thing's {COCK}... It feels... good...",
+        "I grind steadily on the monster's {BEASTLY} {COCK}, dizzy and light headed from the mix of sensations.",
+        "The {MONSTER} howls as my {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEASTLY} {COCK}."        
+    ],
+    "2nd Person" :
+    [
+        "{SWEARING}, this isn't real... you don't think you'll be able to get away... You'll have to {FUCK} it all the way...",
+        "Terror washes over you as the {MONSTER} takes hold, one massive claw cupping your breast.",
+        "Oh no... it's getting impatient... You're going to have to... start fucking...",
+        "You stare blankly, all too aware of the filthy paws all over you and the {BEASTLY} {COCK} inside you.",
+        "You grind your hips {QUICK}ly, feeling the filthy fur against your thighs.",
+        "({PRIMARY}) Aah ah... {SWEARING}... This thing's {COCK}... It feels... good...",
+        "You grind steadily on the monster's {BEASTLY} {COCK}, dizzy and light headed from the mix of sensations.",
+        "The {MONSTER} howls as your {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEASTLY} {COCK}." 
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} reaches up and grabs a handful of {PRIMARY}'s breast, bringing a deep {SCREAM} from her lips.",
+        "{PRIMARY}'s chest is flushed a deep pink. Has she already came, just from having its {COCK} inside her?",
+        "The sight of huge, {ROUGH} paws manhandling such {HEAVING} {BOOBS} is a real turn on..."
+    ]
+}

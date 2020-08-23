@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "At last, the monster starts to cum. I feel my stomach begin to swell with {THICK} {CUM}. Unexpectedly, it feels good.",
+        "Gods, it's {CUMMING}... My whole body burns with stress as the brute finishes in my {ASS}. This is... intense...",
+        "I feel spurt after spurt of the creature's {CUM} being driven deep into my {ASS}.",
+        "The {ACTIVE} twitches inside me and a warm sensation fills my belly, each thrust driving it deeper into me.",
+        "Ugh... ahhh... no.... at this rate... it's gonna make me... oh Gods... nnnnnnnnnnnnn... AAAAHHHH!",
+        "I'm impaled to the hilt, twitching balls pressed against my bare ass, and streams of {THICK} {CUM} running down my legs...",
+        "My whole body tenses shakes as the {ACTIVE} roars and explodes inside me."        
+    ],
+    "2nd Person" :
+    [
+        "At last, the monster starts to cum. You feel your stomach begin to swell with {THICK} {CUM}. Unexpectedly, it feels good.",
+        "Gods, it's {CUMMING}... Your whole body burns with stress as the brute finishes in your {ASS}. This is... intense...",
+        "You feel spurt after spurt of the creature's {CUM} being driven deep into your {ASS}.",
+        "The {ACTIVE} twitches inside you and a warm sensation fills your belly, each thrust driving it deeper into you.",
+        "Ugh... ahhh... no.... at this rate... it's gonna make you... oh Gods... nnnnnnnnnnnnn... AAAAHHHH!",
+        "You're impaled to the hilt, twitching balls pressed against your bare ass, and streams of {CUM} running down your legs...",
+        "Your whole body tenses shakes as the {ACTIVE} roars and explodes inside you." 
+    ],
+    "3rd Person" :
+    [
+        "There's a puddle of {CUM} beneath {PRIMARY}, {CUM} running out of her {ASS} and down her legs and belly.",
+        "Oh my, it's {CUMMING}! That brute is {CUMMING} in {PRIMARY}'s {ASS}!",
+        "{PRIMARY} almost seems relieved as the {ACTIVE} finishes in her {ASS}."
+    ]
+}

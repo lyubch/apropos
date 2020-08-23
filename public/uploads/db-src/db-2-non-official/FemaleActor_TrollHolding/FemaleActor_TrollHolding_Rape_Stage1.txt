@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} holds me aloft, pumping me quickly onto his {BEASTLY} {COCK}. I gaze up at it, terrified.",
+        "My {FLESH} goes completely {SUBMISSIVE} as I'm impaled on the {ACTIVE}'s {BEASTLY} {COCK}.",
+        "I let out a {LEWD} {SCREAM} as I am {RAP}ed on the {MONSTER}'s {COCK}.",
+        "My heart is racing, I can't escape, this {ACTIVE} can do whatever it wants to me.",
+        "I {SCREAM} as I am impaled on the {ACTIVE}. I didn't know I could take so much {COCK}."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} holds you aloft, pumping you quickly onto his {BEASTLY} {COCK}. You gaze up at it, terrified.",
+        "Your {FLESH} goes completely {SUBMISSIVE} as you're impaled on the {ACTIVE}'s {BEASTLY} {COCK}.",
+        "You let out a {LEWD} {SCREAM} as you are {RAP}ed on the {MONSTER}'s {COCK}.",
+        "Your heart is racing, you can't escape, this {ACTIVE} can do whatever it wants to you.",
+        "You {SCREAM} as you are impaled on the {ACTIVE}. You didn't know you could take so much {COCK}."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} holds {PRIMARY} aloft, pumping her quickly onto his {BEASTLY} {COCK}.",
+        "{PRIMARY}'s {FLESH} goes completely {SUBMISSIVE} as she's impaled on the {ACTIVE}'s {BEASTLY} {COCK}.",
+        "{PRIMARY} lets out a {LEWD} {SCREAM} as she's {RAP}ed on the {MONSTER}'s {COCK}."        
+    ]
+}

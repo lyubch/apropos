@@ -1,0 +1,14 @@
+{
+    "1st Person":
+    [
+        "I took a {LARGELOAD} load of {CUM} from {ACTIVE} in my {WTORAL} {MOUTH}!"
+    ],
+    "2nd Person":
+    [
+        "You took a {LARGELOAD} load of {CUM} from {ACTIVE} in your {WTORAL} {MOUTH}!"
+    ],
+    "3rd Person":
+    [
+        "{PRIMARY} took a {LARGELOAD} load of {CUM} from {ACTIVE} in her {WTORAL} {MOUTH}!"
+    ]
+}

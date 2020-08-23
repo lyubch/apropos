@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE2} pulls out, but {ACTIVE}'s {PENIS} never leaves me as we reposition.",
+        "Dropping to change positions, I lean forward to hungrily kiss {ACTIVE} as {ACTIVE2} lines up again.",
+        "I'm so turned on, my body overstimulated in all my holes. I'm just a {WHORE}.",
+        "I break {ACTIVE}'s kiss as {ACTIVE2}'s {PENIS} fucks into my {WTANAL} {ASS}, even deeper than before.",
+        "{ACTIVE2} fucks my {ASS} hard, as my {WTVAGINAL} {PUSSY} clenches hard around {ACTIVE}'s {PENIS}.",
+        "My legs are spread wide across the ground, and I'm pinned in place by two {HUGE} {COCK}s.",
+        "{ACTIVE} and I pump lazily together, his {COCK} deep inside me, but {ACTIVE2} is fucking my {ASS} hard and fast.",
+        "I can barely move against {ACTIVE} as {ACTIVE2} hammers into my {ASS} from above.",
+        "I want you to fuck both of my holes, all night long!",
+        "Give it to me, boys. Fill my {PUSSY} and {ASS} with {THICK} {CUM}!",
+        "Yes fuck me. Both of you. Double fuck this little {WHORE}.",
+        "({ACTIVE}) Yeah, take it up your {ASS} you fucking {WHORE}!",
+        "My {PUSSY} tightens, clamping down on {ACTIVE}'s {COCK} as I feel {ACTIVE2} pushing back inside my {ASS}."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE2} pulls out, but {ACTIVE}'s {PENIS} never leaves you as you reposition.",
+        "Dropping to change positions, you lean forward to hungrily kiss {ACTIVE} as {ACTIVE2} lines up again.",
+        "You're so turned on, your body overstimulated in all your holes. You're just a {WHORE}.",
+        "You break {ACTIVE}'s kiss as {ACTIVE2}'s {PENIS} fucks into your {WTANAL} {ASS}, even deeper than before.",
+        "{ACTIVE2} fucks your {ASS} hard, as your {WTVAGINAL} {PUSSY} clenches hard around {ACTIVE}'s {PENIS}.",
+        "Your legs are spread wide across the ground, and you're pinned in place by two {HUGE} {COCK}s.",
+        "You pump lazily with {ACTIVE}, his {COCK} deep inside you, but {ACTIVE2} is fucking your {ASS} hard and fast.",
+        "You can barely move against {ACTIVE} as {ACTIVE2} hammers into your {ASS} from above.",
+        "({PRIMARY}) I want you to fuck both of my holes, all night long!",
+        "({PRIMARY}) Give it to me, boys. Fill my {PUSSY} and {ASS} with {THICK} {CUM}!",
+        "({PRIMARY}) Yes fuck me. Both of you. Double fuck this little {WHORE}.",
+        "({ACTIVE}) Yeah, take it up your {ASS} you fucking {WHORE}!",
+        "Your {PUSSY} tightens, clamping down on {ACTIVE}'s {COCK} as you feel {ACTIVE2} pushing back inside your {ASS}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} keeping both of those {HUGE} {COCK}s to herself just seems greedy...",
+        "{ACTIVE2} is really fucking {PRIMARY}'s {ASS} hard. Can {ACTIVE} feel his {COCK} inside {PRIMARY}?",
+        "{PRIMARY} leans down, kissing {ACTIVE} passionately, breaking away to moan as her {ASS} is penetrated again."
+    ]
+}

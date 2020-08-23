@@ -1,0 +1,45 @@
+{
+    "1st Person" :
+    [
+        "I try to break away, but the huge claw around my neck holds me back and its {COCK} {PENETRAT}es into my {ASSHOLE}.",
+        "The {ACTIVE} holds me from behind, gripping my hip as it {FUCK}s my {WTANAL} {ASSHOLE} quickly from behind.",
+        "I hear the {ACTIVE} snarling at my ear and feel its breath quicken as it {RAP}es my {WTANAL} {ASSHOLE}.",
+        "I {STRUGGLE} with both hands to free myself, but the {ACTIVE} is far too strong for me...",
+        "My feet scrape at the hard ground, driven by {FEAR} and the {PAIN} of the {MONSTER}'s {COCK} in my {ASSHOLE}.",
+        "The {ACTIVE}'s hard strokes push deep into me, forcing my body up into tip toes with each stroke.",
+        "Held painfully by the {MONSTER}'s wicked claws, I feel my {BUTTOCKS} spread {ROUGH}ly as it enters me from behind.",
+        "I tense, feeling immense pressure at my {ASSHOLE}, followed by a sharp {PAIN} as the bulge forces its way inside.",
+        "I {SCREAM} as the {COCKHEAD} nestles between my {BUTTOCKS}. Roughly he {INSERT}s the {COCKHEAD} inside.",
+        "The {ACTIVE} {SLOW}ly {INSERT}s his {COCK} past my {ASSHOLE} and inside. I {SCREAM} in {PAIN}.",
+        "Please don't kill me... I'll {ACCEPT} your knot all the way if you let me live...",
+        "Please! Not like this! (sob) No... {PLEADING}...",
+        "Please! At least change back to a human first! Ahhh! {PLEADING}! I can't {FUCK} a monster...",
+        "I forget that my attacker is just a man, with a man's perversions, and he takes me in the {ASSHOLE}.",
+        "{PLEADING}... not my {PUSSY}... I'll do anything... I'll... I'll... {ACCEPT} it in my {ASSHOLE}!"                
+    ],
+    "2nd Person" :
+    [
+        "You try to break away, but the huge claw around your neck holds you back and its {COCK} {PENETRAT}es into your {ASSHOLE}.",
+        "The {ACTIVE} holds you from behind, gripping your hip as it {FUCK}s your {WTANAL} {ASSHOLE} quickly from behind.",
+        "You hear the {ACTIVE} snarling at your ear and feel its breath quicken as it {RAP}es your {WTANAL} {ASSHOLE}.",
+        "You {STRUGGLE} with both hands to free yourself, but the {ACTIVE} is far too strong for you...",
+        "Your feet scrape at the hard ground, driven by {FEAR} and the {PAIN} of the {MONSTER}'s {COCK} in your {ASSHOLE}.",
+        "The {ACTIVE}'s hard strokes push deep into you, forcing your body up into tip toes with each stroke.",
+        "Held painfully by the {MONSTER}'s wicked claws, you feel your {BUTTOCKS} spread {ROUGH}ly as it enters you from behind.",
+        "You tense, feeling immense pressure at your {ASSHOLE}, followed by a sharp {PAIN} as the bulge forces its way inside.",
+        "You {SCREAM} as the {COCKHEAD} nestles between your {BUTTOCKS}. Roughly he {INSERT}s the {COCKHEAD} inside.",
+        "The {ACTIVE} {SLOW}ly {INSERT}s his {COCK} past your {ASSHOLE} and inside. You {SCREAM} in {PAIN}.",
+        "({PRIMARY}) Please don't kill me... I'll {ACCEPT} your knot all the way if you let me live...",
+        "({PRIMARY}) Please! Not like this! (sob) No... {PLEADING}...",
+        "({PRIMARY}) Please! At least change back to a human first! Ahhh! {PLEADING}! I can't {FUCK} a monster...",
+        "You forget that your attacker is just a man, with a man's perversions, and he takes you in the {ASSHOLE}.",
+        "({PRIMARY}) {PLEADING}... not my {PUSSY}... I'll do anything... I'll... I'll... {ACCEPT} it in my {ASSHOLE}!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} struggles, but the {ACTIVE} has a firm grip on her.",
+        "{PRIMARY}'s eyes widen in {FEAR} as the {BEASTLY} {COCK} is thrust into her {WTANAL} {ASSHOLE}.",
+        "{PRIMARY} pulls in vain at the {ACTIVE}'s huge claw, wrapped around her tiny neck.",
+        "Oh my... It's {VILE} to see a girl like {PRIMARY} {RAP}ed and {FUCK}ed by a monster... But also..."
+    ]
+}

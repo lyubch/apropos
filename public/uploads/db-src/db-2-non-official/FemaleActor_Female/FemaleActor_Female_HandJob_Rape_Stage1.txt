@@ -1,0 +1,21 @@
+{
+    "1st Person" :
+    [
+        "Don't hurt me... Look, I'll do whatever you like... I'll make you feel good...",
+        "This {JERK} has beaten me, but it's not her ego she's interested in being stroked...",
+        "This {JERK}'s {STRAPON} is just plain intimidating! It has to be at least 8 inches, and it's quite thick...",
+        "I start slow, getting a feel of the {HUGE} {STRAPON} in my hand."        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Don't hurt me... Look, I'll do whatever you like... I'll make you feel good.",
+        "This {JERK} has beaten you, but it's not her ego she's interested in being stroked..",
+        "This {JERK}'s {STRAPON} is just plain intimidating! It has to be at least 8 inches, and it's quite thick.",
+        "You start slow, getting a feel of the {HUGE} {STRAPON} in your hand."
+    ],
+    "3rd Person" :
+    [
+        "({PRIMARY}) Don't hurt me... Look, I'll do whatever you like... I'll make you feel good...",
+        "That brute has beaten {PRIMARY}, but it's not her ego she's interested in being stroked..."
+    ]
+}

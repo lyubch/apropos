@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "Both hands go to the {ACTIVE}'s chest now as I struggle to break free.",
+        "More and more of the {ACTIVE}'s {PENIS} pushes inside me, stretching me further than I thought I could.",
+        "My efforts aren't even slowing the {ACTIVE} down, and he fucks me with impunity.",
+        "The {ACTIVE} starts to pump me up and down on his {PENIS}, spreading me wide as I moan and gasp.",
+        "The incredible wetness of my {PUSSY} yields, despite the {ACTIVE}'s incredible girth.",
+        "My mouth hangs open in a silent scream as the massive crown moves past my lips, and into my body!",
+        "I surrender, no more! Let me live, and I'll take your whole {PENIS}... somehow...",
+        "My eyes roll back into my head as the {ACTIVE}'s {BEAST} {PENIS} slowly penetrates me.",
+        "Slowly, agonisingly, I watch my body accept his, his immense size bulging my flat tummy.",
+        "How much have I taken? It feels like there's so much inside of me...",
+        "I moan as the {ACTIVE}'s {BEAST} {PENIS} fills me. It's as thick as my leg...",
+        "I squeal, struggling to comprehend how the monster's {PENIS} is actually fitting inside me...",
+        "The {ACTIVE} forces himself as far into me as I can manage. My whole body is tense with the strain."        
+    ],
+    "2nd Person" :
+    [
+        "Both hands go to the {ACTIVE}'s chest now as you struggle to break free.",
+        "More and more of the {ACTIVE}'s {PENIS} pushes inside you, stretching you further than you thought you could.",
+        "Your efforts aren't even slowing the {ACTIVE} down, and he fucks you with impunity.",
+        "The {ACTIVE} starts to pump you up and down on his {PENIS}, spreading you wide as you moan and gasp.",
+        "The incredible wetness of your {PUSSY} yields, despite the {ACTIVE}'s incredible girth.",
+        "Your mouth hangs open in a silent scream as the massive crown moves past your lips, and into your body!",
+        "({PRIMARY}) I surrender, no more! Let me live, and I'll take your whole {PENIS}... somehow...",
+        "Your eyes roll back into your head as the {ACTIVE}'s {BEAST} {PENIS} slowly penetrates you.",
+        "Slowly, agonisingly, you watch your body accept his, his immense size bulging your flat tummy.",
+        "How much have you taken? It feels like there's so much inside of you...",
+        "You moan as the {ACTIVE}'s {BEAST} {PENIS} fills you. It's as thick as your leg...",
+        "You squeal, struggling to comprehend how the monster's {PENIS} is actually fitting inside you...",
+        "The {ACTIVE} forces himself as far into you as you can manage. Your whole body is tense with the strain."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} screams horribly as her {PUSSY} parts and over a foot of {COCK} pushes inside.",
+        "{PRIMARY} keeps struggling, but it's no use now. The {ACTIVE} is already fucking her.",
+        "{PRIMARY} pushes and claws at the {ACTIVE}'s chest, as more and more {COCK} disappears between her legs."
+    ]
+}

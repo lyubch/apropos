@@ -1,0 +1,31 @@
+{
+    "1st Person": [
+        "The {ACTIVE} holds my legs firmly, and I have no choice but to lower myself onto him.",
+        "Reluctantly I spread myself and drop down onto the {ACTIVE}'s {COCK}, taking only the head for now...",
+        "The {ACTIVE} stares up at me, his gaze powerful and commanding. I'm scared, and a little turned on.",
+        "I timidly spread my legs, and push the head of his {COCK} way up my {PUSSY}.",
+        "I feel his {HUGE} {PENIS} pushing against my {PUSSY}. I open my legs wider, hoping it will hurt less..",
+        "I promise I'll do whatever you ask if you don't hurt me...",
+        "{ACTIVE} pulls my panties down and off my legs, before grabbing my struggling ankles and spreading me.",
+        "I feel my legs yanked apart, and feel a {HUGE} {PENIS} push insistently into my {PUSSY}.",
+        "I'm disgusted by my body's traitorous response, my {PUSSY} throbbing in anticipation."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} holds your legs firmly, and you have no choice but to lower yourself onto him.",
+        "Reluctantly you spread yourself and drop down onto the {ACTIVE}'s {COCK}, taking only the head for now...",
+        "The {ACTIVE} stares up at you, his gaze powerful and commanding. You're scared, and a little turned on.",
+        "You timidly spread your legs, and push the head of his {COCK} way up your {PUSSY}.",
+        "You feel his {HUGE} {PENIS} pushing against your {PUSSY}. You open your legs wider, hoping it will hurt less..",
+        "({PRIMARY}) I promise I'll do whatever you ask if you don't hurt me...",
+        "{ACTIVE} pulls your panties down and off your legs, before grabbing your struggling ankles and spreading you.",
+        "You feel your legs yanked apart, and feel a {HUGE} {PENIS} push insistently into your {PUSSY}.",
+        "You're disgusted by your body's traitorous response, your {PUSSY} throbbing in anticipation."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is obviously scared, but still spreads her {PUSSY} and lowers herself onto the {ACTIVE}.",
+        "The {ACTIVE} holds {PRIMARY}'s legs, stopping her from fleeing. Slowly, she lowers herself.",
+        "({PRIMARY}) No... (sob) It's too big! I'll never be able to take it...",
+        "({ACTIVE}) You can either climb on and fuck me, or we'll let my dog fuck you. Your choice.",
+        "{PRIMARY} grimaces as the {ACTIVE}'s {PENIS} spreads open her {PUSSY}."
+    ]
+}

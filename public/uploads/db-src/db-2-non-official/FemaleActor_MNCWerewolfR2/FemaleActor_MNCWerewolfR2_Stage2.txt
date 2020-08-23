@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "I drop to my knees, ready to {ACCEPT} the {ACTIVE}'s {BEASTLY} {BEASTCOCK} in my {MOUTH}...",
+        "{SWEARING}! The sheer {GIRTH} of the {BEASTLY} {BEASTCOCK} scares me a little. I'm not sure I can do this...",
+        "The {ACTIVE}'s breath at my ear, panting and ragged, is turning me on, and I feel my {PUSSY} {FAROUSAL}.",
+        "I reach out to the {MONSTER}'s solid, muscled stomach, and my {BOOBS} flush, nipples standing erect.",
+        "I stare at the {BEASTLY} {BEASTCOCK} before me, trying to summon the courage to {ACCEPT} it in my {MOUTH}.",
+        "The {ACTIVE} pushes me to my knees, and I comply. I guess he wants me {SUCK}ing his {BEASTCOCK}?",
+        "You like to {FUCK} human girls? You mean bestiality? (giggle) Who's into that sick stuff?",
+        "I can see some women's {LOVE} for werewolves... Just look at the {GIRTH} of his {BEASTCOCK}!"
+    ],
+    "2nd Person": [
+        "You drop to your knees, ready to {ACCEPT} the {ACTIVE}'s {BEASTLY} {BEASTCOCK} in your {MOUTH}...",
+        "{SWEARING}! The sheer {GIRTH} of the {BEASTLY} {BEASTCOCK} scares you a little. You're not sure you can do this...",
+        "The {ACTIVE}'s breath at your ear, panting and ragged, is turning you on, and you feel your {PUSSY} {FAROUSAL}.",
+        "You reach out to the {MONSTER}'s solid, muscled stomach, and your {BOOBS} flush, nipples standing erect.",
+        "You stare at the {BEASTLY} {BEASTCOCK} before you, trying to summon the courage to {ACCEPT} it in your {MOUTH}.",
+        "The {ACTIVE} pushes you to your knees, and you comply. You guess he wants you to suck his {BEASTCOCK}?",
+        "({PRIMARY}) You like to {FUCK} human girls? You mean bestiality? (giggle) Who's into that sick stuff?",
+        "You can see some women's {LOVE} for werewolves... Just look at the {GIRTH} of his {BEASTCOCK}!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} drops to her knees, ready to {ACCEPT} the {ACTIVE}'s {BEASTLY} {BEASTCOCK} in her {MOUTH}...",
+        "{SWEARING}! The sheer {GIRTH} of the {BEASTLY} {BEASTCOCK} scares {PRIMARY} a little. She's not sure she can do this...",
+        "The {ACTIVE}'s breath at your ear, panting and ragged, is turning {PRIMARY} on, and she feels her {PUSSY} {FAROUSAL}.",
+        "{PRIMARY} reaches out to the {MONSTER}'s solid, muscled stomach, and her {BOOBS} flush, nipples standing erect.",
+        "{PRIMARY} stares at the {BEASTLY} {BEASTCOCK} before you, trying to summon the courage to {ACCEPT} it in her {MOUTH}.",
+        "The {ACTIVE} pushes {PRIMARY} to her knees, and she complies. She guesses he wants her to suck his {BEASTCOCK}?",
+        "({PRIMARY}) You like to {FUCK} human girls? You mean bestiality? (giggle) Who's into that sick stuff?",
+        "{PRIMARY} can see some women's {LOVE} for werewolves... Just look at the {GIRTH} of his {BEASTCOCK}!"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "1st Person": [
+        "Oh Gods, no! He's {CUMMING} inside me! Nngh! There's so much!",
+        "The {ACTIVE}'s thrusts start to slow down. I know what's about to happen, but it's too late to stop it.",
+        "After such a hard fuck, and now feeling {CUM} coating my insides, I can't help but cum.",
+        "Please, I beg, unsure any more what I'm asking for. {ACTIVE} thrusts inside my body and cums.",
+        "({ACTIVE}) We're gonna have to fuck you again and again until you're knocked up!",
+        "Please... not in my {PUSSY}... You can cum in my {MOUTH}... my {ASS}... Anywhere else... just... AHHHH!",
+        "No, please! Don't cum inside me! I beg and wail, but it's no use.",
+        "Oohh Gods... that's a lot of {CUM}..."
+    ],
+    "2nd Person": [
+        "Oh Gods, no! He's {CUMMING} inside you! Nngh! There's so much!",
+        "The {ACTIVE}'s thrusts start to slow down. You know what's about to happen, but it's too late to stop it.",
+        "After such a hard fuck, and now feeling {CUM} coating your insides, you can't help but cum.",
+        "Please, you beg, unsure any more what you're asking for. {ACTIVE} thrusts inside your body and cums.",
+        "({ACTIVE}) We're gonna have to fuck you again and again until you're knocked up!",
+        "({PRIMARY}) Please... not in my {PUSSY}... You can cum in my {MOUTH}... my {ASS}... Anywhere else... AHHHH!",
+        "No, please! Don't cum inside me! You beg and wail, but it's no use.",
+        "Oohh Gods... that's a lot of {CUM}..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} throws his head back, his thrusts slow and deep. He must be {CUMMING} inside her!",
+        "{PRIMARY} starts sobbing, her whole body spasming and shaking. Oh my, is she cumming?",
+        "({PRIMARY}) No, please! Don't cum inside m... AAAH! Oh Gods! (sob) No! You bastard!",
+        "({ACTIVE}) Don't worry about getting pregnant, {BITCH}, you can just tell your boyfriend it's his!"
+    ]
+}

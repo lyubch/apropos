@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "My legs are spread, giving the {MONSTER} a clear line into my {FAROUSAL} {PUSSY}, letting it {FUCK} me quickly and deeply.",
+        "My fingers go to my breast and my pussy, the deep {FUCK}ing taking my breath away, making me cum.",
+        "The entire length of the {BEASTLY} {COCK} is sliding in and out of me now, and I feel my own heat rising.",
+        "I'm shocked by what's running through my head; To be {RAP}ed with such violence, it's so {LEWD}.",
+        "At least 18 inches of troll {COCK} is {INSERT}ing into me, and still I want more, I want it to {FUCK} right up inside my womb!",
+        "I almost pass out as a sense of {LUST} washes over me, the troll still {FUCK}ing my {FAROUSAL} {PUSSY}."
+    ],
+    "2nd Person": [
+        "Your legs are spread, giving the {MONSTER} a clear line into your {FAROUSAL} {PUSSY}, letting it {FUCK} you quickly and deeply.",
+        "Your fingers go to your breast and your pussy, the deep {FUCK}ing taking your breath away, making you cum.",
+        "The entire length of the {BEASTLY} {COCK} is sliding in and out of you now, and you feel your own heat rising.",
+        "You're shocked by what's running through your head; To be {RAP}ed with such violence, it's so {LEWD}.",
+        "At least 18 inches of troll {COCK} is {INSERT}ing into you, and still you want it to {FUCK} right up inside your womb!",
+        "You almost pass out as a sense of {LUST} washes over you, the troll still {FUCK}ing your {FAROUSAL} {PUSSY}."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s legs are spread, giving the {MONSTER} a clear line into her {FAROUSAL} {PUSSY}, letting it {FUCK} her quickly and deeply.",
+        "{PRIMARY}'s fingers go to her breast and her pussy, the deep {FUCK}ing taking her breath away, making her cum.",
+        "The entire length of the {BEASTLY} {COCK} is sliding in and out of {PRIMARY} now, and she feels her own heat rising.",
+        "{PRIMARY} is shocked by what's running through her head; To be {RAP}ed with such violence, it's so {LEWD}.",
+        "At least 18 inches of troll {COCK} is {INSERT}ing into {PRIMARY}, and still she wants it to {FUCK} right up inside her womb!",
+        "{PRIMARY} almost passes out as a sense of {LUST} washes over her, the troll still {FUCK}ing her {FAROUSAL} {PUSSY}."
+    ]
+}

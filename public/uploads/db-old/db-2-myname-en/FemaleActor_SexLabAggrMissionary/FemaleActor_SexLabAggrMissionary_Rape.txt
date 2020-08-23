@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "The {ACTIVE} forces me to the ground, his hands round my neck. I struggle to breathe as he rapes me.",
+        "I try desperately to push the {ACTIVE} off me, but he's too strong, and he starts to fuck me.",
+        "The {ACTIVE}'s hands are around my throat and his {PENIS} is between my legs... I feel so helpless...",
+        "({ACTIVE}) I'm gonna kill you, {BITCH}, then I'm gonna keep fucking our corpse!",
+        "The {ACTIVE} thumps me into the ground while fucking me. I'm seeing stars, and can't fight back.",
+        "{ACTIVE} holds me down and enters me, as I struggle vainly under his huge hands.",
+        "I cry out in pain as {ACTIVE} jams his {PENIS} inside my {WTVAGINAL} {PUSSY}.",
+        "As I am beaten to the ground and brutally raped, I start to sob and whine at the injustice.",
+        "I struggle with {ACTIVE}, trying to push him off. Please... No.... AHHHHH!",
+        "({ACTIVE}) Hold her down, spread her legs!",
+        "All fight is knocked from me as his {PENIS} suddenly thrusts into me."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} forces you to the ground, his hands round your neck. You struggle to breathe as he rapes you.",
+        "You try desperately to push the {ACTIVE} off you, but he's too strong, and he starts to fuck you.",
+        "The {ACTIVE}'s hands are around your throat and his {PENIS} is between your legs... You feel so helpless...",
+        "({ACTIVE}) I'm gonna kill you, {BITCH}, then I'm gonna keep fucking our corpse!",
+        "The {ACTIVE} thumps you into the ground while fucking you. You're seeing stars, and can't fight back.",
+        "{ACTIVE} holds you down and enters you, as you struggle vainly under his huge hands.",
+        "You cry out in pain as {ACTIVE} jams his {PENIS} inside your {WTVAGINAL} {PUSSY}.",
+        "As you're beaten to the ground and brutally raped, you start to sob and whine at the injustice.",
+        "You struggle with {ACTIVE}, trying to push him off.",
+        "({PRIMARY}) Please... No.... AHHHHH!",
+        "({ACTIVE}) Hold her down, spread her legs!",
+        "All fight is knocked from you as his {PENIS} suddenly thrusts into you."
+    ],
+    "3rd Person": [
+        "It's so violent, the {ACTIVE} choking the life from {PRIMARY} even while he fucks her {PUSSY}.",
+        "{PRIMARY} struggles, her eyes bugging out of her head as the {ACTIVE} strangles her.",
+        "{PRIMARY} lets out a grunt with every thrust into her {PUSSY}, as she's slammed into the ground.",
+        "The {ACTIVE}'s reputation for brutality is clearly well deserved, as he treats {PRIMARY} like garbage."
+    ]
+}

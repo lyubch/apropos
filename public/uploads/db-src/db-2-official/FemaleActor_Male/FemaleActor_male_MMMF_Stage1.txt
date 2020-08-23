@@ -1,0 +1,44 @@
+{
+    "1st Person": [
+        "They begin their assault on my body using their {COCK}s.",
+		"That's it, get me nice and wet so I can take both your {COCK}s!",
+        "I feel light headed... I can't believe two big guys are preparing me to fuck them both at the same time!",
+        "My eyes open in shock as all these {COCK}s begin their penetrations.",
+        "Oh Gods, this is happening! Am I really going to let these guys have sex with me all at the same time?",
+        "I urge them on, as they push their {COCK}s up into my {QUIVERING} body.",
+        "I'm pretty nervous at the prospect of having all of these {COCK}s inside me, fucking me... Oh Gods...",
+        "Pleasure runs up my spine as these guys shove their {COCK}s into my {QUIVERING} body.",
+        "Um... I don't know if I can do this... Maybe you could do me one at a time?",
+        "The {HORNY} men ram all of their {COCK}s into me with violent lunges.",
+        "Their {COCK}s brush against my body. A shudder shoots through my body.",
+        "(Men) Gonna fuck this {BITCH} up..."
+    ],
+    "2nd Person": [
+        "They begin their assault on your body using their {COCK}s.",
+        "({PRIMARY}) That's it, get me nice and wet so I can take all your {COCK}s!",
+        "You feel light headed... you can't believe these big guys are preparing you to fuck them both at the same time!",
+        "Oh Gods, this is happening! Are you really going to let all of these guys have sex with you at the same time?",
+        "You're pretty nervous at the prospect of having all of these {COCK}s inside you, fucking you... Oh Gods...",
+        "({PRIMARY}) Um... I don't know if I can do this... Maybe I could do you one at a time?",
+        "Your eyes open in shock as all these {COCK}s begin their penetrations.",
+        "You urge them on, as they push their {COCK}s up into your {QUIVERING} body.",
+        "Pleasure runs up your spine as these guys shove their {COCK}s into your {QUIVERING} body.",
+        "The {HORNY} men ram all of their {COCK}s into you with violent lunges.",
+        "Their {COCK}s brush against your body. A shudder shoots through you.",
+        "(Men) Gonna fuck this {BITCH} up...",
+        "You struggle, but they soon have their {COCK}s up inside your body."
+    ],
+    "3rd Person": [
+        "They begin their assault on {PRIMARY}'s body using their {COCK}s.",
+        "Is {PRIMARY} going to fuck them all, one after the other? Oh Gods, or all at once?",
+        "{PRIMARY}'s eyes open in shock as all these {COCK}s begin their penetrations.",
+        "{PRIMARY} urges them on, as they push their {COCK}s up into her {QUIVERING} body.",
+        "Pleasure runs up {PRIMARY}'s spine as these bastards shove their {COCK}s into her {QUIVERING} body.",
+        "The {HORNY} men ram all of their {COCK}s into {PRIMARY} with violent lunges.",
+        "Their {COCK}s brushes against {PRIMARY}'s body. A shudder shoots through her.",
+        "(Men) Gonna fuck this {BITCH} up...",
+        "{PRIMARY} mouns aloud as they start to push in.",
+        "They're far too big for {PRIMARY}, but that doesn't stop them from pushing their {COCK}s deep inside her.",
+        "They stretch {PRIMARY}'s body wide open, almost painfully wide as they push slowly inside her."
+    ]
+}

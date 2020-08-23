@@ -1,0 +1,49 @@
+{
+    "1st Person": [
+        "They begin their assault on my body using their {COCK}s.",
+        "My eyes open in shock as these two {COCK}s begin their penetrations.",
+        "I plead with them, as they push their {COCK}s up into my {QUIVERING} body.",
+        "Pain runs up my spine as these bastards shove their {COCK}s into my {QUIVERING} body.",
+        "The {HORNY} men ram all of their {COCK}s into me with violent lunges.",
+        "Their {COCK}s brush against my body. A shudder shoots through my body, as I realise their intentions.",
+        "My knees are weak and I'm too light headed to fight back. I can do nothing to prevent my rape.",
+        "Too exhausted to fight back, I slump to the ground, helpless.",
+        "I cry when the first guy violates me.",
+        "I struggle, but they soon have their {COCK}s in my body.",
+        "What the hell are you... No!",
+        "(Men) Gonna fuck this {BITCH} up...",
+        "No, please! It's so big I don't think it will fit!",
+        "I struggle, but they soon have their {COCK}s up inside my body."
+    ],
+    "2nd Person": [
+        "They begin their assault on your body using their {COCK}s.",
+        "Your eyes open in shock as these two {COCK}s begin their penetrations.",
+        "You plead with them, as they push their {COCK}s up into your {QUIVERING} body.",
+        "Pain runs up your spine as these bastards shove their {COCK}s into your {QUIVERING} body.",
+        "The {HORNY} men ram all of their {COCK}s into you with violent lunges.",
+        "Their {COCK}s brush against your body. A shudder shoots through my body, as you realise their intentions.",
+        "Your knees are weak and you're too light headed to fight back. You submit to your own rape.",
+        "You cry when the first guy violates me.",
+        "You struggle, but they soon have their {COCK}s in your body.",
+        "What the hell are you... No!",
+        "(Men) Gonna fuck this {BITCH} up...",
+        "You struggle, but they soon have their {COCK}s up inside your body."
+    ],
+    "3rd Person": [
+        "They begin their assault on {PRIMARY}'s body using their {COCK}s.",
+        "{PRIMARY}'s eyes open in shock as these two {COCK}s begin their penetrations.",
+        "{PRIMARY} pleads with them, as they push their {COCK}s up into her {QUIVERING} body.",
+        "Pain runs up {PRIMARY}'s spine as these bastards shove their {COCK}s into her {QUIVERING} body.",
+        "The {HORNY} men ram all of their {COCK}s into {PRIMARY} with violent lunges.",
+        "Their {COCK}s brushes against {PRIMARY}'s body. A shudder shoots through her body, as she realises their intentions.",
+        "{PRIMARY}'s knees are weak and she's too tired to fight back. She submits to her own rape.",       
+        "{PRIMARY} cries when the first guy violates her.",
+        "{PRIMARY} struggles, but they soon have their {COCK}s up inside her body.",
+        "({PRIMARY}) What the hell are you... No!",
+        "(Men) Gonna fuck this {BITCH} up...",
+        "{PRIMARY} clenches her teeth as they start to push in.",
+        "They're far too big for {PRIMARY}, but that doesn't stop them from pushing their {COCK}s deep inside her.",
+        "{PRIMARY} receives no mercy or pity as her attackers {HUGE} {COCK}s forcibly open her up.",
+        "They stretch {PRIMARY}'s body wide open, almost painfully wide as they push slowly inside her."
+    ]
+}

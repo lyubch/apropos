@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "{SWEARING}, I'm not sure if I can take this! A {COCK} this {GIRTH}, {FUCK}ing me so {ROUGH}ly...",
+        "The {ACTIVE} starts to {FUCK} me even faster, punishing my {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE}'s {COCK} is {BEASTLY}, I practically orgasm every time it pushes in and pulls out.",
+        "I {MOAN} as the {ACTIVE}'s {BEASTLY} {COCK} fills me. It's as thick as my leg...",
+        "Uuuhh... It's really {HUGE}...",
+        "Even though it's so painful, I'm so {AROUSED} I don't want it to stop.",
+        "{PLEADING}! I've changed my mind! I can't... Ngggg! I can't do this! It's too {HUGE}! Ahhh!",
+        "The {ACTIVE} continues to slam its {HUGE} {GIRTH} into me until I'm on the cusp of climax.",
+        "I {SCREAM}, struggling to comprehend how the monster's {COCK} is actually fitting inside me..."
+    ],
+    "2nd Person": [
+        "{SWEARING}, you're not sure if you can take this! A {COCK} this {GIRTH}, {FUCK}ing you so {ROUGH}ly...",
+        "The {ACTIVE} starts to {FUCK} you even faster, punishing your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE}'s {COCK} is {BEASTLY}, you practically orgasm every time it pushes in and pulls out.",
+        "You {MOAN} as the {ACTIVE}'s {BEASTLY} {COCK} fills you. It's as thick as your leg...",
+        "Uuuhh... It's really {HUGE}...",
+        "Even though it's so painful, you're so {AROUSED} you don't want it to stop.",
+        "({PRIMARY}) {PLEADING}! I've changed my mind! I can't... Ngggg! I can't do this! It's too {HUGE}! Ahhh!",
+        "The {ACTIVE} continues to slam its {HUGE} {GIRTH} into you until you're on the cusp of climax.",
+        "You {SCREAM}, struggling to comprehend how the monster's {COCK} is actually fitting inside you..."
+    ],
+    "3rd Person": [
+        "The {FUCK}ing is even faster now... Does {PRIMARY} really like that?",
+        "It's hard to believe that {PRIMARY} is getting off on that... Doesn't it hurt?",
+        "The look on {PRIMARY}'s face is hard to read... Is she hurt, or cumming?"
+    ]
+}

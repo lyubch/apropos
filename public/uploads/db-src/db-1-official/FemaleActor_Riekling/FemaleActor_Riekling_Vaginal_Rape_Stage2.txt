@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "Unable to overcome the {ACTIVE}'s surprising strength, I lie back and let him have his way with me.",
+        "I look away, sobbing, trying to distance myself from what's happening between my legs.",
+        "Ugh! No... Oh Gods! He's in! He's fucking me!",
+        "I give up the hope of escape and just fall back, letting the beast have its way with me.",
+        "A heartbeat later and he's between my legs, his {HUGE} {COCK} deep inside me.",
+        "No one's coming. I accept it, laying back to enjoy it.",
+        "I feel the large head of its {COCK} nuzzle between my lips, then the pressure builds until it enters me.",
+        "I let out a long cry as the {BEAST} {COCK} slides inside me.",
+        "A few heartbeats later and he's between my legs, his {BEAST} {COCK} deep inside me.",
+        "I grunt with each lung as he buries himself balls deep into my {FAROUSAL} {PUSSY}.",
+        "I let out a quiet moan as the {BEAST} {COCK} is inched deeper.",
+        "Anchoring himself against my toned leg, the {ACTIVE} enters me and starts fucking away.",
+        "From my back, I look around, trying to make sure no passerby discovers me like this."
+    ],
+    "2nd Person": [
+        "Unable to overcome the {ACTIVE}'s surprising strength, you lie back and let him have his way with you.",
+        "You look away, sobbing, trying to distance yourself from what's happening between your legs.",
+        "Ugh! No... Oh Gods! He's in! He's fucking you!'",
+        "You give up the hope of escape and just fall back, letting the beast have its way with you.",
+        "A heartbeat later and he's between your legs, his {HUGE} {COCK} deep inside you.",
+        "No one's coming. You accept it, laying back to enjoy it.",
+        "You feel the large head of its {COCK} nuzzle between your lips, then the pressure builds until it enters you.",
+        "You let out a long cry as the {BEAST} {COCK} slides inside you.",
+        "A few heartbeats later and he's between your legs, his {BEAST} {COCK} deep inside you.",
+        "You grunt with each lung as he buries himself balls deep into your {FAROUSAL} {PUSSY}.",
+        "You let out a quiet moan as the {BEAST} {COCK} is inched deeper.",
+        "Anchoring himself against your toned leg, the {ACTIVE} enters you and starts fucking away.",
+        "From your back, you look around, trying to make sure no passerby discovers you like this."
+    ],
+    "3rd Person": [
+        "Unable to overcome the {ACTIVE}'s surprising strength, {PRIMARY} lets him have his way with her.",
+        "{PRIMARY} looks away, sobbing, trying to distance herself from what's happening between her legs.",
+        "Ugh! No... Oh Gods! He's in! He's fucking {PRIMARY}!",
+        "{PRIMARY} gives up the hope of escape and just falls back, letting the beast have its way with her.",
+        "A heartbeat later and he's between {PRIMARY}'s legs, his {HUGE} {COCK} deep inside her.",
+        "The large head of its {COCK} nuzzles between {PRIMARY}'s lips, then the pressure builds until it enters her.",
+        "{PRIMARY} lets out a long cry as the {BEAST} {COCK} slides inside her."
+    ]
+}

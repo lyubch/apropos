@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "I'm sweating in fear and exertion, every deep stroke pushing my body to its limits.",
+        "I stare up at the {ACTIVE}, struggling to accept that this man is going to make me cum against my will.",
+        "({ACTIVE}) Ugh! Is that your cervix already? Well brace yourself, because we're not stopping there!",
+        "Reaching my womb, the {ACTIVE} starts to thrust hard and fast against my cervix, desperate to open me up",
+        "I can't help it, he's fucking me to orgasm, and I start to moan and thrash slowly.",
+        "I can't think straight... All I know is that this bastard is making me cum...",
+        "({ACTIVE}) You like it hard, don'cha you little {BITCH}?",
+        "The {ACTIVE} fucks into me with a mighty stroke, with the tip sticking into my cervix.",
+        "Naked and shivering, and a big fierce man dominating me... My {PUSSY} gushes even as I fill with shame.",
+        "The {ACTIVE} is riding me hard, driving his {HUGE} {PENIS} into me and making me gasp with each thrust."
+    ],
+    "2nd Person": [
+        "You're sweating in fear and exertion, every deep stroke pushing your body to its limits.",
+        "You stare up at the {ACTIVE}, struggling to accept that this man is going to make you cum against your will.",
+        "({ACTIVE}) Ugh! Is that your cervix already? Well brace yourself, because we're not stopping there!",
+        "Reaching your womb, the {ACTIVE} starts to thrust hard and fast against your cervix, desperate to open it up",
+        "You can't help it, he's fucking you to orgasm, and you start to moan and thrash slowly.",
+        "You can't think straight... All you know is that this bastard is making you cum...",
+        "({ACTIVE}) You like it hard, don'cha you little {BITCH}?",
+        "The {ACTIVE} fucks into you with a mighty stroke, with the tip sticking into your cervix.",
+        "Naked and shivering, and a big fierce man dominating you... Your {PUSSY} gushes even as you fill with shame.",
+        "The {ACTIVE} is riding you hard, driving his {HUGE} {PENIS} into you and making you gasp with each thrust."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s face is a mixture of lust and loathing now, as she stares intensely at the {ACTIVE}.",
+        "The {ACTIVE}'s body strains with effort, managing quick, punishing bursts of fast movement.",
+        "{PRIMARY} is starting to get really distressed, but it's not clear whether she's in pain or cumming...",
+        "How is the {ACTIVE} keeping up this brutal pace? And how is {PRIMARY} taking it?",
+        "Oh Gods, that looks so good. Will the {ACTIVE} be able to do it again straight afterwards?",
+        "The loud slapping of flesh on flesh echoes around, mixing with the {ACTIVE}'s grunts and {PRIMARY}'s screams."
+    ]
+}

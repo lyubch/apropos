@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "My disappointment when {ACTIVE} stops licking me turns to surprise when I feel his {COCK} enter me.",
+        "Ugh! {SWEARING}, I didn't say you could do that! Ahh ah! Well... it does feel pretty good...",
+        "I feel {ACTIVE}'s paw over my shoulder, and I reach back to guide his {COCK} into me.",
+        "Suddenly, {ACTIVE} is on top of me, {FUCK}ing me quickly. I'm already close to orgasm as I touch my clit.",
+        "Between the dog-{COCK} in my {PUSSY} and my fingers at my clit, I'm already about to {EJACULATE}.",
+        "I wonder how that {BEASTLY} red {COCK} tastes? Before I can {ACCEPT} it in my {MOUTH}, the {ANIMAL} begins to {BREED} me.",
+        "Hey boy, don't you want to give me your bone? I giggle as I reach for his {COCK}.",
+        "I feel {ACTIVE} joined to me, like we're connected. We're not just fucking, we're making love."
+    ],
+    "2nd Person": [
+        "Your disappointment when {ACTIVE} stops licking you turns to surprise when you feel his {COCK} enter you.",
+        "({PRIMARY}) Ugh! {SWEARING}, I didn't say you could do that! Ahh ah! Well... it does feel pretty good...",
+        "You feel {ACTIVE}'s paw over your shoulder, and you reach back to guide his {COCK} into you.",
+        "Suddenly, {ACTIVE} is on top of you, {FUCK}ing you. You're already close to orgasm as you touch your clit.",
+        "Between the dog-{COCK} in your {PUSSY} and your fingers at your clit, you're already about to {EJACULATE}.",
+        "You wonder how that {BEASTLY} red {COCK} tastes? Before you can {ACCEPT} it in your {MOUTH}, the {ANIMAL} mounts you.",
+        "({PRIMARY}) Hey boy, don't you want to give me your bone?",
+        "You feel {ACTIVE} joined to you, like you're connected. You're not just fucking, you're making love."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s disappointment when {ACTIVE} stops licking her turns to surprise when she feels his {COCK} enter her.",
+        "({PRIMARY}) Ugh! {SWEARING}, I didn't say you could do that! Ahh ah! Well... it does feel pretty good...",
+        "{PRIMARY} feels {ACTIVE}'s paw over her shoulder, and she reaches back to guide his {COCK} into her.",
+        "Suddenly, {ACTIVE} is on top of {PRIMARY}, {FUCK}ing her. She's already close to orgasm as she touches her clit.",
+        "Between the dog-{COCK} in {PRIMARY}'s {PUSSY} and her fingers at her clit, she's already about to {EJACULATE}.",
+        "{PRIMARY} wonders how that {BEASTLY} red {COCK} tastes? Before she can {ACCEPT} it in her {MOUTH}, the {ANIMAL} mounts her.",
+        "({PRIMARY}) Hey boy, don't you want to give me your bone?",
+        "{PRIMARY} feels {ACTIVE} joined to her, like they're connected. She's not just fucking, she's making love."
+    ]
+}

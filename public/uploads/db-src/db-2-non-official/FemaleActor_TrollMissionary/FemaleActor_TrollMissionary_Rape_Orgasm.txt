@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "Stars explode in my head and my vision is taken from me as the {ACTIVE} {PENETRAT}es my womb, filling it with {CUM}.",
+        "Every sudden, hard thrust into my {PUSSY} brings a new orgasm, threatening to drive all sense and rational thought away.",
+        "My {FLESH} tenses as the {ACTIVE} roars and {EJACULATE}s inside me.",
+        "I'm cumming as I'm being filled up!",
+        "The {COCK} explodes inside me, {EJACULATE}ing {HUGELOAD} loads of {THICK} {MONSTER}-{CUM} inside me with each eruption.",
+        "I {SCREAM} in {FEAR} as {LARGELOAD} quantities of {THICK} {CUM} escape my {WTVAGINAL} {PUSSY}."        
+    ],
+    "2nd Person" :
+    [
+        "Stars explode in your head and your vision is taken from you as the {ACTIVE} {PENETRAT}es your womb, filling it with {CUM}.",
+        "Every sudden, hard thrust into your {PUSSY} brings a new orgasm, threatening to drive all sense and rational thought away.",
+        "Your {FLESH} tenses as the {ACTIVE} roars and {EJACULATE}s inside you.",
+        "You're cumming as you're being filled up!",
+        "The {COCK} explodes inside you, {EJACULATE}ing {HUGELOAD} loads of {THICK} {MONSTER}-{CUM} inside you with each eruption.",
+        "You {SCREAM} in {FEAR} as {LARGELOAD} quantities of {THICK} {CUM} escape your {WTVAGINAL} {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s {FLESH} tenses as the {ACTIVE} roars and {EJACULATE}s inside her.",
+        "{PRIMARY}'s cumming as she's being filled up!",
+        "{PRIMARY} {SCREAM}s in {FEAR} as {LARGELOAD} quantities of {THICK} {CUM} escape her {WTVAGINAL} {PUSSY}." 
+    ]
+}

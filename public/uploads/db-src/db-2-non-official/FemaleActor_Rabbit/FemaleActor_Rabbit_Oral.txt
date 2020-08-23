@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "Curiously, the {ACTIVE} just sits upright as I approach. I {MOAN} as its {BEASTLY} {BEASTCOCK} is brought into view...",
+        "It's strange to see a {ACTIVE} stand it's ground when I approach... stranger still to see one with a {MAROUSAL} {BEASTCOCK}!",
+        "Oh to hell with it, I guess it's this {ACTIVE}'s lucky day.",
+        "Shamelessly, the {ACTIVE} {DISPLAY}s its {BEASTLY} {BEASTCOCK}. He is clearly in need of some attention...",
+        "The {ACTIVE}'s {BEASTCOCK} is hard it looks almost painful... I suppose I could help him out..."
+    ],
+    "2nd Person": [
+        "Curiously, the {ACTIVE} just sits upright as you approach. You {MOAN} as its {BEASTLY} {BEASTCOCK} is brought into view...",
+        "It's strange to see a {ACTIVE} stand it's ground when you approach... stranger still to see one with a {MAROUSAL} {BEASTCOCK}!",
+        "Oh to hell with it, you guess it's this {ACTIVE}'s lucky day.",
+        "Shamelessly, the {ACTIVE} {DISPLAY}s its {BEASTLY} {BEASTCOCK}. He is clearly in need of some attention...",
+        "The {ACTIVE}'s {BEASTCOCK} is hard it looks almost painful... You suppose you could help him out..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} sits down on it's haunches, {DISPLAY}ing its {BEASTLY}, {MAROUSAL} {COCK} to {PRIMARY}'s suprise.",
+        "{PRIMARY} warily approaches the {ACTIVE}, curious as to why it's not fleeing like it's kin. She blushes hard when it {DISPLAY}s itself."
+    ]
+}

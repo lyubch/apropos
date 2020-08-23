@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "Before I know it, I'm the one moving my body, fucking myself on the {ACTIVE}'s {BEAST} {PENIS}.",
+        "I'm this beast's {WHORE} now, and it knows it. I desperately fuck myself towards a mind-breaking climax.",
+        "Nghhh! Ahh! Please! Fuck me! Come on, you have me, what are you waiting for me! I'm so close...",
+        "The rough fucking becomes more pleasurable and I begin thrusting back, wanting to take it deeper.",
+        "I frantically thrust back into the beast's {BEAST} {COCK}, desperate to finish before I come to my senses.",
+        "The mixture of the physical sensations and the guilt of loving being fucked by a beast... I'm gonna cum..."        
+    ],
+    "2nd Person" :
+    [
+        "Before you know it, you're the one moving your body, fucking yourself on the {ACTIVE}'s {BEAST} {PENIS}.",
+        "You're this beast's {WHORE} now, and it knows it. You desperately fuck yourself towards a mind-breaking climax.",
+        "({PRIMARY}) Nghhh! Ahh! Please! Fuck me! Come on, you have me, what are you waiting for me! I'm so close...",
+        "The rough fucking becomes more pleasurable and you begin thrusting back, wanting to take it deeper.",
+        "You frantically thrust back into the beast's {BEAST} {COCK}, desperate to finish before you come to your senses.",
+        "The mixture of the physical sensations and the guilt of loving being fucked by a beast... You're gonna cum..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is this beast's {WHORE} now, that's clear to see. She's just a slave to its {COCK}.",
+        "It's clear now that {PRIMARY} is almost there as she pumps her {PUSSY} on her brutish lover's {COCK}.",
+        "{PRIMARY} has a vacant, faraway look on her face as she thrusts backwards. Has her mind broken?"
+    ]
+}

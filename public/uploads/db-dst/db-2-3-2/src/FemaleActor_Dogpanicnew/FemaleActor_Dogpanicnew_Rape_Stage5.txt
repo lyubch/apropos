@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "{ACTIVE} lets go of my hips again, but there's a part of me that no longer wants to escape.",
+        "{SWEARING}, surely he must be close by now? I'm not sure I can take this pace for much longer...",
+        "{SWEARING}, {ACTIVE}'s {COCK} is swelling inside me! URGHH! OWWW!",
+        "It takes quite a bit of force, but eventually {ACTIVE} gets his entire knot in me."
+    ],
+    "2nd Person": [
+        "{ACTIVE} lets go of your hips again, but there's a part of you that no longer wants to escape.",
+        "{SWEARING}, surely he must be close by now? You're not sure you can take this pace for much longer...",
+        "{SWEARING}, {ACTIVE}'s {COCK} is swelling inside you! URGHH! OWWW!",
+        "It takes quite a bit of force, but eventually {ACTIVE} gets his entire knot in you."
+    ],
+    "3rd Person": [
+        "{ACTIVE}'s stamina is impressive. {PRIMARY} looks like she's about to faint any moment.",
+        "{ACTIVE} continues to {FUCK} {LEWD}ly into {PRIMARY}. He must be about to {EJACULATE} soon... Right?"
+    ]
+}

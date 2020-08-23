@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "The {ACTIVE} is {HORNY}... I raise my {ASSHOLE} to its {COCK}, trying to calm it down.",
+        "My knees {QUIVER} as I back up to the berserk {ANIMAL}'s {COCK}, lining it up with my {ASSHOLE}.",
+        "My head low, I grit my teeth as the {ACTIVE}'s {HUGE} {COCKHEAD} spreads my {WTANAL} {ASSHOLE}.",
+        "I brace myself underneath the {ANIMAL}, holding its leg and spreading my toes for leverage. This will hurt...",
+        "I reach between my legs and guide the {BEASTLY} {COCKHEAD} to my {ASSHOLE} myself, hoping it will hurt less...",
+        "Ugh... Ngh... AH! It's in...",
+        "Slowly, an inch at a time, the inhumanly {HUGE} {COCK} {PENETRAT}es into my {QUIVER}ing body..."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} is {HORNY}... You raise your {ASSHOLE} to its {COCK}, trying to calm it down.",
+        "Your knees {QUIVER} as you back up to the berserk {ANIMAL}'s {COCK}, lining it up with your {ASSHOLE}.",
+        "Your head low, you grit your teeth as the {ACTIVE}'s {HUGE} {COCKHEAD} spreads your {WTANAL} {ASSHOLE}.",
+        "You brace yourself underneath the {ANIMAL}, holding on and spreading your toes for leverage. This will hurt...",
+        "You reach between your legs and guide the {BEASTLY} {COCKHEAD} to your {ASSHOLE} myself, hoping it will hurt less...",
+        "Ugh... Ngh... AH! It's in...",
+        "Slowly, an inch at a time, the inhumanly {HUGE} {COCK} {PENETRAT}es into your {QUIVER}ing body..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} is {HORNY}... {PRIMARY} raises her {ASSHOLE} to its {COCK}, trying to calm it down.",
+        "{PRIMARY}'s knees {QUIVER} as she backs up to the berserk {ANIMAL}'s {COCK}, lining it up with her {ASSHOLE}.",
+        "{PRIMARY}'s head low, she grits her teeth as the {ACTIVE}'s {HUGE} {COCKHEAD} spreads her {WTANAL} {ASSHOLE}.",
+        "{PRIMARY} braces herself underneath the {ANIMAL}, holding on and spreading her toes for leverage. This will hurt...",
+        "{PRIMARY} reaches between her legs and guide the {BEASTLY} {COCKHEAD} to her {ASSHOLE} myself, hoping it will hurt less...",
+        "Ugh... Ngh... AH! It's in...",
+        "Slowly, an inch at a time, the inhumanly {HUGE} {COCK} {PENETRAT}es into {PRIMARY}'s {QUIVER}ing body..."
+    ]
+}

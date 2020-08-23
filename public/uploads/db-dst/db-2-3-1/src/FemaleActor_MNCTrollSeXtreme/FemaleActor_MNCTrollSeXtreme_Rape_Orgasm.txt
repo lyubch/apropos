@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "I look up at my {ROUGH} lover, terrified and {HORNY} for the sound of its roar and the feeling of its climax.",
+        "The monster bellows as it slams into me, impossibly deep, eager to push its {THICK} {CUM} far enough to get me pregnant.",
+        "I can't help but fondle myself as the {MONSTER} cums, and part of me hopes that it's not over yet...",
+        "A constant stream of {CUM} drips from between my legs, and I know an {HUGELOAD} amount remains inside me.",
+        "The {COCK} explodes inside me, {EJACULATE}ing {HUGELOAD} loads of {THICK} {MONSTER}-{CUM} inside me with each eruption.",
+        "I {SCREAM} in {FEAR} as {LARGELOAD} quantities of {THICK} {CUM} escape my {WTVAGINAL} {PUSSY}.",
+        "There's a puddle of {CUM} beneath me, and the {CUM} in my {WTVAGINAL} {PUSSY} is now running down my legs."        
+    ],
+    "2nd Person" :
+    [
+        "You look up at your {ROUGH} lover, terrified and {HORNY} for the sound of its roar and the feeling of its climax.",
+        "The monster bellows as it slams into you, impossibly deep, eager to push its {THICK} {CUM} far enough to get you pregnant.",
+        "You can't help but fondle yourself as the {MONSTER} cums, and part of you hopes that it's not over yet...",
+        "A constant stream of {CUM} drips from between your legs, and you know an {HUGELOAD} amount remains inside you.",
+        "The {COCK} explodes inside you, {EJACULATE}ing {HUGELOAD} loads of {THICK} {MONSTER}-{CUM} inside you with each eruption.",
+        "You {SCREAM} in {FEAR} as {LARGELOAD} quantities of {THICK} {CUM} escape your {WTVAGINAL} {PUSSY}.",
+        "There's a puddle of {CUM} beneath you, and the {CUM} in your {WTVAGINAL} {PUSSY} is now running down your legs."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} looks up at her {ROUGH} lover, terrified and {HORNY} for the sound of its roar and the feeling of its climax.",
+        "The monster bellows as it slams into {PRIMARY}, impossibly deep, eager to push its {THICK} {CUM} far enough to get her pregnant.",
+        "{PRIMARY} can't help but fondle herself as the {MONSTER} cums, and part of her hopes that it's not over yet...",
+        "A constant stream of {CUM} drips from between {PRIMARY}'s legs, and she knows an {HUGELOAD} amount remains inside her.",
+        "The {COCK} explodes inside {PRIMARY}, {EJACULATE}ing {HUGELOAD} loads of {THICK} {MONSTER}-{CUM} inside her with each eruption.",
+        "{PRIMARY} {SCREAM}s in {FEAR} as {LARGELOAD} quantities of {THICK} {CUM} escape her {WTVAGINAL} {PUSSY}.",
+        "There's a puddle of {CUM} beneath {PRIMARY}, and the {CUM} in her {WTVAGINAL} {PUSSY} is now running down her legs."
+    ]
+}

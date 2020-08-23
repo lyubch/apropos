@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} begins to fuck me hard, really hard, all the way to the knot. He's trying to get it in...",
+        "I hunch my shoulders and kick my feet up, focusing on the deep hard fucking that's going to make me cum.",
+        "The frantic fucking is making my {BOOBS} shake, slapping the ground and coating me in dirt.",
+        "The pace is amazing, and from the sounds of {ACTIVE}'s breathing, he's going to cum inside me soon...",
+        "Oh gosh, I shouldn't be having sex with a dog, but he sure knows how to hit it...",
+        "He's going so fast... he's being too rough...",
+        "My {PUSSY} is being fucked hard with a load of iron-hard, {BEAST} doggy-{COCK}.",
+        "I imagine how much {CUM} he's about to put into my {FAROUSAL} {PUSSY}."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} begins to fuck you hard, really hard, all the way to the knot. He's trying to get it in...",
+        "You hunch your shoulders and kick your feet up, focusing on the deep fucking that's going to make you cum.",
+        "The frantic fucking is making your {BOOBS} shake, slapping the ground and coating you in dirt.",
+        "The pace is amazing, and from the sounds of {ACTIVE}'s breathing, he's going to cum inside you soon...",
+        "Oh gosh, you shouldn't be having sex with a dog, but he sure knows how to hit it...",
+        "He's going so fast... he's being too rough...",
+        "Your {PUSSY} is being fucked hard with a load of iron-hard, {BEAST} doggy-{COCK}.",
+        "You imagine how much {CUM} he's about to put into your {FAROUSAL} {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} starts to go crazy, fucking into {PRIMARY} with intense, brutal strokes.",
+        "The tension in {PRIMARY}'s neck and shoulders is clear as {ACTIVE} fucks her to orgasm.",
+        "{PRIMARY} is panting even louder than {ACTIVE} now. That must be one hell of a good fuck.",
+        "It's not going to be long before {ACTIVE} starts to cum inside {PRIMARY}..."
+    ]
+}

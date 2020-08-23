@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I grind my hips briskly, feeling the filthy fur against my thighs.",
+        "Aah ah... Oh my goodness... This thing's {COCK}... It feels... good...",
+        "I grind steadily on the monster's {BEAST} {COCK}, dizzy and light headed from the mix of sensations.",
+        "Oh Gods...! Ahh... I've underestimated this brute, I'm already about to cum!",
+        "The creature reaches out, and I thrill at the rough treatment as it gropes and manhandles my {HEAVING} {BOOBS}.",
+        "I'm shocked to find that I'm actually relishing the creature's attention."
+    ],
+    "2nd Person": [
+        "You grind your hips briskly, feeling the filthy fur against your thighs.",
+        "({PRIMARY}) Aah ah... Oh my goodness... This thing's {COCK}... It feels... good...",
+        "You grind steadily on the monster's {BEAST} {COCK}, dizzy and light headed from the mix of sensations.",
+        "Oh Gods...! Ahh... You've underestimated this brute, I'm already about to cum!",
+        "The creature reaches out, and you thrill at the rough treatment as it gropes and manhandles your {HEAVING} {BOOBS}.",
+        "You're shocked to find that you're actually relishing the creature's attention."
+    ],
+    "3rd Person": [
+        "{PRIMARY} grinds her hips briskly, feeling the filthy fur against her thighs.",
+        "({PRIMARY}) Aah ah... Oh my goodness... This thing's {COCK}... It feels... good...",
+        "{PRIMARY} grinds steadily on the monster's {BEAST} {COCK}, dizzy and light headed from the mix of sensations.",
+        "Oh Gods...! Ahh... {PRIMARY} has underestimated this brute, I'm already about to cum!",
+        "The creature reaches out, and {PRIMARY} thrills at the rough treatment as it gropes and manhandles her {HEAVING} {BOOBS}.",
+        "{PRIMARY} is shocked to find that she's actually relishing the creature's attention."
+    ]
+}

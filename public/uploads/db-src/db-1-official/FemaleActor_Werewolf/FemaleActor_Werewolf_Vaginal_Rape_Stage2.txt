@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "I cry out, and looking down I can see my stomach distending to accommodate his incredible size.",
+        "The beast's angry red {COCK} spears me painfully, opening me up until my toes cramp from curling.",
+        "The {ACTIVE} growls in frustration as he smashes up against my cervix again. Will it... enter?",
+        "His {COCK} bottoms out against my cervix, leaving vital inches of knot outside of my {PUSSY}.",
+        "why is it so huge? And these bumps... this thing is just too much...",
+        "{ACTIVE} is opening me up like never before, hurting me and making my {PUSSY} gush all at once.",
+        "The beast savagely fucks his angry red {COCK} into my {WTVAGINAL} {PUSSY}.",
+        "The beast's {BEAST] knot slaps wetly at the entrance to my {FAROUSAL} {PUSSY}.",
+        "The knot pushes at my {PUSSY}. I clench my thighs, struggling to deny it access.",
+        "I arch my back in ecstasy as the beast brings me to a crashing climax with a few thrusts."
+    ],
+    "2nd Person": [
+        "You cry out, and looking down you can see your stomach distending to accommodate his incredible size.",
+        "The beast's angry red {COCK} spears you painfully, opening you up until your toes cramp from curling.",
+        "The {ACTIVE} growls in frustration as he smashes up against your cervix again. Will it... enter?",
+        "His {COCK} bottoms out against your cervix, leaving vital inches of knot outside of your {PUSSY}.",
+        "why is it so huge? And these bumps... this thing is just too much...",
+        "{ACTIVE} is opening you up like never before, hurting you and making your {PUSSY} gush all at once.",
+        "The beast savagely fucks his angry red {COCK} into your {WTVAGINAL} {PUSSY}.",
+        "The beast's {BEAST} knot slaps wetly at the entrance to your {FAROUSAL} {PUSSY}.",
+        "The knot pushes at your {PUSSY}. You clench your thighs, struggling to deny it access.",
+        "You arch your back in ecstasy as the beast brings you to a crashing climax with a few thrusts."
+    ],
+    "3rd Person": [
+        "{PRIMARY} cries out, seeing her stomach distending to accommodate his incredible size.",
+        "The beast's angry red {COCK} spears {PRIMARY} painfully, opening her up until her toes cramp from curling.",
+        "The {ACTIVE} growls in frustration as he smashes up against {PRIMARY}'s cervix again. Will it... enter?",
+        "His {COCK} bottoms out against {PRIMARY}'s cervix, leaving vital inches of knot outside of her {PUSSY}.",
+        "why is it so huge? And those bumps... that thing is just too much...",
+        "{ACTIVE} is opening {PRIMARY} up like never before, hurting her and making her {PUSSY} gush all at once."
+    ]
+}

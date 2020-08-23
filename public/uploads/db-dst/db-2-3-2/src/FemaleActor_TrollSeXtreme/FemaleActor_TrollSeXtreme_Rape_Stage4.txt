@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "In a moment of madness I wrap my legs around the {MONSTER}, pulling its {BEASTLY} {COCK} all the way inside me.",
+        "I lock my ankles around the {MONSTER}, but I don't know whether it's from {FEAR} of falling or a need to be {FUCK}ed deep...",
+        "Aaahh... Mmmm... Oh my... I can't believe this feels so good...",
+        "The {MONSTER} begins to growl with each thrust, {PENETRAT}ing itself {ROUGH}ly into me now.",
+        "This is the kind of {LEWD} sex I had always fantasized about, but never admitted to myself until now."
+    ],
+    "2nd Person": [
+        "In a moment of madness you wrap your legs around the {MONSTER}, pulling its {BEASTLY} {COCK} all the way inside you.",
+        "You lock your ankles around the {MONSTER}, but you don't know whether it's from {FEAR} of falling or a need to be {FUCK}ed deep...",
+        "Aaahh... Mmmm... Oh my... You can't believe this feels so good...",
+        "The {MONSTER} begins to growl with each thrust, {PENETRAT}ing itself {ROUGH}ly into you now.",
+        "This is the kind of {LEWD} sex you had always fantasized about, but never admitted to yourself until now."
+    ],
+    "3rd Person": [
+        "{PRIMARY} wraps her legs around the {MONSTER}, pulling its {BEASTLY} {COCK} all the way inside her.",
+        "{PRIMARY} locks her ankles around the {MONSTER}. Is she afraid of falling? Or does she just want to be {FUCK}ed deep?",
+        "The {ACTIVE} begins to growl with each thrust, {PENETRAT}ing in even more {ROUGH}ly."
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "1st Person": [
+        "{ACTIVE} cums."
+    ],
+    "2nd Person": [
+        "{ACTIVE} cums."
+    ],
+    "3rd Person": [
+        "{ACTIVE} cums."
+    ]
+}

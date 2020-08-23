@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "Oh Gods, this isn't real... I don't think I'll be able to get away... I'll have to fuck it all the way...",
+        "Terror washes over me as the creature takes hold of me, one massive claw cupping my breast.",
+        "Oh no... it's getting impatient... I'm going to have to... start fucking...",
+        "I stare blankly, all too aware of the filthy paws all over me and the {BEAST} {PENIS} inside me.",
+        "I grind my hips briskly, feeling the filthy fur against my thighs.",
+        "Aah ah... Oh my goodness... This thing's {COCK}... It feels... good...",
+        "I grind steadily on the monster's {BEAST} {COCK}, dizzy and light headed from the mix of sensations.",
+        "The beast howls as my {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEAST} {COCK}."        
+    ],
+    "2nd Person" :
+    [
+        "Oh Gods, this isn't real... you don't think you'll be able to get away... You'll have to fuck it all the way...",
+        "Terror washes over you as the creature takes hold, one massive claw cupping your breast.",
+        "Oh no... it's getting impatient... You're going to have to... start fucking...",
+        "You stare blankly, all too aware of the filthy paws all over you and the {BEAST} {PENIS} inside you.",
+        "You grind your hips briskly, feeling the filthy fur against your thighs.",
+        "({PRIMARY}) Aah ah... Oh my goodness... This thing's {COCK}... It feels... good...",
+        "You grind steadily on the monster's {BEAST} {COCK}, dizzy and light headed from the mix of sensations.",
+        "The beast howls as your {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEAST} {COCK}." 
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} reaches up and grabs a handful of {PRIMARY}'s breast, bringing a deep moan from her lips.",
+        "{PRIMARY}'s chest is flushed a deep pink. Has she already came, just from having its {PENIS} inside her?",
+        "The sight of huge, brutish paws manhandling such soft, beautiful {BOOBS} is a real turn on..."
+    ]
+}

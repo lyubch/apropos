@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} drops down and begins to punish my {WTVAGINAL} {PUSSY} even harder...",
+        "Ugh... This feels so strange... Why am I letting him do this to me?",
+        "Oh my goodness, I can't believe this is happening. This is so wrong.",
+        "I... I'm having sex with a dog...",
+        "I can feel the dog's matted fur between my ass cheeks while he slides in and out of me.",
+        "I feel {ACTIVE}'s warm breath on my neck, and hear him panting in my ear.",
+        "My cheeks burn red with embarrassment, I don't want to be seen like this.",
+        "I don't know if I can take this...",
+        "His hind legs scrabble at the floor as he thrusts his {BEAST} red {PENIS} into my {FAROUSAL} {PUSSY}."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} drops down and begins to punish your {WTVAGINAL} {PUSSY} even harder...",
+        "Ugh... This feels so strange... Why are you letting him do this to you?",
+        "Oh my goodness, you can't believe this is happening. This is so wrong.",
+        "Y... you're having sex with a dog...",
+        "You can feel the dog's matted fur between your ass cheeks while he slides in and out of you.",
+        "You feel {ACTIVE}'s warm breath on your neck, and hear him panting in your ear.",
+        "Your cheeks burn red with embarrassment, you don't want to be seen like this.",
+        "You don't know if you can take this...",
+        "His hind legs scrabble at the floor as he thrusts his {BEAST} red {PENIS} into your {FAROUSAL} {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "Oh Gods, poor {PRIMARY}... She's being raped by an animal...",
+        "{ACTIVE} pounds eagerly into {PRIMARY}'s {WTVAGINAL} {PUSSY}, her body rocking and her {BOOBS} swaying."
+    ]
+}

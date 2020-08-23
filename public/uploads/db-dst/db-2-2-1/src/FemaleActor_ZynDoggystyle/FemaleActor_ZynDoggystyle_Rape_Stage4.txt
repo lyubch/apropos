@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I scream into the ground, my {WTVAGINAL} {PUSSY} fucked as hard as I've ever been fucked before.",
+        "My fingers claw at the dirty ground, the smell of urine and {CUM} filling my nostrils.",
+        "The ground is covered in {CUM} and blood... I'm not the first girl who's been raped here...",
+        "The {ACTIVE}'s brutal thrusts are so hard, and so fast, that I start to feel my own orgasm building.",
+        "He fucks me like an animal; dirty, rough, and shamefully good.",
+        "I fought him with everything I had, but now near the end I'm begging him to fuck me harder.",
+        "Please, {ACTIVE}, just don't cum inside me.... I beg. I'll do anything. I'm serious... I babble."
+    ],
+    "2nd Person": [
+        "You scream into the ground, your {WTVAGINAL} {PUSSY} fucked as hard as you've ever been fucked before.",
+        "Your fingers claw at the dirty ground, the smell of urine and {CUM} filling your nostrils.",
+        "The ground is covered in {CUM} and blood... You're not the first girl who's been raped here...",
+        "The {ACTIVE}'s brutal thrusts are so hard, and so fast, that you start to feel your own orgasm building.",
+        "He fucks you like an animal; dirty, rough, and shamefully good.",
+        "You fought him with everything you had, but now near the end you're begging him to fuck you harder.",
+        "({PRIMARY}) Please, {ACTIVE}, just don't cum inside me.... I'll do anything. I'm serious..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} wails in anguish as the {ACTIVE} keeps fucking her.",
+        "How can the {ACTIVE} still be fucking {PRIMARY} so hard? Isn't he exhausted?",
+        "{PRIMARY}'s head drops, and she raises her ass higher. Is she getting off on this?",
+        "({PRIMARY}) Please... ahhhh! Nghh!! Don't cum inside me! I beg you! Ahhh!"
+    ]
+}

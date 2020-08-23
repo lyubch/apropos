@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} stares hungrily up at me, eying my {BOOBS}. I feel its {PENIS} twitch inside me.",
+        "Nghhh, it's huge! I grind my hips back and forth, straining to get used to the {HUGE} {PENIS}.",
+        "My hands go to my {BOOBS}, the beast's eyes glued to them, my nipples already hard.",
+        "Straddling a huge beast, impaled on its {COCK}, I feel my body start to react.",
+        "The {ACTIVE} holds me down, but seems content to let me do all the work... For now...",
+        "That's it... aaahh... You don't need to hurt me... Let me... ngh... ride your {COCK}...",
+        "Oh Gods... Its {COCK}... It's reaching all the way up inside me... Why does it feel so good?",
+        "The {ACTIVE} is huge, it feels like its {COCK} is in my stomach.",
+        "A cold breeze blows across my now exposed skin, reminding me just how utterly exposed I am."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} stares hungrily up at you, eying your {BOOBS}. You feel its {PENIS} twitch inside you.",
+        "Nghhh, it's huge! You grind your hips back and forth, straining to get used to the {HUGE} {PENIS}.",
+        "Your hands go to your {BOOBS}, the beast's eyes glued to them, your nipples already hard.",
+        "Straddling a huge beast, impaled on its {COCK}, you feel your body start to react.",
+        "The {ACTIVE} holds you down, but seems content to let you do all the work... For now...",
+        "({PRIMARY}) That's it... aaahh... You don't need to hurt me... Let me... ngh... ride your {COCK}...",
+        "Oh Gods... Its {COCK}... It's reaching all the way up inside you... Why does it feel so good?",
+        "The {ACTIVE} is huge, it feels like its {COCK} is in your stomach.",
+        "A cold breeze blows across your now exposed skin, reminding you just how utterly exposed you are." 
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} looks exhausted just from having taken the whole of the {ACTIVE}'s {PENIS}. It must be intense...",
+        "{PRIMARY} pants, gazing blankly ahead, groping her {HEAVING} {BOOBS} and grinding her hips.",
+        "It's clear that despite herself, {PRIMARY} is getting hot from the monster-{COCK} inside her..."
+    ]
+}

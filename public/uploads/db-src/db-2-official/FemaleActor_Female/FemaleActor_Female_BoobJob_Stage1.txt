@@ -1,0 +1,15 @@
+{
+    "1st Person" :
+    [
+        "I don't know why {ACTIVE} wants me to do this, perhaps she's getting off on me debasing myself like this.",
+        "I can't believe how enticing she is; her hard, firm body looks almost virginal."
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

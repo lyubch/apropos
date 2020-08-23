@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "I'm terrified, cold sweat pouring off me, but I need to do this. It's either seduce and fuck a troll, or die.",
+        "My heart thunders in my chest, deafening me to the world. All I'm aware of is the {BEAST} {COCK} in front of me.",
+        "I can't stop myself from shaking, even as I grind my {FAROUSAL} {PUSSY} up and down the {ACTIVE}'s {PENIS}.",
+        "I can do this... I can... I lean back into the {ACTIVE}, fondling my breast, willing myself to become aroused.",
+        "Come on {PRIMARY}, it's just a {COCK}, I can do this... Just a {BEAST}, monster's {COCK}... Oh Gods...",
+        "I can't beat it... Maybe I have to use my other 'talents' to subdue it...",
+        "My {WTVAGINAL} {PUSSY} practically juices itself in anticipation as I eye the {HUGE}, {BEAST} {COCK}.",
+        "I feel a surge of strange pride as the {ACTIVE}'s intent becomes clear. Everything wants to fuck me.",
+        "I push out my {BOOBS} and spread my legs. Whatever it takes to keep it from killing me, right?",
+        "My {CREAM} flows at the mere idea that this piece of meat will soon be parting me and sliding deep into me.",
+        "I try to avoid looking down at the {BEAST}, 18 inch long {COCK} that stands in front of me.",
+        "It seems to like the sight of me naked... Oh Gods, how far is it going to want me to go?",
+        "Oh Gods, is this what the {ACTIVE} wanted all along? It wanted sex?!"        
+    ],
+    "2nd Person" :
+    [
+        "You're terrified, cold sweat pouring off you, but you need to do this. It's either seduce and fuck a troll, or die.",
+        "Your heart thunders in your chest, deafening you to the world. All you're aware of is the {BEAST} {COCK} in front of you.",
+        "You can't stop yourself from shaking, even as you grind your {FAROUSAL} {PUSSY} up and down the {ACTIVE}'s {PENIS}.",
+        "You can do this... you can... you lean back into the {ACTIVE}, fondling your breast, willing yourself to become aroused.",
+        "Come on {PRIMARY}, it's just a {COCK}, you can do this... Just a {BEAST}, monster's {COCK}... Oh Gods...",
+        "You can't beat it... Maybe you have to use your other 'talents' to subdue it...",
+        "Your {WTVAGINAL} {PUSSY} practically juices itself in anticipation as you eye the {HUGE}, {BEAST} {COCK}.",
+        "You feel a surge of strange pride as the {ACTIVE}'s intent becomes clear. Everything wants to fuck you.",
+        "You push out your {BOOBS} and spread your legs. Whatever it takes to keep it from killing you, right?",
+        "Your {CREAM} flows at the mere idea that this piece of meat will soon be parting you and sliding deep into you.",
+        "You try to avoid looking down at the {BEAST}, 18 inch long {COCK} that stands in front of you.",
+        "It seems to like the sight of you naked... Oh Gods, how far is it going to want you to go?",
+        "Oh Gods, is this what the {ACTIVE} wanted all along? It wanted sex?!"        
+    ],
+    "3rd Person" :
+    [
+        "It's not hard to tell {PRIMARY}'s train of thought; she's going to try to seduce and then fuck the {ACTIVE}!",
+        "Oh Gods, is that what the {ACTIVE} wanted all along? It wanted sex?!",
+        "{PRIMARY} tries to avoid looking down at the {BEAST}, 18 inch long {COCK} that stands in front of her."        
+    ]
+}

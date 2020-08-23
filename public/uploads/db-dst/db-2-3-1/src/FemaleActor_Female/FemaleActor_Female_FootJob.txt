@@ -1,0 +1,31 @@
+{
+    "1st Person": [
+        "The bare soles of my feet touch all across {ACTIVE}'s {HEAVING} {BOOBS}.",
+        "I stare into {ACTIVE}'s eyes, aware of her {STRAPON} standing to attention before me.",
+        "My legs spread wide, letting {ACTIVE} see how {FAROUSAL} my {PUSSY} is for her.",
+        "My {HEAVING} {BUTTOCKS} resting in the dirt and {SCUM} I spread my {PUSSY} before {ACTIVE}, {FAROUSAL}.",
+        "My {FAROUSAL} {PUSSY}... and her {STRAPON}... Can we hold out for a little foreplay before we fuck?",
+        "She knows I'm fascinated with her {STRAPON} towering right in front of me...",
+        "I gaze at the {HUGE} {STRAPON} poised slightly in front of me, my {PUSSY} {FAROUSAL}...",
+        "I saw you looking at my feet... You want me to rub them all over your {STRAPON}?"
+    ],
+    "2nd Person": [
+        "The bare soles of your feet touch all across {ACTIVE}'s {HEAVING} {BOOBS}.",
+        "You stare into {ACTIVE}'s eyes, aware of her {STRAPON} standing to attention before you.",
+        "Your legs spread wide, letting {ACTIVE} see how {FAROUSAL} your {PUSSY} is for her.",
+        "Your {HEAVING} {BUTTOCKS} resting in the dirt and {SCUM} you spread your {PUSSY} before {ACTIVE}, {FAROUSAL}.",
+        "Your {FAROUSAL} {PUSSY}... and her {STRAPON}... Maybe a little foreplay first?",
+        "({PRIMARY}) Can you hold out for a little foreplay before we fuck?",
+        "She knows you're fascinated with her {STRAPON} towering right in front of you...",
+        "You gaze at the {HUGE} {STRAPON} poised slightly in front of you, your {PUSSY} {FAROUSAL}...",
+        "({PRIMARY}) I saw you looking at my feet... You want me to rub them all over your {STRAPON}?"
+    ],
+    "3rd Person": [
+        "The bare soles of {PRIMARY}'s feet touch all across {ACTIVE}'s {HEAVING} {BOOBS}.",
+        "{PRIMARY} stares into {ACTIVE}'s eyes, her {STRAPON} standing to attention before her.",
+        "{PRIMARY}'s legs spread wide, letting {ACTIVE} see how {FAROUSAL} her {PUSSY} is for her.",
+        "Her {HEAVING} {BUTTOCKS} resting in the dirt and {SCUM} {PRIMARY} spreads her {PUSSY} before {ACTIVE}.",
+        "Can they hold out for a little foreplay before they fuck?",
+	"({PRIMARY}) This is OK, right? It's not cheating if I'm with a woman?"
+    ]
+}

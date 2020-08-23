@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "That's a good boy... Relax, and I'll make you feel really good!",
+        "I kneel beside {ACTIVE}, one hand stroking his fur, the other stroking his {BEAST} {PENIS}.",
+        "{ACTIVE} seems calm as I reach out and softly take his {COCK} in my hand.",
+        "Oh my... {ACTIVE}'s {PENIS} feels so slimy and hot... I'm getting wet just from the feel of it!",
+        "Timidly, I reach underneath {ACTIVE}. Oh my, his {PENIS} is huge! I can feel it throbbing in my hand...",
+        "I gently stroke {ACTIVE}'s {BEAST} {PENIS} up and down, my {PUSSY} tingling each time I touch the knot.",
+        "Um... I really shouldn't be doing this with a dog... and I really shouldn't go any further...",
+        "What a cute doggie! I shouldn't really, but... I wonder if he'd like a treat..."
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) That's a good boy... Relax, and I'll make you feel really good!",
+        "You kneel beside {ACTIVE}, one hand stroking his fur, the other stroking his {BEAST} {PENIS}.",
+        "{ACTIVE} seems calm as you reach out and softly take his {COCK} in your hand.",
+        "Oh my... {ACTIVE}'s {PENIS} feels so slimy and hot... You're getting wet just from the feel of it!",
+        "Timidly, you reach underneath {ACTIVE}. Oh my, his {PENIS} is huge! You can feel it throbbing...",
+        "You gently stroke {ACTIVE}'s {BEAST} {PENIS}, your {PUSSY} tingling each time you touch the knot.",
+        "Um... you really shouldn't be doing this with a dog... and you really shouldn't go any further...",
+        "({PRIMARY}) What a cute doggie! I shouldn't really, but... I wonder if he'd like a treat..."
+    ],
+    "3rd Person" :
+    [
+        "Watching {PRIMARY} on her knees, giving a dog a handjob... It's such a turn on...",
+        "Just imagining what {PRIMARY}'s going to do with that {BEAST} {PENIS} is arousing.",
+        "{PRIMARY} kneels down, gently stroking {ACTIVE}'s {BEAST} {COCK}."
+    ]
+}

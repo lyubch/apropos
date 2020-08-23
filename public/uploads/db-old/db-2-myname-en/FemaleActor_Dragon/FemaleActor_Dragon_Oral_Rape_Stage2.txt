@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "The beast's huge, rough tongue slathers my thighs in thick slime.",
+        "Feeling the huge tongue all over my {PUSSY} and {ASS}, I panic. What if it wants to... fuck me with it?",
+        "I try to resist, but I moan as the beast's skillful tongue slurps the {CREAM} from me.",
+        "My stomach and thighs are tongued vigorously, coating me in a thick wet sheen.",
+        "The beast's tongue slavers over my {PUSSY} and asshole, making me tremble at the touch.",
+        "The tongue pushes up between my legs hard enough to lift my whole body. Is it trying to get inside?!",
+        "Oh my goodness... I'm being eaten out... by a dragon... This isn't real...",
+        "I try to squeeze my thighs shut, but the slippery tongue has so much force behind it.",
+        "The beast's thick, rank drool is sliding down my legs, dripping from my toes.",
+        "This is getting too much... My chest is flushed red, and my nipples are standing painfully erect."
+    ],
+    "2nd Person": [
+        "The beast's huge, rough tongue slathers your thighs in thick slime.",
+        "Feeling the huge tongue all over your {PUSSY} and {ASS}, you panic. What if it wants to... fuck you with it?",
+        "You try to resist, but you moan as the beast's skillful tongue slurps the {CREAM} from you.",
+        "Your stomach and thighs are tongued vigorously, coating you in a thick wet sheen.",
+        "The beast's tongue slavers over your {PUSSY} and asshole, making you tremble at the touch.",
+        "The tongue pushes up between your legs hard enough to lift your whole body. Is it trying to get inside?!",
+        "Oh my goodness... You're being eaten out... by a dragon... This isn't real...",
+        "You try to squeeze your thighs shut, but the slippery tongue has so much force behind it.",
+        "The beast's thick, rank drool is sliding down your legs, dripping from your toes.",
+        "This is getting too much... your chest is flushed red, and your nipples are standing painfully erect."
+    ],
+    "3rd Person": [
+        "The beast's huge, rough tongue slathers {PRIMARY}'s thighs in thick slime.",
+        "The huge tongue rubbing all over her {PUSSY} and {ASS}, she panics. What if it wants to... fuck her with it?",
+        "{PRIMARY} tries to resist, but she moans as the beast's skillful tongue slurps the {CREAM} from her.",
+        "{PRIMARY}'s stomach and thighs are tongued vigorously, coating her in a thick wet sheen.",
+        "The beast's tongue slavers over {PRIMARY}'s {PUSSY} and asshole, making her tremble at the touch.",
+        "The tongue pushes between {PRIMARY}'s legs hard enough to lift her whole body. Is it trying to get inside?!",
+        "Oh my goodness...{PRIMARY}'s being eaten out... by a dragon... This isn't real...",
+        "{PRIMARY} tries to squeeze her thighs shut, but the slippery tongue has so much force behind it.",
+        "The beast's thick, rank drool is sliding down {PRIMARY}'s legs, dripping from her toes.",
+        "This is getting too much... {PRIMARY}'s chest is flushed red, and her nipples are standing painfully erect."
+    ]
+}

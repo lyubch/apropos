@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "The {ACTIVE}'s rough, matted fur presses into my back, coating me with filth.",
+        "The pain in my hips subsides as the beast's front paws drop to the ground, looking for a more stable fuck.",
+        "My {BOOBS} sway with each hit I take from the animal.",
+        "The hound fucks into my {ASS} slowly, inch by inch.",
+        "The {ACTIVE} whines and pushes another few inches of cockmeat into me, through my tight pink {ASS}.",
+        "Oh Gods... I'm... I'm almost there... already... Just a little bit more...",
+        "The {ACTIVE}'s balls feel so heavy as they slap against my {FAROUSAL} {PUSSY}. All that {CUM}...",
+        "Face down and ass held high, with a horny animal fucking my {ASS}... The wickedness is such a turn on!",
+        "I feel as if I'm in some wildly erotic dream, as if this couldn't be really happening.",
+        "My {ASS} feels so strange...",
+        "I know that what I am doing is wrong, but I can't stop myself.",
+        "My mind reels at how dirty and wrong this is. And how hot."
+    ],
+    "2nd Person": [
+        "The {ACTIVE}'s rough, matted fur presses into your back, coating you with filth.",
+        "The pain in your hips subsides as the beast's front paws drop to the ground, looking for a more stable fuck.",
+        "Your {BOOBS} sway with each hit you take from the animal.",
+        "The hound fucks into your {ASS} slowly, inch by inch.",
+        "The {ACTIVE} whines and pushes another few inches of cockmeat into you, through your tight pink {ASS}.",
+        "Oh Gods... You're... You're almost there... already... Just a little bit more...",
+        "The {ACTIVE}'s balls feel so heavy as they slap against your {FAROUSAL} {PUSSY}. All that {CUM}...",
+        "Face down and ass held high, with a horny animal fucking your {ASS}... The wickedness is such a turn on!",
+        "You feel as if you're in some wildly erotic dream, as if this couldn't be really happening.",
+        "Your {ASS} feels so strange...",
+        "You know that what you are doing is wrong, but you can't stop yourself.",
+        "Your mind reels at how dirty and wrong this is. And how hot."
+    ],
+    "3rd Person": [
+        "The {ACTIVE}'s rough, matted fur presses into {PRIMARY}'s back, coating her with filth.",
+        "The pain in {PRIMARY}'s hips subsides as the beast drops to the ground, looking for a more stable fuck.",
+        "{PRIMARY}'s {BOOBS} sway with each hit she takes from the animal.",
+        "The hound fucks into {PRIMARY}'s {ASS} slowly, inch by inch.",
+        "The {ACTIVE} whines and pushes another few inches of cockmeat into {PRIMARY}, through her tight pink {ASS}.",
+        "({PRIMARY}) Oh Gods... I'm... I'm almost there... already... Just a little bit more..."
+    ]
+}

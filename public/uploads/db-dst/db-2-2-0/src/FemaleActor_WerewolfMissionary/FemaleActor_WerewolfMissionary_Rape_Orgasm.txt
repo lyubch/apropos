@@ -1,0 +1,47 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} lifts its head and howls as its swollen {PENIS} unloads inside me.",
+        "The beast tenses as it cums, cutting off air completely. Gods, can I last until it finishes?",
+        "My body is jolted back to consciousness by deliberate, hard thrusts. I'm still being raped...",
+        "Maybe it's because I can't breathe, but the most intense orgasm of my life explodes through me.",
+        "Finally the beast's grip around my throat loosens. My vision starts to return, and I gulp down air.",
+        "I come slowly to, aware that I'm still being fucked, and my insides feel red hot and full.",
+        "An uncomfortably hot sensation grows in me as more and more of its fiery {CUM} is pumped into my body.",
+        "The beast howls and I feel its incredibly hot {CUM} pour into me. I moan as my insides begin to heat up.",
+        "My stomach begins to round out from the sheer amount of wolf-{CUM} being pumped into my belly.",
+        "I shake and quiver in orgasm as copious quantities of {THICK} {CUM} escape my {WTVAGINAL} {PUSSY}.",
+        "His orgasm is so much longer than a human's, gushing {CUM} into me for several long minutes.",
+        "The flow of {CUM} is never-ending, filling my womb completely with his {CUM}.",
+        "The {ACTIVE} tenses, and I feel the first shot fire through and splash against the back of my uterus.",
+        "The beast cums for more than a minute, filling my uterus beyond capacity.",
+        "Oh Gods, so much {CUM}, I am so fucked...",
+        "Its {BEAST} {PENIS} is buried to the hilt in me, the beast howling as it cums."   
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} lifts its head and howls as its swollen {PENIS} unloads inside you.",
+        "The beast tenses as it cums, cutting off air completely. Gods, can you last until it finishes?",
+        "Your body is jolted back to consciousness by deliberate, hard thrusts. You're still being raped...",
+        "Maybe it's because you can't breathe, but the most intense orgasm of your life explodes through you.",
+        "Finally the beast's grip around your throat loosens. Your vision starts to return, and you gulp down air.",
+        "You come slowly to, aware that you're still being fucked, and your insides feel red hot and full.",
+        "An uncomfortably hot sensation grows in you as more and more of its fiery {CUM} is pumped into your body.",
+        "The beast howls and you feel its incredibly hot {CUM} pour into you. You moan as your insides begin to heat up.",
+        "Your stomach begins to round out from the sheer amount of wolf-{CUM} being pumped into your belly.",
+        "You shake and quiver in orgasm as copious quantities of {THICK} {CUM} escape your {WTVAGINAL} {PUSSY}.",
+        "His orgasm is so much longer than a human's, gushing {CUM} into you for several long minutes.",
+        "The flow of {CUM} is never-ending, filling your womb completely with his {CUM}.",
+        "The {ACTIVE} tenses, and you feel the first shot fire through and splash against the back of your uterus.",
+        "The beast cums for more than a minute, filling your uterus beyond capacity.",
+        "Oh Gods, so much {CUM}, you are so fucked...",
+        "Its {BEAST} {PENIS} is buried to the hilt in you, the beast howling as it cums."
+    ],
+    "3rd Person" :
+    [
+        "The sight of such a fierce monster howling as it cums is powerful and erotic.",
+        "{PRIMARY} shakes and quivers in orgasm as copious quantities of {THICK} {CUM} escape her {WTVAGINAL} {PUSSY}.",
+        "Its {BEAST} {PENIS} is buried to the hilt in {PRIMARY}, the beast howling as it cums.",
+        "Oh my, it must be {CUMMING} inside her... That looks so... intense..."
+    ]
+}

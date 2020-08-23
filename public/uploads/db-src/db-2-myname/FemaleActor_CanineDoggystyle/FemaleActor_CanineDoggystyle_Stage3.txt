@@ -1,0 +1,45 @@
+{
+    "1st Person" :
+    [
+        "Head down, ass up, with a dog hammering me with such vigor... Is this the kind of girl I am?",
+        "I reach out further in front of me, dropping my head and panting at the sheer force he's fucking me with.",
+        "{ACTIVE} is really letting me have it now, fucking me harder and faster than I have been in a while.",
+        "I frantically thrust back into the beast's {BEAST} {PENIS}, desperate to finish before someone sees me...",
+        "The thought of someone catching me fucking an animal is kinda scary. It makes me feel so dirty...",
+        "Fucking with an animal is depraved, I know, but it's all the more exciting because of that!",
+        "He's going so fast... he's being too rough...",
+        "Does it turn you on to watch this doggy stick his {BEAST} {PENIS} into my {FAROUSAL} {PUSSY} and hump me?",
+        "{ACTIVE} gives a happy bark and his haunches slam forward. My whole body rocks and I smile.",
+        "My eyes screw shut, my fists clench and I scream into the dirt as {ACTIVE} fucks me hard and fast.",
+        "Oh Gods! Ahh! Yes! {ACTIVE} is fucking me with more frenzy and vigour than any man ever has.",
+        "My body drips sweat during an exhausting fuck. I'm not sure I've ever had it this hard.",
+        "{ACTIVE} starts to pound my {PUSSY} like no man has before, he's going to claim me as his bitch.",
+        "{ACTIVE}'s knot stretches my {PUSSY} obscenely, while the head penetrates me right to my core.",
+        "I feel the first shuddering waves of climax building; I know I'm lost and give up to it."        
+    ],
+    "2nd Person" :
+    [
+        "Head down, ass up, with a dog hammering you with such vigor... Is this the kind of girl you are?",
+        "You reach out further in front, dropping your head and panting at the sheer force he's fucking you with.",
+        "{ACTIVE} is really letting you have it now, fucking you harder and faster than you have been in a while.",
+        "You frantically thrust back into the beast's {BEAST} {PENIS}, desperate to finish before someone sees you...",
+        "The thought of someone catching you fucking an animal is kinda scary. It makes you feel so dirty...",
+        "Fucking with an animal is depraved, you know, but it's all the more exciting because of that!",
+        "He's going so fast... he's being too rough...",
+        "({PRIMARY}) Does it turn you on to watch this doggy stick his {PENIS} into my {PUSSY} and hump me?",
+        "{ACTIVE} gives a happy bark and his haunches slam forward. Your whole body rocks and you smile.",
+        "Your eyes screw shut, your fists clench and you scream into the dirt as {ACTIVE} fucks you hard and fast.",
+        "Oh Gods! Ahh! Yes! {ACTIVE} is fucking you with more frenzy and vigour than any man ever has.",
+        "Your body drips sweat during an exhausting fuck. You're not sure you've ever had it this hard.",
+        "{ACTIVE} starts to pound your {PUSSY} like no man has before, he's going to claim you as his bitch.",
+        "{ACTIVE}'s knot stretches your {PUSSY} obscenely, while the head penetrates you right to your core.",
+        "You feel the first shuddering waves of climax building; you know you're lost and give up to it."
+    ],
+    "3rd Person" :
+    [
+        "({PRIMARY}) Does it turn you on to watch this doggy stick his {PENIS} into my {PUSSY} and hump me?",
+        "Oh Gods, how is she taking that? Would that hurt... Or would it feel good?",
+        "{PRIMARY} drops her head to the ground and fucks back frantically.",
+        "{PRIMARY} is moving in such a wild way, it looks like she desperately wants every inch of {COCK}."
+    ]
+}

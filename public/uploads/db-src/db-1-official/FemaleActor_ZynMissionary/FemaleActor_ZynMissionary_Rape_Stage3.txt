@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Ugh, he's so much deeper now! I stare up at him, his face contorting in strain. Is he going to cum in me?",
+        "The {ACTIVE} looms over me, staring down at me with hate as he fucks me deep.",
+        "It starts to hurt a lot more, so I hook my heels behind his hips, trying to slow him down.",
+        "I try to hold back, but each thrust brings me closer and closer to cumming.",
+        "The words telling this man to get off me die in my throat as I suddenly want him to stay inside.",
+        "I kinda don't want {ACTIVE} to stop, so I let him fuck me for a while.",
+        "{ACTIVE} looks into my eyes. 'Ain't no stopping me now', he taunts."
+    ],
+    "2nd Person": [
+        "Ugh, he's so much deeper now! You stare up at him, his face contorting in strain. Is he going to cum in you?",
+        "The {ACTIVE} looms over you, staring down at you with hate as he fucks you deep.",
+        "It starts to hurt a lot more, so you hook your heels behind his hips, trying to slow him down.",
+        "You try to hold back, but each thrust brings you closer and closer to cumming.",
+        "The words telling this man to get off you die in your throat as you suddenly want him to stay inside.",
+        "You kinda don't want {ACTIVE} to stop, so you let him fuck you for a while.",
+        "{ACTIVE} looks into your eyes. 'Ain't no stopping me now', he taunts."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} towers over {PRIMARY}. She looks so small and helpless.",
+        "{PRIMARY}'s body rocks as she looks up at the {ACTIVE}, fear in her eyes.",
+        "{PRIMARY} hooks her legs around his hips, making him fuck her deeper... Does she want this?",
+        "{PRIMARY} is starting to breath heavily, and her nipples look like they're erect. She's getting turned on..."
+    ]
+}

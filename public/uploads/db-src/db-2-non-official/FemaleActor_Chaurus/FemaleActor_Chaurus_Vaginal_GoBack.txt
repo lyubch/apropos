@@ -1,0 +1,14 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} wants to {BREED} my {FAROUSAL} {PUSSY} more!"
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} wants to {BREED} your {FAROUSAL} {PUSSY} more!"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} wants to {BREED} {PRIMARY}'s {FAROUSAL} {PUSSY} more!"
+    ]
+}

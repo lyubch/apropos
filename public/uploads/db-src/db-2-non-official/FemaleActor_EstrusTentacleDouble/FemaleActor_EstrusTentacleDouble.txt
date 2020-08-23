@@ -1,0 +1,27 @@
+{
+    "1st Person": [
+        "Catching them in the corner of my eye, I break into a sprint- {SWEARING}! The tentacles! They've got me!",
+        "I {SCREAM} in surprise as tentacles burst out of the underbrush. Within seconds I'm trussed up, {NUDE} and at their mercy.",
+        "I try to scramble out of it's reach, intimately familiar with this ambush tactic, but it's already too late...",
+        "Panic rushes through me, as I feel a {SLIMY} grip grab me by the shoulders, but my struggles are for naught, it got me...",
+        "What the fu-! What the hell kind of- Hey! Give me back my armor! And let me go!",
+        "With hardly a second to react, I try to dive out of reach, but I'm handily caught, stripped, secured and spread...",
+        "Yanked out the air mid-stride, they drag me back and begin to tug my legs apart..."
+    ],
+    "2nd Person": [
+        "Catching them in the corner of your eye, you break into a sprint- {SWEARING}! The tentacles! They've got me!",
+        "Panic rushes through you, as you feel a {SLIMY} grip grab you by the shoulders, but your struggles are for naught, it got you...",
+        "With hardly a second to react, you try to dive out of reach, but you're handily caught, stripped, secured and spread...",
+        "Yanked out the air mid-stride, they drag you back and begin to tug your legs apart...",
+        "You {SCREAM} in surprise as tentacles burst out of the underbrush. Within seconds you're trussed up, {NUDE} and at their mercy.",
+        "You try to scramble out of it's reach, intimately familiar with this ambush tactic, but it's already too late..."
+    ],
+    "3rd Person": [
+        "Catching them in the corner of her eye, {PRIMARY} breaks into a sprint- ({SWEARING}!) The tentacles! They've got her!",
+        "Panic rushes through {PRIMARY}, as she feels a {SLIMY} grip grab her by the shoulders, but her struggles are for naught, it got her...",
+        "With hardly a second to react, {PRIMARY} tries to dive out of reach, but she's handily caught, stripped, secured and spread...",
+        "Yanked out the air mid-stride, they drag {PRIMARY} back and begin to tug her legs apart...",
+        "{PRIMARY} {SCREAM}s in surprise as tentacles burst out of the underbrush. Within seconds she's trussed up, {NUDE} and at their mercy.",
+        "{PRIMARY} tries to scramble out of it's reach, intimately familiar with this ambush tactic, but it's already too late..."
+    ]
+}

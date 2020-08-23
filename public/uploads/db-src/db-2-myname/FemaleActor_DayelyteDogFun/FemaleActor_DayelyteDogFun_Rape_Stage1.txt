@@ -1,0 +1,21 @@
+{
+    "1st Person" :
+    [
+        "His {PENIS} looks so red and hot... Maybe if I ride him, he'll calm down...?",
+        "I stare into {ACTIVE}'s eyes as I slide down his {PENIS}. He continues to snarl at me, but stops attacking.",
+        "The {ACTIVE}'s {BEAST} {PENIS} enters me, my lubricated nerve endings exploding from the sensation.",
+        "The thought of someone catching me fucking an animal is kinda scary. It makes me feel dirty."        
+    ],
+    "2nd Person" :
+    [
+        "His {PENIS} looks so red and hot... Maybe if you ride him, he'll calm down...?",
+        "You stare into {ACTIVE}'s eyes as you slide down his {PENIS}. He snarls at you, but stops attacking.",
+        "The {ACTIVE}'s {BEAST} {PENIS} enters you, your lubricated nerve endings exploding from the sensation.",
+        "The thought of someone catching you fucking an animal is kinda scary. It makes you feel dirty."
+    ],
+    "3rd Person" :
+    [
+        "Tears are in {PRIMARY}'s eyes as she straddles {ACTIVE} and sinks down onto his {PENIS}.",
+        "{ACTIVE} grips tightly to {PRIMARY}'s hips as she slides down his {PENIS}, her legs shaking."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Oh my... Its tongue is huge! It's like he's licking my entire {PUSSY} at once!",
+        "Mmmm... That's it, gooood boy... I'll be dripping wet and ready for your {BEASTLY} {COCK} in no time!",
+        "Yesss... Right there... {SWEARING} you sure know how to get a girl {HORNY}, don't you?",
+        "I {QUIVER} in {LUST} as each swipe of his huge tongue drags more {CREAM} out of my {PUSSY}.",
+        "Ah! Yes! Right there! Just like we practiced! Nnngh... I swear, if I didn't love your {COCK} so much I'd let you lick me all day!",
+        "{SWEARING}, I'm already panting, he's going to make me cum before he even {FUCK}s me!"
+    ],
+    "2nd Person": [
+        "Oh my... Its tongue is huge! It's like he's licking your entire {PUSSY} at once!",
+        "({PRIMARY}) Mmmm... That's it, gooood boy... I'll be dripping wet and ready for your {BEASTLY} {COCK} in no time!",
+        "({PRIMARY}) Yesss... Right there... {SWEARING} you sure know how to get a girl {HORNY}, don't you?",
+        "You {QUIVER} in {LUST} as each swipe of his huge tongue drags more {CREAM} out of your {PUSSY}.",
+        "({PRIMARY}) Ah! Yes! Right there! Just like we practiced! I swear, if I didn't love your {COCK} so much I'd let you lick me all day!",
+        "{SWEARING}, you're already panting, he's going to make you cum before he even {FUCK}s you!"
+    ],
+    "3rd Person": [
+        "Oh my... Its tongue is huge! It's like he's licking {PRIMARY}'s entire {PUSSY} at once!",
+        "({PRIMARY}) Mmmm... That's it, gooood boy... I'll be dripping wet and ready for your {BEASTLY} {COCK} in no time!",
+        "({PRIMARY}) Yesss... Right there... {SWEARING} you sure know how to get a girl {HORNY}, don't you?",
+        "{PRIMARY} {QUIVER}s in {LUST} as each swipe of his huge tongue drags more {CREAM} out of {PRIMARY}'s {PUSSY}.",
+        "({PRIMARY}) Ah! Yes! Right there! Just like we practiced! I swear, if I didn't love your {COCK} so much I'd let you lick me all day!",
+        "{SWEARING}, {PRIMARY}'s already panting, he's going to make her cum before he even {FUCK}s her!"
+    ]
+}

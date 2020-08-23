@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "I fall limp, all strength draining from me as the {ACTIVE} begins to pump his {PENIS} into me.",
+        "The {ACTIVE}'s huge hand grasps my waist, preventing me from stopping the hard, brutally deep thrusts.",
+        "The {ACTIVE} looks down at me, strangely passive as he fucks me, as if he considers me just a toy.",
+        "I struggle to breath as the {ACTIVE} pumps me up and down his {PENIS}, my {PUSSY} stretching painfully.",
+        "My {PUSSY} stretches impossibly and my tummy bulges as the {ACTIVE} stuffs his {PENIS} up into me.",
+        "The {ACTIVE} lifts me into the air, and roughly impales me onto his {PENIS}.",
+        "Ughhhhh... I didn't know I could take so much {COCK}.",
+        "Ahhh!!! Oh fuck that's big!",
+        "Burning with disgust at myself for what I've let happen, I wonder if some part of me wanted this.",
+        "Oh my goodness... I'm sure I can see the outline of the {ACTIVE}'s {PENIS} on my belly...",
+        "I've had never had such an enormous one before, the sensation almost giving me an orgasm right away."        
+    ],
+    "2nd Person" :
+    [
+        "You fall limp, all strength draining from you as the {ACTIVE} begins to pump his {PENIS} into you.",
+        "The {ACTIVE}'s huge hand grasps your waist, preventing you from stopping the hard, brutally deep thrusts.",
+        "The {ACTIVE} looks down at you, strangely passive as he fucks you, as if he considers you just a toy.",
+        "You struggle to breath as the {ACTIVE} pumps you up and down his {PENIS}, your {PUSSY} stretching painfully.",
+        "Your {PUSSY} stretches impossibly and your tummy bulges as the {ACTIVE} stuffs his {PENIS} up into you.",
+        "The {ACTIVE} lifts you into the air, and roughly impales you onto his {PENIS}.",
+        "Ughhhhh... you didn't know you could take so much {COCK}.",
+        "Ahhh!!! Oh fuck that's big!",
+        "Burning with disgust at yourself for what you've let happen, you wonder if some part of you wanted this.",
+        "Oh my goodness... You're sure you can see the outline of the {ACTIVE}'s {PENIS} on your belly...",
+        "You've had never had such an enormous one before, the sensation almost giving you an orgasm right away."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} goes limp, feebly holding onto the {ACTIVE}'s hand for support as it fucks her.",
+        "Oh Gods... The stories of giants taking human women to fuck must be true!",
+        "Oh my goodness, that's too much! A {COCK} that size is going to tear her apart!"
+    ]
+}

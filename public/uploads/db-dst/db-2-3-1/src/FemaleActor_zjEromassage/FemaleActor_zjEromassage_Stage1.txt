@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "I lie back, my legs spread just a bit, and enjoy the feel of {ACTIVE}'s firm hands all over my body.",
+        "I part my legs, giving {ACTIVE} access to my {FAROUSAL} {PUSSY}. It feels wonderful.",
+        "I can't help but reach out to fondle {ACTIVE}'s {HUGE} {COCK}. It's so warm in my hand...",
+        "My fingertips wander up {ACTIVE}'s thigh, and soon I find myself with my fingers around his {COCK}...",
+        "{ACTIVE}'s hands firmly massage my thighs and chest, and I {MOAN} as he cups my {PUSSY}.",
+        "I see the {LUST} in {ACTIVE}'s eyes as he looks up and down my {HEAVING} {FLESH}, and it turns me on.",
+        "As {ACTIVE}'s hand {SLOW}ly glides up my thigh, my breath catches as I wait for him to touch me... there...",
+        "I really can't... Mmmmm.... Well, if it's just a massage, I suppose that's okay..."
+    ],
+    "2nd Person" :
+    [
+        "You lie back, your legs spread just a bit, and enjoy the feel of {ACTIVE}'s firm hands all over your body.",
+        "You part your legs, giving {ACTIVE} access to your {FAROUSAL} {PUSSY}. It feels wonderful.",
+        "You can't help but reach out to fondle {ACTIVE}'s {HUGE} {COCK}. It's so warm in your hand...",
+        "Your fingertips wander up {ACTIVE}'s thigh, and soon you find your fingers around his {COCK}...",
+        "{ACTIVE}'s hands firmly massage your thighs and chest, and you {MOAN} as he cups your {PUSSY}.",
+        "You see the {LUST} in {ACTIVE}'s eyes as he looks up and down your {HEAVING} {FLESH}, and it turns you on.",
+        "As his hand {SLOW}ly glides up your thigh, your breath catches as you wait for him to touch you... there...",
+        "({PRIMARY}) I really can't... Mmmmm.... Well, if it's just a massage, I suppose that's okay..."
+    ],
+    "3rd Person" :
+    [
+        "Oh my, is that really a massage? They're touching each others... bits...",
+        "{PRIMARY}'s delicate hand lazily strokes {ACTIVE}'s {COCK} as his hands roam all over her body.",
+        "{PRIMARY}'s legs spread wider as {ACTIVE}'s hand runs up her thigh, giving him easy access to her {PUSSY}.",
+        "It's clear that {PRIMARY} is enjoying the attention from the cute noises she's making..."
+    ]
+}

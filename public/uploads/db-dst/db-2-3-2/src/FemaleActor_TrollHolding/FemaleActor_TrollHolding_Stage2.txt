@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "Unable to move, much less join in, I hang {SUBMISSIVE}ly in the monster's grasp as it ravishes me.",
+        "Ah! Yes! This is what I wanted! Fuck me, {RAP}e me, I'm just your {BITCH}!",
+        "The {ACTIVE} is {HUGE}, it feels like its {COCK} is in my stomach.",
+        "Consumed by {LUST}, I {SUBMIT}, and the {ACTIVE} {FUCK}s me {ROUGH}ly.",
+        "The {MONSTER} howls as my {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEASTLY} {COCK}."
+    ],
+    "2nd Person": [
+        "Unable to move, much less join in, you hang {SUBMISSIVE}ly in the monster's grasp as it ravishes you.",
+        "({PRIMARY}) Ah! Yes! This is what I wanted! Fuck me, {RAP}e me, I'm just your {BITCH}!",
+        "The {ACTIVE} is {HUGE}, it feels like its {COCK} is in your stomach.",
+        "Consumed by {LUST}, you {SUBMIT}, and the {ACTIVE} {FUCK}s you {ROUGH}ly.",
+        "The {MONSTER} howls as your {WTVAGINAL} {PUSSY} is stretched to accommodate the {BEASTLY} {COCK}."
+    ],
+    "3rd Person": [
+        "Still too terrified to move or fight back, {PRIMARY} hangs in the monster's grasp as it {FUCK}s her.",
+        "{PRIMARY} {MOAN}s with {LUST} each time the {MONSTER} {INSERT}s itself inside her.",
+        "The {MONSTER} starts to {ROUGH}ly {FUCK} {PRIMARY}, like a wild {ANIMAL} taking a mate."
+    ]
+}

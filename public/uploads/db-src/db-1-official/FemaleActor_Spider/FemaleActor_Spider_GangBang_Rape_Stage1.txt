@@ -1,0 +1,44 @@
+{
+    "1st Person" :
+    [
+        "A scent lingers in the air. My body tingles, I can feel my {PUSSY} moisten.",
+        "The smell here is sweet, potent, and very nearly suffocating. I feel my chest flush and my {PUSSY} dampen.",
+        "The only thing I can feel is throbbing arousal, my body reacting to the rich scent here...",
+        "I resist, but can only move away so much before the first creature thrusts itself inside me.",
+        "I scream in horror as the arachnids swarm over me, invading my most private places.",
+        "I feel bites on my inner thighs, and my body goes limp, becomes willing, and eagerly opens every {OPENING}.",
+        "My legs are softly but firmly parted, and I feel my {PUSSY} open up to a strange insertion.",
+        "My {PUSSY} is speared with gods-only-know-what, as sharp fangs pierce my nether-regions.",
+        "The arachnids grab me and force themselves into my body...",
+        "I'm not sure what kind of appendage is being forced into my {PUSSY}, and I scream is fangs pierce my groin.",
+        "The bugs fuck what feels like a cock into my {PUSSY}... I feel ill, until the fangs pierce my thigh.",
+        "I squeal in delight as I feel fangs pierce my {PUSSY} and {ASS}, filling me with euphoria.",
+        "The arachnids grab me, and force themselves into my unwilling body..."
+    ],
+    "2nd Person" :
+    [
+        "A scent lingers in the air. Your body tingles, you can feel your {PUSSY} moisten.",
+        "The smell here is sweet, potent, and very nearly suffocating. Your chest flushes and your {PUSSY} dampens.",
+        "The only thing you can feel is throbbing arousal, your body reacting to the rich scent here...",
+        "You resist, but can only move away so much before the first creature thrusts itself inside you.",
+        "You scream in horror as the arachnids swarm over you, invading your most private places.",
+        "You feel bites on your inner thighs, and your body goes limp, becomes willing, and eagerly opens every {OPENING}.",
+        "Your legs are softly but firmly parted, and you feel your {PUSSY} open up to a strange insertion.",
+        "Your {PUSSY} is speared with Gods-only-know-what, as sharp fangs pierce your nether-regions.",
+        "The arachnids grab you and force themselves into your body...",
+        "Unsure what kind of appendage is being forced into your {PUSSY}, you scream as fangs pierce your groin.",
+        "The bugs fuck what feels like a cock into your {PUSSY}... You feel ill, until the fangs pierce your thigh.",
+        "You squeal in delight as you feel fangs pierce your {PUSSY} and {ASS}, filling you with euphoria.",
+        "The arachnids grab you, and force themselves into your unwilling body..."
+    ],
+    "3rd Person" :
+    [
+        "The smell here is sweet, potent, and very nearly suffocating. {PRIMARY}'s chest flushes.",
+        "{PRIMARY} resists, but can only move away so much before the first creature thrusts itself inside her.",
+        "{PRIMARY} screams in horror as the arachnids swarm over her, invading her most private places.",
+        "The {ACTIVE} bites {PRIMARY}'s inner thighs, and her body becomes willing, and eagerly opens every {OPENING}.",
+        "{PRIMARY}'s legs are softly but firmly parted, and her {PUSSY} open up to a strange insertion.",
+        "{PRIMARY}'s {PUSSY} is speared with gods-only-know-what, as sharp fangs pierce her nether-regions.",
+        "The arachnids grab {PRIMARY} and force themselves into her body..."
+    ]
+}

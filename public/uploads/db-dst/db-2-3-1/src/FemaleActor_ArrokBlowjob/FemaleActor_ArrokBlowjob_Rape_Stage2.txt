@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "The {ACTIVE}'s {COCK} tastes {VILE}, and I have to pull off before I gag.",
+        "I use every trick I know to make him {EJACULATE}, using my tongue and lips, even sticking a finger in his ass!",
+        "I start to become aware that my {PUSSY} is completely {NUDE}, and I hope no one else joins in...",
+        "The smell of his sweat and body odour is overpowering, I think I'm going to be sick...",
+        "({ACTIVE}) Ugh... This little {BITCH} knows her way around a {COCK}!",
+        "I can't believe I have this {JERK}'s {BALLS} in my {MOUTH}, it's so degrading!",
+        "Ughh!!! {ACTIVE}'s {COCK} tastes of {SCUM} and {CUM}.",
+        "({ACTIVE}) You're gonna please me, and you're gonna like it.",
+        "Something about being his little {BITCH} forced to give him head feels hot.",
+        "I {SUCK} my attacker's {COCK} eagerly. If I satisfy him, he might not want to {FUCK} me...",
+        "I try to make {ACTIVE} {EJACULATE} as fast as I can, so that this degrading act is over with."
+    ],
+    "2nd Person": [
+        "The {ACTIVE}'s {COCK} tastes {VILE}, and you have to pull off before you gag.",
+        "You use every trick you know to make him {EJACULATE}, using your tongue and lips, even sticking a finger in his ass!",
+        "You start to become aware that your {PUSSY} is completely {NUDE}, and you hope no one else joins in...",
+        "The smell of his sweat and body odour is overpowering, you think you're going to be sick...",
+        "({ACTIVE}) Ugh... This little {BITCH} knows her way around a {COCK}!",
+        "You can't believe you have this {JERK}'s {BALLS} in your {MOUTH}, it's so degrading!",
+        "Ughh!!! {ACTIVE}'s {COCK} tastes of {SCUM} and {CUM}.",
+        "({ACTIVE}) You're gonna please me, and you're gonna like it.",
+        "Something about being his little {BITCH} forced to give him head feels hot.",
+        "You {SUCK} your attacker's {COCK} eagerly. If you satisfy him, he might not want to {FUCK} you...",
+        "You try to make {ACTIVE} {EJACULATE} as fast as you can, so that this degrading act is over with."
+    ],
+    "3rd Person": [
+        "{PRIMARY} moves between {SUCK}ing the {ACTIVE}'s {COCK} and {SUCK}ing his {BALLS}, as if it was nothing.",
+        "{PRIMARY} really starts to try to make him {EJACULATE}, her {MOUTH} {LEWD}ly engulfing his {BALLS} and {COCK}.",
+        "The {ACTIVE}'s {BALLS} are in {PRIMARY}'s mouth, and her face contorts in disgust.",
+        "{PRIMARY} has a little over half of the {COCK} in her {MOUTH}, and she has a finger up his ass."
+    ]
+}

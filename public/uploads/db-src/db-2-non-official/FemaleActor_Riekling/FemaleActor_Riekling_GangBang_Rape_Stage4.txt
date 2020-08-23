@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "With one hand around my throat, I can't stop my {PUSSY} from being {PENETRAT}ed.",
+        "As his fellow enters me, the one pinning my head {DISPLAY}s a {BEASTLY} {COCK} to my lips.",
+        "Tears stream down my face as I'm forced to {SUCK} him the {BEASTLY} {COCK}.",
+        "My leg is yanked up and the {MONSTER} grips it tightly, using it for leverage to {INSERT} hard into me.",
+        "Ooh! I never dreamed {ACTIVE} {COCK} would taste this {TASTY}! I guess I can do this after all...",
+        "I {SCREAM} in disgust as the {MONSTER}s cheer.",
+        "{SWEARING} I feel it inside me!",
+        "I'm {SCREAM}ing and {MOAN}ing for breath, there's no way on earth I can keep my {MOUTH} closed...",
+        "Reluctantly, I run my lips up and down the {COCK}. I try to regain my courage before I {ACCEPT} it inside.",
+        "My eyes widen at the {VILE} {COCK}, covered with {SCUM} and lined with warts.",
+        "The second {ACTIVE} {INSERT}s his {COCK} at my {MOUTH}, the {VILE} smell reminding me of a public restroom..."
+    ],
+    "2nd Person": [
+        "With one hand around your throat, you can't stop your {PUSSY} from being {PENETRAT}ed.",
+        "As his fellow enters you, the one pinning your head {DISPLAY}s a {BEASTLY} {COCK} to your lips.",
+        "Tears stream down your face as you're forced to {SUCK} him the {BEASTLY} {COCK}.",
+        "Your leg is yanked up and the {MONSTER} grips it tightly, using it for leverage to {INSERT} hard into you.",
+        "Ooh! You never dreamed {ACTIVE} {COCK} would taste this {TASTY}! You might be able to do this after all...'",
+        "You {SCREAM} in disgust as the {MONSTER}s cheer.",
+        "{SWEARING}, you feel it inside you!'",
+        "You're {SCREAM}ing and {MOAN}ing for breath, there's no way on earth you can keep your {MOUTH} closed...",
+        "Reluctantly, you run your lips up the {COCK}, trying to regain your courage before you {ACCEPT} it inside.",
+        "Your eyes widen at the {VILE} {COCK}, covered with {SCUM} and lined with warts.",
+        "The second {ACTIVE} {INSERT}s his {COCK} at your {MOUTH}, the {VILE} smell reminding you of a public restroom..."
+    ],
+    "3rd Person": [
+        "With one hand around her throat, {PRIMARY} can't stop her {PUSSY} from being {PENETRAT}ed.",
+        "As his fellow enters {PRIMARY}, the one pinning her head {DISPLAY}s a {BEASTLY} {COCK} to her lips.",
+        "Tears stream down {PRIMARY}'s face as she's forced to {SUCK} him the {BEASTLY} {COCK}.",
+        "{PRIMARY}'s leg is yanked up and the {MONSTER} grips it tightly, using it for leverage to {INSERT} hard into her.",
+        "{PRIMARY} {SCREAM}s in disgust as the {MONSTER}s cheer."
+    ]
+}

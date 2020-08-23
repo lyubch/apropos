@@ -1,0 +1,40 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} lifts me easily, pulling my legs apart, forcing the {COCKHEAD} of his {BEASTLY} {COCK} into me.",
+        "{PLEADING}! Please! Don't do this! I can't... Nghhhh!! {SWEARING}! Help me!",
+        "{SWEARING}, his {COCK} is {HUGE}! There's no way I can take that, and I try my hardest to {STRUGGLE}.",
+        "I struggle to push the {ACTIVE} away, even as his strong grip pushes me {SLOW}ly down onto his {COCK}.",
+        "The {ACTIVE}'s {COCK} pushes hard at my {PUSSY}, and I {SCREAM} as the {COCKHEAD} slips inside.",
+        "I'm only taking the {COCKHEAD} of the {ACTIVE}'s {BEASTLY} {COCK}, and it already feels like I'm full.",
+        "I can't take that big... thing... inside me, it's bigger than my arm...",
+        "My nose is immediately assaulted by a {SALTY} musk that I instantly recognize; the smell of {CUM}. {SWEARING}...",
+        "{PLEADING}! Wouldn't you like to see a {NUDE} human girl {WET} in your {CUM}?",
+        "{SWEARING}... is... is that his... {COCK}?! {SWEARING}, that IS his {COCK}! I'm not sure I can do this...",
+        "This unclean {MONSTER} stinks of sweat and {SCUM}... and it wants to have sex with me...",
+        "{PLEADING}! I'll let you fill my {MOUTH} with your {CUM}, I'll drink it, just please!",
+        "Please, just the {COCKHEAD}... I'm sorry but this is too much for me..."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} lifts you easily, pulling your legs apart, forcing the {COCKHEAD} of his {BEASTLY} {COCK} into you.",
+        "({PRIMARY}) {PLEADING}! Please! Don't do this! I can't... Nghhhh!! {SWEARING}! Help me!",
+        "{SWEARING}, his {COCK} is {HUGE}! There's no way you can take that, and you try your hardest to {STRUGGLE}.",
+        "You struggle to push the {ACTIVE} away, even as his strong grip pushes you {SLOW}ly down onto his {COCK}.",
+        "The {ACTIVE}'s {COCK} pushes hard at your {PUSSY}, and you {SCREAM} as the {COCKHEAD} slips inside.",
+        "You're only taking the {COCKHEAD} of the {ACTIVE}'s {BEASTLY} {COCK}, and it already feels like you're full.",
+        "You can't take that big... thing... inside you, it's bigger than your arm...",
+        "Your nose is immediately assaulted by a {SALTY} musk that you instantly recognize; the smell of {CUM}. {SWEARING}...",
+        "({PRIMARY}) {PLEADING}! Wouldn't you like to see a {NUDE} human girl {WET} in your {CUM}?",
+        "{SWEARING}... is... is that his... {COCK}?! {SWEARING}, that IS his {COCK}! You're not sure you can do this...",
+        "This unclean {MONSTER} stinks of sweat and {SCUM}... and it wants to have sex with you...",
+        "({PRIMARY}) {PLEADING}! I'll let you fill my {MOUTH} with your {CUM}, I'll drink it, just please!",
+        "({PRIMARY}) Please, just the {COCKHEAD}... I'm sorry but this is too much for me..."
+    ],
+    "3rd Person" :
+    [
+        "{SWEARING}, look at the {GIRTH} of the {ACTIVE}'s {COCK}! There's no way that will fit inside her...",
+        "{PRIMARY} struggles as the {ACTIVE} pulls her legs apart and prepares to {FUCK} her.",
+        "The {FEAR} on {PRIMARY}'s face is clear every time the {BEASTLY} {COCK} pushes against her {PUSSY}."
+    ]
+}

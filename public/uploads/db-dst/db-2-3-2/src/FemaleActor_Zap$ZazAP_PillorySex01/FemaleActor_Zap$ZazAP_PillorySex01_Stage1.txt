@@ -1,0 +1,42 @@
+{
+    "1st Person": [
+        "I can't move, my wrists and head held tight by the stocks. All I can do is struggle at every touch.",
+        "I'm completely {NUDE}, he can do anything he wants to me and I can't stop him...",
+        "Oh my... What is that I'm feeling at my {BUTTOCKS}? {SWEARING}, I'm going to get {FUCK}ed...",
+        "The {LUST} and not knowing is maddening, and my {PUSSY} aches at every stroke and grope.",
+        "I can't see what's going on behind me, can't even be sure who it is... All I know is that he's hard...",
+        "Someone's touching me from behind... Is it {ACTIVE}? {SWEARING}, what if it's someone else...",
+        "I can't wait any longer! I want your {COCK} inside me! Ram it into my {PUSSY}! Hard!",
+        "You can stick it anywhere you like, and I'll take all of your {CUM}. Does that sound hot?",
+        "I want you to {FUCK} me, screw me like a {BITCH}... You know you want me... So what are you waiting for?",
+        "I {QUIVER}, {NUDE} and {NUDE}, my {FAROUSAL} {PUSSY} {DISPLAY}ed.",
+        "My {FAROUSAL} {PUSSY} is {DISPLAY}ed, lips parted, ready to be {FUCK}ed.",
+        "Hurry up! You can put it in me right now!",
+        "Breathlessly, I fidget in my bonds, my {FLESH} {QUIVER}ing in {LUST}.",
+        "I'm totally {NUDE}! They can see everything; My stomach, my {BOOBS}, my {PUSSY}, everything!",
+        "I guess I'm tonight's entertainment."
+    ],
+    "2nd Person": [
+        "You can't move, your wrists and head held tight by the stocks. All you can do is struggle at every touch.",
+        "You're completely {NUDE}, he can do anything he wants to you and you can't stop him...",
+        "Oh my... What is that you're feeling at your {BUTTOCKS}? {SWEARING}, you're going to get {FUCK}ed...",
+        "The {LUST} and not knowing is maddening, and your {PUSSY} aches at every stroke and grope.",
+        "You can't see what's going on behind you, can't even be sure who it is... All you know is that he's hard...",
+        "Someone's touching you from behind... Is it {ACTIVE}? {SWEARING}, what if it's someone else...",
+        "({PRIMARY}) I can't wait any longer! I want your {COCK} inside me! Ram it into my {PUSSY}! Hard!",
+        "({PRIMARY}) You can stick it anywhere you like, and I'll take all of your {CUM}. Does that sound hot?",
+        "({PRIMARY}) I want you to {FUCK} me, screw me like a {BITCH}... You know you want me... What are you waiting for?",
+        "You {QUIVER}, {NUDE} and {NUDE}, your {FAROUSAL} {PUSSY} {DISPLAY}ed.",
+        "Your {FAROUSAL} {PUSSY} is {DISPLAY}ed, lips parted, ready to be {FUCK}ed.",
+        "({PRIMARY}) Hurry up! You can put it in me right now!",
+        "Breathlessly, you fidget in your bonds, your {FLESH} {QUIVER}ing in {LUST}.",
+        "You're totally {NUDE}! They can see everything; Your stomach, your {BOOBS}, your {PUSSY}, everything!",
+        "You guess you're tonight's entertainment."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is held tight by the stocks, and can only {JIGGL}e as {ACTIVE} gropes her.",
+        "{PRIMARY} is completely helpless, anyone could do anything to her! Is {ACTIVE} going to {FUCK} her?",
+        "Does {PRIMARY} even know that it's {ACTIVE} behind her, touching her like that?",
+        "{ACTIVE}'s {COCK} is {FAROUSAL}, and {PRIMARY} recoils every time it touches her {ASSHOLE}."
+    ]
+}

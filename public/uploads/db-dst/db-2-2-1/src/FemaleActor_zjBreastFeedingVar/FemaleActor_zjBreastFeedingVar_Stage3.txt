@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} lies across my lap, continuing to suck hard on my nipple, while I give him a handjob.",
+        "I cradle {ACTIVE}'s head in my lap, squeezing his {PENIS} gently as he suckles on my erect nipple.",
+        "Oh my, {ACTIVE} has a pretty nice {COCK}! I glance nervously at it, stroking it a few times.",
+        "{ACTIVE}'s {PENIS} feels hot and hard in my hand, and my {CREAM} drips down my ass as I think about it.",
+        "You want me to touch your {PENIS}? Um, I suppose that would be okay... Just for a moment..."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} lies across your lap, continuing to suck hard on your nipple, while you give him a handjob.",
+        "You cradle {ACTIVE}'s head in your lap, squeezing his {PENIS} gently as he suckles on your erect nipple.",
+        "Oh my, {ACTIVE} has a pretty nice {COCK}! You glance nervously at it, stroking it a few times.",
+        "{ACTIVE}'s {PENIS} feels hot and hard in your hand, and your {CREAM} drips down your ass as you think about it.",
+        "({PRIMARY}) You want me to touch your {PENIS}? Um, I suppose that would be okay... Just for a moment..."        
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} cradles {ACTIVE} in her lap. It would look quite motherly if she didn't have her hand on his {COCK}.",
+        "As {ACTIVE} lies back, still sucking on her nipple, {PRIMARY} reaches out, squeezing and stroking his {PENIS}.",
+        "{ACTIVE} seems to be quite relaxed. It seems not all men here want to fuck roughly..."
+    ]
+}

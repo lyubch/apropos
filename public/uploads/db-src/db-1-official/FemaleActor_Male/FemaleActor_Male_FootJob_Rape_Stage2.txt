@@ -1,0 +1,33 @@
+{
+    "1st Person": [
+        "The {ACTIVE} tries to lean forward, but I push him back down, trying to retain control.",
+        "I push the {ACTIVE} back, trying to appear playful, then bring my foot back to his {COCK} to stroke it.",
+        "I see the look of arousal on the {ACTIVE}'s face as my bare foot tenderly strokes his {MAROUSAL} {COCK}.",
+        "I blush nervously at my attacker as my {HEAVING} {BOOBS} rise and fall noticeably.",
+        "I flush with shame as I realise {ACTIVE} can see {CUM} dribbling out of my {PUSSY}... Oh my...",
+        "With my slender legs on display, and my bare feet pressed hard against his chest... Will this really save me?",
+        "I start working his {COCK} with my foot, rubbing my toes back and forth along the head.",
+        "My soft soles gently rub the shaft of his veiny {COCK}.",
+        "My heart thunders in my ears as I press my sole into his chest, and again as I stroke his {COCK}.",
+        "Do you want me to touch your {COCK} with my feet? Don't you want to cover them in {SLOPPY} {CUM}?"
+    ],
+    "2nd Person": [
+        "{ACTIVE} tries to lean forward, but you push him back down, trying to retain control.",
+        "You push {ACTIVE} back, trying to appear playful, then bring your foot back to his {COCK} to stroke it.",
+        "You see the look of arousal on {ACTIVE}'s face as your bare foot tenderly strokes his {MAROUSAL} {COCK}.",
+        "You blush nervously at your attacker as your {HEAVING} {BOOBS} rise and fall noticeably.",
+        "You flush with shame as you realise {ACTIVE} can see {CUM} dribbling out of your {PUSSY}... Oh your...",
+        "With your slender legs on display, and your bare feet pressed against his chest... Will this really save you?",
+        "You start working his {COCK} with your foot, rubbing your toes back and forth along the head.",
+        "Your soft soles gently rub the shaft of his veiny {COCK}.",
+        "Your heart thunders in your ears as you press your sole into his chest, and again as you stroke his {COCK}.",
+        "({PRIMARY}) Do you want me to touch your {COCK} with my feet? Don't you want to cover them in {SLOPPY} {CUM}?"
+    ],
+    "3rd Person": [
+        "The {ACTIVE} tries to lean forward, but {PRIMARY} pushes him back down, trying to retain control.",
+        "{PRIMARY} pushes the {ACTIVE} back, trying to appear playful, bringing her foot back to his {COCK}.",
+        "The {ACTIVE}'s face has a look of arousal as {PRIMARY}'s bare foot tenderly strokes his {MAROUSAL} {COCK}.",
+        "{PRIMARY} blushes nervously at her attacker as her {HEAVING} {BOOBS} rise and fall noticeably.",
+        "{PRIMARY} flushes with shame as {CUM} dribbles out of her {PUSSY}... Oh my..."
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "The {ACTIVE} roughly pushes me to the ground, before really pounding me hard.",
+        "I collapse to my hands and knees, body shaking as the {ACTIVE} starts to get really rough and violent.",
+        "My head drops and my shoulders knot painfully. I can't take this, it's too fast!",
+        "Aaaah! Ugh! Please... please stop! It's too fast! You're going to break me apart!",
+        "{ACTIVE} sinks the full length deep into me, forcing the rest of my body to rock forward.",
+        "I'm torn between desperately wanting a thorough fucking and my sense that this is wrong...",
+        "Uhhh... ahhh... is that all? Is this really your best? Nghhhhh! I've had old men fuck me better!",
+        "({ACTIVE}) You're going to beg me to fuck you harder and cum deep inside you.",
+        "I try to close my spread legs, but {ACTIVE}'s brutal thrusts take my breath away.",
+        "He's about to... ahhh! Cum! I need to stop him... Maybe just a little more..."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} roughly pushes you to the ground, before really pounding you hard.",
+        "You collapse to your hands and knees, body shaking as the {ACTIVE} starts to get really rough and violent.",
+        "Your head drops and your shoulders knot painfully. You can't take this, it's too fast!",
+        "({PRIMARY}) Aaaah! Ugh! Please... please stop! It's too fast! You're going to break me apart!",
+        "{ACTIVE} sinks the full length deep into you, forcing the rest of your body to rock forward.",
+        "You're torn between desperately wanting a thorough fucking and your sense that this is wrong...",
+        "({PRIMARY}) Uhhh... ahhh... is that all? Is this really your best? Nghhhhh! I've had old men fuck me better!",
+        "({ACTIVE}) You're going to beg me to fuck you harder and cum deep inside you.",
+        "You try to close your spread legs, but {ACTIVE}'s brutal thrusts take your breath away.",
+        "He's about to... ahhh! Cum! You need to stop him... Maybe just a little more..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is roughly pushed to the ground, and the {ACTIVE} fucks her hard. Really hard.",
+        "{PRIMARY} chokes back sobs as her {WTVAGINAL} {PUSSY} is fucked raw.",
+        "{PRIMARY} collapses to her hands and knees, her body shaking with every hard thrust.",
+        "({ACTIVE}) Looks like this {BITCH} wants it hard!"
+    ]
+}

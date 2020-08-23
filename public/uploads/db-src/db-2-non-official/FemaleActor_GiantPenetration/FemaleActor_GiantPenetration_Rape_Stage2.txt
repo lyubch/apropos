@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "Ah! Ah! Ah! {SWEARING}... (sob) Please! Nghhh! {PLEADING}! Uh... Uh... NGHHHH!",
+        "The {ACTIVE} picks up the pace, pumping into me hard and fast. {SWEARING}, I'm not sure I'll survive this...",
+        "My legs dangle lifelessly, the {ACTIVE} {FUCK}ing hard between them.",
+        "I stare into the {ACTIVE}'s eyes, searching for any indication that it knows what it's doing to me...",
+        "The {COCK} {RAP}es painfully into my insides, it's almost a relief when my womb opens up to take him...",
+        "I feel my {FLESH} start to {SUBMIT} to the ravishings of the {BEASTLY} {COCK}.",
+        "Ugh! Ahhhhhhh! The {ACTIVE}'s {COCK} makes me feel like a virgin again as it stretches my {PUSSY}...",
+        "The {ACTIVE}'s {COCK} is {BEASTLY}, I practically orgasm every time it pushes in and pulls out.",
+        "{SWEARING}, I can't do this... his {COCK} is really too {HUGE}... AAAHHHHH!",
+        "Ughhhhh... I didn't know I could take so much {COCK}.",
+        "My {PUSSY} is sore and being {FUCK}ed raw. It still hurts bad and I'm not sure how much more I can take..."   
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Ah! Ah! Ah! {SWEARING}... (sob) Please! Nghhh! {PLEADING}! Uh... Uh... NGHHHH!",
+        "The {ACTIVE} picks up the pace, pumping into you hard and fast. {SWEARING}, you're not sure you'll survive this...",
+        "Your legs dangle lifelessly, the {ACTIVE} {FUCK}ing hard between them.",
+        "You stare into the {ACTIVE}'s eyes, searching for any indication that it knows what it's doing to you...",
+        "The {COCK} {RAP}es painfully into your insides, it's almost a relief when your womb opens up to take him...",
+        "You feel your {FLESH} start to {SUBMIT} to the ravishings of the {BEASTLY} {COCK}.",
+        "Ugh! Ahhhhhhh! The {ACTIVE}'s {COCK} makes you feel like a virgin again as it stretches your {PUSSY}...",
+        "The {ACTIVE}'s {COCK} is {BEASTLY}, you practically orgasm every time it pushes in and pulls out.",
+        "{SWEARING}, you can't do this... his {COCK} is really too {HUGE}... AAAHHHHH!",
+        "Ughhhhh... you didn't know you could take so much {COCK}.",
+        "Your {PUSSY} is sore and being {FUCK}ed raw. It still hurts bad and you're not sure how much more you can take..."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} is being so {ROUGH} with {PRIMARY}... That must hurt a lot...",
+        "{PRIMARY}'s legs hang lifelessly as the {ACTIVE} {FUCK}s her harder and harder.",
+        "The {ACTIVE} picks up the pace, {FUCK}ing into {PRIMARY}'s {HEAVING} {FLESH} even more {ROUGH}ly."
+    ]
+}

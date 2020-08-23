@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "I let the {ACTIVE} take me, and I gasp when its {PENIS} slips easily up inside me.",
+        "Overcome by desire at the sight of such a {BEAST} {PENIS}, I jump into the {ACTIVE}'s arms, impaling myself.",
+        "I'm jerked up into the air with every sharp thrust from the {ACTIVE}'s {BEAST} {PENIS}.",
+        "It's difficult not to think about a such a {BEAST} {COCK} slipping inside my {FAROUSAL} {PUSSY}. So I let it.",
+        "I feel a surge of shame as I throw myself at the {ACTIVE} and onto its {COCK}. I want to fuck everything.",
+        "I've heard rumours that some young girls sneak into troll lairs just to get fucked... Mmmm, I know why!",
+        "I give a delighted squeal as the brute roughly spreads my legs and fucks its {BEAST} {COCK} up into me."        
+    ],
+    "2nd Person" :
+    [
+        "You let the {ACTIVE} take you, and you gasp when its {PENIS} slips easily up inside you.",
+        "Overcome by desire at the sight of such a {BEAST} {PENIS}, you jump into the {ACTIVE}'s arms, impaling yourself.",
+        "You're jerked up into the air with every sharp thrust from the {ACTIVE}'s {BEAST} {PENIS}.",
+        "It's difficult not to think about a such a {BEAST} {COCK} slipping inside your {FAROUSAL} {PUSSY}. So you let it.",
+        "You feel a surge of shame as you throw yourself at the {ACTIVE} and onto its {COCK}. You want to fuck everything.",
+        "You've heard rumours that some young girls sneak into troll lairs just to get fucked... Mmmm, you know why!",
+        "You give a delighted squeal as the brute roughly spreads your legs and fucks its {BEAST} {COCK} up into you."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s jerked up into the air with every sharp thrust from the {ACTIVE}'s {BEAST} {PENIS}.",
+        "The {ACTIVE}'s {PENIS} slips up inside {PRIMARY} as she jumps into its arms. Did she mean for that to happen?",
+        "So it's true... Trolls like to fuck human girls..."        
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "1st Person" :
+    [
+        "Still fingering myself furiously, I stroke the length of the {ACTIVE}'s {PENIS}.",
+        "My heart thunders in my ears as I wank off both myself and this animal.",
+        "Such a {HUGE} {PENIS}... My {PUSSY} aches, imagining what it would be like to be fucked by it.",
+        "I imagine what it will be like when his {CUM} squirt out in frothy jets...",
+        "I don't know which {OPENING} I want this thing shoved inside of first.",
+        "I cup my hand around the stallion's {BEAST} black cockshaft, just behind the flaring head.",
+        "I pump him up and down. It feels so hot, so strong... Maybe just a taste...",
+        "As my hand pushes back, his cockhead balloons, the dark cockmeat throbbing.",
+        "I'll make sure its balls are empty before I go...",
+        "I yearn to have the creature thrust itself inside me, to fill me with its {CUM}.",
+        "It's so big and heavy, I want it inside me...",
+        "I can't even reach my hand around it... My fingers churn my {PUSSY}, knowing I want to try.",
+        "The head is so strange... What would that feel like in my {PUSSY}?"
+    ],
+    "2nd Person" :
+    [
+        "Still fingering yourself furiously, you stroke the length of the {ACTIVE}'s {PENIS}.",
+        "Your heart thunders in your ears as you wank off both yourself and this animal.",
+        "Such a {HUGE} {PENIS}... Your {PUSSY} aches, imagining what it would be like to be fucked by it.",
+        "You imagine what it will be like when his {CUM} squirt out in frothy jets...",
+        "You don't know which {OPENING} you want this thing shoved inside of first.",
+        "You cup your hand around the stallion's {BEAST} black cockshaft, just behind the flaring head.",
+        "You pump him up and down. It feels so hot, so strong... Maybe just a taste...",
+        "As your hand pushes back, his cockhead balloons, the dark cockmeat throbbing.",
+        "You'll make sure its balls are empty before you go...",
+        "You yearn to have the creature thrust itself inside you, to fill you with its {CUM}.",
+        "It's so big and heavy, you want it inside you...",
+        "You can't even reach your hand around it... Your fingers churn your {PUSSY}, knowing you want to try.",
+        "The head is so strange... What would that feel like in your {PUSSY}?"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s hand glides down the length of the {ACTIVE}'s shaft.",
+        "{PRIMARY} continues to fondle herself as she wanks off the {ACTIVE}.",
+        "Wet {CREAM} runs down {PRIMARY}'s legs and her nipples are rock hard. She won't hold back much longer.",
+        "{PRIMARY}'s mouth hangs open hungrily as she feels the beast's {PENIS}. She wants to taste it.",
+        "{PRIMARY}'s fingers don't even reach all the way around the shaft. Will her lips fare better?"
+    ]
+}

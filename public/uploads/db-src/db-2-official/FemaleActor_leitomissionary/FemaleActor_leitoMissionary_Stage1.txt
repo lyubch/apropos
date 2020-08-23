@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "My lover presses their {cock} slowly into my {pussy}, lifting my leg by the ankle.",
+        "I can hear the whisper of my name off of {ACTIVE}'s lips. I shudder in warmth and excitement.",
+        "My lover begins to ease into me slowly. I must be so wet down their in anticipation...",
+        "'Stop teasing me already.' I say to {ACTIVE}, but {ACTIVE} knows I love being teased.",
+        "I gaze up as my lover teases my {PUSSY}, and I hold my breath in great expectation on what comes next.",
+        "'Are you ready?' {ACTIVE} asks me. Can't my beloved see I am so very wet and ready...?",
+        "''Gently, my love,'' I request of {ACTIVE} softly. {ACTIVE} grunts and obeys, and I love them all the more for it.",
+        "I beg {ACTIVE} to put it inside me, but {ACTIVE} takes their sweet, painstaking, slow time."
+    ],
+    "2nd Person": [
+        "Your lover presses their {COCK} slowly into your {PUSSY} lifting your leg by the ankle.",
+        "You can hear the whisper of your name off of {ACTIVE}'s lips. You shudder in warmth and excitement.",
+        "Your lover begins to ease into you slowly. You must be so wet down their in anticipation...",
+        "'Stop teasing me already.' You say to {ACTIVE}, but you love being teased all the same.",
+        "You gaze upa s your lover teases your {PUSSY}, and hold your breath in great expectation on what comes next.",
+        "'Are you ready?' {ACTIVE} asks you. Can't your beloved see you are so very wet and ready...?",
+        "''Gently, my love,'' you request of {ACTIVE} softly. {ACTIVE} grunts and obeys, and you love them all the more for it.",
+        "You beg {ACTIVE} to put it inside you, but {ACTIVE} takes their sweet, painstaking, slow time."
+    ],
+    "3rd Person": [
+        "{ACTIVE} presses their {COCK} slowly into  {PRIMARY}'s {PUSSY}, lifting her leg by the ankle.",
+        "{ACTIVE} whispers {PRIMARY}'s name to her softly. She shudders and gazes lovingly back.",
+        "{ACTIVE} eases into you slowly. {PRIMARY}'s {PUSSY} is wet in anticipation...",
+        "{PRIMARY} groans up at {ACTIVE}, tired of the teasing, and wanting the {COCK} to be inside her.",
+        "{PRIMARY} and {ACTIVE}'s eyes lock lovingly as {ACTIVE}'s {COCK} rubs against and teases {PRIMARY}'s {PUSSY}.",
+        "Are you ready?' {ACTIVE} asks {PRIMARY}. Can't {ACTIVE} tell {PRIMARY} is wet with readiness?",
+        "{ACTIVE} groans as the head of his {COCK} begins to enter inside {PRIMARY}.",
+        "{PRIMARY}'s {HEAVING} {BOOBS} rise slowly with bated breath as {PRIMARY} pokes at the folds of her {PUSSY}."
+    ]
+}

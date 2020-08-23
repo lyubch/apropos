@@ -1,0 +1,37 @@
+{
+    "1st Person" :
+    [
+        "The rod is pulled out of me, but my relief is short lived, as it roughly spears my {WTANAL} {ASS}.",
+        "({ACTIVE}) A {BITCH} like you must have plenty of experience being fucked in the {ASS}, huh?",
+        "Even slick with my own {CREAM}, the coarse object hurts as it pushes into my {WTANAL} {ASS}.",
+        "My thoughts are scattered as the bastard behind me starts to fuck my {ASS} with the stick.",
+        "Even though it's thin, and he's going slow, the thing in my {ASS} hurts...",
+        "My tormentor fucks my {ASS}, sometimes pulling the rod all the way out before ramming it painfully back in.",
+        "({ACTIVE}) Wow, that's got to about nine or ten inches up this {BITCH}'s {ASS}!",
+        "Please... (sob) Why won't anyone stop this...",
+        "Oh Gods... I'm getting so close... All this abuse is driving me wild... I'm such a {WHORE}...",
+        "Oh Gods... fuck... fuck... how much longer can he go on for?",
+        "Ah! Ah! Oh Gods, please, just take it out! Give me your {COCK}, anything but this! Ah!"       
+    ],
+    "2nd Person" :
+    [
+        "The rod is pulled out of you, but your relief is short lived, as it roughly spears your {WTANAL} {ASS}.",
+        "({ACTIVE}) A {BITCH} like you must have plenty of experience being fucked in the {ASS}, huh?",
+        "Even slick with your own {CREAM}, the coarse object hurts as it pushes into your {WTANAL} {ASS}.",
+        "Your thoughts are scattered as the bastard behind you starts to fuck your {ASS} with the stick.",
+        "Even though it's thin, and he's going slow, the thing in your {ASS} hurts...",
+        "Your tormentor fucks your {ASS}, sometimes pulling the rod all the way out before ramming it painfully back in.",
+        "({ACTIVE}) Wow, that's got to about nine or ten inches up this {BITCH}'s {ASS}!",
+        "({PRIMARY}) Please... (sob) Why won't anyone stop this...",
+        "Oh Gods... You're getting so close... All this abuse is driving you wild... You're such a {WHORE}...",
+        "Oh Gods... fuck... fuck... how much longer can he go on for?",
+        "({PRIMARY}) Ah! Ah! Oh Gods, please, just take it out! Give me your {COCK}, anything but this! Ah!"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} pulls the broom out of {PRIMARY}'s {WTVAGINAL} {PUSSY}, and starts to fuck her {ASS} with it.",
+        "As if raping her {PUSSY} with a broom wasn't horrible enough, now he's raping her {ASS} with it!",
+        "He's pushing that into her so far... It must really hurt, going in so deep...",
+        "{PRIMARY} shrieks every time {ACTIVE} thrusts the stick hard up her {WTANAL} {ASS}."
+    ]
+}

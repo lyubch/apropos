@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "I lie back and spread my legs, letting {ACTIVE} go down on me. I'm nervous, but it feels fantastic!",
+        "I prop myself up on my elbows, and timidly watch as {ACTIVE} begins to lick my {PUSSY}.",
+        "{ACTIVE}'s tongue feels amazing, slurping up and down my {PUSSY} with quick strokes.",
+        "Most guys want me to do some pretty dirty things... I'm surprised that {ACTIVE} just wants to go down on me...",
+        "Considering all the {COCK}s I've sucked, guys don't do this for me nearly enough..."
+    ],
+    "2nd Person" :
+    [
+        "You lie back and spread your legs, letting {ACTIVE} go down on you. You're nervous, but it feels fantastic!",
+        "You prop yourself up on your elbows, and timidly watch as {ACTIVE} begins to lick your {PUSSY}.",
+        "{ACTIVE}'s tongue feels amazing, slurping up and down your {PUSSY} with quick strokes.",
+        "Most guys want you to do some pretty dirty things... You're surprised that {ACTIVE} wants to go down on you...",
+        "Considering all the {COCK}s you've sucked, guys don't do this for you nearly enough..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} lies back, her legs spread, as {ACTIVE} goes down on her. Lucky girl!",
+        "{ACTIVE}'s head moves quickly, lapping between {PRIMARY}'s spread legs.",
+        "{PRIMARY} leans up, watching {ACTIVE} eat her out. The look on her face is so erotic."
+    ]
+}

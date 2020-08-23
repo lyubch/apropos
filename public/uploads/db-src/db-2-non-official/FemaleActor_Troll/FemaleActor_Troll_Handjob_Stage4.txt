@@ -1,0 +1,20 @@
+{
+    "1st Person" :
+    [
+        "The {GIRTH} of this {BEASTCOCK} in my hand...would this actually fit in my {PUSSY}?",
+	"As I continue to {WANK} his {BEASTCOCK}, I briefly lick around the {COCKHEAD}, savoring his pre-cum.",
+	"The {COCKHEAD} is just inches from my face, and will soon coat me with {THICK} {CUM}."
+    ],
+    "2nd Person" :
+    [
+        "The {GIRTH} of this {BEASTCOCK} in your hand...would this actually fit in your {PUSSY}?",
+	"As you continue to {WANK} his {BEASTCOCK}, you briefly lick around the {COCKHEAD}, savoring his pre-cum.",
+	"The {COCKHEAD} is just inches from your face, and will soon coat you with {THICK} {CUM}."
+    ],
+    "3rd Person" :
+    [
+        "The {GIRTH} of this {BEASTCOCK} in her hand...would this actually fit in her {PUSSY}?",
+	"As she continues to {WANK} his {BEASTCOCK}, she briefly licks around the {COCKHEAD}.",
+	"The {COCKHEAD} is just inches from her face, and will soon coat her with {THICK} {CUM}."
+    ]
+}

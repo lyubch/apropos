@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "I desperately try to push the {ACTIVE} off me, feeling my body weaken with every deep thrust between my legs.",
+        "The {ACTIVE} starts to fuck me, it's {BEAST} {PENIS} thrusting slowly into me, but terrifyingly deep.",
+        "Even though its {PENIS} is inside me, it's the monster's terrifying maw that scares me the most.",
+        "My heart is racing, I can't escape! This {ACTIVE} can do whatever it wants to me.",
+        "I let out a primal grunt as my {WTVAGINAL} {PUSSY} is impaled on the creature's {PENIS}.",
+        "The {ACTIVE} roughly forces my legs apart and thrusts its {COCK} into my {PUSSY}.",
+        "I'm bruised and naked, being brutally raped by an animal. Then why am I dripping wet?"
+    ],
+    "2nd Person" :
+    [
+        "You desperately try to push the {ACTIVE} off you, feeling your body weaken with every deep thrust between your legs.",
+        "The {ACTIVE} starts to fuck you, it's {BEAST} {PENIS} thrusting slowly into you, but terrifyingly deep.",
+        "Even though its {PENIS} is inside you, it's the monster's terrifying maw that scares you the most.",
+        "Your heart is racing, you can't escape! This {ACTIVE} can do whatever it wants to you.",
+        "You let out a primal grunt as your {WTVAGINAL} {PUSSY} is impaled on the creature's {PENIS}.",
+        "The {ACTIVE} roughly forces your legs apart and thrusts its {COCK} into your {PUSSY}.",
+        "You're bruised and naked, being brutally raped by an animal. Then why are you dripping wet?"
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} starts to fuck {PRIMARY}, it's {BEAST} {PENIS} thrusting slowly into her, but terrifyingly deep.",
+        "{PRIMARY} lets out a primal grunt as her {WTVAGINAL} {PUSSY} is impaled on the creature's {PENIS}.",
+        "The {ACTIVE} roughly forces {PRIMARY}'s legs apart and thrusts its {COCK} into her {PUSSY}."        
+    ]
+}

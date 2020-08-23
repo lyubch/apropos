@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I can't help but start to fuck back, the {BEAST} {COCK} buried completely inside me feeling amazing...",
+        "I'm completely aloft now, held up by monster's {BEAST} {COCK}, my full weight pushing me down onto it.",
+        "I arch my back, pushing out my {HEAVING} {BOOBS} as the brute gives me a hard, deep fuck.",
+        "I feel adrenaline rush through me. If a beast is going to fuck me, then I'm going to fuck right back!",
+        "The rough fucking becomes more pleasurable and I begin thrusting back, wanting to take it deeper.",
+        "This beast's {COCK}... Feels so incredible... Hammering me with such force."
+    ],
+    "2nd Person": [
+        "You can't help but start to fuck back, the {BEAST} {COCK} buried completely inside you feeling amazing...",
+        "You're completely aloft now, held up by monster's {BEAST} {COCK}, your full weight pushing you down onto it.",
+        "You arch your back, pushing out your {HEAVING} {BOOBS} as the brute gives you a hard, deep fuck.",
+        "You feel adrenaline rush through you. If a beast is going to fuck you, then you're going to fuck right back!",
+        "The rough fucking becomes more pleasurable and you begin thrusting back, wanting to take it deeper.",
+        "This beast's {COCK}... Feels so incredible... Hammering you with such force."
+    ],
+    "3rd Person": [
+        "{PRIMARY} can't help but start to fuck back, the {BEAST} {COCK} buried completely inside her feeling amazing...",
+        "{PRIMARY} is completely aloft now, held up by monster's {BEAST} {COCK}, her full weight pushing her down onto it.",
+        "{PRIMARY} arches her back, pushing out her {HEAVING} {BOOBS} as the brute gives her a hard, deep fuck.",
+        "{PRIMARY} feels adrenaline rush through her. If a beast is going to fuck her, then she's going to fuck right back!",
+        "The rough fucking becomes more pleasurable and {PRIMARY} begins thrusting back, wanting to take it deeper.",
+        "This beast's {COCK}... Feels so incredible... Hammering {PRIMARY} with such force."
+    ]
+}

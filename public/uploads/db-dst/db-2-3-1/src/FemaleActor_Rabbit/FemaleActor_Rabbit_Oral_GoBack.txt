@@ -1,0 +1,17 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} wants to {BREED} my {MOUTH} more!",
+	"{ACTIVE} tries to pull his {TASTY} {BEASTCOCK} out of my {MOUTH}, but I {LEWD}ly continue {SUCK}ing him."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} wants to {BREED} your {MOUTH} more!",
+	"{ACTIVE} tries to pull his {TASTY} {BEASTCOCK} out of your {MOUTH}, but you {LEWD}ly continue {SUCK}ing him."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} wants to {BREED} {PRIMARY}'s {MOUTH} more!",
+	"{ACTIVE} tries to pull his {TASTY} {BEASTCOCK} out of {PRIMARY}'s {MOUTH}, but she {LEWD}ly continues {SUCK}ing him."
+    ]
+}

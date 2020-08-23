@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "I feel {ACTIVE}'s hand press down on my back, holding me still as he inseminates me deeply.",
+        "I feel {ACTIVE} start to squirt inside me, still gently pumping his {PENIS} as deep as he can into me.",
+        "I cross my ankles and my toes spread as the sensation of being bred by this man overwhelms me.",
+        "Oh my, we shouldn't have done that... I can feel your {CUM}... Oh Gods, I'm going to get pregnant!",
+        "{ACTIVE}'s whole weight presses down on me, and I feel his {THICK} {CUM} shooting right into my uterus.",
+        "I feel him throbbing intensely as he pumps his {CUM} deep into me.",
+        "They must think my {PUSSY} is theirs to use. {ACTIVE} even squirts his {CUM} up there and everything."
+    ],
+    "2nd Person" :
+    [
+        "You feel {ACTIVE}'s hand press down on your back, holding you still as he inseminates you deeply.",
+        "You feel {ACTIVE} start to squirt inside you, still gently pumping his {PENIS} as deep as he can into you.",
+        "You cross your ankles and your toes spread as the sensation of being bred by this man overwhelms you.",
+        "({PRIMARY}) Oh my, we shouldn't have done that... I can feel your {CUM}... Oh Gods, I'm going to get pregnant!",
+        "{ACTIVE}'s whole weight presses down on you, and you feel his {THICK} {CUM} shooting right into your uterus.",
+        "You feel him throbbing intensely as he pumps his {CUM} deep into you.",
+        "They must think your {PUSSY} is theirs to use. {ACTIVE} even squirts his {CUM} up there and everything."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s ankles cross and her toes curl. Oh Gods, is {ACTIVE} {CUMMING} inside her?",
+        "{ACTIVE} slows down, but holds {PRIMARY} down hard, forcing her to take his {CUM}.",
+        "{PRIMARY} looks resigned and shocked as {ACTIVE} pins her down, obviously {CUMMING} right into her {PUSSY}.",
+        "It's kind'a hot to see a woman dominated like that, pushed into the dirt and forced to take a man's {CUM}."
+    ]
+}

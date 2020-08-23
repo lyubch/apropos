@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "It takes all my self control not to scream as his {HUGE} {PENIS} slides into me.",
+        "I stifle a moan as he thrusts into me, making him pause. I freeze, my heart thundering, before he resumes.",
+        "Oh Gods, he's fucking me, he's actually fucking me! I can't believe someone would do this...",
+        "Cold sweat breaks out all over me as the bastard starts to rape me, slowly pushing his {PENIS} in and out.",
+        "It's hard to stay silent as he begins to pump slowly into me. I can't let him know I'm awake...",
+        "He stops fucking me every so often, as if unsure whether I'm conscious or not. I'm scared, but I don't move.",
+        "Oh Gods, I can't believe this happens! Have I been fucked when I was asleep, while unconscious, and not known?"
+    ],
+    "2nd Person" :
+    [
+        "It takes all your self control not to scream as his {HUGE} {PENIS} slides into you.",
+        "You stifle a moan as he thrusts in, making him pause. You freeze, your heart thundering, before he resumes.",
+        "Oh Gods, he's fucking you, he's actually fucking you! You can't believe someone would do this...",
+        "Cold sweat breaks out all over you as the bastard starts to rape you, slowly pushing his {PENIS} in and out.",
+        "It's hard to stay silent as he begins to pump slowly into you. You can't let him know you're awake...",
+        "He stops fucking every so often, as if unsure whether you're conscious or not. You're scared, but you don't move.",
+        "Oh Gods, you can't believe this happens! Have you been fucked while asleep, while unconscious, and not known?"
+    ],
+    "3rd Person" :
+    [
+        "Oh my goodness, he's having sex with her! If she wasn't awake before, she will be soon!",
+        "Oh Gods, does this happen a lot? Do men just fuck unconscious girls without them ever knowing?",
+        "Eyes still closed, {PRIMARY}'s brow furrows and she moans as the {ACTIVE} pushes his {PENIS} inside her."
+    ]
+}

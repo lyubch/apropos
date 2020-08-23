@@ -1,0 +1,23 @@
+{
+    "1st Person" :
+    [
+        "I start to cum, my head whipping back as I moan. {ACTIVE} is still rock hard in my hand...",
+        "I wank {ACTIVE}'s {HUGE} {PENIS} slowly, not wanting him to cum too soon...",
+        "Aaahh... Oh Gods... I want... your... your {COCK}! Please... stick it in me! Ahhh!",
+        "Mmmm... {ACTIVE}'s tongue is so far up me... His {COCK} is going to feel so much better!",
+        "I buck and thrash on {ACTIVE}'s tongue as I climax over and over. Thankfully, he's still hard!"
+    ],
+    "2nd Person" :
+    [
+        "You start to cum, your head whipping back as you moan. {ACTIVE} is still rock hard in your hand...",
+        "You wank {ACTIVE}'s {HUGE} {PENIS} slowly, not wanting him to cum too soon...",
+        "({PRIMARY}) Aaahh... Oh Gods... I want... your... your {COCK}! Please... stick it in me! Ahhh!",
+        "Mmmm... {ACTIVE}'s tongue is so far up you... His {COCK} is going to feel so much better!",
+        "You buck and thrash on {ACTIVE}'s tongue as you climax over and over. Thankfully, he's still hard!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is panting and shuddering, it's clear she's cumming. {ACTIVE} is still hard, though.",
+        "It's surprising that {PRIMARY} came first, {ACTIVE} must be really good at that."
+    ]
+}

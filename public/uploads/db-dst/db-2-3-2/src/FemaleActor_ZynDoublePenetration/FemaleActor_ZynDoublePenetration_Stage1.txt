@@ -1,0 +1,27 @@
+{
+    "1st Person": [
+        "Oh! I {SCREAM} a little as {ACTIVE2} pushes me into {ACTIVE}'s arms, and I'm lifted into the air.",
+        "{ACTIVE} lifts me, holding my legs apart, and I feel a tongue at my {PUSSY}. Is that {ACTIVE2}?",
+        "That's it {ACTIVE2}, get me nice and {WET} so I can take both your {COCK}s!",
+        "I feel light headed... I can't believe these big guys are preparing me to fuck them at the same time!",
+        "I feel giddy, held aloft by a big strong man while another licks my {WTVAGINAL} {PUSSY}...",
+        "{SWEARING}, this is happening! Am I really going to let two guys have sex with me at the same time?",
+        "I'm pretty {SUBMISSIVE} at the prospect of having two {COCK}s inside me, {FUCK}ing me... {SWEARING}...",
+        "Um... I don't know if I can do this... Maybe you could do me one at a time?"
+    ],
+    "2nd Person": [
+        "Oh! You {SCREAM} a little as {ACTIVE2} pushes you into {ACTIVE}'s arms, and you're lifted into the air.",
+        "{ACTIVE} lifts you, holding your legs apart, and you feel a tongue at your {PUSSY}. Is that {ACTIVE2}?",
+        "({PRIMARY}) That's it {ACTIVE2}, get me nice and {WET} so I can take both your {COCK}s!",
+        "You feel light headed... You can't believe these big guys are preparing you to fuck them at the same time!",
+        "You feel giddy, held aloft by a big strong man while another licks your {WTVAGINAL} {PUSSY}...",
+        "{SWEARING}, this is happening! Are you really going to let two guys have sex with you at the same time?",
+        "You're pretty {SUBMISSIVE} at the prospect of having two {COCK}s inside you, {FUCK}ing you... {SWEARING}...",
+        "({PRIMARY}) Um... I don't know if I can do this... Maybe I could do you one at a time?"
+    ],
+    "3rd Person": [
+        "It's kind'a hot to see {ACTIVE} lift {PRIMARY} like she was nothing and spread her legs.",
+        "Is {PRIMARY} going to fuck them, one after the other? {SWEARING}, or both at once?",
+        "{ACTIVE} {DISPLAY}s {PRIMARY}'s {PUSSY} and {ASSHOLE}, and {ACTIVE2} steps forwards and starts eating her out."
+    ]
+}

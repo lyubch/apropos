@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE}'s thrusts drive me to the ground. I clench my fist as he cums deep into my {ASS}.",
+        "{ACTIVE} continues to pump into my {WTANAL} {ASS} even as I drop to my elbows and scream.",
+        "I clench my fist, my other hand bracing myself on the ground to steady myself as I cum.",
+        "My toes push against the ground, scraping in the dirt as {ACTIVE} squirts his {THICK} {CUM} into my {ASS}.",
+        "Oh Gods! I can feel him {CUMMING}! There's too much, and I feel {THICK} {CUM} run down my {PUSSY}.",
+        "Anyone watching will know he's emptying a {THICK} load into a shameless {WHORE}.",
+        "As another load is emptied into my {ASS}, my stomach lurches, and I cough up {CUM}. How...? Oh my...",
+        "I never thought I was the kind of dirty {WHORE} who cums from being fucked in the {ASS}..."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE}'s thrusts drive you to the ground. You clench your fist as he cums deep into your {ASS}.",
+        "{ACTIVE} continues to pump into your {WTANAL} {ASS} even as you drop to your elbows and scream.",
+        "You clench your fist, your other hand bracing yourself on the ground to steady yourself as you cum.",
+        "Your toes push against the ground, scraping in the dirt as {ACTIVE} squirts {THICK} {CUM} into your {ASS}.",
+        "Oh Gods! You can feel him {CUMMING}! There's too much, and you feel {THICK} {CUM} run down your {PUSSY}.",
+        "Anyone watching will know he's emptying a {THICK} load into a shameless {WHORE}.",
+        "As another load is emptied into your {ASS}, your stomach lurches, and you cough up {CUM}. How...? Oh my...",
+        "You never thought you were the kind of dirty {WHORE} who cums from being fucked in the {ASS}..."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} drops to her elbows, clenching a fist and clawing the ground as {ACTIVE} fucks her {ASS}.",
+        "{PRIMARY}'s fingers and toes strain at the ground. Is she in pain, or cumming?",
+        "Oh Gods, {ACTIVE} is {CUMMING} in her {ASS}! It's leaking out and dripping down her {WTVAGINAL} {PUSSY}."
+    ]
+}

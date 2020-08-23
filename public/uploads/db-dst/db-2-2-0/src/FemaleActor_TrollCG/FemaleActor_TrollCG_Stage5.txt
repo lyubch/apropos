@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "I kneel down on the beast's muscled stomach, and start to fuck it a little faster.",
+        "The brute pants in ragged gasps as we fuck, and I feel its warm breath on my {BOOBS}.",
+        "I ride the {ACTIVE}'s {BEAST} {COCK} in a daze, quickly pumping my {PUSSY} to a froth.",
+        "It's so big... and hot... and pulsing... what am I thinking?",
+        "I can't hold back a moan at the intense pleasure at being filled with the creature's {BEAST} {COCK}."        
+    ],
+    "2nd Person" :
+    [
+        "You kneel down on the beast's muscled stomach, and start to fuck it a little faster.",
+        "The brute pants in ragged gasps as you fuck, and you feel its warm breath on your {BOOBS}.",
+        "You ride the {ACTIVE}'s {BEAST} {COCK} in a daze, quickly pumping your {PUSSY} to a froth.",
+        "It's so big... and hot... and pulsing... what are you thinking?",
+        "You can't hold back a moan at the intense pleasure at being filled with the creature's {BEAST} {COCK}." 
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} kneels down on the beast's muscled stomach, and starts to fuck it a little faster.",
+        "Watching {PRIMARY} ride this monstrous brute is amazing. She must fuck monsters a lot!",
+        "The {ACTIVE} is panting hard now, staring at {PRIMARY}'s {HEAVING} {BOOBS} as she bounces."
+    ]
+}

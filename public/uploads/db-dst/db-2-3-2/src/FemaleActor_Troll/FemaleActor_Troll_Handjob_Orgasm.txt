@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "Suddenly, I feel the {BEASTCOCK} bloat, and the {ACTIVE} is {EJACULATE}ing all over me.",
+        "Yes! He's {EJACULATE}ing! It's so {THICK} and {SALTY}!",
+        "I stare right down the barrel of his {BEASTCOCK} as the first blast hits me in the face."
+    ],
+    "2nd Person": [
+        "Suddenly, you feel the {BEASTCOCK} bloat, and the {ACTIVE} is {EJACULATE}ing all over you.",
+        "Yes! He's {EJACULATE}ing! It's so {THICK} and {SALTY}!",
+        "You stare right down the barrel of his {BEASTCOCK} as the first blast hits you in the face."
+    ],
+    "3rd Person": [
+        "Suddenly, {BEASTCOCK} is {EJACULATE}ing all over her.",
+        "He's {EJACULATE}ing! It looks so {THICK} and {SALTY}!",
+        "She stares right down the barrel of his {BEASTCOCK} as the first blast hits her in the face."
+    ]
+}

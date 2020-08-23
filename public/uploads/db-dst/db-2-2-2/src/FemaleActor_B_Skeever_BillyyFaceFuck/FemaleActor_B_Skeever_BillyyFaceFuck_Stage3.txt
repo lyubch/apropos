@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "Hard to breathe, {ACTIVE} is going very deep! I am throated by a rat!",
+        "{ACTIVE} buried it all in my throat! I can feel its {VILE} precum oozing already.",
+        "{ACTIVE} seems to have no idea what he is {FUCKING}, he is breeding my {MOUTH}.",
+        "I take it all the way in my throat, {ACTIVE} is oblivious to the world and just {FUCKS} my {MOUTH} crazily!",
+        "Ngh! It's too late to back-off now, its bulge is getting larger and larger as it buries its {VILE} {COCK} in my throat.",
+        "Come on you stinking rat, coat my throat in your {SALTY} {CUM}.",
+        "{ACTIVE} goes mad in my oral tenderness, I will probably be fed {VILE} {CUM} any moment now.",
+        "A rat is {FUCKING} my {MOUTH} as deep and fast it can and I am just waiting my stomach to be filled with {VILE} {CUM}.",
+        "My position allows {ACTIVE} to reach the furthest parts of my {MOUTH}, it is about to serve me my dessert in appreciation."
+    ],
+    "2nd Person": [
+        "Hard to breathe, {ACTIVE} is going very deep! You are throated by a rat!",
+        "{ACTIVE} buried it all in your throat! You can feel its {VILE} precum oozing already.",
+        "{ACTIVE} seems to have no idea what he is {FUCKING}, he is mating balls-deep with your {MOUTH}.",
+        "You take it all the way in your throat, {ACTIVE} is oblivious to the world and just {FUCKS} your {MOUTH} crazily!",
+        "It's too late to back-off now, its bulge is getting larger and larger as it buries its {VILE} {COCK} in your throat.",
+        "({PRIMARY}) Come on you stinking rat, coat my throat in your {SALTY} {CUM}.",
+        "{ACTIVE} goes mad in your oral tenderness, you will probably be fed {VILE} {CUM} any moment now.",
+        "A rat is {FUCKING} your {MOUTH} as deep and fast it can and you are just waiting your stomach to be filled with {VILE} {CUM}.",
+        "Your position allows {ACTIVE} to reach the furthest parts of your {MOUTH}, It is about to serve you your dessert in appreciation."
+    ],
+    "3rd Person": [
+        "Hard to breathe, {ACTIVE} is going very deep! {PRIMARY} is throated by a rat!",
+        "{ACTIVE} buried it all in {PRIMARY}'s throat! She can feel its {VILE} precum oozing already.",
+        "{ACTIVE} seems to have no idea what he is {FUCKING}, he is mating balls-deep with {PRIMARY}'s {MOUTH}.",
+        "{PRIMARY} takes it all the way in her throat, {ACTIVE} is oblivious to the world and just {FUCKS} her {MOUTH} crazily!",
+        "It's too late to back-off now, its bulge is getting larger and larger as it buries its {VILE} {COCK} in {PRIMARY}'s throat.",
+        "({PRIMARY}) Come on you stinking rat, coat my throat in your {SALTY} {CUM}.",
+        "{ACTIVE} goes mad in {PRIMARY}'s oral tenderness, she will probably be fed {VILE} {CUM} any moment now.",
+        "A rat is {FUCKING} {PRIMARY}'s {MOUTH} as deep and fast it can and she is just waiting her stomach to be filled with {VILE} {CUM}.",
+        "{PRIMARY}'s position allows {ACTIVE} to reach the furthest parts of her {MOUTH}, it is about to serve her her dessert in appreciation."
+    ]
+}

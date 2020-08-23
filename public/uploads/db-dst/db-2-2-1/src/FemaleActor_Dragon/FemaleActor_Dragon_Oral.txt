@@ -1,0 +1,44 @@
+{
+    "1st Person": [
+        "The {ACTIVE} lifts me up in its mouth. I hold on and spread my legs.",
+        "It might be too much to take its {COCK}...",
+        "I'll show this beast that it's not just on the battlefield that the Dragonborn should be feared!",
+        "Its breath is so hot... Sweat starts to drip from my hips and ass, running down my legs.",
+        "I spread my thighs and gasp at the {ACTIVE}'s ministrations.",
+        "Before you have my {PUSSY}, you can get me nice and wet first!",
+        "It'll be okay if it's just its tongue, right?",
+        "I'm dripping wet even before the {ACTIVE} begins, just from the thought of doing this.",
+        "Are you going to eat all the cum loads out of my {WTVAGINAL} {PUSSY}? Good little dragon...",
+        "I'm lifted up high in the beast's mouth. My naked {BOOBS} and ass can be seen from all around...",
+        "If you don't want me to take your soul, you better make me cum hard!",
+        "The beast slurps up the length of each of my legs. I have a small orgasm before he reaches my {PUSSY}."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} lifts you up in its mouth. You hold on and spread your legs.",
+        "It might be too much to take its {COCK}...",
+        "You'll show this beast that it's not just on the battlefield that the Dragonborn should be feared!",
+        "Its breath is so hot... Sweat starts to drip from your hips and ass, running down your legs.",
+        "You spread your thighs and gasp at the {ACTIVE}'s ministrations.",
+        "({PRIMARY}) Before you have my {PUSSY}, you can get me nice and wet first!",
+        "It'll be okay if it's just its tongue, right?",
+        "You're dripping wet even before the {ACTIVE} begins, just from the thought of doing this.",
+        "({PRIMARY}) Are you going to eat all the cum loads out of my {WTVAGINAL} {PUSSY}? Good little dragon...",
+        "You're lifted up high in the beast's mouth. Your naked {BOOBS} and ass can be seen from all around...",
+        "({PRIMARY}) If you don't want me to take your soul, you better make me cum hard!",
+        "The beast slurps up the length of each of your legs. You have a small orgasm before he reaches your {PUSSY}."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} lifts {PRIMARY} up in its mouth. She holds on and spreads her legs.",
+        "It might be too much to take its {COCK}...",
+        "{PRIMARY}'ll show this beast that it's not just on the battlefield that the she should be feared!",
+        "Its breath must be so hot... Sweat starts to drip from {PRIMARY}'s hips and ass, running down her legs.",
+        "{PRIMARY} spreads her thighs and gasps at the {ACTIVE}'s ministrations.",
+        "({PRIMARY}) Before you have my {PUSSY}, you can get me nice and wet first!",
+        "It'll be okay if it's just its tongue, right?",
+        "{PRIMARY}'s dripping wet even before the {ACTIVE} begins...",
+        "({PRIMARY}) Are you going to eat all the cum loads out of my {WTVAGINAL} {PUSSY}? Good little dragon...",
+        "{PRIMARY}'s lifted up high in the beast's mouth. Her naked {BOOBS} and ass can be seen from all around...",
+        "({PRIMARY}) You better make me cum hard!",
+        "The beast slurps up the length of each of her legs. She has a small orgasm before he reaches her {PUSSY}."
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "1st Person": [
+        "There's something wrong! The smell...my mind is turning off!",
+	"Just...keep {WANK}ing! If I can empty the eggs out this {BUG} might let me leave!",
+	"My mind wanders and I suddenly realize I have one hand on this {BUGCOCK} and the other on my {PUSSY}."
+    ],
+    "2nd Person": [
+        "There's something wrong! The smell...your mind is turning off!",
+	"Just...keep {WANK}ing! If you can empty the eggs out this {BUG} might let you leave!",
+	"Your mind wanders and you suddenly realize you have one hand on this {BUGCOCK} and the other on your {PUSSY}."
+    ],
+    "3rd Person": [
+	"If she can empty the eggs out this {BUG} might let her leave!",
+	"She must be getting into it. One hand is on this {BUGCOCK} and the other on her {PUSSY}."
+    ]
+}

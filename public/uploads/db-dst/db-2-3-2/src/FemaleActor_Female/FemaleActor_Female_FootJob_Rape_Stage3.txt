@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "I {SLOW}ly pump the {ACTIVE}'s {HUGE} {STRAPON} between the soles of my feet, staring into her eyes as I do.",
+        "It feels kinda {LEWD}, being forced to do this, and I like it. I want more!",
+        "This pose leaves my {WTVAGINAL} {PUSSY} wide open, {DISPLAY}ed to anyone who wants to see...",
+        "You want to {EJACULATE} all over my little feet? You want to see your {CREAM} squelch between my toes?",
+        "Why does it turn me on so much? When did I become this {LEWD}...?",
+        "I start to fear the deep humiliation of being discovering like this, behaving like such a {BITCH}...",
+        "I'm {NUDE}, disheveled and sweaty, and being {RAP}ed in such a demeaning way...",
+        "P-please... Use my {HEAVING} {FLESH} any way you please... Every {HOLE} aches to be filled...",
+        "I can feel warm {CREAM} oozing between my toes, my bare soles {WET}.",
+        "I take her {STRAPON} between my bare soles, and start {FUCK}ing her {SLOW}ly.",
+        "I'll tend your needs however you want, as many times as you want it... Just don't hurt me..."
+    ],
+    "2nd Person": [
+        "You {SLOW}ly pump {ACTIVE}'s {HUGE} {STRAPON} between the soles of your feet, staring into her eyes as you do.",
+        "It feels kinda {LEWD}, being forced to do this, and you like it. You want more!",
+        "This pose leaves your {WTVAGINAL} {PUSSY} wide open, {DISPLAY}ed to anyone who wants to see...",
+        "({PRIMARY}) You want to {EJACULATE} all over my little feet? You want to see your {CREAM} squelch between my toes?",
+        "Why does it turn you on so much? When did you become this {LEWD}...?",
+        "You start to fear the deep humiliation of being discovering like this, behaving like such a {BITCH}...",
+        "You're {NUDE}, disheveled and sweaty, and being {RAP}ed in such a demeaning way...",
+        "({PRIMARY}) P-please... Use my {HEAVING} {FLESH} any way you please... Every {HOLE} aches to be filled.",
+        "You can feel warm {CREAM} oozing between your toes, your bare soles {WET}.",
+        "You take her {STRAPON} between your bare soles, and start {FUCK}ing her {SLOW}ly.",
+        "({PRIMARY}) I'll tend your needs however you want, as many times as you want it... Just don't hurt me."
+    ],
+    "3rd Person": [
+        "{PRIMARY} {SLOW}ly pumps the {ACTIVE}'s {HUGE} {STRAPON} between the soles of her feet.",
+        "{PRIMARY} brings both her feet together to work the {ACTIVE}'s {STRAPON}.",
+        "This pose leaves {PRIMARY}'s {WTVAGINAL} {PUSSY} wide open, {DISPLAY}ed to anyone who wants to see...",
+        "({PRIMARY}) You want to {EJACULATE} all over my little feet? You want to see your {CREAM} squelch between my toes?",
+        "When did {PRIMARY} become this {LEWD}...?"
+    ]
+}

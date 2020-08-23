@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} pushes me over, and I land with a squeal before he pushes himself back inside me.",
+        "I'm now on my belly in the dirt, with {ACTIVE} standing over me, fucking steadily into my {PUSSY}.",
+        "{ACTIVE} pants loudly in my ear, dripping slobber over my shoulder as I take his thrusts.",
+        "I push my ass up to meet {ACTIVE}'s thrusts, feeling his knot slap into my cheeks.",
+        "I can only pant as I lie there, legs spread and boobs in the dirt, with a dog fucking me deeply.",
+        "I'll be ready for anything after this fuck, and there are so many things I'd still try.",
+        "The thought of someone catching me fucking an animal is kinda scary. It makes me feel so dirty...",
+        "{ACTIVE} pushes his {BEAST} {PENIS} deeper into me, and I moan like a {WHORE}.",
+        "As I'm fucked by {ACTIVE}, I flash a devilish grin."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} pushes you over, and you land with a squeal before he pushes himself back inside you.",
+        "You're now on your belly in the dirt, with {ACTIVE} standing over you, fucking steadily into your {PUSSY}.",
+        "{ACTIVE} pants loudly in your ear, dripping slobber over your shoulder as you take his thrusts.",
+        "You push your ass up to youet {ACTIVE}'s thrusts, feeling his knot slap into your cheeks.",
+        "You can only pant as you lie there, legs spread and boobs in the dirt, with a dog fucking you deeply.",
+        "You'll be ready for anything after this fuck, and there are so many things you'd still try.",
+        "The thought of someone catching you fucking an animal is kinda scary. It makes you feel so dirty...",
+        "{ACTIVE} pushes his {BEAST} {PENIS} deeper into you, and you moan like a {WHORE}.",
+        "As you're fucked by {ACTIVE}, you flash a devilish grin."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} looks startled as {ACTIVE} pushes her suddenly down, before he enters her from behind.",
+        "{ACTIVE}'s slobber is dripping down {PRIMARY}'s neck and shoulder as they fuck.",
+        "{PRIMARY} pants heavily, making no effort to move, just letting {ACTIVE} get to work.",
+        "{PRIMARY} is lying in the dirt, her {HEAVING} {BOOBS} and nipples brushing lewdly in the filth."
+    ]
+}

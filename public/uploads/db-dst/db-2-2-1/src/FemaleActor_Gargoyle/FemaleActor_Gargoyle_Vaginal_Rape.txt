@@ -1,0 +1,51 @@
+{
+    "1st Person": [
+        "I feel its {COCK} brush against my {ASS}. A shudder shoots through my body before it enters my {PUSSY}.",
+        "With a grunt, the {ACTIVE} pushes forward and spears me mercilessly on his {COCK}.",
+        "The {ACTIVE} grabs my hips and drags me down his shaft, my {PUSSY} stretching painfully.",
+        "Each ridge of his demonically-hot {COCK} hits my clit before ramming into my {PUSSY}.",
+        "Without hesitating the demon pushes its {COCK} up against my {PUSSY}. I loudly moan as it pushes right in.",
+        "My young body trembles as I feel the thick scales stimulating my opening.",
+        "As the {ACTIVE}'s hips rock forward, the demon's {COCK} sinks into my {PUSSY}, stretching me.",
+        "The {ACTIVE} speaks in an unknown tongue, his words flowing through me, making me submit.",
+        "I sink to the ground, too overcome by lust and desire to fight.",
+        "The demon climbs between my thighs and positions itself to violate me.",
+        "The demon positions itself, ready for intercourse.",
+        "I feel its rock hard {COCK} push aside my lips and start to slide inside me, inch by inch.",
+        "I cry out in pain as {ACTIVE} inserts its {COCK} inside my {PUSSY}.",
+        "On my knees I see its {COCK}, demonic and terrible. I shiver in fear, but my legs part.",
+        "Each ridge of the demonically-hot {COCK} hits my clit before it rams all the way in."
+    ],
+    "2nd Person": [
+        "Its {COCK} brushes against your {ASS}. A shudder shoots through your body before it enters your {PUSSY}.",
+        "With a grunt, the {ACTIVE} pushes forward and spears you mercilessly on his {COCK}.",
+        "The {ACTIVE} grabs your hips and drags you down his shaft, your {PUSSY} stretching painfully.",
+        "Each ridge of his demonically-hot {COCK} hits your clit before ramming into your {PUSSY}.",
+        "Without hesitating the demon pushes its {COCK} against your {PUSSY}. You loudly moan as it pushes right in.",
+        "Your young body trembles as you feel the thick scales stimulating your opening.",
+        "As the {ACTIVE}'s hips rock forward, the demon's {COCK} sinks into your {PUSSY}, stretching you.",
+        "The {ACTIVE} speaks in an unknown tongue, his words flowing through you, making you submit.",
+        "You sink to the ground, too overcome by lust and desire to fight.",
+        "The demon climbs between your thighs and positions itself to violate you.",
+        "The demon positions itself, ready for intercourse.",
+        "You feel its rock hard {COCK} push aside your lips and start to slide inside you, inch by inch.",
+        "You cry out in pain as {ACTIVE} inserts its {COCK} inside your {PUSSY}.",
+        "On your knees you see its {COCK}, demonic and terrible. You shiver in fear, but your legs part.",
+        "Each ridge of the demonically-hot {COCK} hits your clit before it rams all the way in."
+    ],
+    "3rd Person": [
+        "Its {COCK} brushes against {PRIMARY}'s {ASS}. She shudders and squeals before it enters her {PUSSY}.",
+        "With a grunt, the {ACTIVE} pushes forward and spears {PRIMARY} mercilessly on his {COCK}.",
+        "The {ACTIVE} grabs {PRIMARY}'s hips and drags her down his shaft, her {PUSSY} stretching painfully.",
+        "Without hesitating the demon pushes its {COCK} up against {PRIMARY}'s {PUSSY}. She moans as it pushes in.",
+        "{PRIMARY}'s young body trembles as the thick scales stimulate her opening.",
+        "As the {ACTIVE}'s hips rock forward, the demon's {COCK} sinks into {PRIMARY}'s {PUSSY}, stretching her.",
+        "The {ACTIVE} speaks in an unknown tongue, his words flowing through all present, making {PRIMARY} submit.",
+        "{PRIMARY} sinks to the ground, too overcome by lust and desire to fight.",
+        "The demon climbs between {PRIMARY}'s thighs and positions itself to violate her.",
+        "The demon positions itself, ready for intercourse.",
+        "The {ACTIVE}'s rock hard {COCK} pushes aside {PRIMARY}'s lips and start to slide inside her, inch by inch.",
+        "{PRIMARY} cries out in pain as {ACTIVE} inserts its {COCK} inside her {PUSSY}.",
+        "On her knees {PRIMARY} sees its {COCK}, demonic and terrible. She shivers in fear, but her legs part."
+    ]
+}

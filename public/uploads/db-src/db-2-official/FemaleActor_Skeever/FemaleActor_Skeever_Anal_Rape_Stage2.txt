@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "The {ACTIVE}'s rough, matted fur presses into my back, coating me with filth.",
+        "The pain in my hips subsides as the rodent's front paws drop to the ground, looking for a more stable fuck.",
+        "Tears flow down my face as the {ACTIVE} forcefully fucks my {ASS}, growling and huffing in my ear.",
+        "The powerful animal humps, fucking his {COCK} through my asshole, the tip hitting me deep inside.",
+        "No! I gasp, shaking my ass, trying to dislodge the animal.",
+        "I scream in pain and humiliation.",
+        "I let out a quiet moan as the {BEAST} {COCK} fucks a few inches deeper.",
+        "{ACTIVE} whines and pushes another few inches of cockmeat into me, through my tight pink {ASS}.",
+        "Oh Gods... I'm... I'm almost there... already... Just a little bit more...",
+        "Each time he pulls back, the anxiety of the next thrust is overwhelming.",
+        "My eyes screw shut, my fists clench and I scream into the dirt as the {ACTIVE} fucks me.",
+        "This is so wrong... I'm a good girl, I shouldn't be getting assfucking by a {ACTIVE}..."
+    ],
+    "2nd Person": [
+        "The {ACTIVE}'s rough, matted fur presses into your back, coating you with filth.",
+        "The pain in your hips subsides as the rodent's front paws drop to the ground, looking for a more stable fuck.",
+        "Tears flow down your face as the {ACTIVE} forcefully fucks your {ASS}, growling and huffing in your ear.",
+        "The powerful animal humps, fucking his {COCK} through your asshole, the tip hitting you deep inside.",
+        "No! you gasp, shaking your ass, trying to dislodge the animal.",
+        "You scream in pain and humiliation.",
+        "You let out a quiet moan as the {BEAST} {COCK} fucks a few inches deeper.",
+        "{ACTIVE} whines and pushes another few inches of cockmeat into you, through your tight pink {ASS}.",
+        "Oh Gods... You're... You're almost there... already... Just a little bit more...",
+        "Each time he pulls back, the anxiety of the next thrust is overwhelming.",
+        "Your eyes screw shut, your fists clench and you scream into the dirt as the {ACTIVE} fucks you.",
+        "This is so wrong... You're a good girl, you shouldn't be getting assfucking by a {ACTIVE}..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE}'s rough, matted fur presses into  {PRIMARY}'s back, coating her with filth.",
+        "The pain in  {PRIMARY}'s hips subsides as the rodent's drops to the ground, looking for a more stable fuck.",
+        "Tears flow down  {PRIMARY}'s face as the {ACTIVE} forcefully fucks her {ASS}, growling in her ear.",
+        "The powerful animal humps, fucking his {COCK} through  {PRIMARY}'s asshole, the tip hitting her deep inside.",
+        "No! {PRIMARY} gasps, shaking her ass, trying to dislodge the animal.",
+        "{PRIMARY} screams in pain and humiliation."
+    ]
+}

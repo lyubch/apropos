@@ -1,0 +1,43 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} holds me firmly by the waist, and guides his {BEAST} {COCK} into my {ASS}.",
+        "I want you on top of me. I want to be fucked like an animal.",
+        "The {ACTIVE} slowly shoves his {COCK} past my sphincter and inside. I grunt and then moan in pleasure.",
+        "As the {ACTIVE} presses harder and harder, I relax my {ASS} and he slides inside.",
+        "My {ASS} juts upwards, round, youthful and flawless, and vulnerably presented for my monstrous lover.",
+        "I tense, feeling immense pressure at my {ASS}, followed by a sharp pain as the bulge forces its way inside.",
+        "I gasp as the head nestles between my cheeks. Roughly he pushes the head inside.",
+        "Hmm... Let's try something different... How about I take you in the {ASS}?",
+        "I bet loads of horny young girls jump on your {BEAST} {COCK}, but how many let you fuck them in the {ASS}?",
+        "I want you to throw me to the ground and fuck my {ASS}, hard. Show me no mercy...",
+        "(giggle) Even a beast is eyeing up my ass! You like it? Okay, you can have it!",
+        "Go gently... You're a lot bigger than a normal guy... I'm not sure my {ASS} will be able to take you."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} holds you firmly by the waist, and guides his {BEAST} {COCK} into your {ASS}.",
+        "({PRIMARY}) I want you on top of me. I want to be fucked like an animal.",
+        "The {ACTIVE} slowly shoves his {COCK} past your sphincter and inside. You grunt and then moan in pleasure.",
+        "As the {ACTIVE} presses harder and harder, you relax your {ASS} and he slides inside.",
+        "Your {ASS} juts upwards, round, youthful and flawless, and vulnerably presented for your monstrous lover.",
+        "You tense, feeling immense pressure at your {ASS}, followed by a sharp pain as he forces his way inside.",
+        "You gasp as the head nestles between your cheeks. Roughly he pushes the head inside.",
+        "({PRIMARY}) Hmm... Let's try something different... How about you take me in the {ASS}?",
+        "({PRIMARY}) I bet loads of young girls jump on your {COCK}, but how many let you fuck them in the {ASS}?'",
+        "({PRIMARY}) I want you to throw me to the ground and fuck my {ASS}, hard. Show me no mercy.",
+        "Even a beast is eyeing up your ass! You should let him fuck it!",
+        "({PRIMARY}) You're staring at my ass! You like it? Okay, you can have it!",
+        "({PRIMARY}) Go gently... You're a lot bigger than a normal guy... I'm not sure my {ASS} can take you."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} holds {PRIMARY} firmly by the waist, and guides his {BEAST} {COCK} into her {ASS}.",
+        "({PRIMARY}) I want you on top of me. I want to be fucked like an animal.",
+        "The {ACTIVE} slowly shoves his {COCK} past {PRIMARY}'s sphincter. {PRIMARY} grunts and moans in pleasure.",
+        "As the {ACTIVE} presses harder and harder, {PRIMARY} relaxes her {ASS} and he slides inside.",
+        "{PRIMARY}'s {ASS} juts upwards, youthful and flawless, and vulnerably presented for her monstrous lover.",
+        "{PRIMARY} gasps as the head nestles between her cheeks. Roughly he pushes the head inside.",
+        "({PRIMARY}) Hmm... Let's try something different... How about I take you in the {ASS}?"
+    ]
+}

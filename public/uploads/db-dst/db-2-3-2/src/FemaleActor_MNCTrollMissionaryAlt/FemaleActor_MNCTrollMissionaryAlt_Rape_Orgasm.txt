@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "Every {SLOW}, explosive thrust {INSERT}s the {MONSTER}'s {COCK} all the way in my womb, filling it with {THICK} {CUM}.",
+        "I {SCREAM} at each thrust as over a foot of {BEASTLY} {COCK} {FUCK}s past my cervix, depositing the {MONSTER}'s load.",
+        "I {SCREAM} in {PAIN}, tears streaming down my face as the {MONSTER}'s {ROUGH} thrusts {FUCK} me to orgasm.",
+        "As my orgasm breaks I let out a guttural {SCREAM} of delight.",
+        "I feel the {MONSTER}'s {COCK} {QUIVER}, followed by the familiar blast of {THICK} {CUM}.",
+        "A {QUIVER} runs down my spine, I'm certain I must be pregnant by now...",
+        "My eyes roll back into my head and my teeth clench as a final orgasm crashes through my {CUM}-bloated body."
+    ],
+    "2nd Person": [
+        "Every {SLOW}, explosive thrust {INSERT}s the {MONSTER}'s {COCK} all the way in your womb, filling it with {THICK} {CUM}.",
+        "You {SCREAM} at each thrust as over a foot of {BEASTLY} {COCK} {FUCK}s past your cervix, depositing the {MONSTER}'s load.",
+        "You {SCREAM} in {PAIN}, tears streaming down your face as the {MONSTER}'s {ROUGH} thrusts {FUCK} you to orgasm.",
+        "As your orgasm breaks you let out a guttural {SCREAM} of delight.",
+        "You feel the {MONSTER}'s {COCK} {QUIVER}, followed by the familiar blast of {THICK} {CUM}.",
+        "A {QUIVER} runs down your spine, you're certain you must be pregnant by now...",
+        "Your eyes roll back into your head and your teeth clench as a final orgasm crashes through your {CUM}-bloated body."
+    ],
+    "3rd Person": [
+        "Every {SLOW}, explosive thrust {INSERT}s the {MONSTER}'s {COCK} all the way in {PRIMARY}'s womb, filling it with {THICK} {CUM}.",
+        "{PRIMARY} {MOAN}s at each thrust as over a foot of {BEASTLY} {COCK} {FUCK}s past her cervix, depositing the {MONSTER}'s load.",
+        "{PRIMARY} {SCREAM}s in {PAIN}, tears streaming down her face as the {MONSTER}'s {ROUGH} thrusts {FUCK} her to orgasm.",
+        "As {PRIMARY}'s orgasm breaks, she let out a guttural {SCREAM} of delight.",
+        "{PRIMARY} feels the {MONSTER}'s {COCK} {QUIVER}, followed by the familiar blast of {THICK} {CUM}.",
+        "A {QUIVER} runs down {PRIMARY}'s spine, she's certain she must be pregnant by now...",
+        "{PRIMARY}'s eyes roll back into her head and her teeth clench as a final orgasm crashes through her {CUM}-bloated body."
+    ]
+}

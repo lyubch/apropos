@@ -1,0 +1,15 @@
+{
+    "1st Person" :
+    [
+        "My toes curl and I squeeze my eyes shut as {ACTIVE} bottoms out in my {ASS}.",
+        "I start to get into it, and I go from embarrassment to exhilaration."
+    ],
+    "2nd Person" :
+    [
+        ""
+    ],
+    "3rd Person" :
+    [
+        ""
+    ]
+}

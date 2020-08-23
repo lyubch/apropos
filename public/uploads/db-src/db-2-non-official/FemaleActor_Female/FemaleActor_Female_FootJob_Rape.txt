@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "The bare soles of my feet touch all across the {ACTIVE}'s {HEAVING} {BOOBS}.",
+        "I stare into the {ACTIVE}'s eyes, aware of her {STRAPON} standing to attention before me.",
+        "My legs spread wide, inadvertently letting the {ACTIVE} see how {WTVAGINAL} my {PUSSY} is.",
+        "My {HEAVING} {BUTTOCKS} resting in the dirt and {SCUM} I spread my legs, ashamed of my {WTVAGINAL} {PUSSY}...",
+        "My {WTVAGINAL} {PUSSY}... and her {STRAPON}... Can I hold out and make her cum before she {RAP}es me?",
+        "I can't help but stare at her {STRAPON} towering right in front of me...",
+        "I saw you looking at my feet... I could... touch you with them if you let me go..."
+    ],
+    "2nd Person": [
+        "The bare soles of your feet touch all across {ACTIVE}'s {HEAVING} {BOOBS}.",
+        "You stare into {ACTIVE}'s eyes, aware of her {STRAPON} standing to attention before you.",
+        "Your legs spread wide, inadvertently letting {ACTIVE} see how {WTVAGINAL} your {PUSSY} is.",
+        "Your {HEAVING} {BUTTOCKS} resting in the dirt and {SCUM} you spread your legs, ashamed of your {WTVAGINAL} {PUSSY}...",
+        "Your {WTVAGINAL} {PUSSY}... and her {STRAPON}... Can you make her cum before she {RAP}es you?",
+        "You can't help but stare at her {STRAPON} towering right in front of you...",
+        "({PRIMARY}) I saw you looking at my feet... You want me to rub them all over your {STRAPON}?"
+    ],
+    "3rd Person": [
+        "The bare soles of {PRIMARY}'s feet touch all across the {ACTIVE}'s {HEAVING} {BOOBS}.",
+        "{PRIMARY} stares into the {ACTIVE}'s eyes, her {STRAPON} standing to attention before her.",
+        "{PRIMARY}'s legs spread wide, inadvertently letting the {ACTIVE} see how {WTVAGINAL} her {PUSSY} is.",
+        "Her {HEAVING} {BUTTOCKS} resting in the dirt and {SCUM} {PRIMARY} spreads her legs, ashamed of her {WTVAGINAL} {PUSSY}..."
+    ]
+}

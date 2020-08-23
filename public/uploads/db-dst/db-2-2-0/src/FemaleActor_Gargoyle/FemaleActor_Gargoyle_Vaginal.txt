@@ -1,0 +1,52 @@
+{
+    "1st Person": [
+        "I feel its {COCK} brush against my {ASS}. A shudder shoots through my body before it enters my {PUSSY}.",
+        "With a grunt, the {ACTIVE} pushes forward and spears me mercilessly on his {COCK}.",
+        "I feel a penetrating magical energy flow through me, making my nipples stiff and my {PUSSY} wet.",
+        "I feel raw energy storm through my body. If just being near it is like this, what would sex be like?",
+        "({ACTIVE}) Eager to feel demon {COCK} inside your tight body are you?",
+        "I willingly hold my thighs open for the creature, eager to debase myself.",
+        "Without hesitating the demon pushes its {COCK} up against my {PUSSY}. I loudly moan as it pushes right in.",
+        "I sink to the ground, too overcome by lust and desire to fight.",
+        "I stand naked, feeling the monster's magical energy pulsing through my body, my {PUSSY} dripping with lust.",
+        "I spread my legs and {PUSSY}, eager to feel the demon's magical energy penetrate deep inside me.",
+        "I loudly moan as the {BEAST} stone {COCK} pushes right in.",
+        "I cry out in pain as {ACTIVE} inserts its {COCK} inside my {PUSSY}.",
+        "On my knees I see its {COCK}, demonic and terrible. My legs spread and my {PUSSY} moistens.",
+        "Each ridge of the demonically-hot {COCK} hits my clit before ramming into my folds.",
+        "With a lustful sigh, I lie back, spread my legs, and willingly let the demon fuck me."
+    ],
+    "2nd Person": [
+        "You feel its {COCK} brush against your {ASS}. A shudder shoots through you before it enters your {PUSSY}.",
+        "With a grunt, the {ACTIVE} pushes forward and spears you mercilessly on his {COCK}.",
+        "You feel a penetrating magical energy flow through you, making your nipples stiff and your {PUSSY} wet.",
+        "You feel raw energy storm through your body. If just being near it is like this, what would sex be like?'",
+        "({ACTIVE}) Eager to feel demon {COCK} inside your tight body are you?",
+        "You willingly hold your thighs open for the creature, eager to debase yourself.",
+        "Without hesitating the demon pushes its {COCK} against your {PUSSY}. You loudly moan as it pushes right in.",
+        "You sink to the ground, too overcome by lust and desire to fight.",
+        "You stand naked, the monster's magical energy pulsing through your body, your {PUSSY} dripping with lust.",
+        "You spread your legs and {PUSSY}, eager to feel the demon's magical energy penetrate deep inside you.",
+        "You loudly moan as the {BEAST} stone {COCK} pushes right in.",
+        "You cry out in pain as {ACTIVE} inserts its {COCK} inside your {PUSSY}.",
+        "On your knees you see its {COCK}, demonic and terrible. Your legs spread and your {PUSSY} moistens.",
+        "Each ridge of the demonically-hot {COCK} hits your clit before ramming into your folds.",
+        "With a lustful sigh, you lie back, spread your legs, and willingly let the demon fuck you."
+    ],
+    "3rd Person": [
+        "Its {COCK} brushes against {PRIMARY}'s {ASS}. She shudders before it enters her {PUSSY}.",
+        "With a grunt, the {ACTIVE} pushes forward and spears {PRIMARY} mercilessly on his {COCK}.",
+        "A penetrating magical energy flows through the area, making nipples stiff and pussies wet.",
+        "Raw energy storms through the area. If just being near it is like this, what would sex be like?",
+        "({ACTIVE}) Eager to feel demon {COCK} inside your tight body are you?",
+        "{PRIMARY} willingly holds her thighs open for the creature, eager to debase herself.",
+        "Without hesitating the demon pushes its {COCK} up against {PRIMARY}'s {PUSSY}. She moan as it pushes in.",
+        "{PRIMARY} sinks to the ground, too overcome by lust and desire to fight.",
+        "{PRIMARY} stands naked, the monster's magical energy pulsing through her body, her {PUSSY} dripping.",
+        "{PRIMARY} spreads her legs and {PUSSY}, eager to feel the demon's magical energy penetrate deep inside her.",
+        "{PRIMARY} loudly moans as the {BEAST} stone {COCK} pushes right in.",
+        "{PRIMARY} cries out in pain as {ACTIVE} inserts its {COCK} inside her {PUSSY}.",
+        "On her knees {PRIMARY} sees its {COCK}, demonic and terrible. Her legs spread and she bites her lip.",
+        "With a lustful sigh, {PRIMARY} lies back, spreads her legs, and willingly lets the demon fuck her."
+    ]
+}

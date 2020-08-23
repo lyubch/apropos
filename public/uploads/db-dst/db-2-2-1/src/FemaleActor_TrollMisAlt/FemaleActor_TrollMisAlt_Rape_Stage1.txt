@@ -1,0 +1,42 @@
+{
+    "1st Person" :
+    [
+        "The beast towers over me, terrifying and hungry. I do the only thing I can; I spread my legs.",
+        "I stare up at the monstrous brute, its {BEAST} {PENIS} erect. I whimper as it pushes it inside me.",
+        "The {ACTIVE} kneels over me, holding my legs spread as it roughly penetrates me. Gods, it's big...",
+        "I hang my head in resignation, tears streaming down my face as the {BEAST} {PENIS} spears me.",
+        "Ngh! I can feel my stomach bulge at the very first stroke, but there's no escape now.",
+        "Oh my, its {COCK} is huge! Terrified and aroused, I spread my legs in submission.",
+        "I grunt as I am impaled on the {ACTIVE}. I didn't know I could take so much dick.",
+        "My legs are now completely spread, hiding nothing from the {ACTIVE}'s view as it towers over me.",
+        "My attacker's {BEAST} {COCK} is as angry looking as the {ACTIVE} himself, as it plunges into my {PUSSY}.",
+        "I lie back on the ground and spread my legs wide, practically inviting the {ACTIVE} to fuck me.",
+        "I find myself spreading my legs in preparation, before the {ACTIVE} drives in it to the hilt.",
+        "As my attacker looms over my beaten body, I spy its {COCK}; {HUGE}, {BEAST} and erect. Oh my... it can't... AH!",
+        "Beaten, I eye the erection towering over me. This might not be the worst thing to ever happen... Ah, Gods!",
+        "I can only watch in lust and horror as the {BEAST} {COCK} aligns and penetrates my {WTVAGINAL} {PUSSY}."
+    ],
+    "2nd Person" :
+    [
+        "The beast towers over you, terrifying and hungry. You do the only thing you can; you spread your legs.",
+        "You stare up at the monstrous brute, its {BEAST} {PENIS} erect. You whimper as it pushes it inside you.",
+        "The {ACTIVE} kneels over you, holding your legs spread as it roughly penetrates you. Gods, it's big...",
+        "You hang your head in resignation, tears streaming down your face as the {BEAST} {PENIS} spears you.",
+        "Ngh! You can feel your stomach bulge at the very first stroke, but there's no escape now.",
+        "Oh my, its {COCK} is huge! Terrified and aroused, you spread your legs in submission.",
+        "You grunt as you are impaled on the {ACTIVE}. You didn't know you could take so much dick.",
+        "Your legs are now completely spread, hiding nothing from the {ACTIVE}'s view as it towers over you.",
+        "Your attacker's {BEAST} {COCK} is as angry looking as the {ACTIVE} himself, as it plunges into your {PUSSY}.",
+        "You lie back on the ground and spread your legs wide, practically inviting the {ACTIVE} to fuck you.",
+        "You find yourself spreading your legs in preparation, before the {ACTIVE} drives in it to the hilt.",
+        "As your attacker looms over your beaten body, you spy its {COCK}; {HUGE}, {BEAST} and erect. Oh my... it can't... AH!",
+        "Beaten, you eye the erection towering over you. This might not be the worst thing to ever happen... Ah, Gods!",
+        "You can only watch in lust and horror as the {BEAST} {COCK} aligns and penetrates your {WTVAGINAL} {PUSSY}."
+    ],
+    "3rd Person" :
+    [
+        "The beast towers over {PRIMARY}, terrifying and hungry. She does the only thing she can; she spreads her legs.",
+        "{PRIMARY}'s legs are now completely spread, hiding nothing from the {ACTIVE}'s view as it towers over her.",
+        "{PRIMARY} lies back on the ground and spreads her legs wide, practically inviting the {ACTIVE} to fuck her."        
+    ]
+}

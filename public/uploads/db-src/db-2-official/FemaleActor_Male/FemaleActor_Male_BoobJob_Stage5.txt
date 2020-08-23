@@ -1,0 +1,37 @@
+{
+    "1st Person": [
+        "I love the feel of air on my naked body. {ACTIVE} can see my face, my {BOOBS}, my tight belly.",
+        "({ACTIVE}) I saw you, shaking your ass out there, trying to get guys to fuck you. You're such a {WHORE}.",
+        "I feel so sexy, so naughty, using my {BOOBS} to pleasure a guy's {COCK}.",
+        "{ACTIVE} can see everything; my {BOOBS}, my flat stomach, my {PUSSY}.",
+        "Naked and pushing my {BOOBS} out, all of my feminine charms are completely exposed.",
+        "You love it when I show off my {HEAVING} {BOOBS} to other guys, don't you {ACTIVE}?",
+        "I smile sweetly while gripping my {BOOBS}, giving me a sensual, confident look.",
+        "The thought of just being used as some guy's {WHORE} makes my {PUSSY} tingle.",
+        "My chest is already flushed from the naughtiness of such a submissive act.",
+        "I feel like I'm putting on a show.",
+        "My nipples throb with sexual heat every time they brush {ACTIVE}'s thighs."
+    ],
+    "2nd Person": [
+        "You love the feel of air on your naked body. {ACTIVE} can see your face, your {BOOBS}, your tight belly.",
+        "({ACTIVE}) I saw you, shaking your ass out there, trying to get guys to fuck you. You're such a {WHORE}.",
+        "You feel so sexy, so naughty, using your {BOOBS} to pleasure a guy's {COCK}.",
+        "{ACTIVE} can see everything; your {BOOBS}, your flat stomach, your {PUSSY}.",
+        "Naked and pushing your {BOOBS} out, all of your feminine charms are completely exposed.",
+        "({PRIMARY}) You love it when I show off my {HEAVING} {BOOBS} to other guys, don't you {ACTIVE}?",
+        "You smile sweetly while gripping your {BOOBS}, giving you a sensual, confident look.",
+        "The thought of just being used as some guy's {WHORE} makes your {PUSSY} tingle.",
+        "Your chest is already flushed from the naughtiness of such a submissive act.",
+        "You feel like you're putting on a show.",
+        "Your nipples throb with sexual heat every time they brush {ACTIVE}'s thighs."
+    ],
+    "3rd Person": [
+        "({ACTIVE}) I saw you, shaking your ass out there, trying to get guys to fuck you. You're such a {WHORE}.",
+        "{ACTIVE} can see everything; {PRIMARY}'s {BOOBS}, her flat stomach, her {PUSSY}.",
+        "Naked and pushing her {BOOBS} out, all of {PRIMARY}'s feminine charms are completely exposed.",
+        "({PRIMARY}) You love it when I show off my {HEAVING} {BOOBS} to other guys, don't you {ACTIVE}?",
+        "{PRIMARY} smiles sweetly while gripping her {BOOBS}, giving her a sensual, confident look.",
+        "The thought of just being used as some guy's {WHORE} is such a turn on.",
+        "{PRIMARY}'s chest is already flushed from the naughtiness of such a submissive act."
+    ]
+}

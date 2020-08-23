@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} spanks me hard and fast, and I start bucking and shaking. There's no hiding it, I'm cumming.",
+        "{ACTIVE}'s slaps rain down on my ass, both cheeks, and I feel my climax building even as the tears roll down.",
+        "{ACTIVE}'s hits seem furious now, like he's really trying to hurt me, and I want him to. I want to cum.",
+        "I never realised I had such a masochistic side, but this abuse, this punishment... I like it...",
+        "({ACTIVE}) You like this, you {WHORE}?! Let's see how much you like it when your cheeks are raw!",
+        "I thrash and kick wildly. The pain, the humiliation, the mad throbbing in my {PUSSY}... It's just too much!"
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} spanks you hard and fast, and you start bucking and shaking. There's no hiding it, you're cumming.",
+        "{ACTIVE}'s slaps rain down on your ass, both cheeks. You feel your climax building even as the tears roll down.",
+        "{ACTIVE}'s hits seem furious now, like he's really trying to hurt you, and you want him to. You want to cum.",
+        "You never realised you had such a masochistic side, but this abuse, this punishment... You like it...",
+        "({ACTIVE}) You like this, you {WHORE}?! Let's see how much you like it when your cheeks are raw!",
+        "You thrash and kick wildly. The pain, the humiliation, the mad throbbing in your {PUSSY}... It's just too much!"
+    ],
+    "3rd Person" :
+    [
+        "Welts can clearly be seen on {PRIMARY}'s round backside as {ACTIVE} spanks her furiously.",
+        "{PRIMARY}'s {CREAM} can be seen splashing every time {ACTIVE} spanks her.",
+        "{PRIMARY} is sobbing and moaning, clearly in pain but enjoying every second of it. What a {WHORE}...",
+        "{ACTIVE} is wailing on {PRIMARY}'s ass brutally, like he really wants to hurt her..."
+    ]
+}

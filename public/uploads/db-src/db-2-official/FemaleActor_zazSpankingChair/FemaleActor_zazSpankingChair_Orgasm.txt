@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "Shame crashes over me. I turn away sobbing, my ass in agony.",
+        "Finally released, emotion crashes over me and I break down, sobbing.",
+        "I'm so ashamed of myself, letting him do that to me, and reacting that way...",
+        "({ACTIVE}) Let that be a lesson to you, {BITCH}. That's how a {WHORE} gets treated around here.",
+        "({ACTIVE}) Look at this pathetic {BITCH}, crying and bawling, with {CREAM} dripping from her {PUSSY}!",
+        "({ACTIVE}) Your tears aren't fooling anyone, {BITCH}, everyone saw how hard you came!",
+        "({ACTIVE}) How about you stay naked, {BITCH}, give everyone a show! Unless you want to be punished again?"
+    ],
+    "2nd Person" :
+    [
+        "Shame crashes over you. You turn away sobbing, your ass in agony.",
+        "Finally released, emotion crashes over you and you break down, sobbing.",
+        "You're so ashamed of yourself, letting him do that to you, and reacting that way...",
+        "({ACTIVE}) Let that be a lesson to you, {BITCH}. That's how a {WHORE} gets treated around here.",
+        "({ACTIVE}) Look at this pathetic {BITCH}, crying and bawling, with {CREAM} dripping from her {PUSSY}!",
+        "({ACTIVE}) Your tears aren't fooling anyone, {BITCH}, everyone saw how hard you came!",
+        "({ACTIVE}) How about you stay naked, {BITCH}, give everyone a show! Unless you want to be punished again?"
+    ],
+    "3rd Person" :
+    [
+        "As {PRIMARY} stands, her whole body is shaking and her ass is bright red, but {CREAM} is dripping down her legs",
+        "({ACTIVE}) That's what happens when a {BITCH} says no. You want to be next?",
+        "Oh Gods, {ACTIVE} clearly wants more, but {PRIMARY}... Maybe that bastard would be happy fucking another girl?",
+        "({ACTIVE}) Stop crying {BITCH}, you're not done! I don't see any other {WHORE} stripping and taking your place!"
+    ]
+}

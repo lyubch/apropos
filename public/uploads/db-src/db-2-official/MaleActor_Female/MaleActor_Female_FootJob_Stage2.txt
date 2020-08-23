@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "{PRIMARY} giggles as she pushes me back with her foot.",
+        "({PRIMARY}) Not this time! I'm in control, ACTIVE!",
+        "Her sole is so soft and supple against my shaft, and her toes are so deft!"
+    ],
+    "2nd Person": [
+        "{PRIMARY} giggles as she pushes you back with her foot.",
+        "({PRIMARY}) Not this time! I'm in control, ACTIVE!",
+        "Her sole is so soft and supple against your shaft, and her toes are so deft!"
+    ],
+    "3rd Person": [
+        "{ACTIVE} tries to lean forward, but {PRIMARY} pushes him back down, enjoying being in control this one time.",
+        "{PRIMARY} playfully pushes {ACTIVE} back, then brings her foot back to his {COCK} to stroke it.",
+        "{PRIMARY} gazes longingly at her lover as her {HEAVING} {BOOBS} rise and fall noticeably.",
+        "{PRIMARY} flush with shame as {CUM} dribbles out of her {PUSSY}... Oh my...",
+        "With her slender legs on display, and her bare feet pressed against his chest... {PRIMARY} looks so sexy...",
+        "{PRIMARY} starts working his {COCK} with her foot, rubbing her toes back and forth along the head."
+    ]
+}

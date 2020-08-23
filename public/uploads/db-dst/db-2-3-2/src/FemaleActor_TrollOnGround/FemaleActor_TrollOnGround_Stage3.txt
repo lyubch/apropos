@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "The {ACTIVE} holds my knees together, making its {BEASTLY} {COCK} feel even thicker, and oh so good!",
+        "Starting to become overwhelmed by the powerful thrusts and the {BEASTLY} {COCK}, I rest my head and enjoy the feeling.",
+        "The huge, muscled body of the troll, {FUCK}ing my {SMALL}, {HEAVING} {FLESH}... It's so hard, so deep...",
+        "The {ACTIVE} holds my knees together, making its {BEASTLY} {COCK} feel even thicker.",
+        "I curl up {SUBMISSIVE}ly, and the {ACTIVE} {FUCK}s me deeply, burying every inch of its {BEASTLY} {COCK} inside me."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} holds your knees together, making its {BEASTLY} {COCK} feel even thicker, and oh so good!",
+        "Starting to become overwhelmed by the powerful thrusts and the {BEASTLY} {COCK}, you rest your head and enjoy the feeling.",
+        "The huge, muscled body of the troll, {FUCK}ing your {SMALL}, {HEAVING} {FLESH}... It's so hard, so deep...",
+        "The {ACTIVE} holds your knees together, making its {BEASTLY} {COCK} feel even thicker.",
+        "You curl up {SUBMISSIVE}ly, and the {ACTIVE} {FUCK}s you deeply, burying every inch of its {BEASTLY} {COCK} inside you."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} holds {PRIMARY}'s knees together, and she {MOAN}s and squirms around the monster's {COCK}.",
+        "{PRIMARY} curls up {SUBMISSIVE}ly, letting the {ACTIVE} bury every inch of its {BEASTLY} {COCK} inside her.",
+        "{PRIMARY} looks {SMALL} and {NUDE} compared to the massive bulk of the monster {FUCK}ing her brains out."
+    ]
+}

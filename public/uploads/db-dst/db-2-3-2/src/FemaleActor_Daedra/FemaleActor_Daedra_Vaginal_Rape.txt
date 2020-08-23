@@ -1,0 +1,44 @@
+{
+    "1st Person": [
+        "The {ACTIVE} lifts me, roving hands gripping my hips and buttocks, while I feel {EXPLOR}ing into between my legs.",
+        "I feel pressure between my legs, pushing against my lips and {ASSHOLE}. {PLEADING}! I don't want this!",
+        "My hips and ass are held tightly, while tentacles flick and suck my {BOOBS} and {PUSSY}.",
+        "I {STRUGGLE} vainly as insistent tentacles try to push into my {MOUTH}, {PUSSY} and {ASSHOLE}.",
+        "I clench my lips and thighs as hard as I can, but it's no use, and a tentacle {PENETRAT}es inside my {PUSSY}.",
+        "My {HEAVING} {FLESH} {QUIVER}s as I feel the {BEASTLY} tentacles stimulating my {HOLE}s.",
+        "My {FLESH} responds to the {MONSTER}'s magic, my {BOOBS} flushing red and my {PUSSY} opening.",
+        "I feel a penetrating magical energy flow through me. My {PUSSY} is open and dripping {LEWD}ly.",
+        "Images flash in my mind, young maidens being offered up to grotesque demons, copulating with them...",
+        "My {FLESH} is assaulted at once, I feel pressure at my nipples, my lips, my {PUSSY} and {ASSHOLE}...",
+        "It's too much, I can't let it... This thing wants to penetrate every {HOLE} I have!",
+        "({ACTIVE}) I don't want your soul. Not when I can have your {PUSSY} instead."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} lifts you, roving hands gripping your hips and buttocks, as you feel {EXPLOR}ing into between your legs.",
+        "You feel pressure between your legs, pushing against your lips and {ASSHOLE}. {PLEADING}! You don't want this!",
+        "Your hips and ass are held tightly, while tentacles flick and suck your {BOOBS} and {PUSSY}.",
+        "You {STRUGGLE} vainly as insistent tentacles try to push into your {MOUTH}, {PUSSY} and {ASSHOLE}.",
+        "You clench your lips and thighs as hard possible, but it's no use, and a tentacle {PENETRAT}es inside your {PUSSY}.",
+        "Your {HEAVING} {FLESH} {QUIVER}s as you feel the {BEASTLY} tentacles stimulating your {HOLE}s.",
+        "Your {FLESH} responds to the {MONSTER}'s magic, your {BOOBS} flushing red and your {PUSSY} opening.",
+        "You feel a penetrating magical energy flow through you. Your {PUSSY} is open and dripping {LEWD}ly.",
+        "Images flash in your mind, young maidens being offered up to grotesque demons, copulating with them...",
+        "Your {FLESH} is assaulted at once, you feel pressure at your nipples, your lips, your {PUSSY} and {ASSHOLE}...",
+        "It's too much, you can't let it... This thing wants to penetrate every {HOLE} you have!",
+        "({ACTIVE}) I don't want your soul. Not when I can have your {PUSSY} instead."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} lifts {PRIMARY}, roving hands gripping her hips and buttocks, {EXPLOR}ing into between her legs.",
+        "The {ACTIVE} push against {PRIMARY}'s lips and {ASSHOLE}. {PLEADING}! Not that!",
+        "{PRIMARY}'s hips and ass are held tightly, while tentacles flick and suck her {BOOBS} and {PUSSY}.",
+        "{PRIMARY} struggles vainly as insistent tentacles try to push into her {MOUTH}, {PUSSY} and {ASSHOLE}.",
+        "{PRIMARY} clenches her lips and thighs tightly, but it's no use, and a tentacle {PENETRAT}es inside her {PUSSY}.",
+        "{PRIMARY}'s {HEAVING} {FLESH} {QUIVER}s as she feels the {BEASTLY} tentacles stimulating her {HOLE}s.",
+        "{PRIMARY}'s body responds to the {MONSTER}'s magic, her {BOOBS} flushing red and her {PUSSY} opening.",
+        "A penetrating magical energy flow through the air, that would make any girl's {PUSSY} open {LEWD}ly.",
+        "Images flash to mind, young maidens being offered up to grotesque demons, copulating with them...",
+        "{PRIMARY}'s {FLESH} is assaulted at once, pressuring her nipples, her lips, her {PUSSY} and {ASSHOLE}...",
+        "It's too much, {PRIMARY} can't let it... This thing wants to penetrate every {HOLE} she has!",
+        "({ACTIVE}) I don't want your soul. Not when I can have your {PUSSY} instead."
+    ]
+}

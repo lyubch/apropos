@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "I get {HORNY} with the sight of its {BEASTCOCK} rocking between my {BOOBS}, so I squeeze them tighter.",
+        "The harder I stroke its {BEASTCOCK}, the more precum it leaks on my {BOOBS}.",
+        "You like it when I stroke it tightly, don't you?... Mmm, I can tell from the juices you are moistening my {BOOBS} with..."
+    ],
+    "2nd Person": [
+        "You get {HORNY} with the sight of its {BEASTCOCK} rocking between your {BOOBS}, so you squeeze them tighter.",
+        "The harder you stroke its {BEASTCOCK}, the more precum it leaks on your {BOOBS}.",
+        "({PRIMARY}) You like it when I stroke it tightly, don't you?... Mmm, I can tell from the juices you are moistening my {BOOBS} with..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} gets {HORNY} with the sight of its {BEASTCOCK} rocking between her {BOOBS}, so she squeezes them tighter.",
+        "The harder {PRIMARY} strokes its {BEASTCOCK}, the more precum it leaks on her {BOOBS}.",
+        "({PRIMARY}) You like it when I stroke it tightly, don't you?... Mmm, I can tell from the juices you are moistening my {BOOBS} with..."
+    ]
+}

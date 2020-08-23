@@ -1,0 +1,35 @@
+{
+    "1st Person" :
+    [
+        "I grab tightly to the {ACTIVE}'s leg, and start to push myself backwards along its {COCK}.",
+        "Oh Gods, please let it stay still... If it starts to fuck me I'll... AAAH!!! Ughh!",
+        "The {ACTIVE} pumps gently forward, making me realise just how much {COCK} I have inside me.",
+        "My eyes fly open and my knees shake as the beast rocks into me, and I feel it at my cervix.",
+        "How much of it have I taken? How much will be enough? Oh Gods, I hope it doesn't start to fuck back...",
+        "My eyes roll back into my head at this strange sensation, the flared head scraping every inch of my core.",
+        "My stomach bulges as I take several feet of horse-{COCK} inside my {WTVAGINAL} {PUSSY}.",
+        "Staring between my legs, the {ACTIVE}'s {PENIS} looks even more massive, sliding into my {WTVAGINAL} {PUSSY}.",
+        "I feel every contour of the horsecock, from its bulging veins to the ringed lip of its fleshy sheath.",
+        "I burst into tears and my knees give way. I hang from the {COCK}, my whole body going limp."        
+    ],
+    "2nd Person" :
+    [
+        "You grab tightly to the {ACTIVE}'s leg, and start to push yourself backwards along its {COCK}.",
+        "Oh Gods, please let it stay still... If it starts to fuck you you'll... AAAH!!! Ughh!",
+        "The {ACTIVE} pumps gently forward, making you realise just how much {COCK} you have inside you.",
+        "Your eyes fly open and your knees shake as the beast rocks into you, and you feel it at your cervix.",
+        "How much of it have you taken? How much will be enough? Oh Gods, you hope it doesn't start to fuck back...",
+        "Your eyes roll back at this strange sensation, the flared head scraping every inch of your core.",
+        "Your stomach bulges as you take several feet of horse-{COCK} inside your {WTVAGINAL} {PUSSY}.",
+        "Staring between your legs, the {ACTIVE}'s {PENIS} looks massive, sliding into your {WTVAGINAL} {PUSSY}.",
+        "You feel every contour of the horsecock, from its bulging veins to the ringed lip of its fleshy sheath.",
+        "You burst into tears and your knees give way. You hang from the {COCK}, your whole body going limp."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} starts easing backwards on the {BEAST} {PENIS}, her knees shaking with fear.",
+        "{PRIMARY}'s breath is ragged as she slowly takes a few more inches inside her.",
+        "The beast pumps gently into {PRIMARY}, and she screams as her whole body is rocked forward.",
+        "Oh my, how deep is she planning on taking that {BEAST} {PENIS}?"
+    ]
+}

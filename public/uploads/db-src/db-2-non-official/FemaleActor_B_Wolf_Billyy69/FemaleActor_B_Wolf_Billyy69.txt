@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "I can't have him cumming in my pussy... I wonder if he'd be interested in something else?",
+        "I giggle as the {ACTIVE} rolls over onto his back, {DISPLAY}ing his proud {COCK}. Is that what you've been hiding?",
+        "The {ACTIVE}'s {MAROUSAL} {COCK} standing so proud. I giggle, Who am I to turn that down?"
+    ],
+    "2nd Person": [
+        "You can't have him cumming in your pussy... You wonder if he'd be interested in something else?",
+        "You giggle as the {ACTIVE} rolls over onto his back, {DISPLAY}ing his proud {COCK}. Is that what he's been hiding?",
+        "The {ACTIVE}'s {MAROUSAL} {COCK} standing so proud. You giggle, Who are you to turn that down?"
+    ],
+    "3rd Person": [
+        "{PRIMARY} can't have him cumming in her pussy... She wonders if he'd be interested in something else?",
+        "{PRIMARY} giggles as the {ACTIVE} rolls over onto his back, {DISPLAY}ing his proud {COCK}. Is that what he's been hiding?",
+        "The {ACTIVE}'s {MAROUSAL} {COCK} standing so proud. {PRIMARY} giggles, Who is she to turn that down?"
+    ]
+}

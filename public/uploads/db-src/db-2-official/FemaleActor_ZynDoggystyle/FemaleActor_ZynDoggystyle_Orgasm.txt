@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "{ACTIVE} starts to pump with sharp, deep strokes, just as I feel his {THICK} {CUM} fill me.",
+        "My body jerks every time {ACTIVE} thrusts into me, depositing {THICK} {CUM} deep inside me.",
+        "Aaaah! I feel it! I feel his {CUM} squirting through my cervix right into my womb!",
+        "Oh Gods, he's {CUMMING} so deep inside me! Aaah! I'm going to get pregnant from this!",
+        "Short thrusts are followed by a glorious punishing blow, my body responding in waves of orgasm.",
+        "You need to pull out... ooooooohhhh fuck! You came inside me!",
+        "Oh Gods, did you just cum inside me?!",
+        "Oh Gods, he's {CUMMING} in me! I burn with embarrassment as I'm used as a {BITCH}.",
+        "{SWEARING}... I didn't plan on him {CUMMING} inside me but it's too late.",
+        "A little worried, I think about stopping before this goes too far, but just then he squirts his stuff in me."
+    ],
+    "2nd Person": [
+        "{ACTIVE} starts to pump with sharp, deep strokes, just as you feel his {THICK} {CUM} fill you.",
+        "Your body jerks every time {ACTIVE} thrusts into you, depositing {THICK} {CUM} deep inside you.",
+        "Aaaah! You feel it! You feel his {CUM} squirting through your cervix right into your womb!",
+        "Oh Gods, he's {CUMMING} so deep inside you! Aaah! You're going to get pregnant from this!",
+        "Short thrusts are followed by a glorious punishing blow, your body responding in waves of orgasm.",
+        "({PRIMARY}) You need to pull out... ooooooohhhh fuck! You came inside me!",
+        "({PRIMARY}) Oh Gods, did you just cum inside me?!",
+        "Oh Gods, he's {CUMMING} in you! You burn with embarrassment as you're used as a {BITCH}.",
+        "{SWEARING}... You didn't plan on him {CUMMING} inside you but it's too late.",
+        "A little worried, you think about stopping before it goes too far, but just then he squirts his stuff in you."
+    ],
+    "3rd Person": [
+        "{ACTIVE} throws his head back and grunts, obviously {CUMMING} deep into {PRIMARY} with every thrust.",
+        "Oh my... {ACTIVE} must be {CUMMING} so much... Hopefully {PRIMARY} is on a safe day...",
+        "It looks so deep, {ACTIVE}'s {CUM} must be squirting straight into {PRIMARY}'s womb!",
+        "On her knees in the filth, {PRIMARY} takes his {CUM} like a {WHORE}."
+    ]
+}

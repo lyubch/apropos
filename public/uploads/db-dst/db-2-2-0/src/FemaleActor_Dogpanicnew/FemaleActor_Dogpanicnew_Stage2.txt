@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "When {ACTIVE} finally finds his mark, I'm not ready and I fall forward, stopping myself with my hands.",
+        "Finally! {ACTIVE} grips my hips tightly, pounding my {PUSSY} with quick, steady strokes.",
+        "I'm so aroused by the time {ACTIVE}'s {PENIS} thrusts into me that I almost cum right there.",
+        "{ACTIVE} wraps his legs around me and pushes his {PENIS} into my {PUSSY}, and we fuck like animals.",
+        "I let myself get pushed face down into the ground, as {ACTIVE} finally enters my {PUSSY}.",
+        "My mind reels at how dirty and wrong this is. And how hot.",
+        "I briefly feel it at my {ASS}. My eyes widen in fear before it plunges into my {PUSSY}.",
+        "{ACTIVE} wraps his legs around me and pushes his {PENIS} into my {PUSSY}, and we fuck like animals.",
+        "Just a bit lower... AH! There you go! It's in me!"			
+    ],
+    "2nd Person" :
+    [
+        "When {ACTIVE} finally finds his mark, you're not ready and fall forward, stopping yourself with your hands.",
+        "Finally! {ACTIVE} grips your hips tightly, pounding your {PUSSY} with quick, steady strokes.",
+        "You're so aroused by the time {ACTIVE}'s {PENIS} thrusts into you that you almost cum right there.",
+        "{ACTIVE} wraps his legs around you and pushes his {PENIS} into your {PUSSY}, and you fuck like animals.",
+        "You let yourself get pushed face down into the ground, as {ACTIVE} finally enters your {PUSSY}.",
+        "Your mind reels at how dirty and wrong this is. And how hot.",
+        "You briefly feel it at your {ASS}. Your eyes widen in fear before it plunges into your {PUSSY}.",
+        "{ACTIVE} wraps his legs around you and pushes his {PENIS} into your {PUSSY}, and you fuck like animals.",
+        "Just a bit lower... AH! There you go! It's in you!"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE}'s first thrusts overwhelm {PRIMARY}, and she collapses forward.",
+        "{ACTIVE} grips tightly to {PRIMARY}'s waist and begins to fuck her quickly.",
+        "Oh my, it's in! An animal's {PENIS} is inside {PRIMARY}!",
+        "The moment that {ACTIVE} finally penetrates {PRIMARY} is breathtaking."
+    ]
+}

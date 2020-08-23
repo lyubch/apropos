@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "My heart is pounding wildly as {ACTIVE} pushes his {PENIS} into me, sending waves of pleasure through me.",
+        "Overcome with passion as I feel {ACTIVE} enter me, I pull him to my lips and we kiss.",
+        "We start to passionately make love, and I hold his body close as he rocks gently into me.",
+        "I stare at {ACTIVE}'s {PENIS} as it slowly pushes into me. I feel high, like I'm about to cum already.",
+        "The two of us look silently at each other for a second. Only a few more pass before he is inside me.",
+        "He eases into my trembling body, and slowly, confidently, he takes me.",
+        "He lines himself up, then our eyes lock. With one almighty push he buries his entire {COCK} in me.",
+        "{ACTIVE} and I settle into a slow steady fuck.",
+        "I wonder... will he notice that there's already {CUM} in my {PUSSY}?",
+        "{ACTIVE} slides his {PENIS} into my {FAROUSAL} {PUSSY}.",
+        "Breathlessly, I watch as {ACTIVE} lines up his {PENIS}. I realise this is going all the way."
+    ],
+    "2nd Person": [
+        "Your heart is pounding wildly as {ACTIVE} pushes his {PENIS} into you, sending waves of pleasure through you.",
+        "Overcome with passion as you feel {ACTIVE} enter you, you pull him to your lips and you kiss.",
+        "You start to passionately make love, and you hold his body close as he rocks gently into you.",
+        "You stare at {ACTIVE}'s {PENIS} as it slowly pushes into you. You feel high, like you're about to cum already.",
+        "The two of you look silently at each other for a second. Only a few more pass before he is inside you.",
+        "He eases into your trembling body, and slowly, confidently, he takes you.",
+        "He lines himself up, then your eyes lock. With one almighty push he buries his entire {COCK} in you.",
+        "You both settle into a slow steady fuck.",
+        "You wonder... will he notice that there's already {CUM} in your {PUSSY}?",
+        "{ACTIVE} slides his {PENIS} into your {FAROUSAL} {PUSSY}.",
+        "Breathlessly, you watch as {ACTIVE} lines up his {PENIS}. You realise this is going all the way."
+    ],
+    "3rd Person": [
+        "{ACTIVE} guides his {PENIS} into {PRIMARY}'s {PUSSY}. They kiss, and then start making love.",
+        "{ACTIVE} and {PRIMARY} seem lost in each other, wrapped in each other's bodies.",
+        "{PRIMARY} wraps herself around {ACTIVE} as he tenderly thrusts into her.",
+        "({PRIMARY}) This doesn't seem fair, I think you should strip too. Let me see your hot little body..."
+    ]
+}

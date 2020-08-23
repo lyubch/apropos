@@ -1,0 +1,28 @@
+{
+    "1st Person": [
+        "Too scared to {STRUGGLE}, I just gasp as he {PENETRAT}es me, shocked when I feel his tongue in my {MOUTH}.",
+        "The {ACTIVE} starts to {FUCK} me {SLOW}ly, and I hold on tight, {SCREAM}ing as I'm {RAP}ed.",
+        "I throw my head back as the {ACTIVE}'s {HUGE} {COCK} forces its way into me.",
+        "I start to {SCREAM} as the {ACTIVE} begins {RAP}ing me, and I kiss him back, too afraid to resist.",
+        "{ACTIVE} guides his {COCK} up against my {PUSSY} and with one thrust he's completely inside me.",
+        "I am completely under {ACTIVE}'s power, I can't stop him from {RAP}ing me.",
+        "I beg you {ACTIVE}, pull it out!",
+        "I'm not able to put up much resistance, considering I'm being {RAP}ed."
+    ],
+    "2nd Person": [
+        "Too scared to {STRUGGLE}, you {SCREAM} as he {PENETRAT}es you, shocked when you feel his tongue in your {MOUTH}.",
+        "The {ACTIVE} starts to {FUCK} you {SLOW}ly, and you hold on tight, {SCREAM}ing as you're {RAP}ed.",
+        "You throw your head back as the {ACTIVE}'s {HUGE} {COCK} forces its way into you.",
+        "You start to {SCREAM} as the {ACTIVE} begins {RAP}ing you, and you kiss him back, too afraid to resist.",
+        "{ACTIVE} guides his {COCK} up against your {PUSSY} and with one thrust he's completely inside you.",
+        "You're completely under {ACTIVE}'s power, you can't stop him from taking you.",
+        "({PRIMARY}) I beg you {ACTIVE}, pull it out!",
+        "You're not able to put up much resistance, considering you're being {RAP}ed."
+    ],
+    "3rd Person": [
+        "{PRIMARY} {SCREAM}s as the {ACTIVE} {PENETRAT}es into her {PUSSY}, her {SCREAM} cut off as he assaults her {MOUTH}.",
+        "{PRIMARY} {SCREAM}s into the {ACTIVE}'s shoulder as he mounts her, {FUCK}ing her {SLOW}ly.",
+        "{PRIMARY} clings on to her attacker, her body rocking as he pumps into her.",
+        "{PRIMARY} {QUIVER}s as the {ACTIVE} takes her, and reluctantly {ACCEPT}s his tongue into her {MOUTH}."
+    ]
+}

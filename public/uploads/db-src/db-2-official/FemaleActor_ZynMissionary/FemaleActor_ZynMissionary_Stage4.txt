@@ -1,0 +1,38 @@
+{
+    "1st Person": [
+        "I drop my head to the floor and plant my feet on the ground to take the fast thrusting.",
+        "Oh Gods! That's it, {ACTIVE}, fuck me hard! I'm just your little {BITCH}!",
+        "Uh uh uh ahh! Remember... ah! You said you'd... you'd pull out...",
+        "My feet on the ground, I lie back and take every glorious thrust, panting like a {WHORE}.",
+        "Is he going to remember to pull out? I should remind him, but I start to get lost in the hard fuck.",
+        "With the pounding you're giving my {PUSSY}, I doubt I'll be able to walk properly for a week.",
+        "Of fuck yeah... mmm... Yes, I love it! But just remember... you have to... pull out...",
+        "{ACTIVE} rides me steadily and I feel my orgasm building. Almost there...",
+        "Oh Gods! Yes! Yes! Uhhh... So good... Don't pull out... I'm almost there... Uh... uh... ahhh...",
+        "{ACTIVE} ravishes me with deep, ass slapping, powerful thrusts.",
+        "It's not a safe day, so promise me you'll pull out before you cum! Please!",
+        "I start to get lost in the pleasure, and for the next ten minutes {ACTIVE} fucks me to two orgasms.",
+        "Gods! Damn it, you're driving me insane! Go ahead and pound my {WTVAGINAL} {PUSSY}!"
+    ],
+    "2nd Person": [
+        "You drop your head to the floor and plant your feet on the ground to take the fast thrusting.",
+        "({PRIMARY}) Oh Gods! That's it, {ACTIVE}, fuck me hard! I'm just your little {BITCH}!",
+        "({PRIMARY}) Uh uh uh ahh! Remember... ah! You said you'd... you'd pull out...",
+        "Your feet on the ground, you lie back and take every glorious thrust, panting like a {WHORE}.",
+        "Is he going to remember to pull out? You should remind him, but you start to get lost in the hard fuck.",
+        "({PRIMARY}) With the pounding you're giving my {PUSSY}, I doubt I'll be able to walk properly for a week.",
+        "({PRIMARY}) Of fuck yeah... mmm... Yes, I love it! But just remember... you have to... pull out...",
+        "{ACTIVE} rides you steadily and you feel your orgasm building. Almost there...",
+        "({PRIMARY}) Oh Gods! Yes! Yes! Uhhh... So good... Don't pull out... I'm almost there... Uh... uh... ahhh...",
+        "{ACTIVE} ravishes you with deep, ass slapping, powerful thrusts.",
+        "({PRIMARY}) It's not a safe day, so promise me you'll pull out before you cum! Please!",
+        "You start to get lost in the pleasure, and for the next ten minutes {ACTIVE} fucks you to two orgasms.",
+        "({PRIMARY}) Gods! Damn it, you're driving me insane! Go ahead and pound my {WTVAGINAL} {PUSSY}!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} tries to steady herself by planting her feet, but her whole body is shaking with each thrust.",
+        "{ACTIVE} starts fucking {PRIMARY} hard, and really fast. She just leans back and takes it.",
+        "{PRIMARY} is fucking her so fast... It looks amazing...",
+        "({PRIMARY}) Mmmm... You're even better than my brother!"
+    ]
+}

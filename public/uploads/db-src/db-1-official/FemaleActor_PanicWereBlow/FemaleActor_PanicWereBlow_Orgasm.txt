@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "The creature's cumshot unleashes a torrent of {JUICY} {CUM}, more than any man could ever produce...",
+        "The {ACTIVE} stops thrusting as it cums, and I greedily slurp against its {PENIS}, drinking its {CUM}.",
+        "I feel the brute's claws dig into my shoulder as it cums. I'm terrified even as I swallow its load.",
+        "There's just so much {CUM}... and it doesn't seem to be stopping! I splutter as I gulp it down.",
+        "The sheer volume of the {ACTIVE}'s {CUM} is startling, and it drips from my lips and overflows from my nose.",
+        "My eyes fly open as huge streams of  fiery {CUM} is pumped into my {MOUTH}.",
+        "My stomach begins to round out from the sheer amount of wolf {CUM} being pumped into my belly.",
+        "His orgasm is so much longer than a human's, gushing {CUM} into me for several long minutes."        
+    ],
+    "2nd Person" :
+    [
+        "The creature's cumshot unleashes a torrent of {JUICY} {CUM}, more than any man could ever produce...",
+        "The {ACTIVE} stops thrusting as it cums, and you greedily slurp against its {PENIS}, drinking its {CUM}.",
+        "You feel the brute's claws dig into your shoulder as it cums. You're terrified even as you swallow its load.",
+        "There's just so much {CUM}... and it doesn't seem to be stopping! You splutter as you gulp it down.",
+        "The sheer volume of the {ACTIVE}'s {CUM} is startling, and it drips from your lips and overflows from your nose.",
+        "Your eyes fly open as huge streams of  fiery {CUM} is pumped into your {MOUTH}.",
+        "Your stomach begins to round out from the sheer amount of wolf {CUM} being pumped into your belly.",
+        "His orgasm is so much longer than a human's, gushing {CUM} into you for several long minutes."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is clearly startled at the monster's roar, but it doesn't stop her from drinking its {CUM}.",
+        "The {ACTIVE} holds {PRIMARY}'s head as she suckles at its {PENIS}, clearly swallowing its {CUM}.",
+        "A look of determination crosses {PRIMARY}'s face as she chokes and slurps.",
+        "She swallows and gulps furiously, but streams of {THICK} {CUM} drip from {PRIMARY}'s mouth and nose."
+    ]
+}

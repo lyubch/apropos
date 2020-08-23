@@ -1,0 +1,31 @@
+{
+    "1st Person": [
+        "The bare soles of my feet touch all across the {ACTIVE}'s muscled chest.",
+        "While one foot roves across his chest, I feel his {COCK} {QUIVER} as my heel {GENTLE}ly touches the base.",
+        "I stare into the {ACTIVE}'s eyes, aware of his {MAROUSAL} {COCK} standing to attention before me.",
+        "My legs spread wide, inadvertently letting the {ACTIVE} see how {WTVAGINAL} my {PUSSY} is.",
+        "My {HEAVING} {BUTTOCKS} resting in the dirt and {SCUM} I spread my legs, ashamed of my {WTVAGINAL} {PUSSY}...",
+        "My {WTVAGINAL} {PUSSY}... And his {MAROUSAL} {COCK}... Can I hold out and make him {EJACULATE} before he {RAP}es me?",
+        "I can't help but stare at his {MAROUSAL} {COCK} towering right in front of me...",
+        "I gaze at the {HUGE} {COCK} poised and throbbing slightly in front of me, my {PUSSY} {WTVAGINAL}...",
+        "I saw you looking at my feet... I could... Touch you with them if you let me go..."
+    ],
+    "2nd Person": [
+        "The bare soles of your feet touch all across {ACTIVE}'s muscled chest.",
+        "While one foot roves across his chest, you feel his {COCK} {QUIVER} as your heel {GENTLE}ly touches the base.",
+        "You stare into {ACTIVE}'s eyes, aware of his {MAROUSAL} {COCK} standing to attention before you.",
+        "Your legs spread wide, inadvertently letting {ACTIVE} see how {WTVAGINAL} your {PUSSY} is.",
+        "Your {HEAVING} {BUTTOCKS} resting in the dirt and {SCUM} you spread your legs, ashamed of your {WTVAGINAL} {PUSSY}...",
+        "Your {WTVAGINAL} {PUSSY}... And his {MAROUSAL} {COCK}... Can you make him {EJACULATE} before he {RAP}es you?",
+        "You can't help but stare at his {MAROUSAL} {COCK} towering right in front of you...",
+        "You gaze at the {HUGE} {COCK} poised and throbbing slightly in front of you, your {PUSSY} {WTVAGINAL}...",
+        "({PRIMARY}) I saw you looking at my feet... You want me to rub them all over your {COCK}?"
+    ],
+    "3rd Person": [
+        "The bare soles of {PRIMARY}'s feet touch all across the {ACTIVE}'s muscled chest.",
+        "While one foot roves across his chest, his {COCK} {QUIVER}s as {PRIMARY}'s heel {GENTLE}ly touches the base.",
+        "{PRIMARY} stares into the {ACTIVE}'s eyes, his {MAROUSAL} {COCK} standing to attention before her.",
+        "{PRIMARY}'s legs spread wide, inadvertently letting the {ACTIVE} see how {WTVAGINAL} her {PUSSY} is.",
+        "Her {HEAVING} {BUTTOCKS} resting in the dirt and {SCUM} {PRIMARY} spreads her legs, ashamed of her {WTVAGINAL} {PUSSY}..."
+    ]
+}

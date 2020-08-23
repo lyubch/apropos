@@ -1,0 +1,20 @@
+{
+    "1st Person" :
+    [
+        "My head hangs limp and I give a low moan as I feel my {PUSSY} fill with {THICK} {CUM}.",
+        "The brute pushes his {COCK} all the way inside me, all the way to the base, {CUMMING} deep and hard.",
+        "The {ACTIVE} climaxes into me painfully, but with him inside me I can only thrash along his length."        
+    ],
+    "2nd Person" :
+    [
+        "Your head hangs limp and you give a low moan as you feel your {PUSSY} fill with {THICK} {CUM}.",
+        "The brute pushes his {COCK} all the way inside you, all the way to the base, {CUMMING} deep and hard.",
+        "The {ACTIVE} climaxes into you painfully, but with him inside you you can only thrash along his length." 
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s head hangs limp and she gives a low moan as her {PUSSY} fills with {THICK} {CUM}.",
+        "The brute pushes his {COCK} all the way inside {PRIMARY}, all the way to the base, {CUMMING} deep and hard.",
+        "All {PRIMARY}'s energy is spent from the exhausting fuck, all she manages is to moan as the {ACTIVE} cums."
+    ]
+}

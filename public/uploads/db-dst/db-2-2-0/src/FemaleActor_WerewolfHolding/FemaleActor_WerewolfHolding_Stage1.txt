@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} lifts me up by the waist, unceremoniously impaling me on his {BEAST} {PENIS}.",
+        "My tiny waist is dwarfed by the creature's huge claws. It's kind of a turn on...",
+        "I wanted to touch the beast's muscular chest, but the first thrust knocks every bit of energy from me.",
+        "The {ACTIVE} wastes no time in fucking into my {WTVAGINAL} {PUSSY} in brisk, violent strokes.",
+        "I look into the monstrous face of my lover, feeling shame and arousal wash over me.",
+        "You look as if you'd give me the kind of fucking I'd feel for days...",
+        "The {ACTIVE} yanks my legs apart and fucks me.",
+        "(giggle) Stay as the monster! I've had stranger than you, I've fucked real monsters!"        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} lifts you up by the waist, unceremoniously impaling you on his {BEAST} {PENIS}.",
+        "Your tiny waist is dwarfed by the creature's huge claws. It's kind of a turn on...",
+        "You wanted to touch the beast's muscular chest, but the first thrust knocks every bit of energy from you.",
+        "The {ACTIVE} wastes no time in fucking into your {WTVAGINAL} {PUSSY} in brisk, violent strokes.",
+        "You look into the monstrous face of your lover, feeling shame and arousal wash over you.",
+        "({PRIMARY}) You look as if you'd give me the kind of fucking I'd feel for days...",
+        "The {ACTIVE} yanks your legs apart and fucks you.",
+        "({PRIMARY}) (giggle) Stay as the monster! I've had stranger than you, I've fucked real monsters!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} allows the creature to lift her, spreading her legs and letting it penetrate her.",
+        "{PRIMARY} is already panting as the beast lifts her by the waist, even before it starts to fuck her.",
+        "{PRIMARY} stares up at the {ACTIVE}'s monstrous visage, a look of lust and hunger on her face.",
+        "Oh Gods! It sounded like {PRIMARY} came just from the {ACTIVE} pushing its {PENIS} inside her!"
+    ]
+}

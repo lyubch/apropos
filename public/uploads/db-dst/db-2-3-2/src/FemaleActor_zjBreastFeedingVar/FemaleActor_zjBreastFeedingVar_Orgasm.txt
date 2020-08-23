@@ -1,0 +1,19 @@
+{
+    "1st Person": [
+        "My nipples are rock hard, straining painfully as I feel {ACTIVE}'s {COCK} erupt in my hand.",
+        "I smile as I watch {ACTIVE}'s {COCK} squirt {THICK} {CUM} all over us both.",
+        "There's some disappointment as I watch {ACTIVE} cum. I'm really {HORNY} from all that...",
+        "Oh my! You came already? But... But what about me?"
+    ],
+    "2nd Person": [
+        "Your nipples are rock hard, straining painfully as you feel {ACTIVE}'s {COCK} erupt in your hand.",
+        "You smile as you watch {ACTIVE}'s {COCK} squirt {THICK} {CUM} all over you both.",
+        "There's some disappointment as you watch {ACTIVE} cum. You're really {HORNY} from all that...",
+        "({PRIMARY}) oh my! You came already? But... But what about me?"
+    ],
+    "3rd Person": [
+        "{ACTIVE} {EJACULATE}s in {PRIMARY}'s hand, his {THICK} {CUM} squirting all over her hand and his stomach.",
+        "{PRIMARY} looks pleased with herself as {ACTIVE} grunts and cums.",
+        "{PRIMARY} looks so {HORNY} after all that. It's a shame she's not going to get off too..."
+    ]
+}

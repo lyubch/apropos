@@ -1,0 +1,19 @@
+{
+    "1st Person": [
+        "I feel sick and my heart stops as {ACTIVE} fills my {PUSSY} with {CUM} for the first time.",
+        "They say you can't get pregnant the first time... I hope that's true...",
+        "{SWEARING}, that hurt, that really hurt...",
+	"{SWEARING}, this {JERK} really did it... He really {EJACULATED} inside my {PUSSY}...",
+	"Is this how I will forever remember losing my virginity?.."
+    ],
+    "2nd Person": [
+        "You feel sick and your heart stops as {ACTIVE} fills your {PUSSY} with {CUM} for the first time.",
+        "They say you can't get pregnant the first time... you hope that's true...",
+        "{SWEARING}, that hurt, that really hurt...",
+	"{SWEARING}, this {JERK} really did it... He really {EJACULATED} inside your {PUSSY}...",
+	"Is this how you will forever remember losing your virginity?.."
+    ],
+    "3rd Person": [
+        "Blood and {CUM} stream from between {PRIMARY}'s legs. What a horrible first time..."
+    ]
+}

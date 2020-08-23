@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I scream in anguish, my {PUSSY} fucked painfully by the {ACTIVE}.",
+        "It's so hard, and so deep... My {PUSSY} is going to be ruined after this...",
+        "({ACTIVE}) Yeah, take it {BITCH}! I bet you've never been fucked like this!",
+        "I moan in shame as I feel myself growing wet from {ACTIVE}'s rough fucking.",
+        "({ACTIVE}) I'll teach you how a {BITCH} should behave!",
+        "({ACTIVE}) I'm gonna take you back to my place once I'm done, chain you up and let the dog fuck you.",
+        "My mind and body strain, to process the outrage, the powerlessness, but also the unspeakable pleasure."
+    ],
+    "2nd Person": [
+        "You scream in anguish, your {PUSSY} fucked painfully by the {ACTIVE}.",
+        "It's so hard, and so deep... Your {PUSSY} is going to be ruined after this...",
+        "({ACTIVE}) Yeah, take it {BITCH}! I bet you've never been fucked like this!",
+        "You moan in shame as you feel yourself growing wet from {ACTIVE}'s rough fucking.",
+        "({ACTIVE}) I'll teach you how a {BITCH} should behave!",
+        "({ACTIVE}) I'm gonna take you back to my place once I'm done, chain you up and let the dog fuck you.",
+        "Your mind and body strain, to process the outrage, the powerlessness, but also the unspeakable pleasure."
+    ],
+    "3rd Person": [
+        "That looks so painful... It's so hard, and so deep... Would that even feel good?",
+        "The {ACTIVE} is really giving it to her now. It's so horrible, {PRIMARY} being abused that way.",
+        "There's something about this rough, brutal fuck, that's really sexy. The way he's just taking her...",
+        "({ACTIVE}) Listen to this {BITCH} moan! Admit it, I'm the best fuck you've ever had!"
+    ]
+}

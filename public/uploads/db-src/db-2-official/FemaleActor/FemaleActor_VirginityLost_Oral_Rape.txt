@@ -1,0 +1,13 @@
+{
+    "1st Person": [
+        "My eyes widen in shock as {CUM} fills my {MOUTH} for the first time.",
+        "It's thick and disgusting, yet my nipples stiffen and my {PUSSY} throbs. Is this really who I am?"
+    ],
+    "2nd Person": [
+        "Your eyes widen in shock as {CUM} fills your {MOUTH} for the first time.",
+        "It's disgusting, yet your nipples stiffen and your {PUSSY} throbs. Is this really who you are?"
+    ],
+    "3rd Person": [
+        "{PRIMARY} chokes and splutters, obviously repulsed. Hasn't she tasted {CUM} before?"
+    ]
+}

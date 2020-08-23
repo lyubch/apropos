@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "I close my eyes and {MOAN} into our kiss as {ACTIVE} starts to {SLOW}ly finger me.",
+        "I feel {ACTIVE}'s hand between my legs, so I {COCK} one leg and give him better access.",
+        "{ACTIVE} holds my {ASSHOLE}, keeping me from squirming away as {ACTIVE} starts to rub my {PUSSY}.",
+        "I reach around {ACTIVE}'s neck, pulling him in for a deep kiss as his hands go to my {FAROUSAL} {PUSSY}.",
+        "{SWEARING}... His tongue in my {MOUTH}, and his fingers between my legs... I'm already going to cum..."
+    ],
+    "2nd Person": [
+        "You close your eyes and {MOAN} into {ACTIVE}'s kiss as {ACTIVE} starts to {SLOW}ly finger you.",
+        "You feel {ACTIVE}'s hand between your legs, so you {COCK} one leg and give him better access.",
+        "{ACTIVE} holds your {ASSHOLE}, keeping you from squirming away as {ACTIVE} starts to rub your {PUSSY}.",
+        "You reach around {ACTIVE}'s neck, pulling him in for a deep kiss as his hands go to your {FAROUSAL} {PUSSY}.",
+        "{SWEARING}... His tongue in your {MOUTH}, and his fingers between your legs... You're already going to cum..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} closes her eyes and {MOAN}s into {ACTIVE}'s kiss as {ACTIVE} starts to {SLOW}ly finger her.",
+        "{PRIMARY} feels {ACTIVE}'s hand between her legs, so she lifts one leg and gives him better access.",
+        "{ACTIVE} holds {PRIMARY}'s ass, keeping her from squirming away as {ACTIVE} starts to rub her {PUSSY}.",
+        "{PRIMARY} reaches around {ACTIVE}'s neck, pulling him in for a deep kiss as his hands go to her {FAROUSAL} {PUSSY}.",
+        "{SWEARING}... His tongue in {PRIMARY}'s mouth, and his fingers between her legs... She's already going to cum..."
+    ]
+}

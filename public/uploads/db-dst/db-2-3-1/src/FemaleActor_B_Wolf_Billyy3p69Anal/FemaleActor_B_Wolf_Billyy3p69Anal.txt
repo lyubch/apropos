@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "I can't have either of them cumming in my pussy... Guess I'll have to be a little more creative...",
+        "My my, two {HORNY} wolves... my {PUSSY} is too {WTVAGINAL} to let them {FUCK} it, but maybe... ooooh, this might just work...",
+        "On all fours over one of them, I {JIGGL}e my {ASSHOLE} at the {ACTIVE} behind me..."
+    ],
+    "2nd Person": [
+        "You can't have either of them cumming in your pussy... Guess you'll have to be a little more creative...",
+        "My my, two {HORNY} wolves... your {PUSSY} is too {WTVAGINAL} to let them {FUCK} it, but maybe... ooooh, this might just work...",
+        "On all fours over one of them, you {JIGGL}e your ass at the {ACTIVE} behind you..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} can't have either of them cumming in her pussy... Guess she'll have to be a little more creative...",
+        "My my, two {HORNY} wolves... {PRIMARY}'s {PUSSY} is too {WTVAGINAL} to let them {FUCK} it, but maybe... ooooh, this might just work...",
+        "On all fours over one of them, {PRIMARY} {JIGGL}es her ass at the {ACTIVE} behind her..."
+    ]
+}

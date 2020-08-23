@@ -1,0 +1,44 @@
+{
+    "1st Person" :
+    [
+        "Pinned to the ground by the {MONSTER}'s massive claws, I look up in {FEAR} as it begins to take me.",
+        "I can barely breathe as the fist closes around my throat, straining to gasp he enters my {PUSSY}.",
+        "Slammed to the ground so hard I see stars, it takes a moment for the {PAIN} of being {FUCK}ed hard to hit me.",
+        "My {FLESH} {JIGGL}es and my {BOOBS} {JIGGL}e as the huge {MONSTER} {FUCK}s hard and deep between my spread legs.",
+        "My arms pinned, I try to raise my knees to stop the {MONSTER}, or at least slow him down.",
+        "Ah! This isn't real! I'm being {PENETRAT}ed by a {MONSTER}'s {COCK}....",
+        "My {SCREAM}s go ignored, as the werewolf {PENETRAT}es his {BEASTLY} {COCK} into my {WTVAGINAL} {PUSSY}.",
+        "The {MONSTER} is upon me and begins to thrust the full length of it almost to my womb.",
+        "I give up, don't hurt me! I'll... I'll let you {BREED} me if you don't hurt me anymore!",
+        "The {ACTIVE} yanks my legs apart and {RAP}es me.",
+        "Knocked to the ground, I don't even have time to catch my breath before the {MONSTER}'s {COCK} {FUCK}s into me.",
+        "I can only watch in {FEAR} as the {BEASTLY} {COCK} aligns with my {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} slides me wide open and plugs me fully with its {BEASTLY} {GIRTH}.",
+        "Insistently, {ROUGH}ly, the first few inches of its impossibly {BEASTLY} {COCK} {PENETRAT}e up inside of me."  
+    ],
+    "2nd Person" :
+    [
+        "Pinned to the ground by the {MONSTER}'s massive claws, you look up in {FEAR} as it begins to take you.",
+        "You can barely breathe as the fist closes around your throat, straining to gasp he enters your {PUSSY}.",
+        "Slammed to the ground so hard you see stars, it takes a moment for the {PAIN} of being {FUCK}ed hard to hit you.",
+        "Your {FLESH} {JIGGL}es and your {BOOBS} {JIGGL}e as the huge {MONSTER} {FUCK}s hard and deep between your spread legs.",
+        "Your arms pinned, you try to raise your knees to stop the {MONSTER}, or at least slow him down.",
+        "Ah! This isn't real! You're being {PENETRAT}ed by a {MONSTER}'s {COCK}....",
+        "Your {SCREAM}s go ignored, as the werewolf {PENETRAT}es his {BEASTLY} {COCK} into your {WTVAGINAL} {PUSSY}.",
+        "The {MONSTER} is upon you and begins to thrust the full length of it almost to your womb.",
+        "({PRIMARY}) I give up, don't hurt me! I'll... I'll let you {BREED} me if you don't hurt me anymore!",
+        "The {ACTIVE} yanks your legs apart and {FUCK}s you.",
+        "Knocked to the ground, you don't even have time to catch your breath before the {MONSTER}'s {COCK} {FUCK}s into you.",
+        "You can only watch in {FEAR} as the {BEASTLY} {COCK} aligns with your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE} slides you wide open and plugs you fully with its {BEASTLY} {GIRTH}.",
+        "Insistently, {ROUGH}ly, the first few inches of its impossibly {BEASTLY} {COCK} {PENETRAT}e up inside of you."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is {ROUGH}ly pinned to the ground, the {ACTIVE} pushing {ROUGH}ly between her legs with its {COCK}.",
+        "{PRIMARY} raises her knees, trying to push the {ACTIVE} off of her and out of her {PUSSY}.",
+        "The {ACTIVE} snarls right in {PRIMARY}'s face as it pushes its {BEASTLY} {COCK} between her legs.",
+        "{PRIMARY}'s {SCREAM}s go ignored, as the werewolf {PENETRAT}es his {BEASTLY} {COCK} into her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} can barely breathe as the fist closes around her throat, straining to gasp he enters her {PUSSY}."        
+    ]
+}

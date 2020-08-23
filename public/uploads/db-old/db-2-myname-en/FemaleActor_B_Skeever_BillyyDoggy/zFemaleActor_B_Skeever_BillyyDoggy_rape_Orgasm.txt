@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "I can feel a large volume of {VILE} {CUM} coming out of its {COCK} and spraying all around my womb. It creamed me!",
+        "The {ACTIVE} is {CUMMING} inside me hard, wave after wave of its semen is filling me up.. Rat {CUM} can't impregnate a human right?",
+        "This pulsating feeling I feel around its twitching {COCK} and the way it stops and buries it as deep as it can tells me it filled me with baby rats",
+        "This feels so big and good, I think he...{SWEARING}, it is {CUMMING} it all inside me, so warm and thick.",
+        "Here you go love, keep it pumping, don't worry, I will take every single drop of your {VILE} {CUM}.",
+        "Mmmm yes, breeding a human female with that {VILE} {CUM}. You are one lucky rat, don't waste a drop.",
+        "Stinky, Disgusting, slimy, thick and so warm. I'd suck it off to make sure I got every drop in me but you already came in gallons in my {PUSSY}.",
+	"It stuck its entire {COCK} in me and now my insides are gushing with rat {CUM}. I hope {ACTIVE} won't get used to this."        
+    ],
+    "2nd Person" :
+    [
+        "You can feel a large volume of {VILE} {CUM} coming out of its {COCK} and spraying all around your womb. It creamed you!",
+        "The {ACTIVE} is {CUMMING} inside you hard, wave after wave of its semen is filling you up.. Rat {CUM} can't impregnate a human right?",
+        "The pulsating feeling you feel around its twitching {COCK} and the way it stops and buries it to the deepest parts tells you it filled you with baby rats.",
+        "This feels so big and good, I think he...{SWEARING}, it is {CUMMING} it all inside me, so warm and thick.",
+        "Here you go love, keep it pumping, don't worry, I will take every single drop of your {VILE} {CUM}.",
+        "Stinky, Disgusting, slimy, thick and so warm. You'd suck it off to make sure you got every drop in you but it already came in gallons in your {PUSSY}.",
+	"It stuck its entire {COCK} in you and now your insides are gushing with rat {CUM}. You hope {ACTIVE} won't get used to this."       
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE}'s slimy {COCK} twitches and erupts deep inside {PRIMARY}'s {PUSSY}.",
+        "{ACTIVE} makes one final deep push inside {PRIMARY}'s {PUSSY}, filling her up with its {VILE} {CUM}.",
+	"{PRIMARY}'s insides are full of rat {CUM} and {ACTIVE}'s {COCK} doesn't stop flowing its semen for sometime."
+    ]
+}

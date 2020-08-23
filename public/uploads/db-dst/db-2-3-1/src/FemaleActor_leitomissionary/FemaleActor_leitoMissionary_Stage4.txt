@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "We're wrapped so closely now that we gaze in eachother eyes, lovingly. And then I peak, {MOAN}ing with my climax.",
+        "I'm amazed at {ACTIVE}'s stamina, amazed that I'm feeling this wonderful, this fulfilled, this close...",
+        "Our breaths are fast, deep, and loud, creating a rhythmic music in our lovemaking.",
+        "My arms wrap around {ACTIVE}'s back desperately as I'm sent over the edge by their thrusts.",
+        "I'm about to cum, and by {ACTIVE}'s expression, so are they.",
+        "({PRIMARY}): Keep going love... just like that!",
+        "I urge {ACTIVE} on, as we {SCREAM} and {MOAN}, my mind shattering and heart thumping with {LUST}.",
+        "({ACTIVE}): {PRIMARY}, I'm almost there!"
+    ],
+    "2nd Person": [
+        "You're wrapped so closely together that you gaze in eachother's eyes lovingly. And then you peak, {MOAN}ing with your climax.",
+        "You're amazed at {ACTIVE}'s stamina, amazed that you're feeling this wonderful, this fulfilled, this close...",
+        "Your breaths are fast, deep, and loud, creating a rhythmic music in your lovemaking.",
+        "Your arms wrap around {ACTIVE}'s back desperately as you are sent over the edge by their thrusts.",
+        "You're about to {EJACULATE}, and by {ACTIVE}'s expression, so are they.",
+        "You tell {ACTIVE} to keep going... you're so close now.",
+        "You urge {ACTIVE} on, as you {SCREAM} and {MOAN} together, your mind shaterring and your heart thumping with {LUST}.",
+        "({ACTIVE}): {PRIMARY}, I'm about to cum!"
+    ],
+    "3rd Person": [
+        "{ACTIVE} gazes into {PRIMARY}'s eyes and she melts, {MOAN}ing with her climax as her {PUSSY} conitnues to take deep thrusts.",
+        "{ACTIVE} has amazing stamina, and {PRIMARY} seems all the more satisfied for it as {ACTIVE} continues to thrust into her.",
+        "Their breaths are fast, deep, and loud, creating a rhythmic music in their lovemaking.",
+        "{PRIMARY}'s arms wrap around {ACTIVE}'s back desperately as she is sent over the edge by {ACTIVE}'s thrusts.",
+        "They are both about to {EJACULATE}...",
+        "{PRIMARY} begs {ACTIVE} to keep thrusting...she is so close now.",
+        "{PRIMARY} urges {ACTIVE} on, their {MOAN}s and {MOAN} intensifying.",
+        "({ACTIVE}): {PRIMARY}, I'm about to cum!"
+    ]
+}

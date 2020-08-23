@@ -1,0 +1,191 @@
+{
+	"oral":
+	{
+		"level4":
+		{
+			"magickaregen": 5
+		},
+		"level5":
+		{
+			"magickaregen": 10,
+			"speech": 5
+		},
+		"level6":
+		{
+			"magickaregen": 15,
+			"speech": 10
+		},
+		"level7":
+		{
+			"magickaregen": 20,
+			"speech": 15
+		},
+		"level8":
+		{
+			"magickaregen": 25,
+			"speech": 20
+		},
+		"level9":
+		{
+			"magickaregen": 30,
+			"speech": 25
+		}
+	},
+	"oral-hc":
+	{
+		"level4":
+		{
+			"magickaregen": 5
+		},
+		"level5":
+		{
+			"magickaregen": 10,
+			"speech": 5
+		},
+		"level6":
+		{
+			"magickaregen": 20,
+			"speech": 10
+		},
+		"level7":
+		{
+			"magickaregen": 30,
+			"speech": 20
+		},
+		"level8":
+		{
+			"magickaregen": 40,
+			"speech": 30
+		},
+		"level9":
+		{
+			"magickaregen": 50,
+			"speech": 40
+		}
+	},	
+	"vaginal":
+	{
+		"level4":
+		{
+			"shregen": 5
+		},
+		"level5":
+		{
+			"shregen": 10
+		},
+		"level6":
+		{
+			"shregen": 15,
+			"movement": 5
+		},
+		"level7":
+		{
+			"shregen": 20,
+			"movement": 10
+		},
+		"level8":
+		{
+			"shregen": 25,
+			"movement": 15
+		},
+		"level9":
+		{
+			"shregen": 30,
+			"movement": 20
+		}
+	},
+	"vaginal-hc":
+	{
+		"level4":
+		{
+			"shregen": 5
+		},
+		"level5":
+		{
+			"shregen": 10
+		},
+		"level6":
+		{
+			"shregen": 20,
+			"movement": 5
+		},
+		"level7":
+		{
+			"shregen": 30,
+			"movement": 10
+		},
+		"level8":
+		{
+			"shregen": 40,
+			"movement": 20
+		},
+		"level9":
+		{
+			"shregen": 50,
+			"movement": 30
+		}
+	},	
+	"anal":
+	{
+		"level4":
+		{
+			"shregen": 5
+		},
+		"level5":
+		{
+			"shregen": 10
+		},
+		"level6":
+		{
+			"shregen": 15,
+			"movement": 10
+		},
+		"level7":
+		{
+			"shregen": 20,
+			"movement": 15
+		},
+		"level8":
+		{
+			"shregen": 25,
+			"movement": 20
+		},
+		"level9":
+		{
+			"shregen": 30,
+			"movement": 25
+		}
+	},	
+	"anal-hc":
+	{
+		"level4":
+		{
+			"shregen": 5
+		},
+		"level5":
+		{
+			"shregen": 10,
+			"movement": 5
+		},
+		"level6":
+		{
+			"shregen": 20,
+			"movement": 10
+		},
+		"level7":
+		{
+			"shregen": 30,
+			"movement": 20
+		},
+		"level8":
+		{
+			"shregen": 40,
+			"movement": 30
+		},
+		"level9":
+		{
+			"shregen": 50,
+			"movement": 35
+		}
+	}	
+}

@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "Ah! Oh Gods, this is too much! I'm not sure I can take this...",
+        "I'm shocked, and a little disgusted, as my body starts to react to the fast thrusting.",
+        "Oh my goodness, {ACTIVE}'s {PENIS} is swelling inside me! URGHH! OWWW!",
+        "To be desired by this beast... For my body to elicit such an urge, for an animal to fuck a human..."
+    ],
+    "2nd Person": [
+        "Ah! Oh Gods, this is too much! You're not sure you can take this...",
+        "You're shocked, and a little disgusted, as your body starts to react to the fast thrusting.",
+        "Oh my goodness, {ACTIVE}'s {PENIS} is swelling inside you! URGHH! OWWW!",
+        "To be desired by this beast... For your body to elicit such an urge, for an animal to fuck a human..."
+    ],
+    "3rd Person": [
+        "Ah! Oh Gods, this is too much! {PRIMARY} is not sure she can take this...",
+        "{PRIMARY} is shocked, and a little disgusted, as her body starts to react to the fast thrusting.",
+        "Oh my goodness, {ACTIVE}'s {PENIS} is swelling inside {PRIMARY}! URGHH! OWWW!",
+        "To be desired by this beast... For her body to elicit such an urge, for an animal to fuck a human..."
+    ]
+}

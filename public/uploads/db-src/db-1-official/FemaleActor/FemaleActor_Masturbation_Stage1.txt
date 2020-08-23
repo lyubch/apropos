@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "Fireworks go off in my head as my fingertips go straight to my erect little clitoris.",
+        "Oh Gods, I wish I had a {HUGE} {COCK} right now... To fuck me hard and deep...",
+        "I don't care who sees me, I need to get off right now...",
+        "My {PUSSY} is {FAROUSAL} and {WTVAGINAL}... I think it needs some attention...",
+        "My hands feel so good all over my skin... My chest is flushed and my nipples stand to attention."
+    ],
+    "2nd Person" :
+    [
+        "Fireworks go off in your head as your fingertips go straight to your erect little clitoris.",
+        "Oh Gods, you wish you had a {HUGE} {COCK} right now... To fuck you hard and deep...",
+        "You don't care who sees you, you need to get off right now...",
+        "Your {PUSSY} is {FAROUSAL} and {WTVAGINAL}... You think it needs some attention...",
+        "Your hands feel so good all over your skin... Your chest is flushed and your nipples stand to attention."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is eager, as her fingertips go straight to her erect little clitoris.",
+        "Oh Gods, if there was a {HUGE} {COCK} here right now... To fuck {PRIMARY} hard and deep...",
+        "{PRIMARY} doesn't care who sees her, she needs to get off right now...",
+        "{PRIMARY}'s {PUSSY} is {FAROUSAL} and {WTVAGINAL}... It needs some attention...",
+        "{PRIMARY}'s hands must feel good all over her skin... Her chest is flushed and her nipples stand to attention."
+    ]
+}

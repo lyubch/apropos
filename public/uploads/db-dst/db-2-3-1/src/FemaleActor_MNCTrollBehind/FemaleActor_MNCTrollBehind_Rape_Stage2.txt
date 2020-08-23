@@ -1,0 +1,23 @@
+{
+    "1st Person": [
+        "I'm relieved as the monster accepts my surrender, and begins to pump steadily into my {PUSSY}.",
+        "I bend over more, my {BOOBS} {JIGGL}ing as the {ACTIVE} starts to {FUCK} me. {SWEARING}, please let it be gentle...",
+        "I brace myself on my knees as the {MONSTER} takes control, holding me in place and starting to thrust steadily into me.",
+        "Oh my... {SWEARING}...! I {MOAN}, the {BEASTLY} {COCK} {INSERT}ing into my {HEAVING} {FLESH} as I stretch around its {GIRTH}.",
+        "Being {FUCK}ed by a monster feels disturbingly natural. Maybe I'm some kind of {BITCH}?"
+    ],
+    "2nd Person": [
+        "You're relieved as the monster accepts your surrender, and begins to pump steadily into your {PUSSY}.",
+        "You bend over more, your {BOOBS} {JIGGL}ing as the {ACTIVE} starts to {FUCK} you. {SWEARING}, please let it be gentle...",
+        "You brace yourself on your knees as the {MONSTER} takes control, holding you in place and starting to thrust steadily into you.",
+        "Oh my... {SWEARING}...! You {MOAN}, the {BEASTLY} {COCK} {INSERT}ing into your {HEAVING} {FLESH} as you stretch around its {GIRTH}.",
+        "Being {FUCK}ed by a monster feels disturbingly natural. Maybe you're some kind of {BITCH}?"
+    ],
+    "3rd Person": [
+        "{PRIMARY} is relieved as the monster accepts her surrender, and begins to pump steadily into her {PUSSY}.",
+        "She bends over more, {PRIMARY}'s {BOOBS} {JIGGL}ing as the {ACTIVE} starts to {FUCK} her. {SWEARING}, please let it be gentle...",
+        "{PRIMARY} braces herself on her knees as the {MONSTER} takes control, holding her in place and starting to thrust steadily into her.",
+        "Oh my... {SWEARING}...! {PRIMARY} {SCREAM}s... the {BEASTLY} {COCK} {INSERT}ing into her {HEAVING} {FLESH} as she stretches around its {GIRTH}.",
+        "Being {FUCK}ed by a monster feels disturbingly natural. Maybe {PRIMARY} is some kind of {BITCH}?"
+    ]
+}

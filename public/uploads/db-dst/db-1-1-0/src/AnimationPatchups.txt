@@ -1,0 +1,154 @@
+{
+	"FalmerHolding":
+	{
+		"RemoveTags": ["Gangbang"],
+		"AddTags": ["Falmer"]
+	},
+	"FalmerMissionary":
+	{
+		"RemoveTags": ["Gangbang"],
+		"AddTags": ["Falmer"]
+	},
+
+	"ChaurusReverse":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Oral"]
+	},
+
+	"GiantHolding":
+	{
+		"RemoveTags": ["Vaginal"],
+		"AddTags": ["Handjob"]
+	},
+
+	"RieklingTest":
+	{
+		"AddTags": ["Vaginal"]
+	},
+	"RieklingDouble":
+	{
+		"AddTags": ["Vaginal"]
+	},
+
+	"DraugrDoggyStyle":
+	{
+		"RemoveTags": ["Vaginal"],
+		"AddTags": ["Anal"]
+	},
+
+	"Dogpanicnew":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Vaginal, Canine"]
+	},
+	"DogpanicConsensual":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Vaginal, Canine"]
+	},
+	"DayelyteDogFun":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Vaginal, Canine"]
+	},
+	"DayelyteDogSpooning":
+	{
+		"AddTags": ["Canine"]
+	},
+
+	"Wolfpanicnew":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Vaginal"]
+	},
+	"WolfpanicConsensual":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Vaginal"]
+	},
+	"DayelyteWolfFun":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Vaginal"]
+	},
+	"WolfDoggystyle":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Vaginal"]
+	},	
+
+	"WolfDoggystyle2":
+	{
+		"RemoveTags": ["Vaginal"],
+		"AddTags": ["Anal"]
+	},	
+
+	"SprigganLotus":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Vaginal"]
+	},		
+	"SprigganCG":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Vaginal"]
+	},	
+
+	"FlameatronachBehind":
+	{
+		"RemoveTags": ["Vaginal"],
+		"AddTags": ["Anal"]
+	},		
+
+	"LurkerPenetration":
+	{
+		"RemoveTags": ["Giant"],
+		"AddTags": ["Lurker"]
+	},
+
+	"LurkerHolding":
+	{
+		"RemoveTags": ["Giant, Vaginal"],
+		"AddTags": ["Lurker, Handjob"]
+	},
+
+	"HorseDoggyStyle":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Vaginal"]
+	},	
+
+	"DDBeltedSolor":
+	{
+		"AddTags": ["Masturbation"]
+	},
+
+	"DaedraHugging":
+	{
+		"RemoveTags": ["Seeking"],
+		"AddTags": ["Seeker"]
+	},
+
+	"WerewolfAggrDoggystyle":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Vaginal"]
+	},
+
+	"WerewolfDoggystyle":
+	{
+		"RemoveTags": ["Anal"],
+		"AddTags": ["Vaginal"]
+	},
+
+	"ArrokLesbian":
+	{
+		"AddTags": ["Cunnilingus"]
+	},
+	
+	"ZynLesbian":
+	{
+		"AddTags": ["Cunnilingus"]
+	}
+}

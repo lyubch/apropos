@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "Now that it's fully in, I begin easing back onto the {BEASTLY} {COCK}.",
+        "My knees are weak with strain, and I grab the {ANIMAL}'s leg with both hands to steady myself.",
+        "{SWEARING}, it's tight! This {COCK} is so {HUGE}! I'm not sure... Ugh... How much more I can fit...",
+        "The {ACTIVE} pumps {GENTLE}ly, and a wave of {LOVE} crashes through me. That felt good... Really good!",
+        "Ugh! I wasn't ready for the {ACTIVE} to thrust... I grip the {ANIMAL}'s leg tightly.",
+        "Even though the thrusts are very shallow, the feeling is so intense.",
+        "My heart is racing, pounding in my ears, and I breath in sharply every time the huge {ANIMAL} pumps into me.",
+        "Slowly, an inch at a time, the inhumanly {HUGE} {COCK} {INSERT}s into my {QUIVER}ing body...",
+        "Only the {COCKHEAD} has entered me, with a lot more to go... I'm so scared, but so {HORNY}. It feels so good!"
+    ],
+    "2nd Person": [
+        "Now that it's fully in, you begin easing back onto the {BEASTLY} {COCK}.",
+        "Your knees are weak with strain, and you grab the {ANIMAL}'s leg with both hands to steady yourself.",
+        "{SWEARING}, it's tight! This {COCK} is so {HUGE}! You're not sure... Ugh... How much more you can fit...",
+        "The {ACTIVE} pumps {GENTLE}ly, and a wave of {LOVE} crashes through you. That felt good... Really good!",
+        "Ugh! You weren't ready for the {ACTIVE} to thrust... You grip the {ANIMAL}'s leg tightly.",
+        "Even though the thrusts are very shallow, the feeling is so intense.",
+        "Your heart is racing, pounding in your ears, and you breath in sharply every time the {ANIMAL} pumps into you.",
+        "Slowly, an inch at a time, the inhumanly {HUGE} {COCK} {INSERT}s into your {QUIVER}ing body...",
+        "Only the {COCKHEAD} has entered you, with a lot more to go... You're so scared, but so {HORNY}. It feels so good!"
+    ],
+    "3rd Person": [
+        "Now that it's fully in, {PRIMARY} begins easing back onto the {BEASTLY} {COCK}.",
+        "{PRIMARY}'s knees are weak with strain, and she grabs the {ANIMAL}'s leg with both hands to steady herself.",
+        "{SWEARING}, it's tight! This {COCK} is so {HUGE}! {PRIMARY} is not sure... Ugh... How much more she can fit...",
+        "The {ACTIVE} pumps {GENTLE}ly, and a wave of {LOVE} crashes through {PRIMARY}. That felt good... Really good!",
+        "Ugh! {PRIMARY} wasn't ready for the {ACTIVE} to thrust... She grips the {ANIMAL}'s leg tightly.",
+        "Even though the thrusts are very shallow, the feeling is so intense.",
+        "{PRIMARY}'s heart is racing, pounding in her ears, and she breathes in sharply every time the {ANIMAL} pumps into her.",
+        "Slowly, an inch at a time, the inhumanly {HUGE} {COCK} {INSERT}s into {PRIMARY}'s {QUIVER}ing body...",
+        "Only the {COCKHEAD} has entered {PRIMARY}, with a lot more to go... She's so scared, but so {HORNY}. It feels so good!"
+    ]
+}

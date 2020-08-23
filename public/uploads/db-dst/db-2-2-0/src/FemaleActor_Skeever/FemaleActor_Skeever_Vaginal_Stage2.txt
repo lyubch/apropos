@@ -1,0 +1,48 @@
+{
+    "1st Person": [
+        "The {ACTIVE}'s rough fur against my bare skin has an immediate effect on my nipples.",
+        "I'm such a filthy {BITCH}, getting fucked by an animal like this.",
+        "Despite my fear, I stare at the {ACTIVE}'s {COCK}. I watch it pound in and out of me.",
+        "My eyes are locked to the {ACTIVE}'s {BEAST} red {COCK}, and I wonder how it tastes.",
+        "It's hot, hotter than I'd expect, and dripping with slimy, molten pre-cum that makes me tingle.",
+        "Incredible heat radiates from the {COCK} inside me, making my whole body break out in a cold sweat.",
+        "I feel the warmth and moisture of its {COCK}, aroused but still somewhat disgusted by its lewd shape.",
+        "The {ACTIVE}'s {BEAST} {COCK} lubricates my channel for what I hope is to be a long fucking.",
+        "The {ACTIVE} and I fuck together, both panting and eager to please the other.",
+        "I'm joined together with {ACTIVE}, and I feel a connection, as if with any other lover.",
+        "Ugh... this {COCK} must be at least a foot long...",
+        "I hope they all have {BEAST} {COCK}s to fuck me with...",
+        "My bare skin is coated in mud and dirt as I rut on the ground like an animal.",
+        "Oh my goodness, I can't believe this is happening. This is so wrong.",
+        "You boys sure know how to fill a girl up.",
+        "I could get used to this.",
+        "Coarse fur brushes against my bare skin, my toes curl, my {BOOBS} heave and my nipples are rock hard."
+    ],
+    "2nd Person": [
+        "The {ACTIVE}'s rough fur against your bare skin has an immediate effect on your nipples.",
+        "You're such a filthy {BITCH}, getting fucked by an animal like this.",
+        "Despite your fear, you stare at the {ACTIVE}'s {COCK}. You watch it pound in and out of you.",
+        "Your eyes are locked to the {ACTIVE}'s {BEAST} red {COCK}, and you wonder how it tastes.",
+        "It's hot, hotter than you'd expect, and dripping with slimy, molten pre-cum that makes you tingle.",
+        "Incredible heat radiates from the {COCK} inside you, making your whole body break out in a cold sweat.",
+        "You feel the warmth and moisture of its {COCK}, aroused but still somewhat disgusted by its lewd shape.",
+        "The {ACTIVE}'s {BEAST} {COCK} lubricates your channel for what you hope is to be a long fucking.",
+        "The {ACTIVE} and you fuck together, both panting and eager to please the other.",
+        "You're joined together with {ACTIVE}, and you feel a connection, as if with any other lover.",
+        "Ugh... this {COCK} must be at least a foot long...",
+        "You hope they all have {BEAST} {COCK}s to fuck you with...",
+        "Your bare skin is coated in mud and dirt as you rut on the ground like an animal.",
+        "Oh my goodness, you can't believe this is happening. This is so wrong!'",
+        "({PRIMARY}) You boys sure know how to fill a girl up.",
+        "You could get used to this.",
+        "Coarse fur brushes against your bare skin, your toes curl, your {BOOBS} heave and your nipples are rock hard."
+    ],
+    "3rd Person": [
+        "The {ACTIVE}'s rough fur against {PRIMARY}'s bare skin has an immediate effect on her nipples.",
+        "{PRIMARY}'s such a filthy {BITCH}, getting fucked by an animal like this.",
+        "Despite her fear, {PRIMARY} stares at the {ACTIVE}'s {COCK}. She watches it pound in and out of her.",
+        "{PRIMARY}'s eyes are locked to the {ACTIVE}'s {BEAST} red {COCK}. How must it taste?",
+        "Incredible heat radiates from the {COCK} inside {PRIMARY}, making her whole body break out in a cold sweat.",
+        "{PRIMARY} feels the warmth and moisture of its {COCK}, aroused but still somewhat disgusted."
+    ]
+}

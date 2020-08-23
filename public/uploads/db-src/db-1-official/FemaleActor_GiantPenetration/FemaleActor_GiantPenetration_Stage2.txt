@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "Oh dear Gods, I'm not sure if I can take this! A {PENIS} this size, fucking me so roughly...",
+        "The {ACTIVE} starts to fuck me even faster, punishing my {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE}'s {PENIS} is {BEAST}, I practically orgasm every time it pushes in and pulls out.",
+        "I moan as the {ACTIVE}'s {BEAST} {PENIS} fills me. It's as thick as my leg...",
+        "Uuuhh... it's really big...",
+        "Even though it's so painful, I'm so sexually pumped I don't want it to stop.",
+        "Stop! I've changed my mind! I can't... Ngggg! I can't do this! It's too big! Ahhh!",
+        "The {ACTIVE} continues to slam its immense girth into me until I'm on the cusp of climax.",
+        "I squeal, struggling to comprehend how the monster's {PENIS} is actually fitting inside me..."        
+    ],
+    "2nd Person" :
+    [
+        "Oh dear Gods, you're not sure if you can take this! A {PENIS} this size, fucking you so roughly...",
+        "The {ACTIVE} starts to fuck you even faster, punishing your {WTVAGINAL} {PUSSY}.",
+        "The {ACTIVE}'s {PENIS} is {BEAST}, you practically orgasm every time it pushes in and pulls out.",
+        "You moan as the {ACTIVE}'s {BEAST} {PENIS} fills you. It's as thick as your leg...",
+        "Uuuhh... it's really big...",
+        "Even though it's so painful, you're so sexually pumped you don't want it to stop.",
+        "({PRIMARY}) Stop! I've changed my mind! I can't... Ngggg! I can't do this! It's too big! Ahhh!",
+        "The {ACTIVE} continues to slam its immense girth into you until you're on the cusp of climax.",
+        "You squeal, struggling to comprehend how the monster's {PENIS} is actually fitting inside you..."
+    ],
+    "3rd Person" :
+    [
+        "The fucking is even faster now... Does {PRIMARY} really like that?",
+        "It's hard to believe that {PRIMARY} is getting off on that... Doesn't it hurt?",
+        "The look on {PRIMARY}'s face is hard to read... Is she hurt, or cumming?"
+    ]
+}

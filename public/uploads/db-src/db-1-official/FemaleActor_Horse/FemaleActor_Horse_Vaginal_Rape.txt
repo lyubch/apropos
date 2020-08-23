@@ -1,0 +1,41 @@
+{
+    "1st Person": [
+        "I scream in pain as I accept the {ACTIVE}'s first thrust. The first of many.",
+        "My organs feel like they're being rearranged as I am truly impaled by this {BEAST} {COCK}.",
+        "With a glance back, I estimate it must be at least two feet long! Surely it can't, it won't fit...",
+        "I gulp and put my head down, clenching my teeth for the inevitable.",
+        "Slowly, an inch at a time, the inhumanly large phallus pushes into my trembling body...",
+        "Looks like somebody wants to go for a horse ride...",
+        "I cry out in pain as {ACTIVE} inserts its {COCK} inside my {FAROUSAL} {PUSSY}.",
+        "I scream as the wide tip of the horsecock roughly pushes inside my poor {WTVAGINAL} {PUSSY}!",
+        "Ugh... ngh... AH! It's in...",
+        "My {WTVAGINAL} {PUSSY} is dripping wet and steaming, and the {BEAST} {COCK} slides wetly into me.",
+        "I cry out in pain as {ACTIVE} inserts its {COCK} inside my {FAROUSAL} {PUSSY}.",
+        "The beast is enraged, and knocks me to the ground. Before I can recover, it lines itself up with my {PUSSY}."
+    ],
+    "2nd Person": [
+        "You scream in pain as you accept the {ACTIVE}'s first thrust. The first of many.",
+        "Your organs feel like they're being rearranged as you are truly impaled by this {BEAST} {COCK}.",
+        "With a glance back, you estimate it must be at least two feet long! Surely it can't, it won't fit...",
+        "You gulp and put your head down, clenching your teeth for the inevitable.",
+        "Slowly, an inch at a time, the inhumanly large phallus pushes into your trembling body...",
+        "Looks like somebody wants to go for a horse ride...",
+        "You cry out in pain as {ACTIVE} inserts its {COCK} inside your {FAROUSAL} {PUSSY}.",
+        "You scream as the wide tip of the horsecock roughly pushes inside your poor {WTVAGINAL} {PUSSY}!",
+        "Ugh... ngh... AH! It's in...",
+        "Your {WTVAGINAL} {PUSSY} is dripping wet and steaming, and the {BEAST} {COCK} slides wetly into you.",
+        "You cry out in pain as {ACTIVE} inserts its {COCK} inside your {FAROUSAL} {PUSSY}.",
+        "The beast is enraged, and knocks you to the ground. Before you can recover, it lines itself up."
+    ],
+    "3rd Person": [
+        "{PRIMARY} screams in pain as she accepts the {ACTIVE}'s first thrust. The first of many.",
+        "{PRIMARY} gulps and puts her head down, clenching her teeth for the inevitable.",
+        "Slowly, an inch at a time, the inhumanly large phallus pushes into her trembling body...",
+        "{PRIMARY} cries out in pain as {ACTIVE} inserts its {COCK} inside her {FAROUSAL} {PUSSY}.",
+        "{PRIMARY} screams as the wide tip of the horsecock roughly pushes inside her poor {WTVAGINAL} {PUSSY}!",
+        "({PRIMARY}) Ugh... ngh... AH! It's in...",
+        "{PRIMARY}'s {WTVAGINAL} {PUSSY} is dripping wet and steaming, and the {BEAST} {COCK} slides wetly into her.",
+        "{PRIMARY} cries out in pain as {ACTIVE} inserts its {COCK} inside her {FAROUSAL} {PUSSY}.",
+        "Enraged, the beast knocks {PRIMARY} to the ground. Lining itself up with her {PUSSY}."
+    ]
+}

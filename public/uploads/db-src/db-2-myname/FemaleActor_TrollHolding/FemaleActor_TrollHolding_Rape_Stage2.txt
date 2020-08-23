@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "Still too terrified to move or fight back, I hang in the monster's grasp as it rapes me.",
+        "I try to push it to the back of my mind, but part of this feels good... Being used as nothing more than a cum rag...",
+        "I grunt with passion each time the beast thrusts itself inside me.",
+        "The creature starts to roughly fuck me, like a wild animal taking a mate.",
+        "I felt the touch of the creature's ball sack, its {COCK} right up inside me."        
+    ],
+    "2nd Person" :
+    [
+        "Still too terrified to move or fight back, you hang in the monster's grasp as it rapes you.",
+        "You try to push it to the back of your mind, but part of this feels good... Being used as nothing more than a cum rag...",
+        "You grunt with passion each time the beast thrusts itself inside you.",
+        "The creature starts to roughly fuck you, like a wild animal taking a mate.",
+        "You felt the touch of the creature's ball sack, its {COCK} right up inside you."  
+    ],
+    "3rd Person" :
+    [
+        "Still too terrified to move or fight back, {PRIMARY} hangs in the monster's grasp as it rapes her.",
+        "{PRIMARY} grunts with passion each time the beast thrusts itself inside her.",
+        "The creature starts to roughly fuck {PRIMARY}, like a wild animal taking a mate."        
+    ]
+}

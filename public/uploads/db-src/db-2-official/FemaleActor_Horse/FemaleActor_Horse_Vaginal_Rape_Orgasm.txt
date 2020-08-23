@@ -1,0 +1,51 @@
+{
+    "1st Person": [
+        "My head whips back as the {ACTIVE} explodes deep inside me.",
+        "My belly swells, I feel huge cascades of {THICK} {CUM} run down by thighs.",
+        "The feeling of so much {CUM} battering my womb drives me over the edge.",
+        "It cums directly into me, my belly swells and I can't breathe.",
+        "I gasp as it exits with a sucking noise, and a torrent of {CUM} empties out of me.",
+        "The {ACTIVE} continues to pound me as it cums, lubricating its {COCK}'s passage through my cervix.",
+        "The horse fucks me until it cums, but it doesn't stop thrusting. I buck and shake with my own orgasm.",
+        "Horse {CUM} streams down my legs as I am fucked murderously by this huge animal.",
+        "Thick {CUM} pools beneath me, and my bare feet are awash with it, pooling between my toes.",
+        "Noooo... too much {CUM}...  it won't stop pouring into me...",
+        "Huge quantities of horse-{CUM} are pumped into my poor {PUSSY}.",
+        "The horse is fucking its {BEAST} shaft into me, and I climax shamefully.",
+        "The cock-head is all the way in, squirting {THICK} {CUM} directly into my womb.",
+        "Horse {CUM} streams down my legs as I am fucked, hard and deep, by an animal.",
+        "My knees are trembling, and {THICK} globs of {CUM} drip from my {PUSSY}.",
+        "I'm cumming with the horse! How shameful!"
+    ],
+    "2nd Person": [
+        "Your head whips back as the {ACTIVE} explodes deep inside you.",
+        "Your belly swells, you feel huge cascades of {THICK} {CUM} run down by thighs.",
+        "The feeling of so much {CUM} battering your womb drives you over the edge.",
+        "It cums directly into you, your belly swells and you can't breathe.",
+        "You gasp as it exits with a sucking noise, and a torrent of {CUM} empties out of you.",
+        "The {ACTIVE} continues to pound you as it cums, lubricating its {COCK}'s passage through your cervix.",
+        "The horse fucks you until it cums, but it doesn't stop thrusting. You buck and shake with your own orgasm.",
+        "Horse {CUM} streams down your legs as you are fucked murderously by this huge animal.",
+        "Thick {CUM} pools beneath you, and your bare feet are awash with it, pooling between your toes.",
+        "Noooo... too much {CUM}...  it won't stop pouring into you...",
+        "Huge quantities of horse-{CUM} are pumped into your poor {PUSSY}.",
+        "The horse is fucking its {BEAST} shaft into you, and you climax shamefully.",
+        "The cock-head is all the way in, squirting {THICK} {CUM} directly into your womb.",
+        "Horse {CUM} streams down your legs as you are fucked, hard and deep, by an animal.",
+        "Your knees are trembling, and {THICK} globs of {CUM} drip from your {PUSSY}.",
+        "You're cumming with the horse! How shameful!"
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s head whips back as the {ACTIVE} explodes deep inside her.",
+        "{PRIMARY} gasps as it exits with a sucking noise, and a torrent of {CUM} empties out of her.",
+        "The {ACTIVE} continues to pound {PRIMARY} as it cums, lubricating its {COCK}'s passage through her body.",
+        "The horse fucks {PRIMARY} until it cums, but it doesn't stop thrusting. She shakes with her own orgasm.",
+        "Horse {CUM} streams down her legs as {PRIMARY} is fucked murderously by this huge animal.",
+        "Thick {CUM} pools beneath {PRIMARY}, and her bare feet are awash with it, pooling between her toes.",
+        "Huge quantities of horse-{CUM} are pumped into {PRIMARY}'s poor {PUSSY}.",
+        "The horse is fucking its {BEAST} shaft into her, and {PRIMARY} climaxes shamefully.",
+        "Horse {CUM} streams down her legs as {PRIMARY} is fucked, hard and deep, by an animal.",
+        "{PRIMARY}'s knees are trembling, and {THICK} globs of {CUM} drip from her {PUSSY}.",
+        "{PRIMARY}'s cumming with the horse! How shameful!"
+    ]
+}

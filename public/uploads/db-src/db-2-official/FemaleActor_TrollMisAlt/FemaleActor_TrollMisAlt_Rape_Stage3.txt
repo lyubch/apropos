@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "My legs are spread as far as they'll go now, the brute not caring for my comfort as it has its way with me.",
+        "I struggle to hold my ass up as the {ACTIVE} yanks my legs higher, thrusting his {COCK} even harder into me.",
+        "Ugh! Ah! Oh Gods, I can't take any more! Its {COCK} is too big, battering against my cervix now.",
+        "My hips scream in pain, pushed to their limits as my {WTVAGINAL} {PUSSY} is pounded and stretched.",
+        "Ahh! Oh Gods... This thing's {COCK}... It hurts... it's too big... But it feels... good...",
+        "I felt the touch of the creature's ball sack, its {COCK} right up inside me.",
+        "My {PUSSY} is wet and my body is on fire, turned on beyond reason by being dominated by such a huge beast."        
+    ],
+    "2nd Person" :
+    [
+        "Your legs are spread as far as they'll go now, the brute not caring for your comfort as it has its way with you.",
+        "You struggle to hold your ass up as the {ACTIVE} yanks your legs higher, thrusting his {COCK} even harder into you.",
+        "Ugh! Ah! Oh Gods, you can't take any more! Its {COCK} is too big, battering against your cervix now.",
+        "Your hips scream in pain, pushed to their limits as your {WTVAGINAL} {PUSSY} is pounded and stretched.",
+        "Ahh! Oh Gods... This thing's {COCK}... It hurts... it's too big... But it feels... good...",
+        "You felt the touch of the creature's ball sack, its {COCK} right up inside you.",
+        "Your {PUSSY} is wet and your body is on fire, turned on beyond reason by being dominated by such a huge beast." 
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} struggles to hold her ass up as the {ACTIVE} yanks her legs higher, thrusting his {COCK} even harder",
+        "The beast rams its colossal {COCK} so far between {PRIMARY}'s spread legs that it must be in her womb by now!",
+        "Despite taking the full length of a {COCK} that should be tearing her apart, {PRIMARY} is clearly moaning with pleasure!"
+    ]
+}

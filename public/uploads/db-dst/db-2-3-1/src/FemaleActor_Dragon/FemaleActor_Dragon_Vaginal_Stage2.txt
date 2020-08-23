@@ -1,0 +1,45 @@
+{
+    "1st Person": [
+        "My {FLESH} is tilted upwards, sliding down more heavily onto the {MONSTER}'s {COCK}.",
+        "{SWEARING}, he's {HUGE}...! Ugh! Ugh! AAAH!!",
+        "This is certainly one way to tame a dragon...",
+        "My teeth clench painfully, but I'm determined to take this. I won't be beaten by this {ACTIVE}...",
+        "I grit my teeth and strain as more of the {MONSTER} enters me.",
+        "Perhaps this is the true fate of the Dragonborn, to have a dragon {BREED} her...",
+        "A cold sweat flashes over me as I question my actions. Can I really survive this?",
+        "My Voice is powerful, but there's another shout you can pull from my {MOUTH}...",
+        "({ACTIVE}) Let me see your Voice, Dovahkiin! Shout as I {FUCK} you! Shout as you cum!",
+        "My {BOOBS} and clit rub fiercely against the {MONSTER}'s scales. There's a lot of {PAIN}, and a little pleasure.",
+        "I shouldn't be surprised at this, wanting to {FUCK} a dragon... This must be my heritage...",
+        "The {ACTIVE} doesn't go easy on my {SMALL} human body, and {FUCK}s me {ROUGH}ly.",
+        "Each colossal thrust pounds into my cervix and rocking my {FLESH} forwards painfully."
+    ],
+    "2nd Person": [
+        "Your {FLESH} is tilted upwards, sliding down more heavily onto the {MONSTER}'s {COCK}.",
+        "{SWEARING}, he's {HUGE}...! Ugh! Ugh! AAAH!!",
+        "This is certainly one way to tame a dragon...",
+        "Your teeth clench painfully, but you're determined to take this. You won't be beaten by this {ACTIVE}...",
+        "You grit your teeth and strain as more of the {MONSTER} enters you.",
+        "Perhaps this is the true fate of the Dragonborn, to have a dragon {BREED} her...",
+        "A cold sweat flashes over you as you question your actions. Can you really survive this?",
+        "({PRIMARY}) My Voice is powerful, but there's another shout you can pull from my {MOUTH}...",
+        "({ACTIVE}) Let me see your Voice, Dovahkiin! Shout as I {FUCK} you! Shout as you cum!",
+        "Your {BOOBS} and clit rub fiercely against the {MONSTER}'s scales. There's a lot of {PAIN}, and a little pleasure.",
+        "You shouldn't be surprised at this, wanting to {FUCK} a dragon... This must be your heritage...",
+        "The {ACTIVE} doesn't go easy on your {SMALL} human body, and {FUCK}s you {ROUGH}ly.",
+        "Each colossal thrust pounds into your cervix and rocking your {FLESH} forwards painfully."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s body is tilted upwards, sliding down more heavily onto the {MONSTER}'s {COCK}.",
+        "{SWEARING}, he's {HUGE}...! Ugh! Ugh! AAAH!!",
+        "That's is certainly one way to tame a dragon...",
+        "{PRIMARY}'s teeth clench painfully, but she's determined to take this. She won't be beaten by this {ACTIVE}.",
+        "{PRIMARY} grits her teeth and strains as more of the {MONSTER} enters her.",
+        "Perhaps this is the true fate of human women, to have dragons {BREED} them...",
+        "A looks of panic appears as {PRIMARY} questions her actions. Can she really survive this?",
+        "Her {BOOBS} and clit rub fiercely against the {MONSTER}'s scales.",
+        "{PRIMARY} shouldn't be surprised at this, wanting to {FUCK} a dragon... Is this how Dragonborn are made?",
+        "The {ACTIVE} doesn't go easy on {PRIMARY}'s {SMALL} human body, and {FUCK}s her {ROUGH}ly.",
+        "Each colossal thrust pounds into {PRIMARY}'s cervix, rocking her {FLESH} forwards painfully."
+    ]
+}

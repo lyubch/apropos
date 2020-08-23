@@ -1,0 +1,39 @@
+{
+    "1st Person": [
+        "With a lustful sigh, I lie back, spread my legs, and willingly let the demon fuck me.",
+        "Spread your legs for me {PRIMARY}, the {ACTIVE} commands. I can't help but obey, smiling as I do.",
+        "The {ACTIVE} and I groan in delight as the creature's {COCK} disappears into me.",
+        "I walks naked towards the vampire, {BOOBS} bouncing freely, ready to give myself.",
+        "I succumb to desire and starts to pull my clothes off, exposing myself to the beast.",
+        "({ACTIVE}) Do you want beasts to mate with you? Or would you rather be taken by us?",
+        "The {ACTIVE}'s hips rock forward, its {COCK} sinking into my {PUSSY}, stretching me.",
+        "My mind is clouded, I can't think straight, and I nod weakly as the demon offers me his {COCK}.",
+        "The demon flicks a bit of pre-cum off his {COCK} and onto my groin. I gasp as it sizzles on my skin.",
+        "The {ACTIVE} grabs my hips and drags his shaft down my {PUSSY}, my clit thundering at the contact.",
+        "Spread your legs for me {PRIMARY}, the {ACTIVE} commands. I can't help but obey.",
+        "My {PUSSY} throbs and juices run down my legs. I can only imagine what it's like to take its {COCK}..."
+    ],
+    "2nd Person": [
+        "With a lustful sigh, you lie back, spread your legs, and willingly let the demon fuck you.",
+        "Spread your legs for you {PRIMARY}, the {ACTIVE} commands. You can't help but obey, smiling as you do.",
+        "The {ACTIVE} and you groan in delight as the creature's {COCK} disappears into you.",
+        "You walks naked towards the vampire, {BOOBS} bouncing freely, ready to give yourself.",
+        "You succumb to desire and starts to pull your clothes off, exposing yourself to the beast.",
+        "({ACTIVE}) Do you want beasts to mate with you? Or would you rather be taken by us?",
+        "The {ACTIVE}'s hips rock forward, its {COCK} sinking into your {PUSSY}, stretching you.",
+        "Your mind is clouded, you can't think straight, and you nod weakly as the demon offers you his {COCK}.",
+        "The demon flicks a bit of pre-cum off his {COCK} and onto your groin. You gasp as it sizzles on your skin.",
+        "The {ACTIVE} grabs your hips and drags his shaft down your {PUSSY}, your clit thundering at the contact.",
+        "Spread your legs for you {PRIMARY}, the {ACTIVE} commands. You can't help but obey.",
+        "Your {PUSSY} throbs and juices run down your legs. You can only imagine what it's like to take its {COCK}..."
+    ],
+    "3rd Person": [
+        "With a lustful sigh, {PRIMARY} lies back, spreads her legs, and willingly let the demon fuck her.",
+        "Spread your legs for me {PRIMARY}, the {ACTIVE} commands. She can't help but obey, smiling as she does.",
+        "The {ACTIVE} and {PRIMARY} groan in delight as the creature's {COCK} disappears into her.",
+        "{PRIMARY} walks naked towards the vampire, {BOOBS} bouncing freely, ready to give herself.",
+        "{PRIMARY} succumbs to desire and starts to pull her clothes off, exposing herself to the beast.",
+        "({ACTIVE}) Do you want beasts to mate with you? Or would you rather be taken by us?",
+        "The {ACTIVE}'s hips rock forward, its {COCK} sinking into {PRIMARY}'s {PUSSY}, stretching her."
+    ]
+}

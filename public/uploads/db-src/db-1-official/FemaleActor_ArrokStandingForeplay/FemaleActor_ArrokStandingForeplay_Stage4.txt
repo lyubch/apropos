@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "I'm yours... You can have me any way you like... for as long as you like...",
+        "Oh Gods, please, I need you to take me! I'll let you do it in any {OPENING} you want, just please do it!",
+        "The feeling of {ACTIVE}'s mouth on my {BOOBS} is driving me wild, I want him to make love to me!",
+        "The knowledge that my {WTVAGINAL} {PUSSY} and {ASS} are on display is pushing me to the edge...",
+        "I hope this is all he wants... Oh Gods, what if he wants to fuck me?",
+        "My heart is racing. I'm hot and scared, nervous at what might happen next.",
+        "Mmmm... Oh Gods... Could you... fuck me? Please...? You can do it in any {OPENING}...",
+        "Where do you want to cum? In my {MOUTH} or across my {BOOBS}? Or maybe... right up my {PUSSY}?"
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) I'm yours... You can have me any way you like... for as long as you like...",
+        "({PRIMARY}) Please, I need you to take me! I'll let you do it in any {OPENING} you want, just please do it!",
+        "The feeling of {ACTIVE}'s mouth on your {BOOBS} is driving you wild, you want him to make love to you!",
+        "The knowledge that your {WTVAGINAL} {PUSSY} and {ASS} are on display is pushing you to the edge...",
+        "You hope this is all he wants... Oh Gods, what if he wants to fuck you?",
+        "Your heart is racing. You're hot and scared, nervous at what might happen next.",
+        "({PRIMARY}) Mmmm... Oh Gods... Could you... fuck me? Please...? You can do it in any {OPENING}...",
+        "({PRIMARY}) Where do you want to cum? In my {MOUTH} or across my {BOOBS}? Or maybe... right up my {PUSSY}?"
+    ],
+    "3rd Person" :
+    [
+        "It's clear from {PRIMARY}'s exposed {PUSSY} that she's really turned on. {ACTIVE} should fuck her.",
+        "{ACTIVE}'s {PENIS} twitches as he slurps on {PRIMARY}'s {HEAVING} {BOOBS}."
+    ]
+}

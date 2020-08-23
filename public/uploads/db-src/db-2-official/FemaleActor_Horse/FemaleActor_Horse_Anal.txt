@@ -1,0 +1,25 @@
+{
+    "1st Person": [
+        "I bend over and raise my {ASS} towards the {ACTIVE}'s {COCK}, pressing the flared head slowly in.",
+        "My knees are trembling as I back up to the beast's {COCK}, slowly squeezing it between my cheeks.",
+        "I steady myself on the {ACTIVE}'s leg, reaching between my own to touch myself.",
+        "Head down in concentration, I relax my {ASS} as the {COCK}'s huge crown forces me open.",
+        "I need to take this slow, and be gentle, or I could really get hurt...",
+        "Legs spread and toes digging into the ground for leverage, I start to push myself back onto the {COCK}.",
+        "I can't believe I'm going to try this, and my whole body is shaking."
+    ],
+    "2nd Person": [
+        "You bend over and raise your {ASS} towards the {ACTIVE}'s {COCK}, pressing the flared head slowly in.",
+        "Your knees are trembling as you back up to the beast's {COCK}, slowly squeezing it between your cheeks.",
+        "You steady yourself on the {ACTIVE}'s leg, reaching between your own to touch yourself.",
+        "Head down in concentration, you relax your {ASS} as the {COCK}'s huge crown forces you open.",
+        "You need to take this slow, and be gentle, or you could really get hurt...",
+        "Legs spread and toes digging into the ground for leverage, you start to push yourself back onto the {COCK}.",
+        "You can't believe you're going to try this, and your whole body is shaking."
+    ],
+    "3rd Person": [
+        "{PRIMARY} bends over underneath the {ACTIVE}, guiding that {BEAST} {COCK} into her {ASS}.",
+        "{PRIMARY} reaches between her legs and guides the {ACTIVE} to her {ASS}. It's never going to fit...",
+        "Is {PRIMARY} really doing this? She's going to take a {ACTIVE} in her {ASS}?!"
+    ]
+}

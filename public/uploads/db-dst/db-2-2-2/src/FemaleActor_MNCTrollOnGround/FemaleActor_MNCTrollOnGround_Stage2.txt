@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Every firm thrust pushes me forward, my hard nipples dragging along the dirt, making me moan.",
+        "I manage to free one leg from underneath the brute, allowing him to push his entire {PENIS} inside me.",
+        "The beast drives into me while pulling me to him, its huge muscled body engulfing my small frame.",
+        "I can only writhe around the {BEAST} troll {COCK} stretching out my {FAROUSAL} {PUSSY}.",
+        "More! I can take more! Give me it all, I want it all!",
+        "Yes... In all the way... I can take it... I want it..."
+    ],
+    "2nd Person": [
+        "Every firm thrust pushes you forward, your hard nipples dragging along the dirt, making you moan.",
+        "You manage to free one leg from underneath the brute, allowing him to push his entire {PENIS} inside you.",
+        "The beast drives into you while pulling you to him, its huge muscled body engulfing your small frame.",
+        "You can only writhe around the {BEAST} troll {COCK} stretching out your {FAROUSAL} {PUSSY}.",
+        "({PRIMARY}) More! I can take more! Give me it all, I want it all!",
+        "({PRIMARY}) Yes... In all the way... I can take it... I want it..."
+    ],
+    "3rd Person": [
+        "Every firm thrust pushes {PRIMARY} forward, her hard nipples dragging along the dirt, making her moan.",
+        "{PRIMARY} manages to free one leg from underneath the brute, allowing him to push his entire {PENIS} inside her.",
+        "The beast drives into {PRIMARY} while pulling her to him, its huge muscled body engulfing her small frame.",
+        "{PRIMARY} can only writhe around the {BEAST} troll {COCK} stretching out her {FAROUSAL} {PUSSY}.",
+        "({PRIMARY}) More! I can take more! Give me it all, I want it all!",
+        "({PRIMARY}) Yes... In all the way... I can take it... I want it..."
+    ]
+}

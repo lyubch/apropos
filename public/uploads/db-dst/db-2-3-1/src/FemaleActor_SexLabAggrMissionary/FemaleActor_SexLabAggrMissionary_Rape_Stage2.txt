@@ -1,0 +1,30 @@
+{
+    "1st Person": [
+        "I try to push his head away, to claw at his face, but he pins my arm down, and never stops {FUCK}ing me.",
+        "The {ACTIVE} stops choking me as I try to scratch his eyes, and I {MOAN} for breath.",
+        "The {ACTIVE} hikes up my leg, and I {SCREAM} in {PAIN} as his {COCK} pushes deeper into my {PUSSY}.",
+        "Get off me you {JERK}!",
+        "({ACTIVE}) Stop struggling, {BITCH}, or we'll stake you out {NUDE} and spread eagle.",
+        "Frantically I lash out. He spits in my face, in my {MOUTH}, and {PENETRAT}es his {COCK} in even harder.",
+        "I try to break free but {ACTIVE} is too strong. I can't do anything, I'm helpless.",
+        "Tears stream down my face with every inch that is forced into me.",
+        "{PLEADING}, no, you can't... please... don't do this... (sob)"
+    ],
+    "2nd Person": [
+        "You try to push his head away, to claw at his face, but he pins your arm down, and never stops {FUCK}ing you.",
+        "The {ACTIVE} stops choking you as you try to scratch his eyes, and you gasp for breath.",
+        "The {ACTIVE} hikes up your leg, and you {SCREAM} in {PAIN} as his {COCK} pushes deeper into your {PUSSY}.",
+        "({PRIMARY}) Get off me you {JERK}!",
+        "({ACTIVE}) Stop struggling, {BITCH}, or we'll stake you out {NUDE} and spread eagle.",
+        "Frantically you lash out. He spits in your face, in your {MOUTH}, and {PENETRAT}es his {COCK} in even harder.",
+        "You try to break free but {ACTIVE} is too strong. You can't do anything, you're helpless.",
+        "Tears stream down your face with every inch that is forced into you.",
+        "({PRIMARY}) {PLEADING}, no, you can't... please... don't do this... (sob)"
+    ],
+    "3rd Person": [
+        "{PRIMARY} lashes out at the {ACTIVE}'s face, and they struggle, his {COCK} still {FUCK}ing into her.",
+        "Her legs parted {ROUGH}ly, the fight is clearly being knocked out of {PRIMARY} with every thrust.",
+        "({PRIMARY}) Please, someone! Anyone! Help!",
+        "({ACTIVE}) You won't be struggling so hard when we dump you in a troll's cave!"
+    ]
+}

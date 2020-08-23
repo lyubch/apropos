@@ -1,0 +1,47 @@
+{
+    "1st Person": [
+        "I can't move, I'm pinned down on my hands and knees under the beast's weight.",
+        "The {ACTIVE}'s hands grab tight to my ass as he controls me, slowly sliding me back and forth on his {COCK}.",
+        "Fuck me slow and hard, baby. I want you to fuck me deep, please! I was begging him.",
+        "Fuck my {ASS}! I want your {CUM} inside all my holes!",
+        "I'm possessed by the sensations brought on by being taken so fully...",
+        "I quiver with excitement as he plants his pelvis fully against my full buttocks.",
+        "He gives one more pump, just to make sure I have every inch of his {COCK} firmly seated in me.",
+        "The {COCK} firmly embedded between my cheeks pushes deeper.",
+        "I feel myself clench around the {COCK} embedded inside my hips.",
+        "I tense as he enters me and gasp as he withdraws, only to let out a moan as he thrusts into me again.",
+        "The {ACTIVE} starts to hump me at a frantic pace.",
+        "I scream in pain as his {BEAST} {COCK} stretches my {WTANAL} {ASS}.",
+        "Ugh... Ahh! I wonder...Nghh! how long this... this thing can last...",
+        "Ah... ah... come on... show this little human {BITCH}... what an animal you are! Fuck me! Fuck my {ASS}!",
+        "The beast savagely fucks his angry red {COCK} into my {WTANAL} {ASS}.",
+        "The beast's {BEAST} knot slaps wetly at the entrance to my {WTANAL} {ASS}."
+    ],
+    "2nd Person": [
+        "You can't move, you're pinned down on your hands and knees under the beast's weight.",
+        "The {ACTIVE}'s hands grab tight to your ass as he controls you, sliding you back and forth on his {COCK}.",
+        "Fuck you slow and hard, baby. You want you to fuck you deep, please! you were begging him.",
+        "({PRIMARY}) Fuck my {ASS}! I want your {CUM} inside all my holes!",
+        "You're possessed by the sensations brought on by being taken so fully...",
+        "You quiver with excitement as he plants his pelvis fully against your full buttocks.",
+        "He gives one more pump, just to make sure you have every inch of his {COCK} firmly seated in you.",
+        "The {COCK} firmly embedded between your cheeks pushes deeper.",
+        "You feel yourself clench around the {COCK} embedded inside your hips.",
+        "You tense as he enters you and gasp as he withdraws, only to let out a moan as he thrusts into you again.",
+        "The {ACTIVE} starts to hump you at a frantic pace.",
+        "You scream in pain as his {BEAST} {COCK} stretches your {WTANAL} {ASS}.",
+        "Ugh... Ahh! you wonder...Nghh! how long this... this thing can last...",
+        "({PRIMARY}) Come on... show this little human {BITCH}... what an animal you are! Fuck me! Fuck my {ASS}!",
+        "The beast savagely fucks his angry red {COCK} into your {WTANAL} {ASS}.",
+        "The beast's {BEAST} knot slaps wetly at the entrance to your {WTANAL} {ASS}."
+    ],
+    "3rd Person": [
+        "{PRIMARY} can't move, she's pinned down on her hands and knees under the beast's weight.",
+        "The {ACTIVE}'s hands grab tight to {PRIMARY}'s ass, slowly sliding her back and forth on his {COCK}.",
+        "({PRIMARY}) Fuck me slow and hard, baby. I want you to fuck me deep, please!",
+        "({PRIMARY}) Fuck my {ASS}! I want your {CUM} inside all her holes!",
+        "{PRIMARY} quivers with excitement as he plants his pelvis fully against her full buttocks.",
+        "He gives one more pump, just to make sure {PRIMARY} has every inch of his {COCK} firmly seated in her.",
+        "The {COCK} firmly embedded between {PRIMARY}'s cheeks pushes deeper."
+    ]
+}

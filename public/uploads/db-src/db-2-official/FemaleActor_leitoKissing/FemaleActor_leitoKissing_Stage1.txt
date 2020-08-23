@@ -1,0 +1,29 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} pulls me roughly into his arms. I'm startled at first, but I let him kiss me deeply.",
+        "As we kiss, I feel {ACTIVE}'s {PENIS} press insistently at my {FAROUSAL} {PUSSY}, and I shiver.",
+        "{ACTIVE}'s hands gently stoke my hips and sides, subtly guiding me towards his {PENIS}.",
+        "I lose myself in {ACTIVE}'s passionate kiss, feeling my whole body become flushed and sensitive.",
+        "{ACTIVE} is a good kisser, and he has big strong arms... Should I... let him...",
+        "The feel of my {HEAVING} {BOOBS} and hard nipples pressed into {ACTIVE}'s muscled chest is so thrilling...",
+        "{ACTIVE}'s {PENIS} pokes at my {PUSSY}, and I fight the urge to reach down straight away and guide it inside me."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} pulls you roughly into his arms. You're startled at first, but you let him kiss you deeply.",
+        "As you kiss, you feel {ACTIVE}'s {PENIS} press insistently at your {FAROUSAL} {PUSSY}, and you shiver.",
+        "{ACTIVE}'s hands gently stoke your hips and sides, subtly guiding you towards his {PENIS}.",
+        "You lose yourself in {ACTIVE}'s passionate kiss, feeling your whole body become flushed and sensitive.",
+        "{ACTIVE} is a good kisser, and he has big strong arms... Should you... let him...",
+        "The feel of your {HEAVING} {BOOBS} and hard nipples pressed into {ACTIVE}'s muscled chest is so thrilling...",
+        "{ACTIVE}'s {PENIS} pokes at your {PUSSY}, and you fight the urge to reach down and guide it inside you."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} looks a little shocked as {ACTIVE} pulls her into his arms, but she leans in for a passionate kiss.",
+        "{PRIMARY} is touching and stroking {ACTIVE}'s big arms. She must like big strong guys...",
+        "Wow, that's such an intense kiss... It's kind of a turn on to see...",
+        "As they kiss, {ACTIVE}'s {HUGE} {PENIS} pokes between {PRIMARY}'s legs. Is it going to go inside?"
+    ]
+}

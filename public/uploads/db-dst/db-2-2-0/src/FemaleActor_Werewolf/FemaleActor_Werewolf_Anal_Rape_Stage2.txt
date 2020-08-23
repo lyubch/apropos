@@ -1,0 +1,39 @@
+{
+    "1st Person": [
+        "I can't move, I'm pinned down on my hands and knees under the beast's weight.",
+        "The {COCK} firmly embedded between my cheeks pushes deeper.",
+        "I feel myself clench around the {COCK} embedded inside my hips.",
+        "I tense as he enters me and gasp as he withdraws, only to let out a moan as he thrusts into me again.",
+        "The {ACTIVE} starts to hump me at a frantic pace.",
+        "I scream in pain as his {BEAST} {COCK} stretches my {WTANAL} {ASS}.",
+        "Ugh... Ahh! I wonder...Nghh! how long this... this thing can last...",
+        "I quiver with fear as he plants his pelvis fully against my full buttocks.",
+        "He gives one more pump, as if to make sure I have every inch of his {COCK} firmly seated in me.",
+        "The beast savagely fucks his angry red {COCK} into my {WTANAL} {ASS}.",
+        "The beast's huge knot slaps wetly at the entrance to my {WTANAL} {ASS}.",
+        "The knot pushes at my {ASS}. I clench my thighs, struggling to deny it access."
+    ],
+    "2nd Person": [
+        "You can't move, you're pinned down on your hands and knees under the beast's weight.",
+        "The {COCK} firmly embedded between your cheeks pushes deeper.",
+        "You feel yourself clench around the {COCK} embedded inside your hips.",
+        "You tense as he enters you and gasp as he withdraws, only to let out a moan as he thrusts into you again.",
+        "The {ACTIVE} starts to hump you at a frantic pace.",
+        "You scream in pain as his {BEAST} {COCK} stretches your {WTANAL} {ASS}.",
+        "Ugh... Ahh! You wonder...Nghh! how long this... this thing can last...",
+        "You quiver with fear as he plants his pelvis fully against your full buttocks.",
+        "He gives one more pump, as if to make sure you have every inch of his {COCK} firmly seated in you.",
+        "The beast savagely fucks his angry red {COCK} into your {WTANAL} {ASS}.",
+        "The beast's huge knot slaps wetly at the entrance to your {WTANAL} {ASS}.",
+        "The knot pushes at your {ASS}. You clench your thighs, struggling to deny it access."
+    ],
+    "3rd Person": [
+        "{PRIMARY} can't move, she's pinned down on her hands and knees under the beast's weight.",
+        "The {COCK} firmly embedded between {PRIMARY}'s cheeks pushes deeper.",
+        "{PRIMARY} clenches around the {COCK} embedded inside her hips.",
+        "{PRIMARY} tenses as he enters her and gasp as he withdraws, moaning as he thrusts into her again.",
+        "The {ACTIVE} starts to hump {PRIMARY} at a frantic pace.",
+        "{PRIMARY} screams in pain as his {BEAST} {COCK} stretches her {WTANAL} {ASS}.",
+        "How long can this... this thing last?"
+    ]
+}

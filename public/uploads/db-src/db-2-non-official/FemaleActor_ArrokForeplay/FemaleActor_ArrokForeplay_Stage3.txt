@@ -1,0 +1,24 @@
+{
+    "1st Person" :
+    [
+        "I climb on top of {ACTIVE}, and we kiss. I feel his {COCK}, hard and insistent at my {PUSSY}.",
+        "I hook my leg underneath {ACTIVE}'s, spreading my legs wide, {PUSSY} {NUDE} and {FAROUSAL}.",
+        "Mmmmm... I hope his eagerness doesn't spoil this moment, his {COCK} {GENTLE}ly touching my inner folds...",
+        "Our tongues mix and my nipples are rock hard, knowing his {COCK} could slip inside at any moment...",
+        "I stare {LEWD}ly into {ACTIVE]'s eyes, before our tongues meet and my nipples press into his chest."
+    ],
+    "2nd Person" :
+    [
+        "You climb on top of {ACTIVE}, and you kiss. You feel his {COCK}, hard and insistent at your {PUSSY}.",
+        "You hook your leg underneath {ACTIVE}'s, spreading your legs wide, {PUSSY} {NUDE} and {FAROUSAL}.",
+        "Mmmmm... you hope his eagerness doesn't spoil this moment, his {COCK} {GENTLE}ly touching your inner folds...",
+        "Your tongues mix and your nipples are rock hard, knowing his {COCK} could slip inside at any moment...",
+        "You stare {LEWD}ly into {ACTIVE]'s eyes, before your tongues meet and your nipples press into his chest."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} climbs on top of {ACTIVE}, his {HUGE} {COCK} right at her {PUSSY}. This is it...",
+        "{PRIMARY} and {ACTIVE} kiss with {LOVE}, {PRIMARY} pushing her hips down into {ACTIVE}'s {COCK}.",
+        "Oh my, {ACTIVE}'s {COCK} is {WET} in {PRIMARY}'s {CREAM}, it's going to slip inside any moment!"
+    ]
+}

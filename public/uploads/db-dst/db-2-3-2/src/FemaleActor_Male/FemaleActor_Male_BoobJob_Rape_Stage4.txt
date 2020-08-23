@@ -1,0 +1,40 @@
+{
+    "1st Person": [
+        "I stare up into {ACTIVE}'s face, looking for any evidence that he might stop at {EJACULATE}ing on my face...",
+        "Even though I'm being forced to do this, my fingers pound into my {WTVAGINAL} {PUSSY}.",
+        "I hang on to {ACTIVE} as I desperately pump my {BOOBS} around his {COCK}.",
+        "Never breaking eye contact, {ACTIVE} completely {RAP}es me.",
+        "My legs are spread open, my {WTVAGINAL} {PUSSY} {DISPLAY}ed...",
+        "He's {HUGE} and {MAROUSAL}; I won't be able to contain myself if he sticks that in me.",
+        "I feel so {SUBMISSIVE}, {DISPLAY}ed. And wet.",
+        "My mind races, imagining being kept as a {BITCH}, men grabbing my {BOOBS} and pulling on my puffy nipples.",
+        "Tell me before you cum, I say with a frightened gulp. I'll drink it.",
+        "I open my {MOUTH} wider, keeping my eyes closed but knowing I'm expected to swallow some of it.",
+        "I want to taste your {CUM}. Please {EJACULATE} it in my {MOUTH}. I'm just a {LEWD} {BITCH}.",
+        "I'm sexually charged, it feels so hot to have strangers stare {LEWD}ly at my {BOOBS}.",
+        "My face, hair, and {BOOBS} are covered in pre-cum as {ACTIVE} {FUCK}s my {BOOBS} {ROUGH}ly."
+    ],
+    "2nd Person": [
+        "You stare up into {ACTIVE}'s face, looking for any evidence that he might stop at {EJACULATE}ing on your face...",
+        "Even though you're being forced to do this, your fingers pound into your {WTVAGINAL} {PUSSY}.",
+        "You hang on to {ACTIVE} as you desperately pump your {BOOBS} around his {COCK}.",
+        "Never breaking eye contact, {ACTIVE} completely {RAP}es you.",
+        "Your legs are spread open, your {WTVAGINAL} {PUSSY} {DISPLAY}ed...",
+        "He's {HUGE} and {MAROUSAL}; You won't be able to contain yourself if he sticks that in you.",
+        "You feel so {SUBMISSIVE}, {DISPLAY}ed. And wet.",
+        "Your mind races, imagining being kept as a {BITCH}, men grabbing your {BOOBS} and pulling on your nipples.",
+        "({PRIMARY}) Tell me before you cum. I'll... I'll drink it.",
+        "You open your {MOUTH} wider, keeping your eyes closed but knowing you're expected to swallow some of it.",
+        "({PRIMARY}) I want to taste your {CUM}. Please {EJACULATE} it in my {MOUTH}. I'm just a {LEWD} {BITCH}.",
+        "You're sexually charged, it feels so hot to have strangers stare {LEWD}ly at your {BOOBS}.",
+        "Your face, hair, and {BOOBS} are covered in pre-cum as {ACTIVE} {FUCK}s your {BOOBS} {ROUGH}ly."
+    ],
+    "3rd Person": [
+        "Even though {PRIMARY}'s being forced to do this, her fingers pound into her {WTVAGINAL} {PUSSY}.",
+        "{PRIMARY} hangs on to {ACTIVE} as she desperately pumps her {BOOBS} around his {COCK}.",
+        "Never breaking eye contact, {ACTIVE} completely {RAP}es {PRIMARY}.",
+        "{PRIMARY}'s legs are spread open, her {WTVAGINAL} {PUSSY} {DISPLAY}ed...",
+        "He's {HUGE} and {MAROUSAL}; {PRIMARY} won't be able to contain herself if he sticks that in her.",
+        "{PRIMARY} is so {SUBMISSIVE}, {DISPLAY}ed. And wet."
+    ]
+}

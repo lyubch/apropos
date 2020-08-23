@@ -1,0 +1,25 @@
+{
+    "1st Person": [
+        "({ACTIVE} That's it, {BITCH} ride my {COCK}! Take my {CUM}!",
+        "Pushing myself past my limits, I start to bounce slowly, finally pushing him to climax.",
+        "His cockhead sticking through my cervix, I feel jets of {CUM} shoot into my womb, and I thrash wildly.",
+        "The head of his {PENIS} rubbing through my cervix drives me to a guilty orgasm as I buck.",
+        "In trying to make him cum, I push myself over the edge as well, and I twist about madly.",
+        "Even as I cum, I fight to make my legs keep me pumping, I need to make him cum too!"
+    ],
+    "2nd Person": [
+        "({ACTIVE} That's it, {BITCH} ride my {COCK}! Take my {CUM}!",
+        "Pushing yourself past your limits, you start to bounce slowly, finally pushing him to climax.",
+        "His cockhead sticking through your cervix, jets of {CUM} shoot into your womb, and you thrash wildly.",
+        "The head of his {PENIS} rubbing through your cervix drives you to a guilty orgasm as you buck.",
+        "In trying to make him cum, you push yourself over the edge as well, and you twist about madly.",
+        "Even as you cum, you fight to make your legs keep you pumping, you need to make him cum too!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} looks like she's in distress, thrashing about on the {ACTIVE}'s {PENIS}.",
+        "Amazingly, {PRIMARY} looks like she's fucked herself to an orgasm...",
+        "{ACTIVE} explodes inside of {PRIMARY}, but she continues to ride him with a tired, glazed look on her face.",
+        "{PRIMARY}'s knees are skinned and sore looking, but she's obviously too scared to stop.",
+        "{PRIMARY} thrashes about in a panic, and the {ACTIVE} tenses. Poor girl, he's {CUMMING} inside her..."
+    ]
+}

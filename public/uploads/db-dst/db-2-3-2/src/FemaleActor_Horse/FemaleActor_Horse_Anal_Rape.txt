@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "The {ACTIVE} is {HORNY}... I raise my {ASSHOLE} to its {COCK}, trying to calm it down.",
+        "My knees {QUIVER} as I back up to the berserk {ANIMAL}'s {COCK}, lining it up with my {ASSHOLE}.",
+        "My head low, I grit my teeth as the {ACTIVE}'s {HUGE} {COCKHEAD} spreads my {WTANAL} {ASSHOLE}.",
+        "I brace myself underneath the {ANIMAL}, holding its leg and spreading my toes for leverage. This will hurt...",
+        "I reach between my legs and guide the {BEASTLY} {COCKHEAD} to my {ASSHOLE} myself, hoping it will hurt less..."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} is {HORNY}... You raise your {ASSHOLE} to its {COCK}, trying to calm it down.",
+        "Your knees {QUIVER} as you back up to the berserk {ANIMAL}'s {COCK}, lining it up with your {ASSHOLE}.",
+        "Your head low, you grit your teeth as the {ACTIVE}'s {HUGE} {COCKHEAD} spreads your {WTANAL} {ASSHOLE}.",
+        "You brace yourself underneath the {ANIMAL}, holding on and spreading your toes for leverage. This will hurt...",
+        "You reach between your legs and guide the {BEASTLY} {COCKHEAD} to your {ASSHOLE} myself, hoping it will hurt less..."
+    ],
+    "3rd Person": [
+        "Beaten and bruised, {PRIMARY} {SUBMIT}s, raising her {ASSHOLE} and giving the {ACTIVE} what it wants.",
+        "{PRIMARY} {SCREAM}s as she reaches between her legs, guiding the {BEASTLY} {COCK} between her {BUTTOCKS}.",
+        "Holding tight and {QUIVER}ing with {FEAR}, {PRIMARY} prepares herself for what's gonna be a painful fuck."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "The {ACTIVE} starts to cum, and starts pumping forward painfully, deep in my {WTANAL} {ASSHOLE}.",
+        "Each thrust sends flashes of {PAIN} through my {FLESH}, and every surge of {CUM} makes my stomach turn.",
+        "Ugh... Ugh... I can taste... {CUM}?! {SWEARING}, there's {CUM} coming up my throat...",
+        "I hold on for my life as the {ACTIVE} finishes inside me. It'll be over soon...",
+        "It {EJACULATE}s directly into me, my belly swells and I can't breathe.",
+        "Noooo... Too much {CUM}... It won't stop pouring into me..."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} starts to cum, and starts pumping forward painfully, deep in your {WTANAL} {ASSHOLE}.",
+        "Each thrust sends flashes of {PAIN} through your {FLESH}, and every surge of {CUM} makes your stomach turn.",
+        "Ugh... Ugh... You can taste... {CUM}?! {SWEARING}, there's {CUM} coming up your throat...",
+        "You hold on for your life as the {ACTIVE} finishes inside you. It'll be over soon...",
+        "It {EJACULATE}s directly into you, your belly swells and you can't breathe.",
+        "Noooo... Too much {CUM}... It won't stop pouring into you..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} starts to cum, and starts pumping forward painfully, deep in {PRIMARY}'s {WTANAL} {ASSHOLE}.",
+        "Each thrust sends flashes of {PAIN} through {PRIMARY}'s body, and every surge of {CUM} makes her stomach turn.",
+        "Ugh... Ugh... {PRIMARY} can taste... {CUM}?! {SWEARING}, there's {CUM} coming up her throat...",
+        "{PRIMARY} hold on for your life as the {ACTIVE} finishes inside her. It'll be over soon...",
+        "It {EJACULATE}s directly into {PRIMARY}, her belly swells and she can't breathe.",
+        "Noooo... Too much {CUM}... It won't stop pouring into {PRIMARY}..."
+    ]
+}

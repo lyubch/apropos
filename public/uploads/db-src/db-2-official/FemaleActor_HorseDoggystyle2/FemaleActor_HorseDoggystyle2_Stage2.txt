@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "Now that it's fully in, I begin easing back onto the {BEAST} horsecock.",
+        "My knees are weak with strain, and I grab the beast's leg with both hands to steady myself.",
+        "Oh Gods, it's tight! This {COCK} is so big! I'm not sure... ugh... how much more I can fit...",
+        "The {ACTIVE} pumps gently, and a wave of emotion crashes through me. That felt good... Really good!",
+        "Ugh! I wasn't ready for the {ACTIVE} to thrust... I grip the beast's leg tightly.",
+        "Even though the thrusts are very shallow, the feeling is so intense.",
+        "My heart is racing, pounding in my ears, and I breath in sharply every time the huge beast pumps into me.",
+        "Slowly, an inch at a time, the inhumanly large phallus pushes into my trembling body...",
+        "Only the head has entered me, with a lot more to go... I'm so scared, but so excited. It feels so good!"  
+    ],
+    "2nd Person" :
+    [
+        "Now that it's fully in, you begin easing back onto the {BEAST} horsecock.",
+        "Your knees are weak with strain, and you grab the beast's leg with both hands to steady yourself.",
+        "Oh Gods, it's tight! This {COCK} is so big! You're not sure... ugh... how much more you can fit...",
+        "The {ACTIVE} pumps gently, and a wave of emotion crashes through you. That felt good... Really good!",
+        "Ugh! You weren't ready for the {ACTIVE} to thrust... You grip the beast's leg tightly.",
+        "Even though the thrusts are very shallow, the feeling is so intense.",
+        "Your heart is racing, pounding in your ears, and you breath in sharply every time the beast pumps into you.",
+        "Slowly, an inch at a time, the inhumanly large phallus pushes into your trembling body...",
+        "Only the head has entered you, with a lot more to go... You're so scared, but so excited. It feels so good!"
+    ],
+    "3rd Person" :
+    [
+        "Legs spread and holding onto the beast's leg, {PRIMARY} eases herself further back.",
+        "More {BEAST} horsecock disappears up {PRIMARY}'s {ASS}, inch by inch.",
+        "Even a gentle thrust from the {ACTIVE} rocks {PRIMARY}'s whole body forward. It must feel so intense.",
+        "{PRIMARY}'s thighs are streaked with her own {CREAM}, she must be enjoying this..."
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "1st Person": [
+        "{SWEARING}, no! He's {EJACULATE}ing inside me! Nngh! There's so much!",
+        "The {ACTIVE}'s thrusts start to slow down. I know what's about to happen, but it's too late to stop it.",
+        "After such a hard fuck, and now feeling {CUM} coating my insides, I can't help but cum.",
+        "Please, I beg, unsure any more what I'm asking for. {ACTIVE} thrusts inside my {FLESH} and cums.",
+        "({ACTIVE}) We're gonna have to {FUCK} you again and again until you're knocked up!",
+        "{PLEADING}... not in my {PUSSY}... You can {EJACULATE} in my {MOUTH}... my {ASSHOLE}... Anywhere else... just... AHHHH!",
+        "{PLEADING}! Don't {EJACULATE} inside me! I beg and {SCREAM}, but it's no use.",
+        "Oohh {SWEARING}... that's a lot of {CUM}..."
+    ],
+    "2nd Person": [
+        "{SWEARING}, no! He's {EJACULATE}ing inside you! Nngh! There's so much!",
+        "The {ACTIVE}'s thrusts start to slow down. You know what's about to happen, but it's too late to stop it.",
+        "After such a hard fuck, and now feeling {CUM} coating your insides, you can't help but cum.",
+        "Please, you beg, unsure any more what you're asking for. {ACTIVE} thrusts inside your body and cums.",
+        "({ACTIVE}) We're gonna have to {FUCK} you again and again until you're knocked up!",
+        "({PRIMARY}) {PLEADING}... not in my {PUSSY}... You can {EJACULATE} in my {MOUTH}... my {ASSHOLE}... Anywhere else... AHHHH!",
+        "{PLEADING}! Don't {EJACULATE} inside me! You beg and {SCREAM}, but it's no use.",
+        "Oohh {SWEARING}... that's a lot of {CUM}..."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} throws his head back, his thrusts slow and deep. He must be {EJACULATE}ing inside her!",
+        "{PRIMARY} starts {SCREAM}ing, her {FLESH} {QUIVER}ing and {QUIVER}ing. Oh my, is she cumming?",
+        "({PRIMARY}) {PLEADING}! Don't cum inside m... AAAH! {SWEARING}! (sob) {PLEADING}! You {JERK}!",
+        "({ACTIVE}) Don't worry about getting pregnant, {BITCH}, you can just tell your {MFAMILY} it's his!"
+    ]
+}

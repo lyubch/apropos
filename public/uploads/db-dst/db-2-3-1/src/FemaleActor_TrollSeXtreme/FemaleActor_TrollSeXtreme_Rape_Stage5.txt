@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "{SWEARING}, this is so obscene, so {LEWD}... and so good... I can't believe I'm being {FUCK}ed like this, and by a monster!",
+        "I spread my legs wide, overcome by the {PAIN} and joy of being repeatedly {PENETRAT}ed by such a {BEASTLY} {COCK}...",
+        "I struggle to keep my thoughts straight, every long stroke threatening to break my mind.",
+        "Soon yet another inhuman {MONSTER} will {EJACULATE} a load inside me, trying to get me pregnant.",
+        "The hulking {MONSTER} {ROUGH}ly {FUCK}s my {WTVAGINAL} {PUSSY}."        
+    ],
+    "2nd Person" :
+    [
+        "{SWEARING}, this is so obscene, so {LEWD}... and so good... You can't believe you're being {FUCK}ed like this, and by a monster!",
+        "You spread your legs wide, overcome by the {PAIN} and joy of being repeatedly {PENETRAT}ed by such a {BEASTLY} {COCK}...",
+        "You struggle to keep your thoughts straight, every long stroke threatening to break your mind.",
+        "Soon yet another inhuman {MONSTER} will {EJACULATE} a load inside you, trying to get you pregnant.",
+        "The hulking {MONSTER} {ROUGH}ly {FUCK}s your {WTVAGINAL} {PUSSY}."  
+
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s legs are spread wide, and she {SCREAM}s with every deep penetration.",
+        "The hulking {MONSTER} {ROUGH}ly {FUCK}s {PRIMARY}'s {WTVAGINAL} {PUSSY}.",
+        "Oh my, that's so {LEWD}... It really looks like {PRIMARY}'s about to {EJACULATE} from being {RAP}ed!"
+    ]
+}

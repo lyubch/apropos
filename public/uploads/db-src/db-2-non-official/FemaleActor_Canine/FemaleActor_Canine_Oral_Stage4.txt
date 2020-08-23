@@ -1,0 +1,24 @@
+{
+    "1st Person": [
+        "My {PUSSY} and legs are {WET} in {CREAM}. I want his {CUM} so bad.",
+	"It's a {COCK} and it's in my {MOUTH}. I don't care that it's attached to a dog.",
+	"The dog pants while he {LEWD}ly {FUCK}s my face.",
+	"The force of his hips {FUCK}ing my face makes my {BOOBS} {JIGGL}e {LEWD}ly.",
+	"My {HEAVING} {BOOBS} and {FLESH} as well as my {FAROUSAL} {PUSSY} are {DISPLAY}ed and this dog just wants to {FUCK} my face.",
+	"I bring my hand up to his {COCK}, {WANK}ing and {SUCK}ing him in unison."
+    ],
+    "2nd Person": [
+        "Your {PUSSY} and legs are {WET} in {CREAM}. You want his {CUM} so bad.",
+	"It's a {COCK} and it's in your {MOUTH}. You don't care that it's attached to a dog.",
+	"The dog pants while he {LEWD}ly {FUCK}s your face.",
+	"The force of his hips {FUCK}ing your face makes your {BOOBS} {JIGGL}e {LEWD}ly.",
+	"Your {HEAVING} {BOOBS} and {FLESH} as well as your {FAROUSAL} {PUSSY} are {DISPLAY}ed and this dog just wants to {FUCK} your face.",
+	"You bring your hand up to his {COCK}, {WANK}ing and {SUCK}ing him in unison."
+    ],
+    "3rd Person": [
+        "The dog pants while he {LEWD}ly {FUCK}s her face.",
+	"The force of his hips {FUCK}ing her face makes her {BOOBS} {JIGGL}e {LEWD}ly.",
+	"Her {HEAVING} {BOOBS} and {FLESH} as well as her {FAROUSAL} {PUSSY} are {DISPLAY}ed and this dog just wants to {FUCK} her face.",
+	"She brings her hand up to his {COCK}, {WANK}ing and {SUCK}ing him in unison."
+    ]
+}

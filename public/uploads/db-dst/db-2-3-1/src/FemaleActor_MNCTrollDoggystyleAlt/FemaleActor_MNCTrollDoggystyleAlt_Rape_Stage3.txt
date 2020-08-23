@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Before I know it, I'm the one moving my body, {FUCK}ing myself on the {ACTIVE}'s {BEASTLY} {COCK}.",
+        "I've lost, I know that now, burning with shame as I desperately {FUCK} myself towards a mind-breaking climax.",
+        "Nghhh! Ahh! Please! Fuck me! Come on, you have me, what are you waiting for me! I'm so close...",
+        "I feel adrenaline rush through me. If a {ANIMAL} is going to {FUCK} me, then I'm going to {FUCK} right back!",
+        "I {LEWD}ly thrust back into the {ANIMAL}'s {BEASTLY} {COCK}, desperate to finish before reason returns to me.",
+        "The {ANIMAL} quickens its panting, its {COCK} throbbing, and I realize what's about to happen."
+    ],
+    "2nd Person": [
+        "Before you know it, you're the one moving your body, {FUCK}ing yourself on the {ACTIVE}'s {BEASTLY} {COCK}.",
+        "You've lost, you know that now, burning with shame as you desperately {FUCK} yourself towards a mind-breaking climax.",
+        "({PRIMARY}) Nghhh! Ahh! Please! Fuck me! Come on, you have me, what are you waiting for me! I'm so close...",
+        "You feel adrenaline rush through you. If a {ANIMAL} is going to {FUCK} you, then you're going to {FUCK} right back!",
+        "You {LEWD}ly thrust back into the {ANIMAL}'s {BEASTLY} {COCK}, desperate to finish before reason returns to you.",
+        "The {ANIMAL} quickens its panting, its {COCK} throbbing, and you realize what's about to happen."
+    ],
+    "3rd Person": [
+        "Before she knows it, {PRIMARY} is the one moving her body, {FUCK}ing herself on the {ACTIVE}'s {BEASTLY} {COCK}.",
+        "{PRIMARY} has lost, she knows that now, burning with shame as she desperately {FUCK}s herself towards a mind-breaking climax.",
+        "({PRIMARY}) Nghhh! Ahh! Please! Fuck me! Come on, you have me, what are you waiting for me! I'm so close...",
+        "{PRIMARY} feels adrenaline rush through her. If a {ANIMAL} is going to {FUCK} her, then she's going to {FUCK} right back!",
+        "{PRIMARY} {LEWD}ly thrusts back into the {ANIMAL}'s {BEASTLY} {COCK}, desperate to finish before reason returns to her.",
+        "The {ANIMAL} quickens its panting, its {COCK} throbbing, and {PRIMARY} realizes what's about to happen."
+    ]
+}

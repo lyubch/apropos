@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "Gotta get out of this place... find a healer or priestess or something... anyone who can get these damned eggs out...",
+        "I can hear something else, chittering in the darkness... I need to get back to town before something else grabs me...",
+        "I know I can't wait here for something else to find me, I need to get back to safety...",
+        "I need to get out of here... maybe someone can help get these things out of me before they hatch...",
+        "I {QUIVER} as {CUM} runs from my {WTVAGINAL} {PUSSY} as I stand up, running down my legs...",
+        "Struggling against the added weight, I pull myself back to my feet... I need to get out here."
+    ],
+    "2nd Person": [
+        "({PRIMARY}) Gotta get out of this place... find a healer or priestess or something... anyone who can get these damned eggs out...",
+        "Struggling against the added weight, you pull yourself back to your feet... You need to get out here.",
+        "You can hear something else, chittering in the darkness... You need to get back to town before something else grabs you...",
+        "You know you can't wait here for something else to find you, you need to get back to safety...",
+        "You need to get out of here... maybe someone can help get these things out of you before they hatch...",
+        "You {QUIVER} as {CUM} runs from your {WTVAGINAL} {PUSSY} as you stand up, running down your legs..."
+    ],
+    "3rd Person": [
+        "({PRIMARY}) Gotta get out of this place... find a healer or priestess or something... anyone who can get these damned eggs out...",
+        "Struggling against the added weight, {PRIMARY} pulls herself back to her feet... She needs to get out here.",
+        "{PRIMARY} can hear something else, chittering in the darkness... She needs to get back to town before something else grabs her...",
+        "{PRIMARY} knows she can't wait here for something else to find her, she needs to get back to safety...",
+        "{PRIMARY} needs to get out of here... maybe someone can help get these things out of her before they hatch...",
+        "{PRIMARY} {QUIVER}s as {CUM} runs from her {WTVAGINAL} {PUSSY} as she stands up, running down her legs..."
+    ]
+}

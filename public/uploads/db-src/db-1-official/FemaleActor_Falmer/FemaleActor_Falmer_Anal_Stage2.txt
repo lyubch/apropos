@@ -1,0 +1,44 @@
+{
+    "1st Person": [
+        "My knees rub in the rough ground, but it doesn't distract me from the pain in my {ASS}.",
+        "I want more, I want more!",
+        "I meet the assault with thrusts of my hips and soft grunts.",
+        "I pant and groan as the {BEAST} {COCK} pushes deep inside me again and again.",
+        "Ahhhh! Give me all you have, don't hold back... fuck me!",
+        "I gasp, then let out a cry of abandon as I feel the monster's {COCK} start to explore my back passage.",
+        "I grunt with each lunge as the creature buries himself balls deep into my {WTANAL} {ASS}.",
+        "Ohh! Just do it and ahhh! Make it last!",
+        "({ACTIVE}) You're going to keep coming back for more Falmer {COCK}, aren't you?",
+        "Urghhh! Just fucking cum and get... AHHH! Fuck my... ugh... my {ASS}!",
+        "Maybe they'll want me to... ughh! to fuck one of their... bugs...",
+        "Your {COCK} is so good! Where did you learn to fuck little human girls so well?"
+    ],
+    "2nd Person": [
+        "Your knees rub in the rough ground, but it doesn't distract you from the pain in your {ASS}.",
+        "({PRIMARY}) I want more, I want more!",
+        "You meet the assault with thrusts of your hips and soft grunts.",
+        "You pant and groan as the {BEAST} {COCK} pushes deep inside you again and again.",
+        "({PRIMARY}) Ahhhh! Give me all you have, don't hold back... fuck me!",
+        "You gasp, then let out a cry of abandon as you feel the monster's {COCK} start to explore your back passage.",
+        "You grunt with each lunge as the creature buries himself balls deep into your {WTANAL} {ASS}.",
+        "({PRIMARY}) Ohh! Just do it and ahhh! Make it last!",
+        "({ACTIVE}) You're going to keep coming back for more Falmer {COCK}, aren't you?",
+        "({PRIMARY}) Urghhh! Just fucking cum and get... AHHH! Fuck my... ugh... my {ASS}!'",
+        "Maybe they'll want you to... ughh! to fuck one of their... bugs...",
+        "({PRIMARY}) Your {COCK} is so good! Where did you learn to fuck little human girls so well?"
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s knees rub in the rough ground, but it won't distract her from the pain in her {ASS}.",
+        "({PRIMARY})I want more, I want more!",
+        "{PRIMARY} meets the assault with thrusts of her hips and soft grunts.",
+        "{PRIMARY} pants and groans as the {BEAST} {COCK} pushes deep inside her again and again.",
+        "({PRIMARY}) Ahhhh! Give me all you have, don't hold back... fuck me!",
+        "{PRIMARY} lets out a cry of abandon as the monster's {COCK} start to explore her back passage.",
+        "{PRIMARY} grunts with each lunge as the creature buries himself balls deep into her {WTANAL} {ASS}.",
+        "({PRIMARY}) Ohh! Just do it and ahhh! Make it last!",
+        "({ACTIVE}) You're going to keep coming back for more Falmer {COCK}, aren't you?",
+        "({PRIMARY}) Urghhh! Just fucking cum and get... AHHH! Fuck my... ugh... my {ASS}!",
+        "Maybe they'll want {PRIMARY} to... ughh! to fuck one of their... bugs...",
+        "({PRIMARY}) Your {COCK} is so good! Where did you learn to fuck little human girls so well?"
+    ]
+}

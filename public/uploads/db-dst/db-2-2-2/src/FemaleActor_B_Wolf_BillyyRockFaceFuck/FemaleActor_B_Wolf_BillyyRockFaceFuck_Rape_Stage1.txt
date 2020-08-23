@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I groan in embarrassement as the wolf's {COCK} slides between my {HEAVING} {BOOBS}, helplessly pinned against the rock.",
+        "I nearly cough from the wolf's overwhelming musk as his balls rest against my face.",
+        "I try to turn my head to escape the wolf's ballsack, but the unforgiving rock below me has me pinned.",
+        "I shiver as its fur brushes against my nipples, but at least this is leagues better than getting raped...",
+        "The {ACTIVE} quickly pushes my nose up against his crotch... His musk floods my senses...",
+        "I try to wriggle free, but the wolf's weight keeps me pressed against the rock as he fucks his {COCK} between my breasts..."
+    ],
+    "2nd Person": [
+        "You groan in embarrassement as the wolf's {COCK} slides between your {HEAVING} {BOOBS}, helplessly pinned against the rock.",
+        "You nearly cough from the wolf's overwhelming musk as his balls rest against your face.",
+        "You try to turn your head to escape the wolf's ballsack, but the unforgiving rock below you has you pinned.",
+        "You shiver as its fur brushes against your nipples, but at least this is leagues better than getting raped...",
+        "The {ACTIVE} quickly pushes your nose up against his crotch... His musk floods your senses...",
+        "You try to wriggle free, but the wolf's weight keeps you pressed against the rock as he fucks his {COCK} between your breasts..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} groans in embarrassement as the wolf's {COCK} slides between her {HEAVING} {BOOBS}, helplessly pinned against the rock.",
+        "{PRIMARY} nearly coughs from the wolf's overwhelming musk as his balls rest against her face.",
+        "{PRIMARY} tries to turn her head to escape the wolf's ballsack, but the unforgiving rock below her has her pinned.",
+        "{PRIMARY} shivers as its fur brushes against her nipples, but at least this is leagues better than getting raped...",
+        "The {ACTIVE} quickly pushes {PRIMARY}'s nose up against his crotch... His musk floods her senses...",
+        "{PRIMARY} tries to wriggle free, but the wolf's weight keeps her pressed against the rock as he fucks his {COCK} between her {BOOBS}..."
+    ]
+}

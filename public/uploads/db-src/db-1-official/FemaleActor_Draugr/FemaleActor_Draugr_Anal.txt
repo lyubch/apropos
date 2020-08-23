@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "I'm bent over painfully, my arms held up behind me, the {ACTIVE} entering my {ASS}.",
+        "My knees are spread by the {ACTIVE}'s, my arms and waist held tightly. I'm being controlled completely.",
+        "I feel a bony hand claw at my hip, dragging me back, my {ASS} reluctantly swallowing {DEAD} flesh.",
+        "My head hangs low and I stare at the ground, gulping as I allow my {ASS} to be taken.",
+        "I don't struggle, allowing this {DEAD} monster to fuck me up the {ASS}."
+    ],
+    "2nd Person": [
+        "You're bent over painfully, your arms held up behind you, the {ACTIVE} entering your {ASS}.",
+        "Your knees are spread by the {ACTIVE}'s, arms and waist held tightly. You're being controlled completely.",
+        "You feel a bony hand claw at your hip, dragging you back, your {ASS} reluctantly swallowing {DEAD} flesh.",
+        "Your head hangs low and you stare at the ground, gulping as you allow your {ASS} to be taken.",
+        "You don't struggle, allowing this {DEAD} monster to fuck you up the {ASS}."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} looks horrific, its flesh is {DEAD}, but still {PRIMARY} lets it bend her over and take her.",
+        "There's something so erotic about seeing a beautiful, soft girl get fucked by such a {DEAD} monster...",
+        "{PRIMARY} doesn't struggle, letting the {ACTIVE} bend her over and pin her arms, then fuck her {ASS}."
+    ]
+}

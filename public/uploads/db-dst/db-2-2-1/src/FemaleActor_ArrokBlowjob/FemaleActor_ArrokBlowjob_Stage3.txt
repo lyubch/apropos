@@ -1,0 +1,67 @@
+{
+    "1st Person" :
+    [
+        "I feel {ACTIVE}'s balls twitch and pull up, he's about to cum.",
+        "I'm really horny now, and starting to want somebody to just come up behind me and fuck me.",
+        "I'm so wet that anyone could just slip their {PENIS} right up inside my {FAROUSAL} {PUSSY}.",
+        "His entire {PENIS} is twitching and I can hear him grunting. That thought really gets me going.",
+        "I feel the throbbing in his {PENIS} between my lips and my fingers, and on my tongue.",
+        "I've got his {TASTY} {PENIS} so hard now, that it almost seems a waste to finish him by hand...",
+        "As I service {ACTIVE}'s {PENIS}, I feel eyes on my bare body...",
+        "My nipples stiffen at the situation, as I lick this man's {PENIS} up and down.",
+        "({ACTIVE}) Look at her go! The Dragonborn is such a {WHORE}!",
+        "I suck and lick {ACTIVE}'s {TASTY} {PENIS} a frenzy, desperate to have my {MOUTH} filled with {CUM}.",
+        "What I need right now is for some big guy to come up behind me, and stick his {HUGE} {PENIS} in me...",
+        "I'm so turned on... If some stranger stuck his {PENIS} in me right now, I think I'd cum straight away!",
+        "({ACTIVE}) Oh fuck, I'm going to cum, {PRIMARY}. I'm going to fucking cum in your {MOUTH}.",
+        "I'm now very aroused and starting to want him to fuck me after I've got him nice and hard.",
+        "({ACTIVE}) Who would have guessed the Dragonborn would be such an expert cock-handler?",
+        "Oh Gods, this is all starting to get me wet! I hope no one notices...",
+        "He's starting to twitch. I need to time this right, I don't want to swallow this bastard's {CUM}!",
+        "His {SALTY} {PENIS} is rock hard now, and a little part of me wants him inside.",
+        "{ACTIVE}'s balls are getting tight now, and his {PENIS} feels red hot.",
+        "My eyes water as I lick this bastard's {PENIS}, it's filth sliding down my throat.",
+        "I find myself starting to get into it as I lick and slurp, humming with pleasure.",
+        "I'm so willing to please {ACTIVE} in the hopes that he will fuck me.",
+        "My secret inner {WHORE} hopes that they force me to fuck them all, doing all sorts of unimaginable things.",
+        "I do my best to suppress my gag reflex and shove forwards, ramming his {PENIS} as deeply as I can."
+    ],
+    "2nd Person" :
+    [
+        "You feel {ACTIVE}'s balls twitch and pull up, he's about to cum.",
+        "You're really horny now, and starting to want somebody to just come up behind you and fuck you.",
+        "You're so wet that anyone could just slip their {PENIS} right up inside your {FAROUSAL} {PUSSY}.",
+        "His entire {PENIS} is twitching and you can hear him grunting. That thought really gets you going.",
+        "You feel the throbbing in his {PENIS} between your lips and your fingers, and on your tongue.",
+        "You've got his {TASTY} {PENIS} so hard now, that it almost seems a waste to finish him by hand...",
+        "As you service {ACTIVE}'s {PENIS}, you feel eyes on your bare body...",
+        "Your nipples stiffen at the situation, as you lick this man's {PENIS} up and down.",
+        "({ACTIVE}) Look at her go! The Dragonborn is such a {WHORE}!",
+        "You suck and lick {ACTIVE}'s {TASTY} {PENIS} a frenzy, desperate to have your {MOUTH} filled with {CUM}.",
+        "What you need right now is for some big guy to come up behind you, and stick his {HUGE} {PENIS} in you...",
+        "You're so turned on... If some stranger stuck his {PENIS} in you right now, you think you'd cum straight away!",
+        "({ACTIVE}) Oh fuck, I'm going to cum, {PRIMARY}. I'm going to fucking cum in your {MOUTH}.",
+        "You're now very aroused and starting to want him to fuck you after you've got him nice and hard.",
+        "({ACTIVE}) Who would have guessed the Dragonborn would be such an expert cock-handler?",
+        "Oh Gods, this is all starting to get you wet! You hope no one notices...",
+        "He's starting to twitch. You need to time this right, you don't want to swallow this bastard's {CUM}!",
+        "His {SALTY} {PENIS} is rock hard now, and a little part of you wants him inside.",
+        "{ACTIVE}'s balls are getting tight now, and his {PENIS} feels red hot.",
+        "Your eyes water as you lick this bastard's {PENIS}, it's filth sliding down your throat.",
+        "You find yourself starting to get into it as you lick and slurp, humming with pleasure.",
+        "You're so willing to please {ACTIVE} in the hopes that he will fuck you.",
+        "Your secret inner {WHORE} hopes that they force you to fuck them all, doing all sorts of unimaginable things.",
+        "You do your best to suppress your gag reflex and shove forwards, ramming his {PENIS} as deeply as you can."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} is breathing heavily now, like he's about to cum.",
+        "When {ACTIVE} cums, will {PRIMARY} take it in her {MOUTH} or over her face?",
+        "Even as {ACTIVE} grunts and twitches, {PRIMARY} never stops pleasuring him.",
+        "{ACTIVE}'s head is leaning back and his mouth is open in a state of intense pleasure.",
+        "{PRIMARY}'s {PUSSY} is open and dripping. Is she sending out an invitation?",
+        "Is {ACTIVE} going to make {PRIMARY} swallow his cum? Or is he gonna coat her face?",
+        "{PRIMARY} continues her ministrations, clearly eager to have this bastard cum quickly.",
+        "{PRIMARY}'s face is contorted, {ACTIVE}'s junk must taste revolting..."
+    ]
+}

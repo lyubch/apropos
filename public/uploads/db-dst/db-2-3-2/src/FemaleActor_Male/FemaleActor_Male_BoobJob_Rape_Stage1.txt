@@ -1,0 +1,15 @@
+{
+    "1st Person": [
+        "This {JERK}'s {HUGE} {COCK} feels hot and {MAROUSAL} between my {BOOBS}.",
+        "It's humiliating to have my {BOOBS} wrapped around my rapist's {COCK}.",
+        "I feel like he did something to me. I suddenly *want* him to rub his {COCK} all over my {BOOBS}."
+    ],
+    "2nd Person": [
+        "The {JERK}'s {HUGE} {COCK} feels hot and {MAROUSAL} between your {BOOBS}.",
+        "It's humiliating to have your {BOOBS} wrapped around your rapist's {COCK}.",
+        "You feel like he did something to you. You suddenly *want* him to rub his {COCK} all over your {BOOBS}."
+    ],
+    "3rd Person": [
+        "It must be humiliating for {PRIMARY} to have her {BOOBS} wrapped around her rapist's {COCK}."
+    ]
+}

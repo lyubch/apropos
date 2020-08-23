@@ -1,0 +1,30 @@
+{
+    "1st Person": [
+        "The unwanted strokes are slower now, but they're so deep, and so much more painful.",
+        "{PLEADING}... (sob) Why don't anyone stop this...",
+        "Ugh! There's no telling how much longer this will go on for... Or how many men are waiting in line...",
+        "I {QUIVER} every time the mystery {COCK} drives into me, banging on my cervix insistently.",
+        "How long am I gonna be left here like this? Hours? Days? Weeks?! Just being {RAP}ed like a {BITCH}...",
+        "I don't even really know who's {FUCK}ing me... And I'm just being {RAP}ed like some anonymous {BITCH}...",
+        "({ACTIVE}) Just let it go in you. As soon as someone cums in you the rest will be easier.",
+        "I {SCREAM} as {ROUGH} voices cheer my rape. {FUCK} her raw, so she can't walk.",
+        "Harsh voices drown out my {SCREAM}s. Fill her {PUSSY}. Plow the {BITCH}, show her you're a man."
+    ],
+    "2nd Person": [
+        "The unwanted strokes are slower now, but they're so deep, and so much more painful.",
+        "({PRIMARY}) {PLEADING}... (sob) Why don't anyone stop this...",
+        "Ugh! There's no telling how much longer this will go on for... Or how many men are waiting in line...",
+        "You {QUIVER} every time the mystery {COCK} drives into you, banging on your cervix insistently.",
+        "How long are you gonna be left here like this? Hours? Days? Weeks?! Just being {RAP}ed like a {BITCH}...",
+        "You don't even really know who's {FUCK}ing you... And you're just being {RAP}ed like some anonymous {BITCH}...",
+        "({ACTIVE}) Just let it go in you. As soon as someone cums in you the rest will be easier.",
+        "You {SCREAM} as {ROUGH} voices cheer your rape. {FUCK} her raw, so she can't walk.",
+        "Harsh voices drown out your {SCREAM}s. Fill her {PUSSY}. Plow the {BITCH}, show her you're a man."
+    ],
+    "3rd Person": [
+        "The idea that they might just keep {PRIMARY} bound like that for weeks is terrifying...",
+        "Small {SCREAM}s are {FUCK}ed steadily out of {PRIMARY}, the occasional {SCREAM} telling just how deep the {ACTIVE} is.",
+        "Isn't anyone going to stop this? It's inhuman to do this to a girl...",
+        "The {ACTIVE}'s thrusts are slow, but look really deep."
+    ]
+}

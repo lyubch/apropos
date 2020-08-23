@@ -1,0 +1,38 @@
+{
+    "1st Person" :
+    [
+        "{ACTIVE} begins to insert it even deeper in a faster rhythm, giving me a pleasurable feeling despite its sight.",
+        "I open my legs slightly more to better accomodate {ACTIVE}'s {VILE} {COCK}. I feel it deeper and faster.",
+        "I can hardly believe how wet it is down there! Is it my {PUSSY} that is wet, or {ACTIVE}'s {COCK} {SLIME}?",
+        "The rat has a {VILE} breath, but it {FUCK}s me nicely, I think I can get used to this.",
+        "That's it baby, give me your {MAROUSAL} {COCK}, let me take your stress and relieve you of your burden",
+        "It is not so bad once it really starts {FUCK}ing, I might keep him after this.",
+        "Ah yes, let me feel it even more, I will make you a very happy rodent if you keep {FUCK}ing me like this.",
+        "{ACTIVE} seems to be enjoying my body a lot, I am not complaining either. If only I didnt have to see its horrid sight.",
+        "I feel my insides are covered in a {VILE} watery substance, I can feel it oozing out. {ACTIVE} must be loving my {FAROUSAL} {PUSSY}."        
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} begins to insert it even deeper in a faster rhythm, giving you a pleasurable feeling despite its sight.",
+        "You open my legs slightly more to better accomodate {ACTIVE}'s {VILE} {COCK}. You feel it deeper and faster.",
+        "You can hardly believe how wet it is down there! Is it your {PUSSY} that is wet, or {ACTIVE}'s {COCK} {SLIME}?",
+        "The rat has a {VILE} breath, but it {FUCK}s you nicely, you think you can get used to this.",
+        "({PRIMARY}) That's it baby, give me your {MAROUSAL} {COCK}, let me take your stress and relieve you of your burden",
+        "It is not so bad once it really starts {FUCK}ing, you might keep him after this.",
+        "({PRIMARY}) Ah yes, let me feel it even more, I will make you a very happy rodent if you keep {FUCK}ing me like this.",
+        "{ACTIVE} seems to be enjoying your body a lot, you are not complaining either. If only you didnt have to see its horrid sight.",
+        "You feel your insides are covered in a {VILE} watery substance, you can feel it oozing out. {ACTIVE} must be loving your {FAROUSAL} {PUSSY}."      
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} begins to insert it even deeper in a faster rhythm, giving {PRIMARY} a pleasurable feeling despite its sight.",
+        "{PRIMARY} opens her legs slightly more to better accomodate {ACTIVE}'s {VILE} {COCK}. She feels it deeper and faster.",
+        "{PRIMARY} can hardly believe how wet it is down there! Is it her {PUSSY} that is wet, or {ACTIVE}'s {COCK} {SLIME}?",
+        "The rat has a {VILE} breath, but it {FUCK}s {PRIMARY} nicely, she thinks you can get used to this.",
+        "({PRIMARY}) That's it baby, give me your {MAROUSAL} {COCK}, let me take your stress and relieve you of your burden",
+        "It is not so bad once it really starts {FUCK}ing, {PRIMARY} might keep him after this.",
+        "({PRIMARY}) Ah yes, let me feel it even more, I will make you a very happy rodent if you keep {FUCK}ing me like this.",
+        "{ACTIVE} seems to be enjoying {PRIMARY}'s body a lot, she isn't complaining either. If only she didnt have to see its horrid sight.",
+        "{PRIMARY} feels her insides are covered in a {VILE} watery substance, she can feel it oozing out. {ACTIVE} must be loving her {FAROUSAL} {PUSSY}."      
+    ]
+}

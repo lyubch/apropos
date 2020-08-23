@@ -1,0 +1,13 @@
+{
+    "1st Person": [
+        "Everything is {WET} in {ACTIVE}'s {THICK} {CREAM}, covering my bare feet and {FAROUSAL} {PUSSY}.",
+        "I {MOAN} as I feel her {THICK} {CREAM} dripping between my toes."
+    ],
+    "2nd Person": [
+        "Everything is {WET} in {ACTIVE}'s {THICK} {CREAM}, covering your bare feet and {FAROUSAL} {PUSSY}.",
+        "You {MOAN} as you feel her {THICK} {CREAM} dripping between your toes."
+    ],
+    "3rd Person": [
+        ""
+    ]
+}

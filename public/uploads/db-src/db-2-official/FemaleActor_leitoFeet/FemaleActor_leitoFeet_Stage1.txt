@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "I rest back on my elbows, letting {ACTIVE} take my foot, bringing it to his face. Oh my goodness...",
+        "I can't believe {ACTIVE} likes my feet so much, but there's no mistaking the hardness of his {PENIS}...",
+        "The feeling of {ACTIVE}'s hand around my ankle kind of turns me on...",
+        "As {ACTIVE} sniffs and licks my foot, I gently stroke and feel his {HUGE} {PENIS} with my toes.",
+        "Just a footjob, okay? I really shouldn't go any further...",
+        "I enjoy the look of arousal on {ACTIVE}'s face as my bare foot tenderly strokes his {MAROUSAL} {PENIS}.",
+        "With my slender legs on display, and my bare feet pressed hard against his {PENIS}... I feel so sexy...",
+        "I start working his {PENIS} with my foot, rubbing my toes back and forth along the head."
+    ],
+    "2nd Person" :
+    [
+        "You rest back on your elbows, letting {ACTIVE} take your foot, bringing it to his face. Oh my goodness...",
+        "You can't believe {ACTIVE} likes your feet so much, but there's no mistaking the hardness of his {PENIS}...",
+        "The feeling of {ACTIVE}'s hand around your ankle kind of turns you on...",
+        "As {ACTIVE} sniffs and licks your foot, you gently stroke and feel his {HUGE} {PENIS} with your toes.",
+        "({PRIMARY}) Just a footjob, okay? I really shouldn't go any further...",
+        "You enjoy the look of arousal on {ACTIVE}'s face as your bare foot tenderly strokes his {MAROUSAL} {PENIS}.",
+        "With your slender legs on display, and your bare feet pressed hard against his {PENIS}... You feel so sexy...",
+        "You start working his {PENIS} with your foot, rubbing your toes back and forth along the head."
+    ],
+    "3rd Person" :
+    [
+        "Oh my, {ACTIVE} is really into feet! Most men would be banging a girl like {PRIMARY} by now...",
+        "{PRIMARY} sits back, stroking {ACTIVE}'s {PENIS} with one foot while {ACTIVE} brings the other to his lips.",
+        "{ACTIVE}'s tongue works between {PRIMARY}'s delicate toes. What must that feel like?",
+        "Oh my, look at {ACTIVE}'s {MAROUSAL} {PENIS}! There's no way he's going to stop at a footjob...",
+        "Oh wow, {PRIMARY} is going to give {ACTIVE} a footjob! That's so kinky... Is he really into that?",
+        "{PRIMARY} has such long, beautiful legs, and such pretty feet... No wonder {ACTIVE}'s so hard..."
+    ]
+}

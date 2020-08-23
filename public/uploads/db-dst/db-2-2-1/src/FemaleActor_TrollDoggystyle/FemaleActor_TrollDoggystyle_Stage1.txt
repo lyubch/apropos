@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "I strain as the {ACTIVE} slowly begins to take my {ASS}, my muscles feeling like the tension may rip them apart.",
+        "That's it, slowly... Ah! Oh Gods, you're so big! Slowly... so I can take the whole thing...",
+        "I offer myself to the wild beast, spreading my cheeks and displaying my {WTANAL} {ASS}, moaning as it pushes inside.",
+        "Do me from behind, fuck me like a dog!",
+        "I just love this feeling, my {ASS} stretching slowly, and then...",
+        "I can do this... it will fit... The {ACTIVE}'s {BEAST} {COCK} stretches my {ASS} going on.",
+        "My heart is racing, I want this, this {ACTIVE} can do whatever it wants to me. Even anal...",
+        "Oh my... Gods...! I groan, the {BEAST} {COCK} sinking into my tight body as my {ASS} stretches around its girth.",
+        "I'm not sure if I can get pregnant by a troll, but maybe I should take it in the {ASS} just in case..."        
+    ],
+    "2nd Person" :
+    [
+        "You strain as the {ACTIVE} slowly begins to take your {ASS}, your muscles feeling like the tension may rip them apart.",
+        "({PRIMARY}) That's it, slowly... Ah! Oh Gods, you're so big! Slowly... so I can take the whole thing...",
+        "You offer yourself to the wild beast, spreading your cheeks and displaying your {WTANAL} {ASS}, moaning as it pushes inside.",
+        "({PRIMARY}) Do me from behind, fuck me like a dog!",
+        "You just love this feeling, your {ASS} stretching slowly, and then...",
+        "You can do this... it will fit... The {ACTIVE}'s {BEAST} {COCK} stretches your {ASS} going on.",
+        "Your heart is racing, you want this, this {ACTIVE} can do whatever it wants to you. Even anal...",
+        "Oh my... Gods...! You groan, the {BEAST} {COCK} sinking into your tight body as your {ASS} stretches around its girth.",
+        "You're not sure if you can get pregnant by a troll, but maybe you should take it in the {ASS} just in case..." 
+    ],
+    "3rd Person" :
+    [
+         "{PRIMARY} submits, raising her hips and letting the {ACTIVE} have her {ASS}.",
+        "As the hulking beast mounts {PRIMARY} she stifles a squeal, its inhuman {COCK} pushing between her cheeks.",
+        "It's clear from {PRIMARY}'s hunched shoulders how much it hurts as the {ActIVE} begins to fuck her {ASS}."
+    ]
+}

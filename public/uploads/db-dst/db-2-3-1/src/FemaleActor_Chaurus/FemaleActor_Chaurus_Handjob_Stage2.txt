@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "({PRIMARY}) {SWEARING}! Come on! Just give me your eggs already!",
+	"As my hands {WANK} him, I lick from the base to the {COCKHEAD} of his {BUGCOCK}.",
+	"I'm so {HORNY}. My {FAROUSAL} {PUSSY} is {WET} in {CREAM}."
+    ],
+    "2nd Person": [
+        "({PRIMARY}) {SWEARING}! Come on! Just give me your eggs already!",
+	"As your hands {WANK} him, you lick from the base to the {COCKHEAD} of his {BUGCOCK}.",
+	"I'm so {HORNY}. Your {FAROUSAL} {PUSSY} is {WET} in {CREAM}."
+    ],
+    "3rd Person": [
+        "({PRIMARY}) {SWEARING}! Come on! Just give me your eggs already!",
+	"As she {WANK}s him, she licks from the base to the {COCKHEAD} of his {BUGCOCK}.",
+	"Her {FAROUSAL} {PUSSY} is {WET} in {CREAM}."
+    ]
+}

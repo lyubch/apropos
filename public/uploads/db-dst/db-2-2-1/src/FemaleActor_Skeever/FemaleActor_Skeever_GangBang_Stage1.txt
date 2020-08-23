@@ -1,0 +1,47 @@
+{
+    "1st Person" :
+    [
+        "I struggle to force my {MOUTH} onto the {COCK} in front of me, wondering why I chose to do such a thing.", 
+        "I take the {VILE} rodent into my {MOUTH}, as I feel another {COCK} enter me from behind.",
+        "A pair of {VILE} cocks hang exposed, dripping with {CUM} and {SCUM}. I submit and they enter me.",
+        "I shiver as I spread myself, feeling their {VILE} cocks sink into my depths.",
+        "I eagerly taste the {ACTIVE}'s {VILE} {COCK}, even as I am penetrated.",
+        "The pain of being opened up this forcefully is enough to bring a tear to my eye.",
+        "Yes! I gasp, breathing heavily. I want them, I want those things inside me!",
+        "My lips press against {VILE} fur and I groan hungrily while my back end is violated.",
+        "I feel a shiver run down my spine. Am I really going to do this?",
+        "This is it, no turning back now. I'm going to let myself be gangbanged by rodents?",
+        "I don't care who puts what where, just put it in...",
+        "I want them inside! Just push them in!"
+    ],
+    "2nd Person" :
+    [
+        "You force your {MOUTH} onto the {COCK} in front of you, wondering why you chose to do such a thing.", 
+        "You take the {VILE} rodent into your {MOUTH}, as you feel another {COCK} enter you from behind.",
+        "A pair of {VILE} cocks hang exposed, dripping with {CUM} and {SCUM}. You submit and they enter you.",
+        "You shiver as you spread yourself, feeling their {VILE} cocks sink into your depths.",
+        "You eagerly taste the {ACTIVE}'s {VILE} {COCK}, even as you are penetrated.",
+        "The pain of being opened up this forcefully is enough to bring a tear to your eye.",
+        "Yes! You gasp, breathing heavily. You want them, you want those things inside you!",
+        "Your lips press against {VILE} fur and you groan hungrily while your back end is violated.",
+        "You feel a shiver run down your spine. Are you really going to do this?",
+        "This is it, no turning back now. You're going to let yourself be gangbanged by rodents?",
+        "You don't care who puts what where, just put it in...",
+        "You want them inside! Just push them in!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} forces her {MOUTH} onto the {COCK} in front of her. Why did she choose to do such a thing?", 
+        "{PRIMARY} takes the {VILE} monster into her {MOUTH}, as another {COCK} enter her from behind.",
+        "A pair of black, {VILE} cocks hang exposed, dripping with {CUM} and {SCUM}. {PRIMARY} submits as they enter.",
+        "{PRIMARY} shivers as she spreads herself, as their {VILE} cocks sink into her depths.",
+        "{PRIMARY} eagerly slurps the {ACTIVE}'s {VILE} {COCK}, even as she is penetrated.",
+        "The pain of being opened up this forcefully is enough to bring a tear to {PRIMARY}'s eye.",
+        "Yes! {PRIMARY} gasps, breathing heavily. She wants them, she wants those things inside her!",
+        "{PRIMARY}'s lips press against {VILE} fur and she groans hungrily while her back end is violated.",
+        "{PRIMARY} trembles nervously. Is she really going to do this?",
+        "This is it, no turning back now. {PRIMARY}'s going to let herself be gangbanged by rodents.",
+        "{PRIMARY} doesn't care who puts what where, as long as they put it in...",
+        "{PRIMARY} wants them inside! She wants them to just push them in!"
+    ]
+}

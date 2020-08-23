@@ -1,0 +1,33 @@
+{
+    "1st Person": [
+        "I lower myself down onto {ACTIVE}'s {HUGE} {COCK}, and take some time letting it stretch me.",
+        "I part my {FAROUSAL} lips, watching {ACTIVE}'s reaction as I position myself on his {MAROUSAL} {COCK}.",
+        "{ACTIVE} holds onto my legs, but I'm the one in charge! I take some time, enjoying his hungry stare!",
+        "I squat down onto {ACTIVE}'s {HUGE} {COCK}, and sway my hips around, finding a good angle.",
+        "Oh wow! You're really {HUGE}... Give me a moment... I need get myself ready for this...",
+        "I brace myself on {ACTIVE}'s chest, lowering myself down {SLOW}ly, only taking the {COCKHEAD}.",
+        "I stare into {ACTIVE}'s eyes, {MOAN}ing as I feel the {COCKHEAD} of {COCK} push inside me.",
+        "({ACTIVE}) Come sit on my {COCK}, and we'll get this party started!",
+        "I stare at {ACTIVE} for a second, {LUST} burning in my eyes, before mounting him.",
+        "Maybe just an inch. If it's just the {COCKHEAD}, that doesn't count, does it?"
+    ],
+    "2nd Person": [
+        "You lower yourself down onto {ACTIVE}'s {HUGE} {COCK}, and take some time letting it stretch you.",
+        "You part your {FAROUSAL} lips, watching {ACTIVE}'s reaction as you position yourself on his {COCK}.",
+        "{ACTIVE} holds onto your legs, but you're the one in charge! You take some time, enjoying his hungry stare!",
+        "You squat down onto {ACTIVE}'s {HUGE} {COCK}, and sway your hips around, finding a good angle.",
+        "({PRIMARY}) Oh wow! You're really {HUGE}... Give me a moment... I need get myself ready for this...",
+        "You brace yourself on {ACTIVE}'s chest, lowering yourself down {SLOW}ly, only taking the {COCKHEAD}.",
+        "You stare into {ACTIVE}'s eyes, {MOAN}ing as you feel the {COCKHEAD} of {COCK} push inside you.",
+        "({ACTIVE}) Come sit on my {COCK}, and we'll get this party started!",
+        "You stare at {ACTIVE} for a second, {LUST} burning in your eyes, before mounting him.",
+        "Maybe just an inch. If it's just the {COCKHEAD}, that doesn't count, does it?"
+    ],
+    "3rd Person": [
+        "{PRIMARY} spreads herself {LEWD}ly above {ACTIVE}, and lowers herself {SLOW}ly onto his {COCK}.",
+        "Propping herself up on his chest, {PRIMARY} {JIGGL}es her hips around on {ACTIVE}'s {COCK}.",
+        "Even though {ACTIVE} is holding her legs, it's clear that {PRIMARY}'s in control, and loving it!",
+        "The {LUST} is maddening... When is {PRIMARY} gonna {ACCEPT} it all inside her?",
+        "{ACTIVE}'s {COCK} is {HUGE}... Is {PRIMARY} really going to take every last inch?"
+    ]
+}

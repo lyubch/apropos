@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} rolls his head back, clearly please with my ministrations.",
+        "Is... is this okay? Do you want me to keep doing it this way?",
+        "It's so hot and hard, I can feel it throbbing in my hand.",
+        "Umm... does everyone just assume I'm a {WHORE}?",
+        "If I empty your balls, will you let me go?",
+        "I hope this is all he wants... Oh Gods, what if he wants to fuck me?",
+        "Everyone can see how submissive I am... They can see that anyone can make me their {WHORE}...",
+        "My heart is racing. I'm hot and scared, terrified at what might happen next.",
+        "He's gonna be fucking me before the night's over...",
+        "His {COCK} vibrates with life, and I feel his pulse as I stroke him, the beat increasing.",
+        "I'm starting to get into it now, enjoying the feeling of power I have over {ACTIVE}.",
+        "His {COCK} feels so hot in my hand, as if it would burst into flames at any moment..."
+    ],
+    "2nd Person" :
+    [
+        "{ACTIVE} rolls his head back, clearly pleased with your ministrations.",
+        "({PRIMARY}) Is... is this okay? Do you want me to keep doing it this way?",
+        "It's so hot and hard, you can feel it throbbing in your hand.",
+        "Umm... does everyone just assume you're a {WHORE}?",
+        "({PRIMARY}) If I empty your balls, will you let me go?",
+        "You hope this is all he wants... Oh Gods, what if he wants to fuck you?",
+        "Everyone can see how submissive you are... They can see that anyone can make you their {WHORE}...",
+        "Your heart is racing. You're hot and scared, terrified at what might happen next.",
+        "You think he's gonna be fucking you before the night's over...",
+        "His {COCK} vibrates with life, and you feel his pulse as you stroke him, the beat increasing.",
+        "You're starting to get into it now, enjoying the feeling of power you have over {ACTIVE}.",
+        "His {COCK} feels so hot in your hand, as if it would burst into flames at any moment..."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} rolls his head back, clearly please with {PRIMARY}'s ministrations.",
+        "({PRIMARY}) Is... is this okay? Do you want me to keep doing it this way?",
+        "Umm... does everyone just assume {PRIMARY}'s a {WHORE}?",
+        "If {PRIMARY} empties the {ACTIVE}'s balls, will he let her go?",
+        "Hopefully this is all the {ACTIVE} wants... Oh Gods, what if he wants to fuck {PRIMARY}?",
+        "Everyone can see how submissive {PRIMARY} is... They can see that anyone can make her their {WHORE}..."
+    ]
+}

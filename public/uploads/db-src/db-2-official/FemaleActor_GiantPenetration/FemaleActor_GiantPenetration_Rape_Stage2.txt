@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "Ah! Ah! Ah! Oh Gods... (sob) Please! Nghhh! Stop! Uh... Uh... NGHHHH!",
+        "The {ACTIVE} picks up the pace, pumping into me hard and fast. Oh Gods, I'm not sure I'll survive this...",
+        "My legs dangle lifelessly, the {ACTIVE} pistoning hard between them.",
+        "I stare into the {ACTIVE}'s eyes, searching for any indication that it knows what it's doing to me...",
+        "The {PENIS} batters painfully into my insides, it's almost a relief when my womb opens up to take him...",
+        "I feel my body start to give in to the ravishings of the {BEAST} {PENIS}.",
+        "Ugh! Ahhhhhhh! The {ACTIVE}'s {PENIS} makes me feel like a virgin again as it stretches my {PUSSY}...",
+        "The {ACTIVE}'s {PENIS} is {BEAST}, I practically orgasm every time it pushes in and pulls out.",
+        "Oh Gods, I can't do this... his {PENIS} is really too big... AAAHHHHH!",
+        "Ughhhhh... I didn't know I could take so much {COCK}.",
+        "My {PUSSY} is sore and being pounded raw. It still hurts bad and I'm not sure how much more I can take..."   
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Ah! Ah! Ah! Oh Gods... (sob) Please! Nghhh! Stop! Uh... Uh... NGHHHH!",
+        "The {ACTIVE} picks up the pace, pumping into you hard and fast. Oh Gods, you're not sure you'll survive this...",
+        "Your legs dangle lifelessly, the {ACTIVE} pistoning hard between them.",
+        "You stare into the {ACTIVE}'s eyes, searching for any indication that it knows what it's doing to you...",
+        "The {PENIS} batters painfully into your insides, it's almost a relief when your womb opens up to take him...",
+        "You feel your body start to give in to the ravishings of the {BEAST} {PENIS}.",
+        "Ugh! Ahhhhhhh! The {ACTIVE}'s {PENIS} makes you feel like a virgin again as it stretches your {PUSSY}...",
+        "The {ACTIVE}'s {PENIS} is {BEAST}, you practically orgasm every time it pushes in and pulls out.",
+        "Oh Gods, you can't do this... his {PENIS} is really too big... AAAHHHHH!",
+        "Ughhhhh... you didn't know you could take so much {COCK}.",
+        "Your {PUSSY} is sore and being pounded raw. It still hurts bad and you're not sure how much more you can take..."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} is being so violent with {PRIMARY}... That must hurt a lot...",
+        "{PRIMARY}'s legs hang lifelessly as the {ACTIVE} fucks her harder and harder.",
+        "The {ACTIVE} picks up the pace, fucking into {PRIMARY}'s tiny body even more brutally."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "1st Person" :
+    [
+        "I struggle, but {ACTIVE} pushes me to the ground, making me scream as he penetrates my {ASS}.",
+        "No, not there! Ahhh! I wriggle around, but I can't get away, can't stop {ACTIVE} fucking my {ASS}.",
+        "I briefly feel {ACTIVE} at my {ASS}. My eyes widen in shock as he plunges in, spreading my {ASS}.",
+        "It won't be as bad if I take it in the {ASS}, right? It doesn't count if it's not in my {PUSSY}...",
+        "I'm pushed face down into the ground, as {ACTIVE} slowly enters my {ASS}.",
+        "Before I had time to think, the horny dog leaps on me, mounting me like a bitch."        
+    ],
+    "2nd Person" :
+    [
+        "You struggle, but {ACTIVE} pushes you to the ground, making you scream as he penetrates your {ASS}.",
+        "No, not there! Ahhh! You wriggle around, but you can't get away, can't stop {ACTIVE} fucking your {ASS}.",
+        "You briefly feel {ACTIVE} at your {ASS}. your eyes widen in shock as he plunges in, spreading your {ASS}.",
+        "It won't be as bad if you take it in the {ASS}, right? It doesn't count if it's not in your {PUSSY}...",
+        "You're pushed face down into the ground, as {ACTIVE} slowly enters your {ASS}.",
+        "Before you had time to think, the horny dog leaps on you, mounting you like a bitch."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} shrieks horribly as {ACTIVE}'s {PENIS} impales her {WTANAL} {ASS}.",
+        "{PRIMARY} is knocked to the ground, {ACTIVE} gripping her tightly and fucking her {ASS}."
+    ]
+}

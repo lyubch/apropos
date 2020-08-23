@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I've lost count of the number of times I've came so far, and we have just started...",
+        "Ahh... ah... Please... give me a minute... If you put your {COCK} in me right now... I'll pass out...",
+        "My whole body feels like jelly, I'm exhausted. I have no idea how I'm going to take his {COCK} now...",
+        "Mmmm, that was wonderful! Now it's my turn to make you cum...",
+        "I'd pass out right now, but his {HUGE} {PENIS} in my back reminds me that we're not done yet.",
+        "Aaah... ah... Let me... let me rest... please..."
+    ],
+    "2nd Person": [
+        "You've lost count of the number of times you've came so far, and you have just started...",
+        "({PRIMARY}) Ahh... ah... Please... give me a minute... If you put your {COCK} in me right now... I'll pass out...",
+        "Your whole body feels like jelly, you're exhausted. You have no idea how you're going to take his {COCK} now...",
+        "({PRIMARY}) Mmmm, that was wonderful! Now it's my turn to make you cum...",
+        "You'd pass out right now, but his {HUGE} {PENIS} in your back reminds you that you're not done yet.",
+        "({PRIMARY}) Aaah... ah... Let me... let me rest... please..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} has lost count of the number of times she's cum so far, and they have just started...",
+        "({PRIMARY}) Ahh... ah... Please... give me a minute... If you put your {COCK} in me right now... I'll pass out...",
+        "{PRIMARY}'s whole body feels like jelly, she's exhausted. She has no idea how she's going to take his {COCK} now...",
+        "({PRIMARY}) Mmmm, that was wonderful! Now it's my turn to make you cum...",
+        "{PRIMARY} would pass out right now, but his {HUGE} {PENIS} in her back reminds her that she's not done yet.",
+        "({PRIMARY}) Aaah... ah... Let me... let me rest... please..."
+    ]
+}

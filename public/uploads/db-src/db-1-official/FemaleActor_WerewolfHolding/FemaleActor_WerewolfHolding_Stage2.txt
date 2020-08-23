@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "My hands and feet swing limply as the {ACTIVE} hammers steadily into my {WTVAGINAL} {PUSSY}.",
+        "Held up like this, I have no control over how deep the beast wants to go...",
+        "I'm disgusted at myself, gazing up at the monstrous beast I've given myself to...",
+        "I stare up at the {ACTIVE}'s slobbering maw, wondering what it would be like to kiss such a monster...",
+        "I cry out, and looking down I can see my stomach distending to accommodate his incredible size.",
+        "{SWEARING}! {SWEARING}! It's so fucking big! Fuck me baby!"        
+    ],
+    "2nd Person" :
+    [
+        "Your hands and feet swing limply as the {ACTIVE} hammers steadily into your {WTVAGINAL} {PUSSY}.",
+        "Held up like this, you have no control over how deep the beast wants to go...",
+        "You're disgusted at yourself, gazing up at the monstrous beast you've given yourself to...",
+        "You stare up at the {ACTIVE}'s slobbering maw, wondering what it would be like to kiss such a monster...",
+        "You cry out, and looking down you can see your stomach distending to accommodate his incredible size.",
+        "({PRIMARY}) {SWEARING}! {SWEARING}! It's so fucking big! Fuck me baby!"
+    ],
+    "3rd Person" :
+    [
+        "Is this what {PRIMARY} really wanted, to be used as a cum-rag by some huge beast?",
+        "The {ACTIVE}'s spittle sprays {PRIMARY}'s face. She opens her mouth, sticking out her tongue hungrily.",
+        "{PRIMARY}'s nipples are hard and her chest is flushed and red. Is monster-{COCK} really that good?",
+        "Raised in the air like that, the {ACTIVE} can fuck {PRIMARY} as hard and deep as it likes and she can't stop it..."
+    ]
+}

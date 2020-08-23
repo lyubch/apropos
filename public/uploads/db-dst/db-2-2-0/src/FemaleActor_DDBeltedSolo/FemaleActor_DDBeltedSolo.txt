@@ -1,0 +1,27 @@
+{
+    "1st Person": [
+        "Ahh! This is maddening! I need to touch myself, need to feel something up me!",
+        "I need more, I can't take this... I want so badly to get off...",
+        "My whole body is burning with arousal, this infernal device is driving me insane!",
+        "Can't anyone help me... (sob) Anyone... please... I'll do anything...",
+        "I need a cock... a dozen cocks... Oh Gods, if I get this thing off, I'll fuck the Imperial army!",
+        "My hands grasp desperately, trying to bring myself to orgasm, slight touches only leaving me frustrated.",
+        "Horny and frustrated, I buck and gyrate in my bonds, desperate to push myself over the edge."
+    ],
+    "2nd Person": [
+        "Ahh! This is maddening! You need to touch yourself, need to feel something up inside!",
+        "You need more, you can't take this... you want so badly to get off...",
+        "Your whole body is burning with arousal, this infernal device is driving you insane!",
+        "({PRIMARY}) Can't anyone help me... (sob) Anyone... please... I'll do anything...",
+        "You need a cock... a dozen cocks... Oh Gods, if you get this thing off, you'll fuck the Imperial army!",
+        "You grasp desperately, trying to bring yourself to orgasm, slight touches only leaving you frustrated.",
+        "Horny and frustrated, you buck and gyrate in your bonds, desperate to push yourself over the edge."
+    ],
+    "3rd Person": [
+        "{PRIMARY} seems frantic, pawing desperately at herself. She needs to be fucked, bad.",
+        "({PRIMARY}) Can't anyone get this thing off me? Nghh! I'll fuck anyone who can!",
+        "{PRIMARY} tries desperately to finger herself past her bonds, but she doesn't seem to be doing very well.",
+        "It seems so cruel, for {PRIMARY} to be trussed up like that. She must be so horny.",
+        "Has that belt been put on {PRIMARY} as a punishment? Did she fuck someone she shouldn't have?"
+    ]
+}

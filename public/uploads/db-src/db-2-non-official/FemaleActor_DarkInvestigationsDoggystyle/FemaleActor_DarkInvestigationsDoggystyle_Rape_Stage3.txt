@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I {SCREAM} in anguish, my {PUSSY} {FUCK}ed painfully by the {ACTIVE}.",
+        "It's so hard, and so deep... My {PUSSY} is going to be ruined after this...",
+        "({ACTIVE}) Yeah, {ACCEPT} it {BITCH}! I bet you've never been {FUCK}ed like this!",
+        "I {SCREAM} in shame as I feel myself growing wet from {ACTIVE}'s {ROUGH} fucking.",
+        "({ACTIVE}) I'll teach you how a {BITCH} should behave!",
+        "({ACTIVE}) I'm gonna take you back to my place once I'm done, chain you up and let the dog {FUCK} you.",
+        "My mind and body strain, to process the outrage, the powerlessness, but also the unspeakable pleasure."
+    ],
+    "2nd Person": [
+        "You {SCREAM} in anguish, your {PUSSY} {FUCK}ed painfully by the {ACTIVE}.",
+        "It's so hard, and so deep... Your {PUSSY} is going to be ruined after this...",
+        "({ACTIVE}) Yeah, {ACCEPT} it {BITCH}! I bet you've never been {FUCK}ed like this!",
+        "You {SCREAM} in shame as you feel yourself growing wet from {ACTIVE}'s {ROUGH} fucking.",
+        "({ACTIVE}) I'll teach you how a {BITCH} should behave!",
+        "({ACTIVE}) I'm gonna take you back to my place once I'm done, chain you up and let the dog {FUCK} you.",
+        "Your mind and body strain, to process the outrage, the powerlessness, but also the unspeakable pleasure."
+    ],
+    "3rd Person": [
+        "That looks so painful... It's so hard, and so deep... Would that even feel good?",
+        "The {ACTIVE} is really giving it to her now. It's so horrible, {PRIMARY} being {RAP}ed that way.",
+        "There's something about this {ROUGH}, {LEWD} fuck, that's really sexy. The way he's just {RAP}ing her...",
+        "({ACTIVE}) Listen to this {BITCH} {SCREAM}! Admit it, I'm the best {FUCK} you've ever had!"
+    ]
+}

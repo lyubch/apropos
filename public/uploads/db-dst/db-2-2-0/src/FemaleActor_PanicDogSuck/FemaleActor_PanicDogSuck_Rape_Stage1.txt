@@ -1,0 +1,21 @@
+{
+    "1st Person" :
+    [
+        "Ca... calm down, {ACTIVE}... Here, let me make you feel good...",
+        "I reluctantly reach underneath {ACTIVE}. Oh my... It feels so strange, hot and slimy...",
+        "I kneel down beside the growling animal, stroking his flank and his {COCK} to calm him down.",
+        "Oh my goodness, he's getting hard! Is he expecting something from me?!"
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Ca... calm down, {ACTIVE}... Here, let me make you feel good...",
+        "You reluctantly reach underneath {ACTIVE}. Oh my... It feels so strange, hot and slimy...",
+        "You kneel down beside the growling animal, stroking his flank and his {COCK} to calm him down.",
+        "Oh my goodness, he's getting hard! Is he expecting something from you?!"
+    ],
+    "3rd Person" :
+    [
+        "Fear on her face, {PRIMARY} grabs {ACTIVE}'s {PENIS} and starts stroking. It seems to be working.",
+        "That's certainly one way to calm an attacking animal..."
+    ]
+}

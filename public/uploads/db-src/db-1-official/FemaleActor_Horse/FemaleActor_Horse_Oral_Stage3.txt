@@ -1,0 +1,31 @@
+{
+    "1st Person": [
+        "My pelvis starts to buck as I finger myself. I'll need to be really wet if I want to fuck this {COCK}.",
+        "Between the look of this {BEAST} {COCK} and my fingers working my {PUSSY}, I'm already about to cum.",
+        "Faced with this mountain of horse flesh, I feel my knees go weak and my {PUSSY} tingle.",
+        "Mmm... Surely other woman have done this...? It would be okay then, right?",
+        "Still trying to regain my confidence, I finger fuck myself harder, my hips bucking.",
+        "Even though I'm only planning on sucking it off, my fingers start to push into my {PUSSY}, opening it.",
+        "Arousal now getting the better of me, I stroke myself to a frenzy as my imagination goes wild.",
+        "Oh Gods... Would I even be able to take that thing?",
+        "Indecision paralyses me, my mind telling me no while every part of my body urges me forward.",
+        "My thighs are streaked with {CREAM}, and my nipples ache. My chest flushes and my mouth hangs open, panting."
+    ],
+    "2nd Person": [
+        "Your pelvis bucks as you finger yourself. You'll need to be really wet if you want to fuck this {COCK}.",
+        "Between the look of this {BEAST} {COCK} and your fingers working your {PUSSY}, you're already about to cum.",
+        "Faced with this mountain of horse flesh, you feel your knees go weak and your {PUSSY} tingle.",
+        "Mmm... Surely other woman have done this...? It would be okay then, right?",
+        "Still trying to regain your confidence, you finger fuck yourself harder, your hips bucking.",
+        "Even though you're only planning on sucking it off, your fingers start to push into your {PUSSY}, opening it.",
+        "Arousal now getting the better of you, you stroke yourself to a frenzy as your imagination goes wild.",
+        "Oh Gods... Would you even be able to take that thing?",
+        "Indecision paralyses you, your mind telling you no while every part of your body urges you forward.",
+        "Your thighs are streaked with {CREAM}, and your nipples ache. Your chest flushes and your mouth hangs open."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s pelvis starts to buck as she fingers herself. She'll need to be really wet to fuck that{COCK}.",
+        "Mmm... Surely other woman have done this...? It would be okay then, right?",
+        "Oh Gods... Would {PRIMARY} even be able to take that thing?"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "This {BITCH} wants my {COCK} and nothing more.",
+        "{SWEARING}, this {BITCH} is so good... I bet everyone around here has had her...",
+        "{PRIMARY}'s hand is pumping hard now, as if she's desperate for {CUM}."
+    ],
+    "2nd Person": [
+        "This {BITCH} wants your {COCK} and nothing more.",
+        "{SWEARING}, this {BITCH} is so good... You bet everyone around here has had her...",
+        "{PRIMARY}'s hand is pumping hard now, as if she's desperate for {CUM}."
+    ],
+    "3rd Person": [
+        "{ACTIVE} rolls his head back, clearly pleased with {PRIMARY}'s ministrations.",
+        "({PRIMARY}) That's it, it's good, isn't it? I love the feel of your {COCK}...",
+        "({PRIMARY}) Umm... do you think I'm a {BITCH}?",
+        "({PRIMARY}) Don't worry, I'll make sure your {BALLS} are empty before I go...",
+        "({PRIMARY}) Wouldn't you like to stick your {COCK} way up in my {PUSSY} and {EJACULATE} your {CUM}?",
+        "Everyone can see how {LEWD} {PRIMARY} is... They can see how much she loves {COCK}...",
+        "({PRIMARY}) Do you really think I'm pretty?"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "Don't hurt me... Look, I'll do whatever you like... I'll make you feel good...",
+        "This {JERK} has beaten me, but it's not his ego he's interested in being stroked...",
+        "The bulge under this {JERK}'s clothes is intimidating. {SWEARING}, he wants me to take it out...",
+        "This {JERK}'s {COCK} is just plain intimidating! It has to be at least 8 inches, and it's quite thick...",
+        "Afraid for my life, I wrap my fingers around my attacker's {COCK} and gave it a {GENTLE} squeeze.",
+        "I start slow, getting a feel of the {HUGE} {COCK} in my hand. It's hot and heavy...",
+	"I feel like he did something to me. I suddenly *want* to {WANK} his {COCK} until he {EJACULATE}s."
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) Don't hurt me... Look, I'll do whatever you like... I'll make you feel good.",
+        "This {JERK} has beaten you, but it's not his ego he's interested in being stroked..",
+        "The bulge under this {JERK}'s clothes is intimidating. {SWEARING}, he wants you to take it out.",
+        "This {JERK}'s {COCK} is just plain intimidating! It has to be at least 8 inches, and it's quite thick.",
+        "Afraid for your life, you wrap your fingers around your attacker's {COCK} and give it a {GENTLE} squeeze.",
+        "You start slow, getting a feel of the {HUGE} {COCK} in your hand. It's hot and heavy...",
+	"You feel like he did something to you. You suddenly *want* to {WANK} his {COCK} until he {EJACULATE}s."
+    ],
+    "3rd Person" :
+    [
+        "({PRIMARY}) Don't hurt me... Look, I'll do whatever you like... I'll make you feel good...",
+        "That {JERK} has beaten {PRIMARY}, but it's not his ego he's interested in being stroked..."
+    ]
+}

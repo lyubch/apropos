@@ -1,0 +1,24 @@
+{
+    "1st Person": [
+        "She splutters for breath as I fuck her face even faster.",
+        "{PRIMARY} starts to choke as I fuck her {MOUTH}, but I don't care.",
+        "Can't breathe, {BITCH}? Better get me off fast then!",
+        "I start to fuck {PRIMARY}'s face, her throat gradually opening wider."
+    ],
+    "2nd Person": [
+        "She splutters for breath as you fuck her face even faster.",
+        "{PRIMARY} starts to choke as you fuck her {MOUTH}, but you don't care.",
+        "({ACTIVE}) Can't breathe, {BITCH}? Better get me off fast then!",
+        "You start to fuck {PRIMARY}'s face, her throat gradually opening wider."
+    ],
+    "3rd Person": [
+        "He starts to pump faster, and {PRIMARY}'s eyes clench shut as she tries to breathe between thrusts.",
+        "He holds {PRIMARY}'s head firmly, with the tip of his {SALTY} {COCK} hitting the back of her throat.",
+        "{PRIMARY}'s eyes widen as she takes in the pungent smell of {ACTIVE}'s balls and {COCK}.",
+        "{PRIMARY}'s eyes widen as she realises {ACTIVE}'s {COCK} is {JUICY}!",
+        "{ACTIVE}'s {COCK} looks like it tastes salty and sweaty, like it hasn't been washed in weeks.",
+        "Maybe {PRIMARY} can get him to pump his fluids down her throat instead of in her {FAROUSAL} {PUSSY}?",
+        "{PRIMARY} squeals and moans. She chokes a couple of times, but it doesn't slow him down.",
+        "The {ACTIVE} is fucking {PRIMARY}'s face hard, as if it was a {PUSSY}."
+    ]
+}

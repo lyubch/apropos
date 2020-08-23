@@ -1,0 +1,13 @@
+{
+    "1st Person": [
+        "Between orgasms, I have a moment of clarity; I'm being {FUCK}ed by a stranger.",
+        "Oh, you fucking love it, {BITCH}, she says as she finishes in my {WTVAGINAL} {PUSSY}. Don't deny it.",
+        "Nnnngh! {PLEADING}! Ahhh!"
+    ],
+    "2nd Person": [
+        "Between orgasms, you have a moment of clarity; you're being {FUCK}ed by a stranger."
+    ],
+    "3rd Person": [
+        ""
+    ]
+}

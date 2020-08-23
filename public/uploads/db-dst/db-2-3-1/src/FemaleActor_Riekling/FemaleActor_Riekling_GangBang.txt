@@ -1,0 +1,37 @@
+{
+    "1st Person": [
+        "The two {MONSTER}s' hands are all over me, grabbing me {ROUGH}ly as one of them prepares to {FUCK} me.",
+        "A {LEWD} thrill goes through my {HEAVING} {FLESH} as the {ACTIVE}'s hand grips my throat.",
+        "Unable to {SCREAM} from the pressure on my throat, I can only {MOAN} as I feel a {COCK} slap my {PUSSY}.",
+        "The {ACTIVE} pauses before {PENETRAT}ing me, his {VILE} hands all over my {HEAVING} hips.",
+        "Should I really be letting this happen? Am I that {HORNY}? Their {ROUGH} hands feel so good though...",
+        "The tiny {MONSTER}s gang up to {FUCK} me.",
+        "All I want to do is {FUCK} a couple of {ACTIVE}s... There's no shame in that... Is there?",
+        "I don't understand their strange language, but I know what they want from me.",
+        "They babble excitedly at the sight of my {FAROUSAL} {PUSSY}. My mind races, imagining what they're saying.",
+        "({PRIMARY}) Give it to me, boys. Fill my {PUSSY} and {ASSHOLE} with {THICK} {CUM}.",
+        "My {LUST} wells up in me again I once again fall deep into depravity."
+    ],
+    "2nd Person": [
+        "The two {MONSTER}s' hands are all over you, grabbing you {ROUGH}ly as one of them prepares to {FUCK} you.",
+        "A {LEWD} thrill goes through your as the {ACTIVE}'s hand grips your throat.",
+        "Unable to {SCREAM} from the pressure on your throat, you can only {MOAN} as you feel a {COCK} slap your {PUSSY}.",
+        "The {ACTIVE} pauses before {PENETRAT}ing you, his {VILE} hands all over your {HEAVING} hips.",
+        "Should you really be letting this happen? Are you that {HORNY}? Their {ROUGH} hands feel so good though...",
+        "The tiny {MONSTER}s gang up to {FUCK} you.",
+        "All you want to do is {FUCK} a couple of {ACTIVE}s... There's no shame in that... Is there?",
+        "You don't understand their strange language, but you know what they want from you.",
+        "They babble excitedly at the sight of your {PUSSY}. Your mind races, imagining what they're saying.",
+        "({PRIMARY}) Give it to me, boys. Fill my {PUSSY} and {ASSHOLE} with {THICK} {CUM}.",
+        "Your {LUST} wells up again, and once you again fall deep into depravity."
+    ],
+    "3rd Person": [
+        "The two {MONSTER}s' hands are all over {PRIMARY}, grabbing her {ROUGH}ly as one of them prepares to {FUCK} her.",
+        "Unable to {SCREAM} from the pressure on her throat, {PRIMARY} can only {MOAN} as a {COCK} slaps her {PUSSY}.",
+        "The {ACTIVE} pauses before {PENETRAT}ing {PRIMARY}, his {VILE} hands all over her {HEAVING} hips.",
+        "Should {PRIMARY} really be letting this happen? Is she that {HORNY}?",
+        "The tiny {MONSTER}s gang up to {FUCK} {PRIMARY}.",
+        "{PRIMARY} doesn't understand their strange language, but it's obvious what they want from her.",
+        "({PRIMARY}) Give it to me, boys. Fill my {PUSSY} and {ASSHOLE} with {THICK} {CUM}."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "1st Person": [
+        "I jerk him off slowly, catching spurts of pre-cum on my {HEAVING} {BOOBS} as he thrusts into my hands.",
+        "I run my hands along the length of his {COCK}, marvelling at the size of it. I wonder... could I take it all?",
+        "I shiver with barely suppressed lust as the {ACTIVE}'s {COCK} hardens in my hands... I want it inside me...",
+        "I moan quietly as I grind my clit against his barrel... gotta get myself wet enough to take this monster of a {COCK}...",
+        "My blush deepens as the {ACTIVE}'s {COCK} throbs in my hands, spurting pre-cum onto my {BOOBS}... I'm so wet...",
+        "I straddle the {ACTIVE}'s belly, eager to get my hands on that {BEAST} {COCK}... will this even fit in my {PUSSY}?",
+        "I grind my {PUSSY} against him as the {ACTIVE}'s {COCK} throbs in my hands, gradually extending to a dizzying length..."
+    ],
+    "2nd Person": [
+        "You jerk him off slowly, catching spurts of pre-cum on your {HEAVING} {BOOBS} as he thrusts into your hands.",
+        "You run your hands along the length of his {COCK}, marvelling at the size of it. You wonder... could you take it all?",
+        "You shiver with barely suppressed lust as the {ACTIVE}'s {COCK} hardens in your hands... You want it inside you...",
+        "You moan quietly as you grind your clit against his barrel... gotta get yourself wet enough to take this monster of a {COCK}...",
+        "Your blush deepens as the {ACTIVE}'s {COCK} throbs in your hands, spurting pre-cum onto your {BOOBS}... You're so wet...",
+        "You straddle the {ACTIVE}'s belly, eager to get your hands on that {BEAST} {COCK}... will this even fit in your {PUSSY}?",
+        "You grind your {PUSSY} against him as the {ACTIVE}'s {COCK} throbs in your hands, gradually extending to a dizzying length..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} seriously can't be considering fucking a horse, can she? She can't even get her hands around it's girth!",
+        "{PRIMARY}'s hands quickly tease the horse's {COCK} to it's full length, pressing up between her {HEAVING} {BOOBS}."
+    ]
+}

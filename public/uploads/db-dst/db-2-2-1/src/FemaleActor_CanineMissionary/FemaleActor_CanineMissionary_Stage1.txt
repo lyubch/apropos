@@ -1,0 +1,53 @@
+{
+    "1st Person" :
+    [
+        "I timidly lie back, and let {ACTIVE} stand over me. His {BEAST} {PENIS} looks so good...",
+        "I'm nervous about doing this, but {ACTIVE}'s wet tongue feels so good on my {BOOBS}.",
+        "I prop myself up and pet {ACTIVE} as he slobbers all over my {BOOBS}.",
+        "I shouldn't be doing this, lying in the dirt letting an animal take me...",
+        "The sight of {ACTIVE}'s {BEAST} {PENIS} makes my {PUSSY} tingle and my hips twitch.",
+        "I can't believe I'm about to let a dog fuck my {PUSSY}, but I'm excited at the prospect.",
+        "Hey boy, don't you want to give me your bone? You can bury it somewhere dirty!",
+        "My eyes are locked to the {ACTIVE}'s {BEAST} red {PENIS}, soon to be inside me.",
+        "My {WTVAGINAL} {PUSSY} twitches as I eye the animal's {BEAST} {PENIS}.",
+        "{ACTIVE} must be pretty excited, his {PENIS} is dripping pre-cum and the knot has swollen so large.",
+        "Sex! {ACTIVE} wants to have sex with me!",
+        "I swallow as my eyes are drawn to the {BEAST} {PENIS} emerging from {ACTIVE}'s furry sheath.", 
+        "I lick my lips at the sight of the dog's {PENIS}, and know that it will soon be in me.",
+        "{ACTIVE}'s {PENIS} is {BEAST} and dripping. It looks delicious.",
+        "My heart races as I drop to the ground, signalling my submission to {ACTIVE}. I feel like a {WHORE}.",
+        "I gulp when I see that the dog's {PENIS} is swelling.",
+        "You want into my {PUSSY} boy? I drop to he floor and spread my legs for him. Here you go boy!",
+        "It turns me on so much to be desired by this beast... Even a dog wants my body.",
+        "Mmmmm... {ACTIVE}'s tongue feels so good, my nipples are already painfully stiff!"				
+    ],
+    "2nd Person" :
+    [
+        "You timidly lie back, and let {ACTIVE} stand over you. His {BEAST} {PENIS} looks so good...",
+        "You're nervous about doing this, but {ACTIVE}'s wet tongue feels so good on your {BOOBS}.",
+        "You prop yourself up and pet {ACTIVE} as he slobbers all over your {BOOBS}.",
+        "You shouldn't be doing this, lying in the dirt letting an animal take you...",
+        "The sight of {ACTIVE}'s {BEAST} {PENIS} makes your {PUSSY} tingle and your hips twitch.",
+        "You can't believe you're about to let a dog fuck your {PUSSY}, but you're excited at the prospect.",
+        "Hey boy, don't you want to give you your bone? You can bury it somewhere dirty!",
+        "Your eyes are locked to the {ACTIVE}'s {BEAST} red {PENIS}, soon to be inside you.",
+        "Your {WTVAGINAL} {PUSSY} twitches as you eye the animal's {BEAST} {PENIS}.",
+        "{ACTIVE} must be pretty excited, his {PENIS} is dripping pre-cum and the knot has swollen so large.",
+        "Sex! {ACTIVE} wants to have sex with you!",
+        "You swallow as your eyes are drawn to the {BEAST} {PENIS} emerging from {ACTIVE}'s furry sheath.", 
+        "You lick your lips at the sight of the dog's {PENIS}, and know that it will soon be in you.",
+        "{ACTIVE}'s {PENIS} is {BEAST} and dripping. It looks delicious.",
+        "Your heart races as you drop to the ground, signalling your submission to {ACTIVE}. You feel like a {WHORE}.",
+        "You gulp when you see that the dog's {PENIS} is swelling.",
+        "({PRIMARY}) You want into your {PUSSY} boy? Here you go boy!",
+        "It turns you on so much to be desired by this beast... Even a dog wants your body.",
+        "Mmmmm... {ACTIVE}'s tongue feels so good, your nipples are already painfully stiff!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} lies down, her legs spreading slightly as she eyes {ACTIVE}'s {BEAST} {PENIS}.",
+        "{PRIMARY} pets and strokes {ACTIVE} as he enthusiastically slobbers over her {BOOBS}.",
+        "{ACTIVE}'s {COCK} is swollen and hard. Is he really getting aroused at a naked human girl?",
+        "{ACTIVE}'s {PENIS} looks delicious... Is {PRIMARY} going to let him have sex with her?"
+    ]
+}

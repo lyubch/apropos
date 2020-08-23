@@ -1,0 +1,28 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE}'s powerful cumshot pushes me over the edge, and I collapse, groping and kneading my breast as I cum.",
+        "I feel my cervix part and allow the {COCK} inside, {THICK} {CUM} threatening to impregnate me.",
+        "No, not yet! I'm not there yet! It's not fair... I desperately tweak and fondle my nipple, trying to make myself cum.",
+        "The perverse thought of being knocked up by a monster sends me into an intense orgasm.",
+        "A constant stream of {CUM} dripping from between my legs, I know an inhuman amount remains inside me.",
+        "The perverse thought of being knocked up by a monster send me into an intense orgasm.",
+        "{SWEARING}! Ngghhhh! Ahhh! Ahhh...!"
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE}'s powerful cumshot pushes you over the edge, and you collapse, groping and kneading your breast as you cum.",
+        "You feel your cervix part and allow the {COCK} inside, {THICK} {CUM} threatening to impregnate you.",
+        "No, not yet! You're not there yet! It's not fair. You desperately tweak and fondle your nipple, trying to make yourself cum.",
+        "The perverse thought of being knocked up by a monster sends you into an intense orgasm.",
+        "A constant stream of {CUM} dripping from between your legs, you know an inhuman amount remains inside you.",
+        "The perverse thought of being knocked up by a monster send you into an intense orgasm.",
+        "({PRIMARY}) {SWEARING}! Ngghhhh! Ahhh! Ahhh...!"
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE}'s climax pushes {PRIMARY} over the edge, and she collapses, groping and kneading her breast as she cums.",
+        "A constant stream of {CUM} drips from between {PRIMARY}'s legs. An inhuman amount must still be inside.",
+        "Even as her attacker cums messily into her {PUSSY}, {PRIMARY} continues to grope and knead her breast."
+    ]
+}

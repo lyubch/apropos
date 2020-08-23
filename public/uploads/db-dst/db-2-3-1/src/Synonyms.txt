@@ -1,0 +1,768 @@
+{
+	"{ACCEPT}": [
+		"accept",
+		"receive",
+		"take"
+	],
+	"{ACCEPTING}": [
+		"accepting",
+		"approving",
+		"enthusiastic",
+		"excited",
+		"gracious",
+		"receptive",
+		"welcoming",
+		"willing"
+	],
+	"{ANIMAL}": [
+		"animal",
+		"beast",
+       		"creature"
+	], 
+	"{ASSHOLE}": [
+		"anus",
+		"ass",
+		"asshole",
+		"back door",
+		"bowels",
+		"butthole",
+		"rectum",
+		"sphincter"
+	],
+	"{BALLS}": [
+		"ballsack",
+		"nuts",
+		"nutsack",
+		"sack",
+		"scrotum",
+		"testicles"
+	],
+	"{BEASTCOCK}": [
+		"appendage",
+		"cock",
+		"organ",
+		"prick",
+		"shaft"
+	],
+	"{BEASTLY}": [
+		"bloated",
+		"bulbous",
+		"dirty",
+		"dripping",
+		"engorged",
+		"flared",
+		"glistening",
+		"hot",
+		"inhuman",
+		"meaty",
+		"pulsating",
+		"raging",
+		"swollen",
+		"throbbing"
+	],
+	"{BITCH}": [
+		"bimbo",
+		"bitch",
+		"cock slave",
+		"cocksleeve",
+		"cocksucker",
+		"cum dump",
+		"cumslut",
+		"cunt",
+		"fucktoy",
+		"freak",
+		"pervert",
+		"piece of trash",
+		"sex slave",
+		"skank",
+		"slave",
+		"slut",
+		"whore"
+	],
+	"{BOOBS}": [
+		"boobs",
+		"boobies",
+		"breasts",
+		"jugs",
+		"tits",
+		"titties"
+	],
+	"{BREED}": [
+		"breed",
+		"copulate with",
+		"fertilize",
+		"impregnate",
+		"inseminate",
+		"mate with",
+		"mount",
+		"ride",
+		"rut with"
+	],
+	"{BUG}": [
+		"arthropod",
+		"beast",
+		"bug",
+       		"creature",
+		"horror",
+		"insect",
+		"monster"
+	],  
+	"{BUGCOCK}": [
+		"appendage",
+		"bug-cock",
+		"organ",
+		"ovipositor",
+		"prick",
+		"proboscis",
+		"shaft",
+		"tube"
+	],
+	"{BUTTOCKS}": [
+		"ass",
+		"ass cheeks",
+		"backside",
+		"bottom",
+		"booty",
+		"butt",
+		"butt cheeks",
+		"buttocks",
+		"cheeks",
+		"rear"
+	],    
+	"{COCK}": [
+		"boner",
+		"cock",
+		"dick",
+		"dong",
+		"erection",
+		"member",
+		"prick",
+		"shaft",
+		"schlong"
+	],
+	"{COCKHEAD}": [
+		"bulb",
+		"cockhead",
+		"crown",
+		"end",
+		"head",
+		"knob",
+		"mushroom",
+		"tip"
+	],
+	"{CREAM}": [
+		"cunt juice",
+		"fuck juice",
+		"lubrication",
+		"nectar",
+		"pussy juice",
+		"twat juice"
+	],
+	"{CUM}": [
+		"cum",
+		"ejaculate",
+		"jism",
+		"jizz",
+		"seed",
+		"semen",
+		"sperm",
+		"spooge",
+		"spunk"
+	],
+	"{DEAD}": [
+		"decaying",
+		"decomposing",
+		"diseased",
+		"fetid",
+		"grotesque",
+		"horrific",
+		"infested",
+		"oozing",
+		"putrid",
+		"rancid",
+		"rotting",
+		"slimy",
+		"unclean",
+		"undead",
+		"worm ridden"
+	],
+	"{DISPLAY}": [
+		"display",
+		"exhibit",
+		"offer",
+		"present",
+		"reveal",
+		"splay",
+		"unveil"
+	],
+	"{EJACULATE}": [
+		"blast",
+		"burst",
+		"erupt",
+		"spew",
+       		"spurt",
+		"squirt",
+		"unload"
+	],
+	"{EXPLOR}": [
+		"delv",
+		"explor",
+		"prob"
+	],
+	"{FEAR}": [
+		"despair",
+		"distress",
+		"dread",
+		"fear",
+		"fright",
+		"horror",
+		"panic",
+		"terror"
+	],
+	"{FFAMILY}": [
+		"aunt",
+		"cousin",
+		"girlfriend",
+		"mother",
+		"niece",
+		"sister",
+		"wife",
+		"woman"
+	],
+	"{FLESH}": [
+		"body",
+		"figure",
+		"flesh",
+		"form",
+		"frame"
+	],
+	"{FOREIGN}": [
+		"bizarre",
+		"burning",
+		"foreign",
+		"hot",
+		"secret",
+		"strange",
+		"unknown"
+	],
+	"{FUCK}": [
+		"bang",
+		"drill",
+		"fuck",
+		"hammer",
+		"hump",
+		"nail",
+		"plow",
+		"pound",
+		"screw",
+		"skewer"
+	],
+	"{GENTLE}": [
+		"affectionate",
+		"calm",
+		"delicate",
+		"intimate",
+		"loving",
+		"soft",
+		"tender"
+	],
+	"{GENWT}": [
+		"burning",
+		"gaping",
+		"ravished",
+		"raw",
+		"sore",
+		"stretched",
+		"swollen",
+		"tender",
+		"tingling"
+	],
+	"{GIRTH}": [
+		"girth",
+		"mass",
+		"size",
+		"thickness",
+		"width"
+	],    
+	"{HEAVING}": [
+		"beautiful",
+		"firm",
+		"heaving",
+		"hot",
+		"lush",
+		"nubile",
+		"perky",
+		"pert",
+		"pretty",
+		"sensitive",
+		"sexy",
+		"smoking",
+		"smooth",
+		"soft",
+		"supple",
+		"youthful"
+	],
+	"{HOLE}": [
+		"entrance",
+		"hole",
+		"opening",
+		"orifice",
+		"passage"
+	],
+	"{HORNY}": [
+		"aroused",
+		"eager",
+		"excited",
+		"horny",
+		"lecherous",
+		"lustful",
+		"turned on",
+		"worked up"
+	],
+	"{HUGELOAD}": [
+		"enormous",
+		"giant",
+		"huge",
+		"massive"
+	],
+	"{HUGE}": [
+		"big",
+		"bulky",
+		"engorged",
+		"enormous",
+		"fat",
+		"huge",
+		"immense",
+		"imposing",
+		"large",
+		"massive",
+		"oversized",
+		"swollen",
+		"thick"
+	],
+	"{INSERT}": [
+		"implant",
+		"insert",
+		"skewer",
+		"spear",
+		"thrust",
+		"work"
+	],
+	"{JERK}": [
+		"asshole",
+		"bastard",
+		"fucker",
+		"jerk",
+		"motherfucker",
+		"pig"
+	],
+	"{JIGGL}": [
+		"bounc",
+		"gyrat",
+		"jiggl",
+		"undulat",
+		"wiggl",
+		"wobbl",
+		"wriggl"
+	],
+	"{LARGELOAD}": [
+		"copious",
+		"large",
+		"noticable",
+		"sizable"
+	],
+	"{LEWD}": [
+		"carnal",
+		"disgraceful",
+		"indecent",
+		"immodest",
+		"lecherous",
+		"lewd",
+		"lustful",
+		"obscene",
+		"perverted",
+		"sensual",
+		"shameless",
+		"shameful",
+		"wicked"
+	],
+	"{LOVE}": [
+		"adoration",
+		"devotion",
+		"fascination",
+		"infatuation",
+		"love",
+		"passion",
+		"yearning"
+	],
+	"{LUST}": [
+		"arousal",
+		"bliss",
+		"delight",
+		"desire",
+		"ecstasy",
+		"euphoria",
+		"lust",
+		"need",
+		"passion",
+		"pleasure"
+	],
+	"{MACHINE}": [
+		"machine",
+		"construct",
+		"automaton",
+		"animunculus",
+		"robot",
+		"golem"
+	],
+	"{METAL}": [
+		"metal",
+		"hard",
+		"unyielding",
+		"cold"
+	],
+	"{MFAMILY}": [
+		"boyfriend",
+		"brother",
+		"cousin",
+		"father",
+		"husband",
+		"man",
+		"nephew",
+		"uncle"
+	],
+	"{MOAN}": [
+		"gasp",
+		"groan",
+		"grunt",
+		"moan",
+		"pant",
+		"sigh"
+	],
+	"{MONSTER}": [
+		"beast",
+		"brute",
+       		"creature",
+		"fiend",
+		"monster",
+		"thing"
+	], 
+	"{MOUTH}": [
+		"gullet",
+		"mouth",
+		"throat"
+	],
+	"{NUDE}": [
+		"bare",
+		"defenseless",
+		"exposed",
+		"helpless",
+		"naked",
+		"nude",
+		"vulnerable"
+	],
+	"{PAIN}": [
+		"agony",
+		"discomfort",
+		"distress",
+		"pain",
+		"torment"
+	],
+	"{PENETRAT}": [
+		"invad",
+		"impal",
+		"penetrat",
+		"pierc",
+		"plung",
+		"prob"
+	],
+	"{PLEADING}": [
+		"Don't",
+		"It hurts",
+		"Let me go",
+		"No",
+		"Please",
+		"Stop",
+		"Wait",
+		"You can't",
+		"You shouldn't"
+	],
+	"{PROBE}": [
+		"probe",
+		"phallus",
+		"proboscis",
+		"dwemer penis",
+		"device"
+	],
+	"{PUSSY}": [
+		"box",
+		"cooch",
+		"cunt",
+		"fuck-hole",
+		"hole",
+		"pussy",
+		"snatch",
+		"twat",
+		"vagina",
+		"womanhood"
+	],
+	"{QUICK}": [
+		"brisk",
+		"frantic",
+		"hurried",
+		"quick",
+		"rapid",
+		"swift",
+		"urgent"
+	],
+	"{QUIVER}": [
+		"quiver",
+		"shiver",
+		"shudder",
+		"spasm",
+		"tremor"
+	],
+	"{RAP}": [
+		"abus",
+		"debas",
+		"defil",
+		"desecrat",
+		"forc",
+		"impal",
+		"penetrat",
+		"rap",
+		"ravag",
+		"us",
+		"violat"
+	],
+	"{ROUGH}": [
+		"aggressive",
+		"brutal",
+		"cruel",
+		"harsh",
+		"hateful",
+		"heartless",
+		"merciless",
+		"rough",
+		"savage",
+		"violent"
+	],
+	"{SALTY}": [
+		"acrid",
+		"aromatic",
+		"dank",
+		"fragrant",
+		"earthy",
+		"musky",
+		"nutty",
+		"odiferous",
+		"potent",
+		"pungent",
+		"salty",
+		"savory",
+		"sour",
+		"strong",
+		"zesty"
+	],
+	"{SCREAM}": [
+		"howl",
+		"scream",
+		"shriek",
+		"snivel",
+		"squeal",
+		"wail",
+		"whimper",
+		"yell",
+		"yelp"
+	],
+	"{SCUM}": [
+		"scum",
+		"filth",
+		"waste",
+		"dirt",
+		"grime",
+		"dust",
+		"mire",
+		"muck",
+		"slop"
+	],
+	"{SLIME}": [
+		"fluid",
+		"goo",
+		"gunk",
+		"ooze",
+		"slime"
+	],
+	"{SLIMY}": [
+		"gooey",
+		"gross",
+		"lubed up",
+		"oozing",
+		"slimy",
+		"steaming",
+		"thick",
+		"viscous"
+	],
+	"{SMALL}": [
+		"dainty",
+		"delicate",
+		"little",
+		"petite",
+		"small",
+		"tiny"
+	],
+	"{SLOW}": [
+		"deliberate",
+		"gradual",
+		"hesitant",
+		"languid",
+		"lethargic",
+		"quiet",
+		"slow",
+		"sluggish",
+		"unhurried"
+	],    
+	"{SODOMIZE}": [
+		"ass-fuck",
+		"butt-fuck",
+		"fuck",
+		"hump",
+		"ream"
+	],
+	"{SOLID}": [
+		"artificial",
+		"bumpy",
+		"cold",
+		"fake",
+		"greased",
+		"hard",
+		"monstrous",
+		"oiled",
+		"ridged",
+		"rigid",
+		"rock hard",
+		"rough",
+		"scary",
+		"slick",
+		"solid",
+		"stiff",
+		"strangely shaped"
+	],
+	"{STRAPON}": [
+		"strap-on",
+		"dildo",
+		"toy",
+		"rod"
+	],
+	"{STRUGGLE}": [
+		"fight",
+		"resist",
+		"struggle"
+	],
+	"{SUBMISSIVE}": [
+		"defeated",
+		"fearful",
+		"obedient",
+		"passive",
+		"powerless",
+		"resigned",
+		"submissive",
+		"timid"
+	],
+	"{SUBMIT}": [
+		"relent",
+		"submit",
+		"succumb",
+		"surrender",
+		"yield"  
+	],
+	"{SUCK}": [
+		"lick",
+		"slurp",
+		"suck",
+		"swallow",
+		"tongue"
+	],
+	"{SWEARING}": [
+		"Holy shit",
+		"Oh shit",
+		"Oh damn",
+		"Fuck",
+		"Shit",
+		"Oh fuck",
+		"Holy fuck",
+		"Dear gods",
+		"Gods",
+		"Oh my gods"
+	],
+	"{TASTY}": [
+		"aromatic",
+		"delectable",
+		"delicious",
+		"exquisite",
+		"fragrant",
+		"juicy",
+		"luscious",
+		"rich",
+		"succulent",
+		"sweet",
+		"tasty",
+		"wonderful",
+		"yummy"
+	],
+	"{THICK}": [
+		"frothy",
+		"glistening",
+		"gooey",
+		"heavy",
+		"messy",
+		"mucky",
+		"potent",
+		"ropey",
+		"slimy",
+		"sloppy",
+		"sticky",
+		"thick",
+		"viscous"
+	],
+	"{UNTHINKING}": [
+		"unthinking",
+		"programmed",
+		"automatic",
+		"uncaring",
+		"featureless",
+		"scary"
+	],
+	"{VILE}": [
+		"awful",
+		"disgusting",
+		"dreadful",
+		"filthy",
+		"foul",
+		"grimy",
+		"heinous",
+		"horrible",
+		"nauseating",
+		"putrid",
+		"revolting",
+		"vile"
+	],
+	"{WANK}": [
+		"jack",
+		"jerk",
+		"milk",
+		"pump",
+		"wank",
+		"work",
+		"yank"
+	],
+	"{WET}": [
+		"coated",
+		"covered",
+		"damp",
+		"drenched",
+		"slick",
+		"soaked",
+		"wet"
+	]
+}

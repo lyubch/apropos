@@ -1,0 +1,19 @@
+{
+    "1st Person" :
+    [
+        "Before I realize what has happened, a {ACTIVE} has forced his {BEASTLY} {COCK} into my {MOUTH}!",
+	"This {ACTIVE} is going to {RAP}e my face!",
+	"The bleating tells me I'd better just {SUBMIT} and {SUCK} this {ACTIVE}."
+    ],
+    "2nd Person" :
+    [
+        "Before you realize what has happened, a {ACTIVE} has forced his {BEASTLY} {COCK} into your {MOUTH}!",
+	"This {ACTIVE} is going to {RAP}e your face!",
+	"The bleating tells you you'd better just {SUBMIT} and {SUCK} this {ACTIVE}."
+    ],
+    "3rd Person" :
+    [
+        "Before she realizes what has happened, a {ACTIVE} has forced his {BEASTLY} {COCK} into her {MOUTH}!",
+	"This {ACTIVE} is going to {RAP}e her face!"
+    ]
+}

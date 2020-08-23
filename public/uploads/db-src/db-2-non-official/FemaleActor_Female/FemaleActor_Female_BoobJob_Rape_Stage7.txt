@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "I'm nothing more than a masturbatory aid to this girl...",
+        "Naked and with my {BOOBS} pushed out, all of my feminine charms are completely {DISPLAY}ed.",
+        "I {QUIVER}, thinking of every woman in the place with their hands on my {BOOBS}, feeling them up.",
+        "({ACTIVE}) Your {BOOBS} are so perfect! So {HEAVING} and round. You're such a {BITCH}.",
+        "They're cheering on my {HEAVING} {FLESH}, and the sexual tension is sky high. I fear what will happen...",
+        "It seems like every woman here will have a chance with their hands on my {BOOBS}.",
+        "I lean back, completely {NUDE}, with my {BOOBS} wrapped around a {HUGE} {STRAPON}.",
+        "Mouth open and {BOOBS} pushed up, I feel a little more {HORNY} for being so {SUBMISSIVE}."
+    ],
+    "2nd Person": [
+        "You're nothing more than a masturbatory aid to this girl...",
+        "You can't restrain yourself, and you {ROUGH}ly pinch your nipples as his {STRAPON} {FUCK}s between your {BOOBS}.",
+        "Naked and with your {BOOBS} pushed out, all of your feminine charms are completely {DISPLAY}ed.",
+        "You {QUIVER}, thinking of every woman in the place with their hands on your {BOOBS}, feeling them up.",
+        "({ACTIVE}) Your {BOOBS} are so perfect! So {HEAVING} and round. You're such a {BITCH}.",
+        "They're cheering on your {HEAVING} {FLESH}, and the sexual tension is sky high. You fear what will happen...",
+        "It seems like every woman here will have a chance with their hands on your {BOOBS}.",
+        "You lean back, completely {NUDE}, with your {BOOBS} wrapped around a {HUGE} {STRAPON}.",
+        "Mouth open and {BOOBS} pushed up, you feel a little more {HORNY} for being so {SUBMISSIVE}."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s nothing more than a masturbatory aid to this girl...",
+        "Naked and with her {BOOBS} pushed out, all of {PRIMARY}'s feminine charms are completely {DISPLAY}ed.",
+        "({ACTIVE}) Your {BOOBS} are so perfect! So {HEAVING} and round. You're such a {BITCH}.",
+        "They're cheering on her {HEAVING} {FLESH}, and the sexual tension is sky high. What will happen next..."
+    ]
+}

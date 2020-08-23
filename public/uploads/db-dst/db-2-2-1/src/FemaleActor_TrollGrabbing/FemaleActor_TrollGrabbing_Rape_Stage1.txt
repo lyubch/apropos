@@ -1,0 +1,32 @@
+{
+    "1st Person" :
+    [
+        "I struggle, but the {ACTIVE} is too strong and sinks its {BEAST} {PENIS} into my {ASS}.",
+        "Clutching right around my waist with a single massive paw, the {ACTIVE} pushes slowly and deeply into my {ASS}.",
+        "Shrieking and fighting, I'm beaten to the ground before a {BEAST} {COCK} splits my {ASS}.",
+        "with powerful arms the beast pulls me down, spearing my {ASS} on its monstrously {BEAST} {COCK}.",
+        "A tortured squeal escapes my lips as the {ACTIVE} roughly spreads my cheeks and fucks its {COCK} into me.",
+        "I squawk out loud in genuine alarm as the bulbous head squeezes into me like it's about to split me in two.",
+        "Oh Gods, it's in my {ASS}! Where did a troll learn to do that?!",
+        "No... it won't fit... The {ACTIVE}'s {BEAST} {COCK} stretches me going on.",
+        "Ah, it hurts! Not in the {ASS}! Please!"
+    ],
+    "2nd Person" :
+    [
+        "You struggle, but the {ACTIVE} is too strong and sinks its {BEAST} {PENIS} into your {ASS}.",
+        "Clutching right around your waist with a single massive paw, the {ACTIVE} pushes slowly and deeply into your {ASS}.",
+        "Shrieking and fighting, you're beaten to the ground before a {BEAST} {COCK} splits your {ASS}.",
+        "with powerful arms the beast pulls you down, spearing your {ASS} on its monstrously {BEAST} {COCK}.",
+        "A tortured squeal escapes your lips as the {ACTIVE} roughly spreads your cheeks and fucks its {COCK} into you.",
+        "You squawk out loud in genuine alarm as the bulbous head squeezes into you like it's about to split you in two.",
+        "Oh Gods, it's in your {ASS}! Where did a troll learn to do that?!",
+        "No... it won't fit... The {ACTIVE}'s {BEAST} {COCK} stretches you going on.",
+        "({PRIMARY}) Ah, it hurts! Not in the {ASS}! Please!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} struggles, but the {ACTIVE} is too strong and sinks its {BEAST} {PENIS} into her {ASS}.",
+        "Clutching right around her waist with a single massive paw, the {ACTIVE} pushes slowly and deeply into {PRIMARY}'s {ASS}.",
+        "Shrieking and fighting, {PRIMARY}'s beaten to the ground before a {BEAST} {COCK} splits her {ASS}."        
+    ]
+}

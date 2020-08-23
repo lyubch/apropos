@@ -1,0 +1,19 @@
+{
+    "1st Person" :
+    [
+        "Just the thought of the this bastard seeing me topless makes me embarrassed but also a little giddy.",
+        "This brute's {HUGE} {PENIS} feels hot and hard between my {BOOBS}.",
+        "It's humiliating to have my {BOOBS} wrapped around my rapist's {PENIS}"        
+    ],
+    "2nd Person" :
+    [
+         "Just the thought of the this bastard seeing you topless makes you embarrassed but also a little giddy.",
+         "The brute's {HUGE} {PENIS} feels hot and hard between your {BOOBS}.",
+         "It's humiliating to have your {BOOBS} wrapped around your rapist's {PENIS}"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} looks embarassed to be topless in front of that bastard.",
+        "It must be humiliating for {PRIMARY} to have her {BOOBS} wrapped around her rapist's {PENIS}."
+    ]
+}

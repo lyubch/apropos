@@ -1,0 +1,39 @@
+{
+    "1st Person": [
+        "My pelvis starts to buck as I finger myself. This isn't the time for this, but I can't stop.",
+        "Between the look of this {BEAST} {COCK} and my fingers working my {PUSSY}, I'm already about to cum.",
+        "Arousal getting the better of me, I start to lose myself. No one would find out if I just...",
+        "Even though it's calm right now, it might get spooked if I do anything. Perhaps just a touch?",
+        "Faced with this mountain of horse flesh, I feel my knees go weak and my {PUSSY} tingle.",
+        "Mmm... Surely other woman have done this...? It would be okay then, right?",
+        "Still trying to decide what to do, I finger fuck myself harder, my hips bucking.",
+        "My fingers start to push into my {PUSSY}, opening it without thinking. Oh Gods, I can't really do that...",
+        "Arousal now getting the better of me, I stroke myself to a frenzy as my imagination goes wild.",
+        "Oh Gods... Would I even be able to take that thing?",
+        "Indecision paralyses me, my mind telling me no while every part of my body urges me forward.",
+        "My thighs are streaked with {CREAM}, and my nipples ache. My chest flushes and my mouth hangs open, panting."
+    ],
+    "2nd Person": [
+        "Your pelvis starts to buck as you finger yourself. This isn't the time for this, but you can't stop.",
+        "Between the look of this {BEAST} {COCK} and your fingers working your {PUSSY}, you're already about to cum.",
+        "Arousal getting the better of you, you start to lose yourself. No one would find out if you just...",
+        "Even though it's calm right now, it might get spooked if you do anything. Perhaps just a touch?",
+        "Faced with this mountain of horse flesh, you feel your knees go weak and your {PUSSY} tingle.",
+        "Mmm... Surely other woman have done this...? It would be okay then, right?",
+        "Still trying to decide what to do, you finger fuck yourself harder, your hips bucking.",
+        "Your fingers push into your {PUSSY}, opening it without thinking. Oh Gods, you can't really do that...",
+        "Arousal now getting the better of you, you stroke yourself to a frenzy as your imagination goes wild.",
+        "Oh Gods... Would you even be able to take that thing?",
+        "Indecision paralyses you, your mind telling you no while every part of your body urges you forward.",
+        "Your thighs are streaked with {CREAM}, and your nipples ache. Your chest flushes and your mouth hangs open."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s pelvis starts to buck as she fingers herself. This isn't the time for this...",
+        "Even though it's calm right now, it might get spooked if {PRIMARY} does anything. Perhaps just a touch?",
+        "Faced with this mountain of horse flesh, {PRIMARY} seems obviously aroused.",
+        "Mmm... Surely other woman have done this...? It would be okay then, right?",
+        "{PRIMARY} finger fucks herself harder, her hips bucking.",
+        "{PRIMARY}'s fingers start to push deeper into her {PUSSY}. Oh Gods, she can't really be thinking...",
+        "Oh Gods... Would {PRIMARY} even be able to take that thing?"
+    ]
+}

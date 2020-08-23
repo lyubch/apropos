@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "I'm terrified, cold sweat pouring off me, but I want to do this. I'm going to seduce and fuck a troll!",
+        "My heart thunders in my chest, deafening me to the world. All I'm aware of is the {BEAST} {COCK} in front of me.",
+        "I grind my {FAROUSAL} {PUSSY} up and down the {ACTIVE}'s {PENIS}, savouring the feeling and anticipation.",
+        "I lean back into the {ACTIVE}, fondling my breast, drunk on the power of having this effect on a monster.",
+        "Oh Gods, is this because of me? You like my little body? It's so big! Let me make it feel good!",
+        "My lover's {BEAST} {COCK} is as angry looking as the {ACTIVE} himself, ready to do wonderful things to my {PUSSY}.",
+        "I squeeze my {BOOBS} as I lie back upon the beast, legs and {PUSSY} spread, readying myself for his {COCK} to enter me.",
+        "I lie back against my monstrous lover, thrilling at the feel and the heat of his leathery, bristled hide against my skin.",
+        "The beast's {COCK} sways in front of me, and I spread my legs wide in preparation.",
+        "Gods, is it wrong that I just want to sit on this {BEAST} {COCK} and ride it all night?",
+        "I want to suck on this {BEAST} {COCK} until it's super fucking stiff so it can fuck me all night long."        
+    ],
+    "2nd Person" :
+    [
+        "You're terrified, cold sweat pouring off you, but you want to do this. You're going to seduce and fuck a troll!",
+        "Your heart thunders in your chest, deafening you to the world. All you're aware of is the {BEAST} {COCK} in front of you.",
+        "You grind your {FAROUSAL} {PUSSY} up and down the {ACTIVE}'s {PENIS}, savouring the feeling and anticipation.",
+        "You lean back into the {ACTIVE}, fondling your breast, drunk on the power of having this effect on a monster.",
+        "({PRIMARY}) Oh Gods, is this because of me? You like my little body? It's so big! Let you make it feel good!",
+        "Your lover's {BEAST} {COCK} is as angry looking as the {ACTIVE} himself, ready to do wonderful things to your {PUSSY}.",
+        "You squeeze your {BOOBS} as you lie back upon the beast, legs and {PUSSY} spread, readying yourself for his {COCK}.",
+        "You lie back against your monstrous lover, thrilling at the feel of his leathery, bristled hide against your skin.",
+        "The beast's {COCK} sways in front of you, and you spread your legs wide in preparation.",
+        "Gods, is it wrong that you just want to sit on this {BEAST} {COCK} and ride it all night?",
+        "You want to suck on this {BEAST} {COCK} until it's super fucking stiff so it can fuck you all night long."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} squeezes her {BOOBS} and lies back upon the beast, legs and {PUSSY} spread, ready his {COCK} to enter her.",
+        "{PRIMARY} lies back against her monstrous lover. The sight of her small, soft body against such a brute is intoxicating.",
+        "The beast's {COCK} sways in front of {PRIMARY}, and she spreads her legs wide in preparation."       
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "Ok, I can do this. Maybe if I just focus on the {TASTY} {CUM} in his swaying {BALLS}...?",
+	"He's really {RAP}ing my {MOUTH} now. I can barely breathe.",
+	"I am {SUBMISSIVE}, and {LEWD}ly begin {SUCK}ing his {COCK}.",
+	"It started as rape, but now I can't wait to swallow his {CUM}."
+    ],
+    "2nd Person": [
+        "Ok, you can do this. Maybe if you just focus on the {TASTY} {CUM} in his swaying {BALLS}...?",
+	"He's really {RAP}ing your {MOUTH} now. You can barely breathe.",
+	"You are {SUBMISSIVE}, and {LEWD}ly begin {SUCK}ing his {COCK}.",
+	"It started as rape, but now you can't wait to swallow his {CUM}."
+    ],
+    "3rd Person": [
+        "He's really {RAP}ing her {MOUTH} now. She can barely breathe.",
+	"She is {SUBMISSIVE}, and {LEWD}ly begins {SUCK}ing his {COCK}."
+    ]
+}

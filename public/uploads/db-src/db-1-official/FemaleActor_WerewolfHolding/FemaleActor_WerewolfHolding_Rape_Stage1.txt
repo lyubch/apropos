@@ -1,0 +1,35 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} holds my waist tightly, pumping me quickly on his {BEAST} {PENIS}.",
+        "The {ACTIVE} lifts me roughly before thrusting himself violently between my spread legs.",
+        "The first thrust is deep, all the way to the knot, and I scream in pain. The beast doesn't stop, nor do I.",
+        "As I'm lifted and impaled on the {BEAST} {PENIS}, all fight goes from my body, and I hang limp.",
+        "I stare up, terrified, at the monstrous slavering beast that pounding violently into my {PUSSY}.",
+        "Ah! This isn't real! I'm being penetrated by a beast's {PENIS}....",
+        "My cries go ignored, as the werewolf pushes his {BEAST} {PENIS} into my {WTVAGINAL} {PUSSY}.",
+        "No! Please! Not like this! (sob) No... Please no...",
+        "The {ACTIVE} slides me wide open and plugs me fully with its dripping mass.",
+        "The beast lifts me up and begins to thrust the full length of it into my womb."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} holds your waist tightly, pumping you quickly on his {BEAST} {PENIS}.",
+        "The {ACTIVE} lifts you roughly before thrusting himself violently between your spread legs.",
+        "The first thrust is deep, all the way to the knot, and you scream in pain. The beast doesn't stop, nor do you.",
+        "As you're lifted and impaled on the {BEAST} {PENIS}, all fight goes from your body, and you hang limp.",
+        "You stare up, terrified, at the monstrous slavering beast that pounding violently into your {PUSSY}.",
+        "Ah! This isn't real! You're being penetrated by a beast's {PENIS}....",
+        "Your cries go ignored, as the werewolf pushes his {BEAST} {PENIS} into your {WTVAGINAL} {PUSSY}.",
+        "({PRIMARY}) No! Please! Not like this! (sob) No... Please no...",
+        "The {ACTIVE} slides you wide open and plugs you fully with its dripping mass.",
+        "The beast lifts you up and begins to thrust the full length of it into your womb."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s arms hang limp as the {ACTIVE} spears her on its {BEAST} {PENIS}.",
+        "All fight disappears from {PRIMARY} with the first monstrous thrust.",
+        "The {ACTIVE} effortlessly picks up {PRIMARY} by the waist, ignoring her sobs as it pushes between her legs.",
+        "Oh my, it went all the way to the base in one thrust! That must have hurt..."
+    ]
+}

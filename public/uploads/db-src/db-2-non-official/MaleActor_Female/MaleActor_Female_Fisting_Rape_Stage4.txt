@@ -1,0 +1,19 @@
+{
+    "1st Person": [
+        "{PRIMARY} gives out a low, painful {SCREAM} each time I punch into her {PUSSY}.",
+        "That's it! I can feel her cervix! My fingers push at the opening, and she grunts in {PAIN}.",
+        "I'm fist {FUCK}ing her now, her {PUSSY}'s gonna be ruined..."
+    ],
+    "2nd Person": [
+        "{PRIMARY} gives out a low, painful {SCREAM} each time you punch into her {PUSSY}.",
+        "That's it! You can feel her cervix! Your fingers push at the opening, and she grunts in {PAIN}.",
+        "You're fist {FUCK}ing her now, her {PUSSY}'s gonna be ruined..."
+    ],
+    "3rd Person": [
+        "His hand is pumping into {PRIMARY} {ROUGH}ly, to the point where he's actually fistfucking her.",
+        "{PRIMARY} {SCREAM}s and cums almost every time {ACTIVE}'s knuckles slip past her pussy lips.",
+        "His hand is {INSERT}ing in and out of {PRIMARY} with such ease... her {PUSSY} must be ruined...",
+        "Your hand is so {HUGE} it must be going to tear {PRIMARY} apart!",
+        "({PRIMARY}) Ugh... That's it! It won't go in any further! {PLEADING}... no more!"
+    ]
+}

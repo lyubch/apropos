@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "({ACTIVE}) Enough! This is how you pound a {BITCH}'s {PUSSY}!",
+        "I tried, but it wasn't enough. I can only weakly hold myself up while the {ACTIVE} fucks me raw.",
+        "I give up, totally exhausted, but it's not enough for the {ACTIVE}...",
+        "The {ACTIVE} starts to fuck me hard, fast and deep, fucking one orgasm out of me after another.",
+        "{ACTIVE} is bouncing me up and down and pumping my hips. I squeal, much to their delight.",
+        "({ACTIVE}) We're gonna fuck your {PUSSY} till it breaks.",
+        "Fill me with your {CUM}, I beg you!"
+    ],
+    "2nd Person": [
+        "({ACTIVE}) Enough! This is how you pound a {BITCH}'s {PUSSY}!",
+        "You tried, but it wasn't enough. You can only weakly hold yourself up while the {ACTIVE} fucks you raw.",
+        "You give up, totally exhausted, but it's not enough for the {ACTIVE}...",
+        "The {ACTIVE} starts to fuck you hard, fast and deep, fucking one orgasm out of you after another.",
+        "{ACTIVE} is bouncing you up and down and pumping your hips. You squeal, much to their delight.",
+        "({ACTIVE}) We're gonna fuck your {PUSSY} till it breaks.",
+        "({PRIMARY}) Fill me with your {CUM}, I beg you!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} is trembling, her hips twitching. Has she already came?",
+        "{PRIMARY} holds herself up, her arm shaking. She won't be able to take that kind of fucking for long.",
+        "The {ACTIVE} has lost patience with {PRIMARY}, and starts to fuck her hard and deep.",
+        "It's hard and fast, and it looks so good. {PRIMARY} is completely at his mercy now."
+    ]
+}

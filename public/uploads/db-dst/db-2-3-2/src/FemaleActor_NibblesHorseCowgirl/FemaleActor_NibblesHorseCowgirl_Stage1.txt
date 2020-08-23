@@ -1,0 +1,24 @@
+{
+    "1st Person": [
+        "I {WANK} him off {SLOW}ly, catching squirts of pre-cum on my {HEAVING} {BOOBS} as he {INSERT}s into my hands.",
+        "I run my hands along the length of his {COCK}, marvelling at the {GIRTH} of it. I wonder... Could I {ACCEPT} it all?",
+        "I {QUIVER} with barely suppressed {LUST} as the {ACTIVE}'s {COCK} gets {MAROUSAL} in my hands... I want it inside me...",
+        "I {MOAN} quietly as I grind my clit against his barrel... Gotta get myself wet enough to take this monster of a {COCK}...",
+        "My blush deepens as the {ACTIVE}'s {COCK} throbs in my hands, {EJACULATE}ing pre-cum onto my {BOOBS}... I'm so {WET}...",
+        "I straddle the {ACTIVE}'s belly, eager to get my hands on that {BEASTLY} {COCK}... Will this even fit in my {PUSSY}?",
+        "I grind my {PUSSY} against him as the {ACTIVE}'s {COCK} throbs in my hands, {SLOW}ly extending to a dizzying length..."
+    ],
+    "2nd Person": [
+        "You {WANK} him off {SLOW}ly, catching squirts of pre-cum on your {HEAVING} {BOOBS} as he {INSERT}s into your hands.",
+        "You run your hands along the length of his {COCK}, marvelling at the {GIRTH} of it. You wonder... Could you {ACCEPT} it all?",
+        "You {QUIVER} with barely suppressed {LUST} as the {ACTIVE}'s {COCK} gets {MAROUSAL} in your hands... You want it inside you...",
+        "You {MOAN} quietly as you grind your clit against his barrel... Gotta get yourself wet enough to take this monster of a {COCK}...",
+        "Your blush deepens as the {ACTIVE}'s {COCK} throbs in your hands, {EJACULATE}ing pre-cum onto your {BOOBS}... You're so {WET}...",
+        "You straddle the {ACTIVE}'s belly, eager to get your hands on that {BEASTLY} {COCK}... Will this even fit in your {PUSSY}?",
+        "You grind your {PUSSY} against him as the {ACTIVE}'s {COCK} throbs in your hands, {SLOW}ly extending to a dizzying length..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} seriously can't be considering {FUCK}ing a horse, can she? She can't even get her hands around it's {GIRTH}!",
+        "{PRIMARY}'s hands quickly tease the {ACTIVE}'s {COCK} to it's full length, pressing up between her {HEAVING} {BOOBS}."
+    ]
+}

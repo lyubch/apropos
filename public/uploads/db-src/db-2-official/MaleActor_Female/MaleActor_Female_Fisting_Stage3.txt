@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "The relief that shoots through her body as my hand finally slips inside is clear.",
+        "({PRIMARY}) Uh... That's it... It's in... Now... Keep going... deeper... I can take it...",
+        "I give a push, and my whole fist enters {PRIMARY}'s body. She grunts and trembles, but keeps going."
+    ],
+    "2nd Person": [
+        "The relief that shoots through her body as your hand finally slips inside is clear.",
+        "({PRIMARY}) Uh... That's it... It's in... Now... Keep going... deeper... I can take it...",
+        "You give a push, and your whole fist enters {PRIMARY}'s body. She grunts and trembles, but keeps going."
+    ],
+    "3rd Person": [
+        "{ACTIVE} starts pumping {PRIMARY} again as his hand finally slips inside her {WTVAGINAL} {PUSSY}.",
+        "His whole hand is inside, but he's still pushing! How much is she supposed to take?!",
+        "{PRIMARY} screams in pain and humiliation.",
+        "{PRIMARY} rocks her body to help force his hand inside.",
+        "For what seems like an eternity he pounds into {PRIMARY}, punishing her body again and again.",
+        "{PRIMARY} pleads to {ACTIVE} for it to finish, pushed to her limit and tears streaming down her face."
+    ]
+}

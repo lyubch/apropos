@@ -1,0 +1,14 @@
+{
+    "1st Person": [
+        "You are eyeing my {BOOBS} {LEWD}ly, do you like them? Perhaps you want to feel them a bit better?",
+        "I see {ACTIVE} drooling in the sight of my {BOOBS}, should I let him?"
+    ],
+    "2nd Person": [
+        "({PRIMARY}) You are eyeing my {BOOBS} {LEWD}ly, do you like them? Perhaps you want to feel them a bit better?",
+        "You see {ACTIVE} drooling in the sight of your {BOOBS}, should you let him?"
+    ],
+    "3rd Person": [
+        "({PRIMARY}) You are eyeing my {BOOBS} {LEWD}ly, do you like them? Perhaps you want to feel them a bit better?",
+        "{PRIMARY} sees {ACTIVE} drooling in the sight of her {BOOBS}, should she let him?"
+    ]
+}

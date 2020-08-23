@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I'm terrified, but if I don't go further soon...",
+        "({ACTIVE}) Come on, {BITCH}, stop stalling! Perhaps you'd rather I fucked you with my sword?",
+        "Please... you're too big... I can't take any more...",
+        "I swing my hips around, trying to make myself wetter before I start to fuck him.",
+        "I'm not so sure how much longer I can tease him for, before he gets impatient...",
+        "They eye my nude form hungrily. I'm shamefully wet by this point, and my knees are ready to buckle.",
+        "({ACTIVE}) {SWEARING} {BITCH}, you sure are wet! I guess you want this!"
+    ],
+    "2nd Person": [
+        "You're terrified, but if you don't go further soon...",
+        "({ACTIVE}) Come on, {BITCH}, stop stalling! Perhaps you'd rather I fucked you with my sword?",
+        "({PRIMARY}) Please... you're too big... I can't take any more...",
+        "You swing your hips around, trying to make yourself wetter before you start to fuck him.",
+        "You're not so sure how much longer you can tease him for, before he gets impatient...",
+        "They eye your nude form hungrily. You're shamefully wet by this point, and your knees are ready to buckle.",
+        "({ACTIVE}) {SWEARING} {BITCH}, you sure are wet! I guess you want this!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} seems to paralyzed, unable to go any further. She's shaking and sweating with fear.",
+        "{PRIMARY} needs to start fucking him soon, it's doubtful if he'll satisfied with that for much longer.",
+        "({ACTIVE}) No more stalling, {BITCH}, I want to see you all the way to the base!",
+        "{PRIMARY} looks terrified, her whole body is trembling. Sooner or later her knees are going to give out."
+    ]
+}

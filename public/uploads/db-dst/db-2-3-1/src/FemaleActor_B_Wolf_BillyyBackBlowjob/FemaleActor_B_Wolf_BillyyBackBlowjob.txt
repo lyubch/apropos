@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "I can just about see the bright red tip as the wolf squares off against me, and it's enough to give me a really dirty idea...",
+        "The wolf squirms about on his back, proudly {DISPLAY}ing his {MAROUSAL} {COCK}... I guess I could help him with that...",
+        "The wolf watches me closely with a low growl as I near him, but he doesn't protest as I roll him onto his back."
+    ],
+    "2nd Person": [
+        "You can just about see the bright red tip as the wolf squares off against you, and it's enough to give you a really dirty idea...",
+        "The wolf squirms about on his back, proudly {DISPLAY}ing his {MAROUSAL} {COCK}... You guess you could help him with that...",
+        "The wolf watches you closely with a low growl as you near him, but he doesn't protest as you roll him onto his back."
+    ],
+    "3rd Person": [
+        "{PRIMARY} can just about see the bright red tip as the wolf squares off against her, and it's enough to give her a really dirty idea...",
+        "The wolf squirms about on his back, proudly {DISPLAY}ing his {MAROUSAL} {COCK}... {PRIMARY} guesses she could help him with that...",
+        "The wolf watches {PRIMARY} closely with a low growl as she nears him, but he doesn't protest as she rolls him onto his back."
+    ]
+}

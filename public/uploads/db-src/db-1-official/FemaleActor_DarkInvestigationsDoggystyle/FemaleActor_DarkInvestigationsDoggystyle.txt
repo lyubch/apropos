@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "{ACTIVE} lifts my hips roughly as he starts to fuck me. It's demeaning, but I like this rough treatment.",
+        "My feet kick wildly as {ACTIVE} pushes his {PENIS} deep into my {FAROUSAL} {PUSSY}.",
+        "I feel the head of his {COCK} press forcefully against me, and then into me as my body accepts his.",
+        "I moan as {ACTIVE} enters me. I've wanted this for so long... fuck me... fuck me so hard...",
+        "I shudder and my legs twitch uncontrollably as {ACTIVE} penetrates me.",
+        "Oh Gods, I can't believe the size of his {COCK}... it's a monster!",
+        "({ACTIVE}) {SWEARING} {BITCH}, you sure are wet!",
+        "Fuck me like a {WHORE}!",
+        "Please! Fuck me hard until you fill me with your {THICK} {CUM}!",
+        "{ACTIVE} easily inserts his {HUGE} {PENIS} into my {FAROUSAL} {PUSSY}.",
+        "{ACTIVE} rams his {PENIS} home in one searing stroke."
+    ],
+    "2nd Person": [
+        "{ACTIVE} lifts your hips as he starts to fuck you. It's demeaning, but you like this rough treatment.",
+        "Your feet kick wildly as {ACTIVE} pushes his {PENIS} deep into your {FAROUSAL} {PUSSY}.",
+        "You feel the head of his {COCK} press forcefully against you, and then into you as your body accepts his.",
+        "You moan as {ACTIVE} enters you. You've wanted this for so long...",
+        "({PRIMARY}) Fuck me... fuck me so hard...",
+        "You shudder and your legs twitch uncontrollably as {ACTIVE} penetrates you.",
+        "Oh Gods, You can't believe the size of his {COCK}... it's a monster!",
+        "({ACTIVE}) {SWEARING} {BITCH}, you sure are wet!",
+        "({PRIMARY}) Fuck me like a {WHORE}!",
+        "({PRIMARY}) Please! Fuck me hard until you fill me with your {THICK} {CUM}!",
+        "{ACTIVE} easily inserts his {HUGE} {PENIS} into your {FAROUSAL} {PUSSY}.",
+        "{ACTIVE} rams his {PENIS} home in one searing stroke."
+    ],
+    "3rd Person": [
+        "Head down and ass up like a dog, {PRIMARY} is fucked roughly by {ACTIVE}.",
+        "{PRIMARY}'s feet are thrashing about. Is {ACTIVE} hurting her, is he that big?",
+        "That's so hot, just a rough, dirty fuck, like a pair of animals.",
+        "{PRIMARY} is just a slutty {BITCH}, she loves being abused by men."
+    ]
+}

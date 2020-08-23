@@ -1,0 +1,35 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} doesn't show me any mercy, and continues to pound deep into my {WTANAL} {ASS}.",
+        "The violent fucking, and my {BOOBS} pushed hard into the ground... It's starting to turn me on...",
+        "Dirt and filth coat my face and chest, and my {WTANAL} {ASS} feels like it's on fire.",
+        "The {ACTIVE}'s entire weight is bearing down on me, driving every inch of his {PENIS} into my {ASS}.",
+        "I'm at {ACTIVE}'s mercy, and he shows me none, painfully spearing my {ASS} on his {PENIS}.",
+        "{ACTIVE} plunges up my {ASS} violently, shaking my whole body.",
+        "Oh Gods... ugh.... aah... it hurts... I think this guy really wants to hurt me...",
+        "({ACTIVE}) You're crying already? Its not even all the way in yet!",
+        "({ACTIVE}) I'm gonna fuck your {ASS} until you can't fucking walk.",
+        "To be honest, I'm kind of loving it; the dirtiness of it, the domination."        
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} doesn't show you any mercy, and continues to pound deep into your {WTANAL} {ASS}.",
+        "The violent fucking, and your {BOOBS} pushed hard into the ground... It's starting to turn you on...",
+        "Dirt and filth coat your face and chest, and your {WTANAL} {ASS} feels like it's on fire.",
+        "The {ACTIVE}'s entire weight is bearing down on you, driving every inch of his {PENIS} into your {ASS}.",
+        "You're at {ACTIVE}'s mercy, and he shows you none, painfully spearing your {ASS} on his {PENIS}.",
+        "{ACTIVE} plunges up your {ASS} violently, shaking your whole body.",
+        "Oh Gods... ugh.... aah... it hurts... you think this guy really wants to hurt you...",
+        "({ACTIVE}) You're crying already? Its not even all the way in yet!",
+        "({ACTIVE}) I'm gonna fuck your {ASS} until you can't fucking walk.",
+        "To be honest, you're kind of loving it; the dirtiness of it, the domination."
+    ],
+    "3rd Person" :
+    [
+        "Dirt and Gods-know-what is all over {PRIMARY}'s face as she's pounding into the ground by the {ACTIVE}",
+        "The {ACTIVE} is piledriving right into {PRIMARY}'s {ASS}, all the way to the base.",
+        "Even though this is a violent, degrading attack, something about it is hot...",
+        "{ACTIVE} assfucks {PRIMARY} hard, and her screams are horrible to hear."        
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "1st Person": [
+        "My foot waves wildly in the air as the {ACTIVE} starts to get really deep in me.",
+        "Just fucking do it! Knock me up if you can!",
+        "I can feel its thrusts becoming more violent and urgent...",
+        "The thrusting inside me becomes more urgent and I realise that it's about to cum.",
+        "Each thrust pushes me closer towards what I know is going to be an earth shattering climax.",
+        "The fight in me is totally gone, and I just lie back and take it.",
+        "The {ACTIVE} pistons in and out, pumping the full length of his {COCK} into me over and over again.",
+        "I let out a long cry of ecstasy as I cum with the {ACTIVE} still pumping away inside me.",
+        "Urghhh! Just fucking cum and get... gahh... it over with!",
+        "I close my eyes and try to imagine myself somewhere else.",
+        "The {ACTIVE} clutches my slender leg in his strong hands, opening my legs as he slams his pelvis into mine.",
+        "I feel the familiar fluttering in my belly of an orgasm starting to break.",
+        "The diminutive creature is putting his whole body into it now, fucking me hard and deep.",
+        "My leg is pushed back up to my chest hard each time the {ACTIVE} thrusts, my bare foot waving in the air.",
+        "I lie back, tormented by each new thrust and sensation, waiting for the explosion of {CUM}.",
+        "Head back and accepting the violation, I begin to anticipate the flood of {CUM} I'll soon have inside me.",
+        "I can feel that the creature is almost there..."
+    ],
+    "2nd Person": [
+        "Your foot waves wildly in the air as the {ACTIVE} starts to get really deep in you.",
+        "({PRIMARY}) Just fucking do it! Knock me up if you can!",
+        "You can feel its thrusts becoming more violent and urgent...",
+        "The thrusting inside you becomes more urgent and you realise that it's about to cum.",
+        "Each thrust pushes you closer towards what you know is going to be an earth shattering climax.",
+        "The fight in you is totally gone, and you just lie back and take it.",
+        "The {ACTIVE} pistons in and out, pumping the full length of his {COCK} into you over and over again.",
+        "You let out a long cry of ecstasy as you cum with the {ACTIVE} still pumping away inside you.",
+        "({PRIMARY}) Urghhh! Just fucking cum and get... gahh... it over with!",
+        "You close your eyes and try to imagine yourself somewhere else.",
+        "The {ACTIVE} clutches your slender leg in his hands, opening your legs as he slams his pelvis into yours.",
+        "You feel the familiar fluttering in your belly of an orgasm starting to break.",
+        "The diminutive creature is putting his whole body into it now, fucking you hard and deep.",
+        "Your leg is pushed back up to your chest hard each time he thrusts, your bare foot waving in the air.",
+        "You lie back, tormented by each new thrust and sensation, waiting for the explosion of {CUM}.",
+        "Head back, accepting the violation, you begin to anticipate the flood of {CUM} you'll soon have inside you.",
+        "You can feel that the creature is almost there..."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s foot waves wildly in the air as the {ACTIVE} starts to get really deep in her.",
+        "({PRIMARY}) Just fucking do it! Knock me up if you can!",
+        "The thrusting inside {PRIMARY} becomes more urgent and she realises that it's about to cum.",
+        "Each thrust pushes {PRIMARY} closer towards what is going to be an earth shattering climax.",
+        "The fight in {PRIMARY} is totally gone, and she just lies back to take it.",
+        "The {ACTIVE} pistons in and out, pumping the full length of his {COCK} into {PRIMARY} over and over again.",
+        "{PRIMARY} lets out a long cry of ecstasy as she cums with the {ACTIVE} still pumping away inside her.",
+        "({PRIMARY}) Urghhh! Just fucking cum and get... gahh... it over with!",
+        "{PRIMARY} closes her eyes and try to imagine herself somewhere else."
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "Naked and trembling, I kneel in front of the {ACTIVE} and take his {PENIS} in my hand.",
+        "He can't be serious? He wants me to deepthroat this? It's {HUGE} and {SALTY}...",
+        "Please... if you don't hurt me anymore... I'll take your whole {PENIS} in my {MOUTH}...",
+        "({ACTIVE}) Like what you see, {BITCH}? Bet you can't wait to wrap your lips around that!",
+        "({ACTIVE}) I better see you take it all, {BITCH}, balls deep! I want to hear you choke on it!",
+        "The {ACTIVE}'s {SALTY} {PENIS} is intimidating... How am I going to manage all of this?",
+        "The feeling of helplessness turns me on, and I'm disgusted with myself.",
+        "({ACTIVE}) If you know what's good for you, you'll get on your knees for me.",
+        "Don't kill me... I'll swallow your {CUM}... please let me have your {CUM}...",
+        "If you let me go, I'll swallow anything you put in my mouth. Cum, just please...",
+        "Afraid for my life, I wrap my fingers around the {ACTIVE}'s {PENIS} and gave it a gentle squeeze."
+    ],
+    "2nd Person": [
+        "Naked and trembling, you kneel in front of the {ACTIVE} and take his {PENIS} in your hand.",
+        "He can't be serious? He wants you to deepthroat this? It's {HUGE} and {SALTY}...",
+        "({PRIMARY}) Please... if you don't hurt me anymore... I'll take your whole {PENIS} in your {MOUTH}...",
+        "({ACTIVE}) Like what you see, {BITCH}? Bet you can't wait to wrap your lips around that!",
+        "({ACTIVE}) I better see you take it all, {BITCH}, balls deep! I want to hear you choke on it!",
+        "The {ACTIVE}'s {SALTY} {PENIS} is intimidating... How are you going to manage all of this?",
+        "The feeling of helplessness turns you on, and you're disgusted with yourself.",
+        "({ACTIVE}) If you know what's good for you, you'll get on your knees for me.",
+        "({PRIMARY}) Don't kill me... I'll swallow your {CUM}... please let me have your {CUM}...",
+        "({PRIMARY}) If you let me go, I'll swallow anything you put in my mouth. Cum, just please...",
+        "Afraid for your life, you wrap your fingers around the {ACTIVE}'s {PENIS} and gave it a gentle squeeze."
+    ],
+    "3rd Person": [
+        "Watching this huge man loom over {PRIMARY}'s naked body is such a powerful sight...",
+        "{PRIMARY}'s struggling to get her hand around the {ACTIVE}'s {PENIS}, she'll never fit it down her throat!",
+        "{PRIMARY} stares at the {HUGE} {PENIS}, clearly afraid to put it in her mouth.",
+        "{PRIMARY} seems resigned, and takes the {ACTIVE}'s {PENIS} in her hand, stroking it gently."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "I look over, aroused and terrified to watch the troll grunt and bellow as it climaxes in my {WTVAGINAL} {PUSSY}.",
+        "Grabbing me roughly around my thigh and breast, the beast forces me all the way down its cock, both of us cumming hard.",
+        "I pull my legs wider, allowing the creature to get deeper and deeper into my {PUSSY}, and I cum hard.",
+        "My eyes roll back into my head and my teeth clench as a final orgasm crashes through my {CUM}-bloated body.",
+        "My eyes roll into the back of my head as the brute fills my {WTVAGINAL} {PUSSY} with {CUM}.",
+        "As the {ACTIVE} finishes I can feel his {CUM} sloshing around in my womb."
+    ],
+    "2nd Person": [
+        "You look over, aroused and terrified to watch the troll grunt and bellow as it climaxes in your {WTVAGINAL} {PUSSY}.",
+        "Grabbing you roughly around your thigh and breast, the beast forces you all the way down its cock, both of you cumming hard.",
+        "You pull your legs wider, allowing the creature to get deeper and deeper into your {PUSSY}, and you cum hard.",
+        "Your eyes roll back into your head and your teeth clench as a final orgasm crashes through your {CUM}-bloated body.",
+        "Your eyes roll into the back of your head as the brute fills your {WTVAGINAL} {PUSSY} with {CUM}.",
+        "As the {ACTIVE} finishes you can feel his {CUM} sloshing around in your womb."
+    ],
+    "3rd Person": [
+        "{PRIMARY} looks over, aroused and terrified to watch the troll grunt and bellow as it climaxes in her {WTVAGINAL} {PUSSY}.",
+        "Grabbing {PRIMARY} roughly around her thigh and breast, the beast forces her all the way down its cock, both of them cumming hard.",
+        "{PRIMARY} pulls your legs wider, allowing the creature to get deeper and deeper into her {PUSSY}, and she cums hard.",
+        "{PRIMARY}'s eyes roll back into her head and her teeth clench as a final orgasm crashes through her {CUM}-bloated body.",
+        "{PRIMARY}'s eyes roll into the back of her head as the brute fills her {WTVAGINAL} {PUSSY} with {CUM}.",
+        "As the {ACTIVE} finishes {PRIMARY} can feel his {CUM} sloshing around in her womb."
+    ]
+}

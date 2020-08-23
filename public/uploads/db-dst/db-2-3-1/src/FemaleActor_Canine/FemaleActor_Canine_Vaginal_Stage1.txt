@@ -1,0 +1,34 @@
+{
+    "1st Person" :
+    [
+        "I drop to all fours, raising my {ASSHOLE}. {ACTIVE} mounts me, his forelegs over my shoulders, and {FUCK}s me.",
+        "I arch my back and raise my {PUSSY}, {QUIVER}ing and panting as {ACTIVE} mounts me.",
+        "AAAH! It's in! It feels so strange, much hotter and bigger than a human {COCK}.",
+        "I {MOAN} in {LUST} as {ACTIVE} {INSERT}s its {BEASTLY} {COCK} inside my {FAROUSAL} {PUSSY}.",
+        "{ACTIVE} wastes no time getting on me and {INSERT}ing his {COCK} into my {FAROUSAL} {PUSSY}.",
+        "Arching my back, I let {ACTIVE} {BREED} me and {RAP}e me hard and deep.",
+        "{ACTIVE} drives every inch of his long, {BEASTLY} {COCK} up my {PUSSY}.",
+        "I never knew I was a {BITCH} who'd even do it with a dog!",
+        "His hind legs scrabble at the floor as he {INSERT}s his {BEASTLY} red {COCK} into my {FAROUSAL} {PUSSY}.",
+        "{ACTIVE}'s {BALLS} feel so heavy as they slap against my thighs."        
+    ],
+    "2nd Person" :
+    [
+        "You drop to all fours, raising your {ASSHOLE}. {ACTIVE} mounts you, forelegs over your shoulders, and {FUCK}s you.",
+        "You arch your back and raise your {PUSSY}, {QUIVER}ing and panting as {ACTIVE} mounts you.",
+        "AAAH! It's in! It feels so strange, much hotter and bigger than a human {COCK}.",
+        "You {MOAN} in {LUST} as {ACTIVE} {INSERT}s its {BEASTLY} {COCK} inside your {FAROUSAL} {PUSSY}.",
+        "{ACTIVE} wastes no time getting on you and {INSERT}ing his {COCK} into your {FAROUSAL} {PUSSY}.",
+        "Arching your back, you let {ACTIVE} climb onto you and {RAP}e you hard and deep.",
+        "{ACTIVE} drives every inch of his long, {BEASTLY} {COCK} up your {PUSSY}.",
+        "You never knew you were a {BITCH} who'd even do it with a dog!",
+        "His hind legs scrabble at the floor as he {INSERT}s his {BEASTLY} red {COCK} into your {FAROUSAL} {PUSSY}.",
+        "{ACTIVE}'s {BALLS} feel so heavy as they slap against your thighs."
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} leaps up onto {PRIMARY}'s back, and starts to thrust into her steadily.",
+        "{SWEARING}, {PRIMARY}'s letting a dog {BREED} her!",
+        "{PRIMARY} arches her back as {ACTIVE} enters her, clearly enjoying the {ANIMAL}'s {COCK}."
+    ]
+}

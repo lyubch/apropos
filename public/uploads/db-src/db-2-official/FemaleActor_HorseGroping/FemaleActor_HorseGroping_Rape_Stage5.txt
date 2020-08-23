@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "Still fingering myself furiously, I stroke the length of the {ACTIVE}'s {PENIS}.",
+        "My heart thunders in my ears as I wank off both myself and this animal.",
+        "Such a {HUGE} {PENIS}... My {PUSSY} aches, imagining what it would be like to be fucked by it.",
+        "So far, so good... If he's still calm as I use my hand, he shouldn't mind me using my tongue...?",
+        "It's so big and heavy, I want it inside me...",
+        "I'll make sure its balls are empty before I go...",
+        "I start to yearn for the creature thrust itself inside me, to fill me with its {CUM}.",
+        "It's so big and heavy, I want it inside me...",
+        "I can't even reach my hand around it... My fingers churn my {PUSSY}, knowing I want to try.",
+        "The head is so strange... What would that feel like in my {PUSSY}?",
+        "The {ACTIVE} is starting to get restless... I've been teasing it too long, I need to do something!"
+    ],
+    "2nd Person" :
+    [
+        "Still fingering yourself furiously, you stroke the length of the {ACTIVE}'s {PENIS}.",
+        "Your heart thunders in your ears as you wank off both yourself and this animal.",
+        "Such a {HUGE} {PENIS}... Your {PUSSY} aches, imagining what it would be like to be fucked by it.",
+        "So far, so good... If he's still calm as you use your hand, he shouldn't mind you using your tongue..",
+        "It's so big and heavy, you want it inside you...",
+        "You'll make sure its balls are empty before you go...",
+        "You start to yearn for the creature thrust itself inside you, to fill you with its {CUM}.",
+        "It's so big and heavy, you want it inside you...",
+        "You can't even reach your hand around it... Your fingers churn your {PUSSY}, knowing you want to try.",
+        "The head is so strange... What would that feel like in your {PUSSY}?",
+        "The {ACTIVE} is starting to get restless... You've been teasing it too long, you need to do something!"
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} remains calm as {PRIMARY} begins to stroke its {PENIS}. Is this what it wanted all along?",
+        "{PRIMARY}'s hand has never left her {PUSSY} since she started. Is she really getting turned on by an animal?",
+        "{PRIMARY} looks lost in thought as she wanks the {ACTIVE}."
+    ]
+}

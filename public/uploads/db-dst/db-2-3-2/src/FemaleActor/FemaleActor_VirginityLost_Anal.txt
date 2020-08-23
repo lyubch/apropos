@@ -1,0 +1,17 @@
+{
+    "1st Person": [
+        "Warmth starts to fill me as I feel the strange sensation of {CUM} in my {ASSHOLE}.",
+        "{SWEARING}! I've never had anyone there. And it was so damn {HUGE}. How? How did it even fit?",
+        "I'm so glad I stopped pretending I didn't want it in my {ASSHOLE}.",
+        "I thought I knew what my {ASSHOLE} was there for before, but I now know I was wrong."
+    ],
+    "2nd Person": [
+        "Warmth starts to fill you as you feel the strange sensation of {CUM} in your {ASSHOLE}.",
+        "{SWEARING}! You've never had anyone there. And it was so damn {HUGE}. How? How did it even fit?",
+        "You're so glad you stopped pretending you didn't want it in your {ASSHOLE}.",
+        "You thought you knew what your {ASSHOLE} was there for before, but you now know you were wrong."
+    ],
+    "3rd Person": [
+        "{PRIMARY} looks strained and exhausted, even a little hurt. Was that her first time in the {ASSHOLE}?"
+    ]
+}

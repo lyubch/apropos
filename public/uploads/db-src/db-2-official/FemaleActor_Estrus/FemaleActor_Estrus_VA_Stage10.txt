@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "I feel the eggs shifting around in my belly as I try to catch my breath, sickening me to my very core.",
+        "I just need some time to get my strength back... Gods, I hope nothing else finds me out here...",
+        "I think I'll just lie here for a bit... floor is good... floor is comfortable... floor doesn't fill me with eggs...",
+        "It feels like my entire body is slick with its slime... I need to take a bath... as soon as I can walk again...",
+        "My body still twitches intermittently, it'll take me weeks to recover from all that...",
+        "My stuffed belly is uncomfortably compressed beneath me, but I'm too tired to roll over...",
+        "My {PUSSY} and {ASS} are gaping wide, a slow stream of slime, {CUM} and my {CREAM} seeping out of me..."
+    ],
+    "2nd Person": [
+        "You feel the eggs shifting around in your belly as you try to catch your breath, sickening you to your very core.",
+        "You just need some time to get your strength back... Gods, you hope nothing else finds you out here...",
+        "You think you'll just lie here for a bit... floor is good... floor is comfortable... floor doesn't fill you with eggs...",
+        "It feels like your entire body is slick with its slime... You need to take a bath... as soon as you can walk again...",
+        "Your body still twitches intermittently, it'll take you weeks to recover from all that...",
+        "Your stuffed belly is uncomfortably compressed beneath you, but you're too tired to roll over...",
+        "Your {PUSSY} and {ASS} are gaping wide, a slow stream of slime, {CUM} and your {CREAM} seeping out of you..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} feels the eggs shifting around in her belly as she tries to catch her breath, sickening her to her very core.",
+        "{PRIMARY} just needs some time to get her strength back... Gods, she hopes nothing else finds her out here...",
+        "{PRIMARY} thinks she'll just lie here for a bit... floor is good... floor is comfortable... floor doesn't fill her with eggs...",
+        "It feels like {PRIMARY}'s entire body is slick with its slime... She needs to take a bath... as soon as she can walk again...",
+        "{PRIMARY}'s body still twitches intermittently, it'll take her weeks to recover from all that...",
+        "{PRIMARY}'s stuffed belly is uncomfortably compressed beneath her, but she's too tired to roll over...",
+        "{PRIMARY}'s {PUSSY} and {ASS} are gaping wide, a slow stream of slime, {CUM} and your {CREAM} seeping out of her..."
+    ]
+}

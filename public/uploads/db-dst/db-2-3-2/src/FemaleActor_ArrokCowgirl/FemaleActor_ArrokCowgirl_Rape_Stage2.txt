@@ -1,0 +1,36 @@
+{
+    "1st Person": [
+        "I'm terrified, but if I don't go further soon...",
+        "({ACTIVE}) Come on, {BITCH}, stop stalling! Perhaps you'd rather I {FUCK}ed you with my sword?",
+        "{PLEADING}... You're too {HUGE}... I can't take any more...",
+        "I swing my hips around, trying to make myself wetter before I start to {FUCK} him.",
+        "I'm not so sure how much longer I can tease him for, before he gets impatient...",
+        "They eye my {HEAVING} form. I'm {LEWD}ly {WET} by this point, and my knees are ready to buckle.",
+        "({ACTIVE}) {SWEARING} {BITCH}, you sure are {WET}! I guess you want this!"
+    ],
+    "2nd Person": [
+        "You're terrified, but if you don't go further soon...",
+        "({ACTIVE}) Come on, {BITCH}, stop stalling! Perhaps you'd rather I {FUCK}ed you with my sword?",
+        "({PRIMARY}) {PLEADING}... You're too {HUGE}... I can't take any more...",
+        "You swing your hips around, trying to make yourself wetter before you start to {FUCK} him.",
+        "You're not so sure how much longer you can tease him for, before he gets impatient...",
+        "They eye your {HEAVING} form. You're {LEWD}ly {WET} by this point, and your knees are ready to buckle.",
+        "({ACTIVE}) {SWEARING} {BITCH}, you sure are {WET}! I guess you want this!"
+    ],
+    "3rd Person": [
+        "{PRIMARY} seems to paralysed, unable to go any further. She's {QUIVER}ing and sweating with {FEAR}.",
+        "({ACTIVE}) Look at all the {CUM} squeezing out of {PRIMARY}'s {PUSSY}! What a {BITCH}!",
+        "{PRIMARY} {SCREAM}s in {PAIN} as she is forced to spear herself on {ACTIVE}'s {HUGE} {COCK}.",
+        "{PRIMARY} draws herself up to the {COCKHEAD} of the {ACTIVE}'s {COCK}, before falling heavily back down onto it.",
+        "{PRIMARY} feels every long, deep penetration on {ACTIVE}'s {COCK} in her stomach, and {SCREAM}s in {PAIN}.",
+        "{PRIMARY} hesitates at the top of the {ACTIVE}'s {COCK}, clearly steeling herself for a deep penetration.",
+        "{PRIMARY} is ashamed to admit it, but even though this {COCK} is different, she is no stranger to being {RAP}ed.",
+        "{PRIMARY} squeezes her eyes in {FEAR}, unable to come to terms with {ACTIVE}'s penetration... With her rape.",
+        "'Be a good {BITCH}' {ACTIVE} grunts, 'The sooner you take my {CUM}, the sooner you get to go home.'",
+        "Tears are running down {PRIMARY}'s face as she's forced to take part in her own rape.",
+        "'What are you {SCREAM}ing for, {BITCH}?' {ACTIVE} asks, 'This is a normal night for a {BITCH} like you.'",
+        "{PRIMARY} needs to start {FUCK}ing him soon, it's doubtful if he'll satisfied with that for much longer.",
+        "({ACTIVE}) No more stalling, {BITCH}, I want to see you all the way to the base!",
+        "{PRIMARY} looks terrified, her {FLESH} is {QUIVER}ing. Sooner or later her knees are going to give out."
+    ]
+}

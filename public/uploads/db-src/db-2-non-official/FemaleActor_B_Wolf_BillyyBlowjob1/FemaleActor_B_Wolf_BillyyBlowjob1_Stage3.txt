@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "My lips are stretched every time he {INSERT}s his {COCK} against them... Go on... Just a little harder...",
+        "I have to steady myself against the wolf's thigh, his strong hips thrusting the full length of his {COCK} in and out of my {MOUTH}.",
+        "With his {COCK} now {FUCK}ing {ROUGH} in and out of my {MOUTH}, a part of me wishes he was {FUCK}ing my {PUSSY} instead...",
+        "I can't help but {MOAN} and squirm at the rough treatment as the wolf {FUCK}s my {MOUTH} hard.",
+        "My {PUSSY} is so {WET}... but I can't spare a hand to touch myself without risking losing my balance, he's really {FUCK}ing my {MOUTH} now.",
+        "The wolf picks up the pace, easily slipping his {COCK} down my throat... Mmmm... I hope I can {ACCEPT} his knot..."
+    ],
+    "2nd Person": [
+        "Your lips are stretched every time he {INSERT}s his {COCK} against them... Go on... Just a little harder...",
+        "You have to steady yourself against the wolf's thigh, his strong hips thrusting the full length of his {COCK} in and out of your {MOUTH}.",
+        "With his {COCK} now {FUCK}ing {ROUGH} in and out of your {MOUTH}, a part of you wishes he was {FUCK}ing your {PUSSY} instead...",
+        "You can't help but {MOAN} and squirm at the rough treatment as the wolf {FUCK}s your {MOUTH} hard.",
+        "Your pussy is so {WET}... but you can't spare a hand to touch yourself without losing your balance, he's really {FUCK}ing your {MOUTH} now.",
+        "The wolf picks up the pace, easily slipping his {COCK} down your throat... Mmmm... You hope you can {ACCEPT} his knot..."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s lips are stretched every time he {INSERT}s his {COCK} against them... Go on... Just a little harder...",
+        "{PRIMARY} has to steady herself against the wolf's thigh, his strong hips thrusting the full length of his {COCK} in and out of her {MOUTH}.",
+        "With his {COCK} now {FUCK}ing {ROUGH} in and out of her {MOUTH}, a part of {PRIMARY} wishes he was {FUCK}ing her {PUSSY} instead...",
+        "{PRIMARY} can't help but {MOAN} and squirm at the rough treatment as the wolf {FUCK}s her {MOUTH} hard.",
+        "{PRIMARY}'s pussy is so {WET}... but she can't spare a hand to touch herself without losing her balance, he's really {FUCK}ing her {MOUTH} now.",
+        "The wolf picks up the pace, easily slipping his {COCK} down {PRIMARY}'s throat... Mmmm... She hopes she can {ACCEPT} his knot..."
+    ]
+}

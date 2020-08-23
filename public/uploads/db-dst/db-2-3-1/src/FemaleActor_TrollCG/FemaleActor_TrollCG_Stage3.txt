@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I grind my hips {QUICK}ly, feeling the filthy fur against my thighs.",
+        "Aah ah... {SWEARING}... This thing's {COCK}... It feels... good...",
+        "I grind steadily on the monster's {BEASTLY} {COCK}, dizzy and light headed from the mix of sensations.",
+        "{SWEARING}...! Ahh... I've underestimated this {MONSTER}, I'm already about to {EJACULATE}!",
+        "The {MONSTER} reaches out, and I thrill at the rough treatment as it gropes and manhandles my breast.",
+        "I'm shocked to find that I'm actually relishing the {MONSTER}'s attention."        
+    ],
+    "2nd Person" :
+    [
+        "You grind your hips {QUICK}ly, feeling the filthy fur against your thighs.",
+        "({PRIMARY}) Aah ah... {SWEARING}... This thing's {COCK}... It feels... good...",
+        "You grind steadily on the monster's {BEASTLY} {COCK}, dizzy and light headed from the mix of sensations.",
+        "{SWEARING}...! Ahh... You've underestimated this {MONSTER}, I'm already about to {EJACULATE}!",
+        "The {MONSTER} reaches out, and you thrill at the rough treatment as it gropes and manhandles your breast.",
+        "You're shocked to find that you're actually relishing the {MONSTER}'s attention."   
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} reaches up and grabs a handful of {PRIMARY}'s breast, bringing a deep {MOAN} from her lips.",
+        "{PRIMARY}'s chest is flushed a deep pink. Has she already came, just from having its {COCK} inside her?",
+        "The sight of huge, {ROUGH} paws manhandling such {HEAVING} {BOOBS} is a real turn on..."
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "1st Person" :
+    [
+        "Ah! {SWEARING}, this is too much! I'm not sure I can take this...",
+        "I'm shocked, and a little disgusted, as my body starts to react to the fast thrusting.",
+        "{SWEARING}, {ACTIVE}'s {COCK} is swelling inside me! URGHH! OWWW!",
+        "To be desired by this {ANIMAL}... For my body to elicit such an urge, for an animal to {FUCK} a human..."        
+    ],
+    "2nd Person" :
+    [
+        "Ah! {SWEARING}, this is too much! You're not sure you can take this...",
+        "You're shocked, and a little disgusted, as your body starts to react to the fast thrusting.",
+        "{SWEARING}, {ACTIVE}'s {COCK} is swelling inside you! URGHH! OWWW!",
+        "To be desired by this {ANIMAL}... For your body to elicit such an urge, for an animal to {FUCK} a human..." 
+    ],
+    "3rd Person" :
+    [
+        "It seems to be too much, and {PRIMARY}'s head falls back as she {SCREAM}s in {FEAR}.",
+        "{PRIMARY}'s {BOOBS} {JIGGL}e {LEWD}ly as {ACTIVE} quickly {FUCK}s her."
+    ]
+}

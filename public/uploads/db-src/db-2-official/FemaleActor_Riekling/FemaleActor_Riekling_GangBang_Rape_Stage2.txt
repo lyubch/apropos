@@ -1,0 +1,35 @@
+{
+    "1st Person": [
+        "With one hand around my throat, I can't stop my {PUSSY} from being penetrated.",
+        "As his fellow enters me, the one pinning my head presents a {BEAST} {COCK} to my lips.",
+        "Tears stream down my face as I'm forced to lick and slurp the {BEAST} {COCK}.",
+        "My leg is yanked up and the beast grips it tightly, using it for leverage to thrust hard into me.",
+        "Ooh! I never dreamed {ACTIVE} {COCK} would taste this good! I guess I can do this after all...",
+        "I cry out in disgust as the creatures cheer.",
+        "Oh fuck I feel it inside me!",
+        "I'm gasping and panting for breath, there's no way on earth I can keep my mouth closed...",
+        "Reluctantly, I run my lips up and down the shaft. I try to regain my courage before I take it inside.",
+        "My eyes widen at the disgusting {COCK}, covered with filth and lined with warts.",
+        "The second {ACTIVE} shoves his {COCK} at my mouth, the foul smell reminding me of a public restroom..."
+    ],
+    "2nd Person": [
+        "With one hand around your throat, you can't stop your {PUSSY} from being penetrated.",
+        "As his fellow enters you, the one pinning your head presents a {BEAST} {COCK} to your lips.",
+        "Tears stream down your face as you're forced to lick and slurp the {BEAST} {COCK}.",
+        "Your leg is yanked up and the beast grips it tightly, using it for leverage to thrust hard into you.",
+        "Ooh! You never dreamed {ACTIVE} {COCK} would taste this good! You might be able to do this after all...'",
+        "You cry out in disgust as the creatures cheer.",
+        "Oh fuck, you feel it inside you!'",
+        "You're gasping and panting for breath, there's no way on earth you can keep your mouth closed...",
+        "Reluctantly, you run your lips up the shaft, trying to regain your courage before you take it inside.",
+        "Your eyes widen at the disgusting {COCK}, covered with filth and lined with warts.",
+        "The second {ACTIVE} shoves his {COCK} at your mouth, the foul smell reminding you of a public restroom..."
+    ],
+    "3rd Person": [
+        "With one hand around her throat, {PRIMARY} can't stop her {PUSSY} from being penetrated.",
+        "As his fellow enters {PRIMARY}, the one pinning her head presents a {BEAST} {COCK} to her lips.",
+        "Tears stream down {PRIMARY}'s face as she's forced to lick and slurp the {BEAST} {COCK}.",
+        "{PRIMARY}'s leg is yanked up and the beast grips it tightly, using it for leverage to thrust hard into her.",
+        "{PRIMARY} cries out in disgust as the creatures cheer."
+    ]
+}

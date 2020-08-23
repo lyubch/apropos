@@ -1,0 +1,18 @@
+{
+    "1st Person": [
+        "Guhh... it's finally over... {SWEARING}, my belly is swelling... I really should have pulled out...",
+        "I collapse in relief as the {ACTIVE} finally whinnys out in orgasm, realising too late that I should have pulled off him... So much {CUM}...",
+        "As the warmth finally floods into every hidden crevice of my depths after so much abuse, I can't hold back a powerful orgasm.",
+        "I {QUIVER} on the brink of orgasm as the first shot of {THICK} {CUM} floods into me, but I refuse to let him take any more from me."
+    ],
+    "2nd Person": [
+        "Guhh... it's finally over... {SWEARING}, your belly is swelling... You really should have pulled out...",
+        "You collapse in relief as the {ACTIVE} finally whinnys out in orgasm, realising too late that you should have pulled off him... So full...",
+        "As the warmth finally floods into every hidden crevice of your depths after so much abuse, you can't hold back a powerful orgasm.",
+        "You {QUIVER} on the brink of orgasm as the first shot of {THICK} {CUM} floods into you, but you refuse to let him take any more from you."
+    ],
+    "3rd Person": [
+        "{PRIMARY} nearly collapses as the {ACTIVE} finally climaxes, too weak to pull out and keep him from filling her womb.",
+        "{PRIMARY}'s belly is starting to bulge from how much {CUM} has been pumped into her. Was it worth it?"
+    ]
+}

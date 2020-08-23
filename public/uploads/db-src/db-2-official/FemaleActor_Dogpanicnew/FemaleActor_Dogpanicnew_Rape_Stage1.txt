@@ -1,0 +1,27 @@
+{
+    "1st Person" :
+    [
+        "No, you can't! Oh Gods, no, please stop! Get off me!",
+        "I struggle as {ACTIVE} snarls in my ear, fear shooting through me every time I feel his {BEAST} {PENIS}.",
+        "{ACTIVE} thrusts his {PENIS} desperately. My heart is in my throat, waiting for penetration...",
+        "Oh fuck, I hope that's not what I think it... OH MY GODS!",
+        "Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off me now!",
+        "Sex! {ACTIVE} wants to have sex with me!",
+        "I can't believe he's actually gonna do this..."        
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) No, you can't! Oh Gods, no, please stop! Get off me!",
+        "You struggle as {ACTIVE} snarls in your ear, fear shooting through you every time you feel his {PENIS}.",
+        "{ACTIVE} thrusts his {PENIS} desperately. your heart is in your throat, waiting for penetration...",
+        "Oh fuck, you hope that's not what you think it... OH MY GODS!",
+        "({PRIMARY}) Stop it {ACTIVE}! Bad dog! I can't believe this is happening! Get off me now!",
+        "Sex! {ACTIVE} wants to have sex with you!",
+        "You can't believe he's actually gonna do this..."
+    ],
+    "3rd Person" :
+    [
+        "Oh my, he's trying to fuck {PRIMARY}!",
+        "{PRIMARY} squeals every time {ACTIVE}'s {PENIS} slaps against her. It's only a matter of time..."
+    ]
+}

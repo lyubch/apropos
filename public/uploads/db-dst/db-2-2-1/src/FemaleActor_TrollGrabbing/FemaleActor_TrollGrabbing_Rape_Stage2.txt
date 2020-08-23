@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "The pain is too much. I give up, slumping in the beast's grip as it pounds my {WTANAL} {ASS} with its {BEAST} {PENIS}.",
+        "As I hang in the beast's grip, defeated, I watch its hips pound into me, and feel a slight thrill at the savagery...",
+        "Oh Gods, I'm going crazy!",
+        "Ugh... So deep... I feel his {COCK} in places no man has been...",
+        "The {BEAST} continues to drive itself deep inside my helpless body.",
+        "I grunt with every thrust that takes the creature deeper into my {WTANAL} {ASS}.",
+        "I give up the hope of escape, and just fall forward, letting the beast have its way with me.",
+        "I cry out with terror, knowing that the {ACTIVE} is about to fill my {ASS} with his {CUM}."
+    ],
+    "2nd Person" :
+    [
+        "The pain is too much. you give up, slumping in the beast's grip as it pounds your {WTANAL} {ASS} with its {BEAST} {PENIS}.",
+        "As you hang in the beast's grip, defeated, you watch its hips pound into you, and feel a slight thrill at the savagery...",
+        "Oh Gods, you're going crazy!",
+        "Ugh... So deep... You feel his {COCK} in places no man has been...",
+        "The {BEAST} continues to drive itself deep inside your helpless body.",
+        "You grunt with every thrust that takes the creature deeper into your {WTANAL} {ASS}.",
+        "You give up the hope of escape, and just fall forward, letting the beast have its way with you.",
+        "You cry out with terror, knowing that the {ACTIVE} is about to fill your {ASS} with his {CUM}."
+    ],
+    "3rd Person" :
+    [
+        "The {BEAST} continues to drive itself deep inside {PRIMARY}'s helpless body.",
+        "{PRIMARY} grunts with every thrust that takes the creature deeper into her {WTANAL} {ASS}.",
+        "{PRIMARY} isn't struggling any more, she's just slumped over as the {ACTIVE} continues to pound into her {ASS}."
+    ]
+}

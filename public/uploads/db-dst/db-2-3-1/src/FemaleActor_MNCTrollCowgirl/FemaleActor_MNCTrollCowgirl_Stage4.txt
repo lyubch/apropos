@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "The {ACTIVE} releases his grip on me as I climb up onto it, and begin riding in long, smooth strokes.",
+        "I lean forward as I begin to {FUCK} the {ACTIVE}, my {BOOBS} dangling in front of its face.",
+        "Already a little tired, I raise up onto my feet, and start riding the {BEASTLY} {COCK}.",
+        "Bouncing up and down, my mind races. What if it leans forward and takes my {HEAVING} {BOOBS} in its mouth? The thought excites me.",
+        "The {ACTIVE} is {HUGE}, it feels like its {COCK} is in my stomach.",
+        "I {SCREAM} as I am impaled on the {ACTIVE}. I didn't know I could take so much {COCK}."
+    ],
+    "2nd Person": [
+        "The {ACTIVE} releases his grip on you as you climb up onto it, and begin riding in long, smooth strokes.",
+        "You lean forward as you begin to {FUCK} the {ACTIVE}, your {BOOBS} dangling in front of its face.",
+        "Already a little tired, you raise up onto your feet, and start riding the {BEASTLY} {COCK}.",
+        "Bouncing up and down, your mind races. What if it takes your {HEAVING} {BOOBS} in its mouth? The thought excites you.",
+        "The {ACTIVE} is {HUGE}, it feels like its {COCK} is in your stomach.",
+        "You {SCREAM} as you are impaled on the {ACTIVE}. You didn't know you could take so much {COCK}."
+    ],
+    "3rd Person": [
+        "The {ACTIVE} releases his grip on her as {PRIMARY} climbs up onto it, and begin riding in long, smooth strokes.",
+        "{PRIMARY} leans forward as she begins to {FUCK} the {ACTIVE}, her {HEAVING} {BOOBS} dangling in front of its face.",
+        "Already a little tired, {PRIMARY} raises up onto her feet, and start riding the {BEASTLY} {COCK}.",
+        "Bouncing up and down, {PRIMARY}'s mind races. What if it takes her {HEAVING} {BOOBS} in its mouth? The thought excites her.",
+        "The {ACTIVE} is {HUGE}, it feels like its {COCK} is in {PRIMARY}'s stomach.",
+        "{PRIMARY} {MOAN}s as she is impaled on the {ACTIVE}. She didn't know she could take so much {COCK}."
+    ]
+}

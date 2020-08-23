@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "{ACTIVE} {INSERT}s his head deeper into me, and I {MOAN} like a {BITCH}.",
+        "I start to get lost in {LUST}, and for the next ten minutes {ACTIVE} {FUCK}s me to two orgasms.",
+        "{SWEARING}... Oh fuck... Oh fuck...",
+        "My {PUSSY} gushes noisily as {ACTIVE} goes to town on me.",
+        "I thrill at the sensation of having my {FAROUSAL} {PUSSY} stuffed to the very brim by an animal.",
+        "I {MOAN} each time the {ACTIVE} {FUCK}s my {PUSSY} full of its head and beak.",
+        "The feeling of this beak is intense, I can't think straight.",
+        "I don't know if I can take this..."
+    ],
+    "2nd Person": [
+        "{ACTIVE} {INSERT}s his head deeper into you, and you {MOAN} like a {BITCH}.",
+        "You start to get lost in {LUST}, and for the next ten minutes {ACTIVE} {FUCK}s you to two orgasms.",
+        "({PRIMARY}) {SWEARING}... Oh fuck... Oh fuck...",
+        "Your {PUSSY} gushes noisily as {ACTIVE} goes to town on you.",
+        "You thrill at the sensation of having your {FAROUSAL} {PUSSY} stuffed to the very brim by an animal.",
+        "You {MOAN} each time the {ACTIVE} {FUCK}s your {PUSSY} full of its head and beak.",
+        "The feeling of this beak is intense, you can't think straight.",
+        "You don't know if you can take this..."
+    ],
+    "3rd Person": [
+        "Wet squelching noises are heard every time {ACTIVE} drives in, {CREAM} dripping to the ground.",
+        "{PRIMARY} is {MOAN}ing a lot more now, she must be close..."
+    ]
+}

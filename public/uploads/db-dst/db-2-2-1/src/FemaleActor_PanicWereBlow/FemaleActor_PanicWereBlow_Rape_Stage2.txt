@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "The {ACTIVE} forces me effortlessly to my knees. It's clear what it wants me to do...",
+        "Oh Gods, no! You want me to suck that... {BEAST} thing?! I can't... Please don't make me...",
+        "I push back against it, but the feel of the {ACTIVE}'s muscled stomach weakens my resolve.",
+        "The beast's hot breath against my bare skin fills me with fear, but I feel my body start to react.",
+        "Pushed down onto my knees, I come face to face with the {ACTIVE}'s {BEAST} {PENIS}. Oh my...",
+        "The {ACTIVE}'s {PENIS} is huge, and I feel the heat radiating from it. I can't do this... Can I?",
+        "I'm a little relieved as I'm pushed to me knees instead of my back. Look at the size of its {PENIS}...",
+        "I can't tear my eyes away from the {BEAST} {PENIS} in front of me... Oh Gods...",
+        "The {ACTIVE} snarls in my ear, and I know I have no choice. Oh Gods... Here goes..."
+    ],
+    "2nd Person" :
+    [
+        "The {ACTIVE} forces you effortlessly to your knees. It's clear what it wants you to do...",
+        "({PRIMARY}) Oh Gods, no! You want me to suck that... {BEAST} thing?! I can't... Please don't make me...",
+        "You push back against it, but the feel of the {ACTIVE}'s muscled stomach weakens your resolve.",
+        "The beast's hot breath against your bare skin fills you with fear, but you feel your body start to react.",
+        "Pushed down onto your knees, you come face to face with the {ACTIVE}'s {BEAST} {PENIS}. Oh my...",
+        "The {ACTIVE}'s {PENIS} is huge, and you feel the heat radiating from it. You can't do this... Can you?",
+        "You're a little relieved as you're pushed to you knees instead of your back. Look at the size of its {PENIS}...",
+        "You can't tear your eyes away from the {BEAST} {PENIS} in front of you... Oh Gods...",
+        "The {ACTIVE} snarls in your ear, and you know you have no choice. Oh Gods... Here goes..."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} pushes {PRIMARY} to her knees, moving her face closer to its {BEAST} {PENIS}.",
+        "{PRIMARY} desperately pushes back against the {ACTIVE}, fighting to keep its {PENIS} away from her.",
+        "The {ACTIVE} snarls and growls, tightening its grip on {PRIMARY}. She's going to have to do it...",
+        "{PRIMARY} struggles, but her eyes are locked on the {BEAST} {PENIS}, and she's panting."
+    ]
+}

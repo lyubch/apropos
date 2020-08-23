@@ -1,0 +1,31 @@
+{
+    "1st Person" :
+    [
+        "({ACTIVE}) C'mon {BITCH}, get my {COCK} nice and wet before I stick it up your {ASS}.",
+        "I drop to one knee and begin to timidly service {ACTIVE}'s {SALTY} {COCK}.",
+        "The way {ACTIVE} looks down at me while I suck his {PENIS}... It turns me on...",
+        "Knowing that {ACTIVE} wants to have my {ASS}, I work on making his {HUGE} {PENIS} as wet as possible.",
+        "I pump my hand around {ACTIVE}'s {PENIS}, twisting my head around his {HUGE} cockhead.",
+        "Oh my, he's {HUGE}! If this is going up my {ASS}, I need to get it wet first...",
+        "({ACTIVE}) You can suck my {COCK} {BITCH}, or it's going in dry. Your choice.",
+        "I lower myself and take {ACTIVE} into my {MOUTH}."
+    ],
+    "2nd Person" :
+    [
+        "({ACTIVE}) C'mon {BITCH}, get your {COCK} nice and wet before I stick it up your {ASS}.",
+        "You drop to one knee and begin to timidly service {ACTIVE}'s {SALTY} {COCK}.",
+        "The way {ACTIVE} looks down at you while you suck his {PENIS}... It turns you on...",
+        "Knowing that {ACTIVE} wants to have your {ASS}, you work on making his {HUGE} {PENIS} as wet as possible.",
+        "You pump your hand around {ACTIVE}'s {PENIS}, twisting your head around his {HUGE} cockhead.",
+        "Oh my, he's {HUGE}! If this is going up your {ASS}, you need to get it wet first...",
+        "({ACTIVE}) You can suck my {COCK} {BITCH}, or it's going in dry. Your choice.",
+        "You lower yourself and take {ACTIVE} into your {MOUTH}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} drops to one knee, taking {ACTIVE}'s {HUGE} {PENIS} in hand and begins to suck it.",
+        "{ACTIVE}) looks down with approval as {PRIMARY} starts to work his {HUGE} shaft.",
+        "({ACTIVE}) C'mon {BITCH}, get my {COCK} nice and wet before I stick it up your {ASS}.",
+        "{PRIMARY} looks like she enjoys sucking {COCK}, the way she's slurping and twisting it like that."
+    ]
+}

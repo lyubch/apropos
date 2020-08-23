@@ -1,0 +1,33 @@
+{
+    "1st Person" :
+    [
+        "My tormentor starts to alternate between my cheeks, each strike biting into my tender flesh.",
+        "I try hard not to get turned on by this abuse, I can't let everyone see me trussed up like this and moaning!",
+        "({ACTIVE}) I bet you really want a nice {HUGE} {COCK}, don't you? Well, only good girls get {COCK}!",
+        "The pain, the humiliation... I try to fight it, but finally I moan, my {PUSSY} dripping. I'm so ashamed.",
+        "({ACTIVE}) This {BITCH} is here to be degraded, let's make a show out of it!",
+        "Even though it hurts now, the fear of what this cruel bastard is going to do to me next is even worse.",
+        "Oh Gods, he's actually spanking me, like a naughty child! I flush with humiliation.",
+        "Ow! Ow! My hip is beaten raw, and I flinch every time he strikes me.",
+        "Gods, I'm so scared... There's no way this bastard is going to stop at just a spanking..."        
+    ],
+    "2nd Person" :
+    [
+        "Your tormentor starts to alternate between your cheeks, each strike biting into your tender flesh.",
+        "You try not to get turned on by this abuse, you can't let everyone see you trussed up like this and moaning!",
+        "({ACTIVE}) I bet you really want a nice {HUGE} {COCK}, don't you? Well, only good girls get {COCK}!",
+        "The pain, the humiliation... you try to fight it, but you moan, your {PUSSY} dripping. You're so ashamed.",
+        "({ACTIVE}) This {BITCH} is here to be degraded, let's make a show out of it!",
+        "Even though it hurts now, the fear of what this cruel bastard is going to do to you next is even worse.",
+        "Oh Gods, he's actually spanking you, like a naughty child! You flush with humiliation.",
+        "Ow! Ow! Your hip is beaten raw, and you flinch every time he strikes you.",
+        "Gods, you're so scared... There's no way this bastard is going to stop at just a spanking..." 
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} starts to alternate between {PRIMARY}'s cheeks, turning them both a sore-looking red.",
+        "It must be humiliating for {PRIMARY} to have this done to her, but it's also somehow... erotic...",
+        "It's hard to believe that a spanking is as far as that bastard is going to go with a helpless woman...",
+        "Is this part of {PRIMARY}'s punishment? To be shown off and degraded?"
+    ]
+}

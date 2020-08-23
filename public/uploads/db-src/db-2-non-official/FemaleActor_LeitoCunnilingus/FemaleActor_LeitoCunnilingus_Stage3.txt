@@ -1,0 +1,29 @@
+{
+    "1st Person": [
+        "My legs are getting weak, and I have to lie down, spreading my legs for {ACTIVE} to continue.",
+        "I bite my finger to stifle a {SCREAM}, the rush of an intense orgasm thundering through me.",
+        "{ACTIVE} {INSERT}s his face in my {PUSSY}, his tongue pushing deeply into my {FAROUSAL} {PUSSY}.",
+        "I push with my heels into {ACTIVE}'s back, urging him to go deeper and harder...",
+        "I can feel it coming... I'm almost there... Don't stop... Please don't... AAAAHHHHH!",
+        "My breath is coming in short, rapid {MOAN}s now, my chest is heaving and my back arching.",
+        "{ACTIVE} {SUCK}s and licks {LEWD}ly between my legs, tongue {FUCK}ing me to orgasm."
+    ],
+    "2nd Person": [
+        "Your legs are getting weak, and you have to lie down, spreading your legs for {ACTIVE} to continue.",
+        "You bite your finger to stifle a {SCREAM}, the rush of an intense orgasm thundering through you.",
+        "{ACTIVE} {INSERT}s his face in your {PUSSY}, his tongue pushing deeply into your {FAROUSAL} {PUSSY}.",
+        "You push with your heels into {ACTIVE}'s back, urging him to go deeper and harder...",
+        "({PRIMARY}) I can feel it coming... I'm almost there... Don't stop... Please don't... AAAAHHHHH!",
+        "Your breath is coming in short, rapid {MOAN}s now, your chest is heaving and your back arching.",
+        "{ACTIVE} {SUCK}s and licks {LEWD}ly between your legs, tongue {FUCK}ing you to orgasm."
+    ],
+    "3rd Person": [
+        "{PRIMARY}'s legs are getting weak, and she has to lie down, spreading her legs for {ACTIVE} to continue.",
+        "{PRIMARY} bites her finger to stifle a {SCREAM}, the rush of an intense orgasm thundering through her.",
+        "{ACTIVE} {INSERT}s his face in {PRIMARY}'s {PUSSY}, his tongue pushing deeply into her {FAROUSAL} {PUSSY}.",
+        "{PRIMARY} pushes with her heels into {ACTIVE}'s back, urging him to go deeper and harder...",
+        "({PRIMARY}) I can feel it coming... I'm almost there... Don't stop... Please don't... AAAAHHHHH!",
+        "{PRIMARY}'s breath is coming in short, rapid {MOAN}s now, her chest is heaving and her back arching.",
+        "{ACTIVE} {SUCK}s and licks {LEWD}ly between {PRIMARY}'s legs, tongue {FUCK}ing her to orgasm."
+    ]
+}

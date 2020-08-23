@@ -1,0 +1,37 @@
+{
+    "1st Person" :
+    [
+        "I steady myself, trying to suppress a squeal as the {ACTIVE}'s {THICK} {CUM} batters my womb.",
+        "The {ACTIVE} rocks forward, and each time I feel my cervix open up and swallow the animal's {CUM}.",
+        "Oh my goodness, it's {CUMMING}... Ughh... I feel sick, feeling my belly swell at the sheer volume.",
+        "My toes scrape painfully at the ground, trying to hold myself still as the {ACTIVE} cums.",
+        "My belly swells, I feel huge cascades of {THICK} {CUM} run down by thighs.",
+        "The feeling of so much {CUM} battering my womb drives me over the edge.",
+        "Horse {CUM} streams down my legs as I am fucked murderously by this huge animal.",
+        "Thick {CUM} pools beneath me, and my bare feet are awash with it, pooling between my toes.",
+        "My knees are trembling, and {THICK} globs of {CUM} drip from my {PUSSY}.",
+        "Huge quantities of horse-{CUM} are pumped into my poor {PUSSY}.",
+        "I'm cumming with the horse! How shameful!"
+    ],
+    "2nd Person" :
+    [
+        "You steady yourself, trying to suppress a squeal as the {ACTIVE}'s {THICK} {CUM} batters your womb.",
+        "The {ACTIVE} rocks forward, and each time you feel your cervix open up and swallow the animal's {CUM}.",
+        "Oh my goodness, it's {CUMMING}... Ughh... You feel sick, feeling your belly swell at the sheer volume.",
+        "Your toes scrape painfully at the ground, trying to hold yourself still as the {ACTIVE} cums.",
+        "Your belly swells, you feel huge cascades of {THICK} {CUM} run down by thighs.",
+        "The feeling of so much {CUM} battering your womb drives you over the edge.",
+        "Horse {CUM} streams down your legs as you are fucked murderously by this huge animal.",
+        "Thick {CUM} pools beneath you, and your bare feet are awash with it, pooling between your toes.",
+        "Your knees are trembling, and {THICK} globs of {CUM} drip from your {PUSSY}.",
+        "Huge quantities of horse-{CUM} are pumped into your poor {PUSSY}.",
+        "You're cumming with the horse! How shameful!"
+    ],
+    "3rd Person" :
+    [
+        "Finally, {PRIMARY} succeeds in making the {ACTIVE} cum. Maybe it'll leave her alone now...",
+        "{PRIMARY} screams, anguished and distressed, as the {ACTIVE} cums inside her.",
+        "Rivers of {SLOPPY} {CUM} are pouring out of {PRIMARY}'s {WTVAGINAL} {PUSSY}.",
+        "Oh my, {PRIMARY} is cumming! How shameful, to be climaxing on an animal's {COCK}!"
+    ]
+}

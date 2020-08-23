@@ -1,0 +1,37 @@
+{
+    "1st Person" :
+    [
+        "I feel {ACTIVE}'s hand on my back, holding me firmly in place as he starts to sodomise me.",
+        "I obediently bend over, my hands placed flat to brace myself as he pushes into my {WTANAL} {ASS}.",
+        "Even though I've sucked his {PENIS}, it still hurts as he starts to thrust into my {ASS}.",
+        "My shoulders are hunched as I endure the pain in my {ASS} as {ACTIVE}'s steady fucking picks up speed.",
+        "If you really want my {ASS}, I'll give it to you. Nghh... Ah!",
+        "{ACTIVE} takes control, holding me in place while he violates my {WTANAL} {ASS}.",
+        "Just... be gentle... please...",
+        "I pant as {ACTIVE} pushes his {PENIS} in.",
+        "Wow, you've done this before, haven't you? he asks, sliding into me. I flush with embarrassment. Yes, I gasp.",
+        "My heart pounds in my chest and I will my body to relax, preparing myself for a hard anal riding.",
+        "Gods! Ahhh! It's so big it's stretching me! Go slow, please!"
+    ],
+    "2nd Person" :
+    [
+        "You feel {ACTIVE}'s hand on your back, holding you firmly in place as he starts to sodomise you.",
+        "You obediently bend over, your hands placed flat to brace yourself as he pushes into your {WTANAL} {ASS}.",
+        "Even though you've sucked his {PENIS}, it still hurts as he starts to thrust into your {ASS}.",
+        "Your shoulders are hunched as you endure the pain in your {ASS} as {ACTIVE}'s steady fucking picks up speed.",
+        "({PRIMARY}) If you really want my {ASS}, I'll give it to you. Nghh... Ah!",
+        "{ACTIVE} takes control, holding you in place while he violates your {WTANAL} {ASS}.",
+        "({PRIMARY}) Just... be gentle... please...",
+        "You pant as {ACTIVE} pushes his {PENIS} in.",
+        "You've done this before, haven't you? he asks, sliding into you. You flush with embarrassment. Yes, you gasp.",
+        "Your heart pounds in your chest and you will your body to relax, preparing yourself for a hard anal riding.",
+        "({PRIMARY}) Gods! Ahhh! It's so big it's stretching me! Go slow, please!"
+    ],
+    "3rd Person" :
+    [
+        "{ACTIVE} looks so commanding as he starts to fuck {PRIMARY}'s {ASS}. She belongs to him.",
+        "{ACTIVE} pulls his {PENIS} out of {PRIMARY}'s {MOUTH} and holds her down, pushing it into her {ASS}.",
+        "{PRIMARY}'s shoulders are hunched and her head hangs low. It's obvious she's in some discomfort...",
+        "{ACTIVE} wastes no time and begins pumping quickly into {PRIMARY}'s {ASS}. Doesn't it hurt her?"
+    ]
+}

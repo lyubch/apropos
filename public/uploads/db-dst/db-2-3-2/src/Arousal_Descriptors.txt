@@ -1,0 +1,107 @@
+{
+    "{READINESS}" :
+    {
+        "level0" :
+        [
+            "unprepared",
+            "fresh"
+        ],
+        "level1" :
+        [
+            "ready"
+        ],
+        "level2" :
+        [
+            "eager"
+        ],
+        "level3" :
+        [
+            "needy"
+        ],
+        "level4" :
+        [
+            "desperate"
+        ]
+    },
+    "{FAROUSAL}" :
+    {
+        "level0" :
+        [
+            "unprepared",
+            "tiny",
+            "unprotected",
+            "tight",
+            "fresh",
+            "taut",
+            "fertile"
+        ],
+        "level1" :
+        [
+            "slick",
+            "damp",
+            "sopping",
+            "quivering",
+            "willing",
+            "warm",
+            "lubricated",
+            "ready"
+        ],
+        "level2" :
+        [
+            "wet",
+            "slippery",
+            "hot",
+            "trembling",
+            "sodden",
+            "waiting",
+            "burning"
+        ],
+        "level3" :
+        [
+            "dripping",
+            "drenched",
+            "needy",
+            "oozing",
+            "soaked",
+            "enflamed"
+        ],
+        "level4" :
+        [
+            "aching",
+            "gushing",
+            "steaming",
+            "desperate",
+            "convulsing",
+            "throbbing"
+        ]
+    },
+    "{MAROUSAL}" :
+    {
+        "level0" :
+        [
+            "eager",
+            "still-hard"
+        ],
+        "level1" :
+        [
+            "aroused",
+            "erect"
+        ],
+        "level2" :
+        [
+            "rigid",
+	    "rock hard",
+            "hard"
+        ],
+        "level3" :
+        [
+            "raging hard",
+            "stiff"
+        ],
+        "level4" :
+        [
+            "painfully hard",
+            "throbbing hard"
+        ]
+    }
+}

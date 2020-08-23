@@ -1,0 +1,21 @@
+{
+    "1st Person": [
+        "Ugh! It's so {HUGE}... I grab on with both hands, struggling to stand up on {QUIVER}ing knees.",
+        "Ah... Ah... Maybe if I fuck back, it won't? AAHHH! {SWEARING}... Maybe not...",
+        "The {BEASTLY} {COCKHEAD} now past my {ASSHOLE}, I start painfully pushing back along the {BEASTLY} {COCK}.",
+        "My heart is in my throat every time the {ACTIVE} thrusts...",
+        "I grip tightly to the {ANIMAL}'s leg, filling with {FEAR} at each thrust."
+    ],
+    "2nd Person": [
+        "Ugh! It's so {HUGE}... You grab on with both hands, struggling to stand up on {QUIVER}ing knees.",
+        "Ah... Ah... Maybe if you fuck back, it won't? AAHHH! {SWEARING}... Maybe not...",
+        "The {BEASTLY} {COCKHEAD} now past your {ASSHOLE}, you start painfully pushing back along the {BEASTLY} {COCK}.",
+        "Your heart is in your throat every time the {ACTIVE} thrusts...",
+        "You grip tightly to the {ANIMAL}'s leg, filling with {FEAR} at each thrust."
+    ],
+    "3rd Person": [
+        "{PRIMARY} is visibly {QUIVER}ing, and {SCREAM}s every time the {ACTIVE} rocks forward inside her.",
+        "{PRIMARY} holds on for dear life as the {ACTIVE}'s sudden thrusts rock her {FLESH} forward.",
+        "{PRIMARY} is clearly struggling to stand up, most of her bodyweight now supported on the {ACTIVE}'s {COCK}."
+    ]
+}

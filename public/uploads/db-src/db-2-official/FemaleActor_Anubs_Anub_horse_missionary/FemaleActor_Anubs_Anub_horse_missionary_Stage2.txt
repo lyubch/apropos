@@ -1,0 +1,26 @@
+{
+    "1st Person": [
+        "With a whinny the horse leaps up over me, bringing it's {MAROUSAL} {COCK} into easy reach of my soft feet.",
+        "Squeezing his {COCK} between the soles of my feet, I stroke him slowly until his throbbing length is pointed right at my {PUSSY}...",
+        "The horse's {COCK} hardens before my eyes as I slowly pump it between the soles of my feet... I can hardly wait...",
+        "Squeezing his {COCK} between my feet, I guide his hardening length towards my dripping {PUSSY} as he shuffles over me.",
+        "My {PUSSY} is practically twitching just from watching him throb between my feet... I need this badly...",
+        "Gods, just imagining all of that {COCK} inside me once more is almost enough to make me cum right there."
+    ],
+    "2nd Person": [
+        "With a whinny the horse leaps up over you, bringing it's {MAROUSAL} {COCK} into easy reach of your soft feet.",
+        "Squeezing his {COCK} between the soles of your feet, you stroke him slowly until his throbbing length is pointed right at your {PUSSY}...",
+        "The horse's {COCK} hardens before your eyes as you slowly pump it between the soles of your feet... You can hardly wait...",
+        "Squeezing his {COCK} between your feet, you guide his hardening length towards your dripping {PUSSY} as he shuffles over you.",
+        "Your {PUSSY} is practically twitching just from watching him throb between your feet... You need this badly...",
+        "Gods, just imagining all of that {COCK} inside you once more is almost enough to make you cum right there."
+    ],
+    "3rd Person": [
+        "With a whinny the horse leaps up over {PRIMARY}, bringing it's {MAROUSAL} {COCK} into easy reach of her soft feet.",
+        "Squeezing his {COCK} between the soles of {PRIMARY}'s feet, she strokes him slowly until his throbbing length is pointed right at her {PUSSY}...",
+        "The horse's {COCK} hardens before {PRIMARY}'s eyes as she slowly pumps it between the soles of her feet... She can hardly wait...",
+        "Squeezing his {COCK} between {PRIMARY}'s feet, she guides his hardening length towards her dripping {PUSSY} as he shuffles over her.",
+        "{PRIMARY}'s {PUSSY} is practically twitching just from watching him throb between her feet... She needs this badly...",
+        "Gods, {PRIMARY} imagines all of that {COCK} inside her once more is almost enough to make her cum right there."
+    ]
+}

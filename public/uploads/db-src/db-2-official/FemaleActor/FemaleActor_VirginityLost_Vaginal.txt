@@ -1,0 +1,13 @@
+{
+    "1st Person": [
+        "I'm a sweaty mess, and it really hurts down there, but I kinda liked it...",
+        "They say you can't get pregnant the first time... Is that really true?"
+    ],
+    "2nd Person": [
+        "You're a sweaty mess, and it really hurts down there, but you kinda liked it...",
+        "They say you can't get pregnant the first time... Is that really true?"
+    ],
+    "3rd Person": [
+        "A little blood trickles from between {PRIMARY}'s legs. That was her first time..."
+    ]
+}

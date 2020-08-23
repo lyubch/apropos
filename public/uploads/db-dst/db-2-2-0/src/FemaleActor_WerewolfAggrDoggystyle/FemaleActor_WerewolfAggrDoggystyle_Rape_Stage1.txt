@@ -1,0 +1,41 @@
+{
+    "1st Person" :
+    [
+        "I try to break away, but the huge claw around my neck holds me back and its {PENIS} pushes into my {PUSSY}.",
+        "The {ACTIVE} holds me from behind, gripping my hip as it fucks my {WTVAGINAL} {PUSSY} quickly from behind.",
+        "I hear the {ACTIVE} snarling at my ear and feel its breath quicken as it rapes my {WTVAGINAL} {PUSSY}.",
+        "I struggle with both hands to free myself, but the {ACTIVE} is far too strong for me...",
+        "My feet scrape at the hard ground, driven by the fear of being impregnated by this monster.",
+        "The {ACTIVE}'s hard strokes push deep into me, forcing my body up into tip toes with each stroke.",
+        "I try to run, but the {ACTIVE} is too fast. It grabs hold of me, yanks down my underwear, and enters me.",
+        "I tense, feeling immense pressure in my {PUSSY}, followed by a sharp pain as the bulge forces its way inside.",
+        "Please don't kill me... I'll take your knot all the way if you let me live...",
+        "No! Please! Not like this! (sob) No... Please no...",
+        "Wait! That huge thing won't go in! What should I do?",
+        "I give up, don't hurt me! I'll... I'll let you breed me if you don't hurt me anymore!",
+        "Insistently, aggressively, the first few inches of its impossibly {BEAST} {PENIS} slide up inside of me."
+    ],
+    "2nd Person" :
+    [
+        "You try to break away, but the huge claw around your neck holds you back and its {PENIS} pushes into your {PUSSY}.",
+        "The {ACTIVE} holds you from behind, gripping your hip as it fucks your {WTVAGINAL} {PUSSY} quickly from behind.",
+        "You hear the {ACTIVE} snarling at your ear and feel its breath quicken as it rapes your {WTVAGINAL} {PUSSY}.",
+        "You struggle with both hands to free yourself, but the {ACTIVE} is far too strong for you...",
+        "Your feet scrape at the hard ground, driven by the fear of being impregnated by this monster.",
+        "The {ACTIVE}'s hard strokes push deep into you, forcing your body up into tip toes with each stroke.",
+        "You try to run, but the {ACTIVE} is too fast. It grabs hold of you, yanks down your underwear, and enters you.",
+        "You tense, feeling immense pressure in your {PUSSY}, followed by a sharp pain as the bulge forces its way inside.",
+        "({PRIMARY}) Please don't kill me... I'll take your knot all the way if you let me live...",
+        "({PRIMARY}) No! Please! Not like this! (sob) No... Please no...",
+        "Wait! That huge thing won't go in! What should you do?",
+        "({PRIMARY}) I give up, don't hurt me! I'll... I'll let you breed me if you don't hurt me anymore!",
+        "Insistently, aggressively, the first few inches of its impossibly {BEAST} {PENIS} slide up inside of you."
+    ],
+    "3rd Person" :
+    [
+        "The {ACTIVE} grabs {PRIMARY} from behind, gripping her roughly by the hip and thrusting its {PENIS} inside her.",
+        "Oh my Gods! EVery thrust into her {WTVAGINAL} {PUSSY} is pushing her up onto her toes... It must be so deep...",
+        "Gripping the beast's hand tightly, {PRIMARY}'s eyes fly wide open in pain as it thrusts into her {PUSSY}.",
+        "{PRIMARY} sobs pitiably as she struggles in vain to pry open the {ACTIVE}'s claw from around her neck."
+    ]
+}

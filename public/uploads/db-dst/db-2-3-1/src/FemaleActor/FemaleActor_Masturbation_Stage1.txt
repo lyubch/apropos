@@ -1,0 +1,34 @@
+{
+    "1st Person" :
+    [
+        "{SWEARING} my {FAROUSAL} {PUSSY} smells {TASTY}!",
+	"Fireworks go off in my head as my fingertips go straight to my erect little clitoris.",
+        "{SWEARING}, I wish I had a {HUGE} {COCK} right now... To {FUCK} me hard and deep...",
+        "I don't care who sees me, I need to get off right now...",
+        "My {PUSSY} is {FAROUSAL} and {WTVAGINAL}... I think it needs some attention...",
+        "My hands feel so good all over my {FLESH}... My chest is flushed and my nipples stand to attention.",
+	"({PRIMARY}) Please, anyone nearby, I need you to {WANK} your {COCK} in my face!",
+	"I close my eyes and fantasize about being surrounded by {COCK}s, and {WET} with {CUM}."
+    ],
+    "2nd Person" :
+    [
+        "{SWEARING} your {FAROUSAL} {PUSSY} smells {TASTY}!",
+	"Fireworks go off in your head as your fingertips go straight to your erect little clitoris.",
+        "{SWEARING}, you wish you had a {HUGE} {COCK} right now... To {FUCK} you hard and deep...",
+        "You don't care who sees you, you need to get off right now...",
+        "Your {PUSSY} is {FAROUSAL} and {WTVAGINAL}... You think it needs some attention...",
+        "Your hands feel so good all over your {FLESH}... Your chest is flushed and your nipples stand to attention.",
+	"({PRIMARY}) Please, anyone nearby, I need you to {WANK} your {COCK} in my face!",
+	"You close your eyes and fantasize about being surrounded by {COCK}s, and {WET} with {CUM}."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} is {HORNY}, as her fingertips go straight to her erect little clitoris.",
+        "{SWEARING}, if there was a {HUGE} {COCK} here right now... To {FUCK} {PRIMARY} hard and deep...",
+        "{PRIMARY} doesn't care who sees her, she needs to get off right now...",
+        "{PRIMARY}'s {PUSSY} is {FAROUSAL} and {WTVAGINAL}... It needs some attention...",
+        "{PRIMARY}'s hands must feel good all over her {FLESH}... Her chest is flushed and her nipples stand to attention.",
+	"({PRIMARY}) Please, anyone nearby, I need you to {WANK} your {COCK} in my face!",
+	"({PRIMARY}) I want you to watch while I play with my {PUSSY}."
+    ]
+}

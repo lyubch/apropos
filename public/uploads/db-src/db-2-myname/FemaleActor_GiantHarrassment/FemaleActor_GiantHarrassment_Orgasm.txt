@@ -1,0 +1,36 @@
+{
+    "1st Person" :
+    [
+        "All of a sudden, the {PENIS} spears me fully, and I feel its cumshot inside my womb.",
+        "It's all the way inside me now, right to the hilt. I'm not going to be able to stand after this...",
+        "After what seemed like an age of slowly sliding down the {BEAST} {PENIS}, my thighs touch its balls.",
+        "I feel the touch of the creature's ball sack, its {PENIS} right up inside me.",
+        "Oh my goodness, the thing's balls deep! The head must be in my throat by now!",
+        "Pain and pleasure explode through me as the {ACTIVE}'s {PENIS} pushes into my womb and cums.",
+        "That was such a {THICK} load, and I relish the feeling of it before it flows out of me.",
+        "There's so much {THICK}, white {CUM}, it's running down my legs and dripping from my bare feet.",
+        "As the {ACTIVE} finishes I can feel his {CUM} sloshing around in my womb.",
+        "Thick, stinking {CUM} flows out of my {PUSSY}, rushing like a waterfall down my legs.",
+        "The beast's {THICK} {CUM} cascades down my slender legs. I want someone to lick it from my bare feet!"       
+    ],
+    "2nd Person" :
+    [
+        "All of a sudden, the {PENIS} spears you fully, and you feel its cumshot inside your womb.",
+        "It's all the way inside you now, right to the hilt. You're not going to be able to stand after this...",
+        "After what seemed like an age of slowly sliding down the {BEAST} {PENIS}, your thighs touch its balls.",
+        "You feel the touch of the creature's ball sack, its {PENIS} right up inside you.",
+        "Oh my goodness, the thing's balls deep! The head must be in your throat by now!",
+        "Pain and pleasure explode through you as the {ACTIVE}'s {PENIS} pushes into your womb and cums.",
+        "That was such a {THICK} load, and you relish the feeling of it before it flows out of you.",
+        "There's so much {THICK}, white {CUM}, it's running down your legs and dripping from your bare feet.",
+        "As the {ACTIVE} finishes you can feel his {CUM} sloshing around in your womb.",
+        "Thick, stinking {CUM} flows out of your {PUSSY}, rushing like a waterfall down your legs.",
+        "The beast's {THICK} {CUM} cascades down your slender legs. You want someone to lick it from your bare feet!"
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY}'s face contorts in pain before she moans, her orgasm washing over her.",
+        "{PRIMARY} looks exhausted, taken to her limit by the {ACTIVE}'s {BEAST} {PENIS}.",
+        "The {ACTIVE}'s {THICK} {CUM} runs down {PRIMARY}'s legs, dripping from her bare feet."
+    ]
+}

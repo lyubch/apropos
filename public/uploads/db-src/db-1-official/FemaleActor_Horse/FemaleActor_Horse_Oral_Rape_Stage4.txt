@@ -1,0 +1,34 @@
+{
+    "1st Person": [
+        "I reach out and cup the {ACTIVE}'s balls. They're so heavy, how much {CUM} must be inside?",
+        "My mouth waters as I cup the stallion's huge balls. I'm not really thinking about tasting him, am I?",
+        "The {ACTIVE} twitches as I reach out and gently touch his balls.",
+        "He seems to enjoy this. Maybe he wouldn't mind if I went a bit... further?",
+        "Oh Gods! The smell just makes me want to go wild! Maybe I'll stop after I fondle him a little...",
+        "He seems to enjoy this. Maybe he wouldn't mind if I went a bit... further?",
+        "I wonder if these balls have ever unloaded on a human girl before?",
+        "How would it feel to have those big balls empty their {THICK} {CUM} as I suck and swallow...",
+        "They're gigantic! What must the force be like, to ejaculate so much {CUM}?",
+        "Mmm... I don't know what I'm going to do yet, but I know I want this {ACTIVE}'s {CUM}..."
+    ],
+    "2nd Person": [
+        "You reach out and cup the {ACTIVE}'s balls. They're so heavy, how much {CUM} must be inside?",
+        "Your mouth waters as you cup his huge balls. You're not really thinking about tasting him, are you?",
+        "The {ACTIVE} twitches as you reach out and gently touch his balls.",
+        "He seems to enjoy this. Maybe he wouldn't mind if you went a bit... further?",
+        "Oh Gods! The smell just makes you want to go wild! Maybe you'll stop after you fondle him a little...",
+        "He seems to enjoy this. Maybe he wouldn't mind if you went a bit... further?",
+        "You wonder if these balls have ever unloaded on a human girl before?",
+        "How would it feel to have those big balls empty their {THICK} {CUM} as you suck and swallow...",
+        "They're gigantic! What must the force be like, to ejaculate so much {CUM}?",
+        "Mmm... You don't know what you're going to do yet, but you know you want this {ACTIVE}'s {CUM}..."
+    ],
+    "3rd Person": [
+        "{PRIMARY} reaches out and cups the {ACTIVE}'s balls. How much {CUM} must be inside?",
+        "The {ACTIVE} twitches as {PRIMARY} reaches out and gently touches his balls.",
+        "He seems to enjoy that. Maybe he wouldn't mind if {PRIMARY} went a bit... further?",
+        "{PRIMARY} wonder if these balls have ever unloaded on a human girl before?",
+        "How would it look to have those big balls empty their {THICK} {CUM} as {PRIMARY} sucks and swallows...",
+        "They're gigantic! What must the force be like, to ejaculate so much {CUM}?"
+    ]
+}

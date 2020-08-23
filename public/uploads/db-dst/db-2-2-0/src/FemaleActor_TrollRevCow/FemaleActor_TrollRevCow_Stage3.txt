@@ -1,0 +1,26 @@
+{
+    "1st Person" :
+    [
+        "I'm startled when the beast takes me by the legs, before pumping me powerfully up and down its {BEAST} shaft.",
+        "As the brute takes control, I slump forward. The sheer thickness of the beast's {COCK} has me exhausted already.",
+        "Perhaps unsatisfied with my efforts, the brute grabs my legs and roughly pulls me up and down his {BEAST} {PENIS}.",
+        "More! I can take more! Give me it all, I want it all!",
+        "This beast knows exactly what to do, where to hit inside me... How many girls has it fucked before?",
+        "The {ACTIVE} is so big and strong. Being dominated like this is such a turn on!"
+    ],
+    "2nd Person" :
+    [
+        "You're startled when the beast takes you by the legs, before pumping you powerfully up and down its {BEAST} shaft.",
+        "As the brute takes control, you slump forward. The sheer thickness of the beast's {COCK} has you exhausted already.",
+        "Perhaps unsatisfied with your efforts, the brute grabs your legs and roughly pulls you up and down his {BEAST} {PENIS}.",
+        "({PRIMARY}) More! I can take more! Give me it all, I want it all!",
+        "This beast knows exactly what to do, where to hit inside you... How many girls has it fucked before?",
+        "The {ACTIVE} is so big and strong. Being dominated like this is such a turn on!"
+    ],
+    "3rd Person" :
+    [
+        "As the brute takes control, {PRIMARY} slumps forward. The sheer thickness of the beast's {COCK} has her exhausted already.",
+        "Perhaps unsatisfied with her efforts, the brute grabs {PRIMARY}'s legs and roughly pulls her up and down his {BEAST} {PENIS}.",
+        "The {ACTIVE} is so big and strong, it's such a turn on seeing a girl being taken this way."
+    ]
+}
