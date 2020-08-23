@@ -1,0 +1,24 @@
+{
+    "name": "lyubch/apropos",
+    "require": {
+        "php": ">=7.4.9",
+        "yiisoft/yii": "*",
+        "nixsolutions/yandex-php-library": "dev-master",
+        "statickidz/php-google-translate-free": "^1.1.1",
+        "patrickschur/language-detection": "*",
+        "adhocore/json-fixer": "*"
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "optimize-autoloader": true
+    }
+}
